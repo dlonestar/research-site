@@ -41,7 +41,7 @@ cssclasses:
 <div class="category-grid">
 <div class="category-card">
 <span class="category-icon">📰</span>
-<span class="category-count">1</span>
+<span class="category-count">2</span>
 <span class="category-name">Briefing</span>
 </div>
 <div class="category-card">
@@ -80,6 +80,11 @@ cssclasses:
 <span class="recent-date">03-26</span>
 <span class="recent-badge">📰</span>
 <span class="recent-title">Morning Brief (18:24)</span>
+</a>
+<a class="recent-item" href="13-Signals/daily/2026-03/260326_Morning-Brief-2026-03-26_2216">
+<span class="recent-date">03-26</span>
+<span class="recent-badge">📰</span>
+<span class="recent-title">Morning Brief (22:16)</span>
 </a>
 </div>
 
