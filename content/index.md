@@ -39,32 +39,32 @@ cssclasses:
 <div class="section-label">BROWSE</div>
 
 <div class="category-grid">
-<div class="category-card">
+<a class="category-card" href="13-Signals/daily/2026-03/260326_Morning-Brief-2026-03-26_1824">
 <span class="category-icon">📰</span>
 <span class="category-count">2</span>
 <span class="category-name">Briefing</span>
-</div>
-<div class="category-card">
+</a>
+<div class="category-card category-empty">
 <span class="category-icon">⚡</span>
 <span class="category-count">0</span>
 <span class="category-name">Scan</span>
 </div>
-<div class="category-card">
+<div class="category-card category-empty">
 <span class="category-icon">📊</span>
 <span class="category-count">0</span>
 <span class="category-name">Deal</span>
 </div>
-<div class="category-card">
+<div class="category-card category-empty">
 <span class="category-icon">🔬</span>
 <span class="category-count">0</span>
 <span class="category-name">Deep</span>
 </div>
-<div class="category-card">
+<div class="category-card category-empty">
 <span class="category-icon">🎯</span>
 <span class="category-count">0</span>
 <span class="category-name">Thesis</span>
 </div>
-<div class="category-card">
+<div class="category-card category-empty">
 <span class="category-icon">📂</span>
 <span class="category-count">0</span>
 <span class="category-name">Archives</span>

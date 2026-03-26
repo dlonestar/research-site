@@ -295,13 +295,25 @@ index += `<div class="section-label">BROWSE</div>
 `
 
 for (const cat of CATEGORIES) {
-  const count = (byType[cat.key] || []).length
-  index += `<div class="category-card">
+  const items = byType[cat.key] || []
+  const count = items.length
+  if (count > 0) {
+    // Link to most recent report in this category
+    const latest = items[0]
+    index += `<a class="category-card" href="${latest.quartzPath}">
 <span class="category-icon">${cat.icon}</span>
 <span class="category-count">${count}</span>
 <span class="category-name">${cat.label}</span>
+</a>
+`
+  } else {
+    index += `<div class="category-card category-empty">
+<span class="category-icon">${cat.icon}</span>
+<span class="category-count">0</span>
+<span class="category-name">${cat.label}</span>
 </div>
 `
+  }
 }
 
 index += `</div>
