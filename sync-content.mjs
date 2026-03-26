@@ -376,6 +376,10 @@ publish: true
 
 **📰 Morning Briefing** ← 매일 시장 전체를 관통하는 일일 인텔리전스
 
+**🔬 Deep Analysis** ← Scan/Deal에서 발굴된 종목의 심층 분석 (독립 실행도 가능)
+
+**📋 Final Analysis** ← 투자 의사결정 직전 최종 점검용 완전 보고서
+
 **📂 Insights & Archives** ← 유튜브, PDF, 미팅 노트 등 기타 리서치
 
 ---
