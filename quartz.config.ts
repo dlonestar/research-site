@@ -4,7 +4,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Star Research",
-    pageTitleSuffix: " | Star Research",
+    pageTitleSuffix: " | Investment Intelligence",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,

@@ -224,7 +224,7 @@ const catLookup = {}
 for (const c of CATEGORIES) catLookup[c.key] = c
 
 let index = `---
-title: Star Research
+title: Home
 publish: true
 cssclasses:
   - homepage
