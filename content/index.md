@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Star Research
 publish: true
 cssclasses:
   - homepage
