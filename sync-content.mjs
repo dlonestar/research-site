@@ -376,6 +376,8 @@ publish: true
 
 **📰 Morning Briefing** ← 매일 시장 전체를 관통하는 일일 인텔리전스
 
+**⚡ Inflection Scan** ← 시장 변곡점 탐지. 파이프라인의 시작점
+
 **🔬 Deep Analysis** ← Scan/Deal에서 발굴된 종목의 심층 분석 (독립 실행도 가능)
 
 **📋 Final Analysis** ← 투자 의사결정 직전 최종 점검용 완전 보고서
