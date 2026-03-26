@@ -7,7 +7,7 @@ cssclasses:
 
 <div class="hero">
 <div class="hero-ornament">── ✦ ──</div>
-<div class="hero-title">STAR RESEARCH <span style="font-size:0.28em;font-style:italic;font-weight:300;color:var(--gray);vertical-align:super;letter-spacing:0.05em">beta</span></div>
+<div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
 <p class="hero-quote">"Price is what you pay. Value is what you get."<br/><span style="color:var(--gray);font-size:0.85em">— Warren Buffett</span></p>
