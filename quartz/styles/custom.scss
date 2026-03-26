@@ -75,21 +75,21 @@ button#search-button {
   line-height: 1.3;
 }
 
-/* Homepage: hide redundant elements (page title, meta, ToC) */
-.homepage .article-title,
-.homepage .content-meta,
-.homepage .tag-container {
+/* Homepage: hide redundant page title, meta, date, and right sidebar */
+body[data-slug="index"] .article-title,
+body[data-slug="index"] .content-meta,
+body[data-slug="index"] .tag-container,
+body[data-slug="index"] .page-header {
   display: none !important;
 }
 
-/* Hide ToC on homepage (it shows hero heading) */
-.homepage ~ .right-sidebar .toc,
-.homepage ~ .right-sidebar {
+body[data-slug="index"] .right-sidebar {
   display: none !important;
 }
 
-/* Also target via Quartz's body class */
-body:has(.homepage) .right-sidebar {
+/* Fallback using :has for browsers that support it */
+body:has(article.homepage) .page-header,
+body:has(article.homepage) .right-sidebar {
   display: none !important;
 }
 
