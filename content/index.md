@@ -5,91 +5,36 @@ cssclasses:
   - homepage
 ---
 
-<div class="hero">
-<div class="hero-ornament">── ✦ ──</div>
+<div class="hero-compact">
+<span class="hero-brand">✦ STAR RESEARCH</span>
+<span class="hero-divider">—</span>
+<span class="hero-quote-inline">"Price is what you pay. Value is what you get." <em>— Warren Buffett</em></span>
+</div>
 
-<div class="hero-title">STAR RESEARCH</div>
-
-<p class="hero-tagline">Investment Intelligence</p>
-
-<div class="hero-ornament">── ✦ ──</div>
-
-<p class="hero-quote">"Price is what you pay. Value is what you get."<br/><span style="color:var(--gray);font-size:0.85em">— Warren Buffett</span></p>
-
+<div class="category-pills">
+<a class="pill" href="categories/briefing">📰 Briefing <span class="pill-count">2</span></a> <span class="pill pill-empty">⚡ Scan</span> <span class="pill pill-empty">📊 Deal</span> <span class="pill pill-empty">🔬 Deep</span> <span class="pill pill-empty">🎯 Thesis</span> <span class="pill pill-empty">📂 Archives</span> <a class="pill pill-about" href="about">ℹ️ About</a>
 </div>
 
 ---
 
-<div class="section-label">LATEST</div>
-
-<div class="featured-card">
-
-<span class="featured-badge">📰 MORNING BRIEFING</span>
-
-### [[260326_Morning Brief 2026-03-26_1824|Morning Brief 2026-03-26 18:24]]
-
-하루를 한 문장으로:** 중동 종전 기대감이 유가를 끌어내리며 글로벌 증시를 반등시켰지만, 이란의 협상 부인과 Fed의 인플레이션 경계로 "안도 랠리의 수명"이 시험대에 오른 하루. 하루를 한 문장으로: 중동 종전 기대감이 유가를 끌어내리며 글로벌 증시를...
-
-<span class="featured-meta">📅 2026-03-26  ·  📖 읽기</span>
-
+<a class="feed-card" href="13-Signals/daily/2026-03/260326_Morning-Brief-2026-03-26_1824">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-03-26</span>
 </div>
-
----
-
-<div class="section-label">BROWSE</div>
-
-<div class="category-grid">
-<a class="category-card" href="categories/briefing">
-<span class="category-icon">📰</span>
-<span class="category-count">2</span>
-<span class="category-name">Briefing</span>
+<div class="feed-title">Morning Brief 2026-03-26 18:24</div>
+<div class="feed-excerpt">하루를 한 문장으로:** 중동 종전 기대감이 유가를 끌어내리며 글로벌 증시를 반등시켰지만, 이란의 협상 부인과 Fed의 인플레이션 경계로 "안도 랠리의 수명"이 시험대에 오른 하루. 하루를 한 문장으로: 중동 종전 기대감이 유가를 끌어내리며 글로벌 증시를...</div>
 </a>
-<div class="category-card category-empty">
-<span class="category-icon">⚡</span>
-<span class="category-count">0</span>
-<span class="category-name">Scan</span>
-</div>
-<div class="category-card category-empty">
-<span class="category-icon">📊</span>
-<span class="category-count">0</span>
-<span class="category-name">Deal</span>
-</div>
-<div class="category-card category-empty">
-<span class="category-icon">🔬</span>
-<span class="category-count">0</span>
-<span class="category-name">Deep</span>
-</div>
-<div class="category-card category-empty">
-<span class="category-icon">🎯</span>
-<span class="category-count">0</span>
-<span class="category-name">Thesis</span>
-</div>
-<div class="category-card category-empty">
-<span class="category-icon">📂</span>
-<span class="category-count">0</span>
-<span class="category-name">Archives</span>
-</div>
-</div>
 
----
-
-<div class="section-label">RECENT</div>
-
-<div class="recent-list">
-<a class="recent-item" href="13-Signals/daily/2026-03/260326_Morning-Brief-2026-03-26_1824">
-<span class="recent-date">03-26</span>
-<span class="recent-badge">📰</span>
-<span class="recent-title">Morning Brief 2026-03-26 18:24</span>
+<a class="feed-card" href="13-Signals/daily/2026-03/260326_Morning-Brief-2026-03-26_2216">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-03-26</span>
+</div>
+<div class="feed-title">Morning Brief 2026-03-26 22:16</div>
+<div class="feed-excerpt">하루를 한 문장으로:** ** 미국 증시는 기술주 반등으로 상승했으나, 코스피의 3.2% 급락·원화 17년래 고점·VIX 7.8% 급등이 동시에 발생하며 글로벌 리스크오프와 한국 시장 디커플링이 극단적으로 표면화된 하루. 하루를 한 문장으로:** 미국 증시는 기술주...</div>
 </a>
-<a class="recent-item" href="13-Signals/daily/2026-03/260326_Morning-Brief-2026-03-26_2216">
-<span class="recent-date">03-26</span>
-<span class="recent-badge">📰</span>
-<span class="recent-title">Morning Brief 2026-03-26 22:16</span>
-</a>
-</div>
 
----
-
-<div style="text-align:center;opacity:0.3;font-size:0.8em;padding:16px 0">
+<div style="text-align:center;opacity:0.25;font-size:0.8em;padding:24px 0">
 Built with conviction.
 </div>

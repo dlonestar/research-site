@@ -237,6 +237,14 @@ const featured = allSorted[0] || null
 const catLookup = {}
 for (const c of CATEGORIES) catLookup[c.key] = c
 
+// ─── Helper: resolve category key ───
+function resolveCatKey(type) {
+  if (['deep-company','deep-research','final-company','final-research'].includes(type)) return 'deep'
+  if (['inflection-scan'].includes(type)) return 'scan'
+  if (!KNOWN_KEYS.has(type)) return '_other'
+  return type
+}
+
 let index = `---
 title: Star Research
 publish: true
@@ -244,115 +252,59 @@ cssclasses:
   - homepage
 ---
 
-<div class="hero">
-<div class="hero-ornament">── ✦ ──</div>
-
-<div class="hero-title">STAR RESEARCH</div>
-
-<p class="hero-tagline">Investment Intelligence</p>
-
-<div class="hero-ornament">── ✦ ──</div>
-
-<p class="hero-quote">"${quote.text}"<br/><span style="color:var(--gray);font-size:0.85em">— ${quote.author}</span></p>
-
+<div class="hero-compact">
+<span class="hero-brand">✦ STAR RESEARCH</span>
+<span class="hero-divider">—</span>
+<span class="hero-quote-inline">"${quote.text}" <em>— ${quote.author}</em></span>
 </div>
 
----
-
+<div class="category-pills">
 `
 
-// Featured section
-if (featured) {
-  const cat = catLookup[
-    ['deep-company','deep-research','final-company','final-research'].includes(featured.type) ? 'deep' :
-    ['inflection-scan'].includes(featured.type) ? 'scan' :
-    KNOWN_KEYS.has(featured.type) ? featured.type : '_other'
-  ] || catLookup['_other']
-
-  index += `<div class="section-label">LATEST</div>
-
-<div class="featured-card">
-
-<span class="featured-badge">${cat.icon} ${cat.fullLabel.toUpperCase()}</span>
-
-### [[${featured.filename}|${featured.displayTitle || featured.filename}]]
-
-${featured.excerpt ? `${featured.excerpt}` : ''}
-
-<span class="featured-meta">📅 ${featured.date}${featured.excerpt ? '  ·  📖 읽기' : ''}</span>
-
-</div>
-
----
-
-`
-}
-
-// Browse section
-index += `<div class="section-label">BROWSE</div>
-
-<div class="category-grid">
-`
-
+// Category pills (horizontal row)
 for (const cat of CATEGORIES) {
-  const items = byType[cat.key] || []
-  const count = items.length
+  const count = (byType[cat.key] || []).length
   if (count > 0) {
-    // Link to category listing page
-    index += `<a class="category-card" href="categories/${cat.key}">
-<span class="category-icon">${cat.icon}</span>
-<span class="category-count">${count}</span>
-<span class="category-name">${cat.label}</span>
-</a>
-`
+    index += `<a class="pill" href="categories/${cat.key}">${cat.icon} ${cat.label} <span class="pill-count">${count}</span></a> `
   } else {
-    index += `<div class="category-card category-empty">
-<span class="category-icon">${cat.icon}</span>
-<span class="category-count">0</span>
-<span class="category-name">${cat.label}</span>
+    index += `<span class="pill pill-empty">${cat.icon} ${cat.label}</span> `
+  }
+}
+
+index += `<a class="pill pill-about" href="about">ℹ️ About</a>
 </div>
-`
-  }
-}
-
-index += `</div>
 
 ---
 
 `
 
-// Recent section (timeline)
-if (allSorted.length > 0) {
-  index += `<div class="section-label">RECENT</div>
+// Content feed (up to 10 latest, as rich cards)
+const feedItems = allSorted.slice(0, 10)
 
-<div class="recent-list">
-`
+if (feedItems.length > 0) {
+  for (const item of feedItems) {
+    const catKey = resolveCatKey(item.type)
+    const cat = catLookup[catKey] || catLookup['_other']
 
-  for (const item of allSorted.slice(0, 20)) {
-    let key = item.type
-    if (['deep-company','deep-research','final-company','final-research'].includes(key)) key = 'deep'
-    if (['inflection-scan'].includes(key)) key = 'scan'
-    if (!KNOWN_KEYS.has(key)) key = '_other'
-    const cat = catLookup[key] || catLookup['_other']
-    const shortDate = item.date.slice(5) // MM-DD
-
-    index += `<a class="recent-item" href="${item.quartzPath}">
-<span class="recent-date">${shortDate}</span>
-<span class="recent-badge">${cat.icon}</span>
-<span class="recent-title">${item.displayTitle || item.filename}</span>
+    index += `<a class="feed-card" href="${item.quartzPath}">
+<div class="feed-header">
+<span class="feed-badge">${cat.icon} ${cat.label.toUpperCase()}</span>
+<span class="feed-date">${item.date}</span>
+</div>
+<div class="feed-title">${item.displayTitle || item.filename}</div>
+${item.excerpt ? `<div class="feed-excerpt">${item.excerpt}</div>` : ''}
 </a>
+
 `
   }
-
-  index += `</div>
-
----
-
-`
 }
 
-// Footer quote
-index += `<div style="text-align:center;opacity:0.3;font-size:0.8em;padding:16px 0">
+if (feedItems.length === 0) {
+  index += `<div style="text-align:center;color:var(--gray);padding:48px 0">아직 게시된 리포트가 없습니다.</div>\n\n`
+}
+
+// Footer
+index += `<div style="text-align:center;opacity:0.25;font-size:0.8em;padding:24px 0">
 Built with conviction.
 </div>
 `
@@ -400,5 +352,122 @@ publish: true
   catPagesCreated++
   console.log(`  📂 categories/${cat.key}.md (${items.length}개)`)
 }
+
+// ─── Generate About Page ───
+const aboutPage = `---
+title: About Star Research
+publish: true
+---
+
+# About Star Research
+
+> AI 기반 투자 리서치 시스템. 데이터 수집부터 분석, 검증, 테시스 생성까지 자동화된 파이프라인으로 일관된 품질의 투자 인텔리전스를 생성합니다.
+
+[← 홈으로 돌아가기](/)
+
+---
+
+## 리서치 파이프라인
+
+\`\`\`
+⚡ Scan ──→ 📊 Deal ──→ 🔬 Deep ──→ 📋 Final ──→ 🎯 Thesis
+변곡점 탐지   기회 발굴    심층 분석    최종 판단    투자 테시스
+\`\`\`
+
+**📰 Morning Briefing** ← 매일 시장 전체를 관통하는 일일 인텔리전스
+
+**📂 Insights & Archives** ← 유튜브, PDF, 미팅 노트 등 기타 리서치
+
+---
+
+## 📰 Morning Briefing
+
+매일 07:30 자동 발행. 글로벌 시장을 한눈에 파악하는 일일 브리핑.
+
+- **시장 스냅샷**: 주요 지수, 매크로, 원자재, 크립토 — Yahoo Finance 실시간 데이터
+- **시장 센티먼트 & 방향성**: Risk-On/Off 비율, 시장 국면 진단
+- **오버나이트 핵심 이벤트 Top 5**: So What 분석 + 크로스 임팩트
+- **테마 딥다이브**: 매일 하나의 구조적 시장 테마를 깊이 분석
+- **Must-Read 3선**: RSS 큐레이션 + URL 검증된 실제 기사 추천
+- **투자 레슨**: 역사적 유사 사례 연결
+
+> 빈도: **매일** | 분량: 4-6페이지
+
+---
+
+## ⚡ Inflection Scan
+
+시장의 구조적 변곡점을 탐지하는 시그널 스캐너.
+
+- 8개 시그널 소스 + RSS + 소셜 미디어 + 이벤트 캘린더
+- AI가 변곡점 후보를 추출하고, High Conviction만 보고서로 생성
+- Deal Analysis와 Deep Analysis의 시작점 역할
+
+> 빈도: **수시** | 분량: 3-5페이지 | 비용: ~$0.20
+
+---
+
+## 📊 Deal Analysis
+
+투자 기회 발굴과 초기 스크리닝.
+
+- 뉴스, 재무 데이터, 애널리스트 의견을 종합
+- 비대칭 업사이드 중심 평가
+- BUY / WATCH / PASS 판정과 근거 제시
+
+> 빈도: **수시** | 분량: 10-15페이지 | 비용: ~$0.50
+
+---
+
+## 🔬 Deep & Final Analysis
+
+기업 또는 섹터의 심층 분석. 투자 의사결정 직전 최종 점검용.
+
+- **Deep (25-35p)**: 비즈니스 모델, 경쟁 우위, 재무 해석, 시나리오 분석
+- **Final (50-80p)**: 21개 쿼리 + 재무 + 3-pass 검증. 최종 판단 보고서
+- Opus 급 AI 모델이 다중 섹션을 독립 분석 후 통합
+
+> 빈도: **주 1-2회** | 분량: 25-80페이지 | 비용: $0.80-6.50
+
+---
+
+## 🎯 Investment Thesis
+
+종목별 핵심 투자 테시스. 모든 분석의 결론.
+
+- 기존 리포트를 종합하여 핵심 투자 논리 정리
+- Kill Criteria (테시스 폐기 조건) 명시
+- Conviction 추적 및 정기 리뷰
+- 시장 변화에 따른 테시스 진화 기록
+
+> 빈도: **종목별** | 분량: 5-10페이지
+
+---
+
+## 📂 Insights & Archives
+
+위 카테고리에 해당하지 않는 모든 리서치 자료.
+
+- 유튜브 영상 분석
+- PDF 리포트 정리
+- 미팅 노트
+- 아이디어 메모
+- 기타 리서치
+
+---
+
+## 시스템 특징
+
+| 특징 | 설명 |
+|------|------|
+| **할루시네이션 방지** | 시장 데이터는 Yahoo Finance 직접 수집, Must-Read URL은 HTTP 검증 |
+| **자동화** | 매일 07:30 모닝 브리프 자동 생성, 텔레그램 명령어로 즉시 분석 |
+| **동시 실행** | 최대 3개 분석을 동시에 실행 (Job Queue 시스템) |
+| **예측 추적** | 리포트의 투자 예측을 자동 추출하고 실제 결과와 비교 |
+| **자기 개선** | 예측 정확도, 비용, 피드백을 분석하여 시스템 지속 개선 |
+`
+
+writeFileSync(join(CONTENT_DIR, 'about.md'), aboutPage, 'utf-8')
+console.log(`  📄 about.md 생성`)
 
 console.log(`\n✅ Sync complete: ${copied} published, ${catPagesCreated} category pages, ${skipped} skipped`)
