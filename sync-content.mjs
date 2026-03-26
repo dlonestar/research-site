@@ -179,10 +179,11 @@ for (const file of walkDir(VAULT_ROOT)) {
       .replace(/\.md$/, '')
       .replace(/ /g, '-')
 
-    // Display title with time suffix for uniqueness
+    // Display title: strip date (shown separately in meta) + add time for uniqueness
+    const titleNoDate = meta.title.replace(/\s*\d{4}-\d{2}-\d{2}\s*/, ' ').trim()
     const displayTitle = meta.createdTime
-      ? `${meta.title} (${meta.createdTime})`
-      : meta.title
+      ? `${titleNoDate} (${meta.createdTime})`
+      : titleNoDate
 
     published.push({
       relPath: rel.replace(/\\/g, '/'),
