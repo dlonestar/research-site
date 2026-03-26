@@ -307,7 +307,7 @@ if (feedItems.length === 0) {
 
 // Footer
 index += `<div style="text-align:center;opacity:0.25;font-size:0.8em;padding:24px 0">
-Built with conviction.
+Built without conviction.
 </div>
 `
 
