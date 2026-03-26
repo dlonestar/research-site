@@ -109,7 +109,11 @@ const TYPE_SECTIONS = [
   { key: 'deal-sourcing', icon: '📊', label: 'Deal Analysis', desc: '투자 기회 발굴. 비대칭 업사이드 중심 스크리닝 → BUY/WATCH/PASS 판정.' },
   { key: 'deep', icon: '🔬', label: 'Deep & Final Analysis', desc: '기업/섹터 심층 분석. 25-80 페이지.' },
   { key: 'thesis', icon: '🎯', label: 'Investment Thesis', desc: '핵심 투자 테시스. Kill Criteria, Conviction 추적.' },
+  { key: '_other', icon: '📂', label: 'Insights & Archives', desc: '유튜브 분석, PDF 리서치, 미팅 노트, 아이디어 메모 등.' },
 ]
+
+// Known type keys (everything else goes to _other)
+const KNOWN_KEYS = new Set(['briefing', 'scan', 'deal-sourcing', 'deep', 'thesis'])
 
 // Group published files by type
 const byType = {}
@@ -118,6 +122,8 @@ for (const p of published) {
   let key = p.type
   if (['deep-company', 'deep-research', 'final-company', 'final-research'].includes(key)) key = 'deep'
   if (['inflection-scan'].includes(key)) key = 'scan'
+  // Everything not in known categories → _other
+  if (!KNOWN_KEYS.has(key)) key = '_other'
   if (!byType[key]) byType[key] = []
   byType[key].push(p)
 }
