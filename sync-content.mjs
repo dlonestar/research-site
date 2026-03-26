@@ -41,14 +41,28 @@ const CATEGORIES = [
 const KNOWN_KEYS = new Set(CATEGORIES.filter(c => c.key !== '_other').map(c => c.key))
 
 // ─── Quotes (rotated each publish) ───
+// ─── Quotes (rotated daily) ───
 const QUOTES = [
   { text: "Spend each day trying to be a little wiser than you were when you woke up.", author: "Charlie Munger" },
+  { text: "The big money is not in the buying and selling, but in the waiting.", author: "Charlie Munger" },
+  { text: "Invert, always invert.", author: "Charlie Munger" },
   { text: "The stock market is a device for transferring money from the impatient to the patient.", author: "Warren Buffett" },
-  { text: "Risk comes from not knowing what you're doing.", author: "Warren Buffett" },
-  { text: "The four most dangerous words in investing are: 'This time it's different.'", author: "Sir John Templeton" },
-  { text: "In the short run, the market is a voting machine but in the long run, it is a weighing machine.", author: "Benjamin Graham" },
-  { text: "The biggest risk is not taking any risk.", author: "Mark Zuckerberg" },
   { text: "Be fearful when others are greedy, and greedy when others are fearful.", author: "Warren Buffett" },
+  { text: "Price is what you pay. Value is what you get.", author: "Warren Buffett" },
+  { text: "Risk comes from not knowing what you're doing.", author: "Warren Buffett" },
+  { text: "In the short run, the market is a voting machine but in the long run, it is a weighing machine.", author: "Benjamin Graham" },
+  { text: "The investor's chief problem — and even his worst enemy — is likely to be himself.", author: "Benjamin Graham" },
+  { text: "The most important thing is being attentive to cycles. Everything is cyclical.", author: "Howard Marks" },
+  { text: "You can't predict. You can prepare.", author: "Howard Marks" },
+  { text: "Know what you own, and know why you own it.", author: "Peter Lynch" },
+  { text: "The key to making money in stocks is not to get scared out of them.", author: "Peter Lynch" },
+  { text: "It's not whether you're right or wrong, but how much money you make when you're right and how much you lose when you're wrong.", author: "George Soros" },
+  { text: "The four most dangerous words in investing are: 'This time it's different.'", author: "Sir John Templeton" },
+  { text: "Bull markets are born on pessimism, grow on skepticism, mature on optimism, and die on euphoria.", author: "Sir John Templeton" },
+  { text: "He who lives by the crystal ball will eat shattered glass.", author: "Ray Dalio" },
+  { text: "The stock market is the story of cycles and of the human behavior that is responsible for overreactions in both directions.", author: "Seth Klarman" },
+  { text: "The three most harmful addictions are heroin, carbohydrates, and a monthly salary.", author: "Nassim Taleb" },
+  { text: "There is nothing new in Wall Street. There can't be because speculation is as old as the hills.", author: "Jesse Livermore" },
 ]
 
 console.log(`📁 Vault: ${VAULT_ROOT}`)
@@ -198,6 +212,7 @@ const allSorted = [...published].sort((a, b) => b.date.localeCompare(a.date))
 // ─── Generate Index.md ───
 
 // Pick quote (rotate by day of year)
+// Rotate by day of year
 const dayOfYear = Math.floor((Date.now() - new Date(new Date().getFullYear(), 0, 0)) / 86400000)
 const quote = QUOTES[dayOfYear % QUOTES.length]
 

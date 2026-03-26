@@ -14,7 +14,7 @@ cssclasses:
 
 <div class="hero-ornament">── ✦ ──</div>
 
-<p class="hero-quote">"The stock market is a device for transferring money from the impatient to the patient."<br/><span style="color:var(--gray);font-size:0.85em">— Warren Buffett</span></p>
+<p class="hero-quote">"Price is what you pay. Value is what you get."<br/><span style="color:var(--gray);font-size:0.85em">— Warren Buffett</span></p>
 
 </div>
 
