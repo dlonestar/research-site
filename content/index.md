@@ -26,7 +26,7 @@ cssclasses:
 
 <span class="featured-badge">📰 MORNING BRIEFING</span>
 
-### [[260326_Morning Brief 2026-03-26_1824|Morning Brief 2026-03-26]]
+### [[260326_Morning Brief 2026-03-26_1824|Morning Brief 2026-03-26 (18:24)]]
 
 하루를 한 문장으로:** 중동 종전 기대감이 유가를 끌어내리며 글로벌 증시를 반등시켰지만, 이란의 협상 부인과 Fed의 인플레이션 경계로 "안도 랠리의 수명"이 시험대에 오른 하루. 하루를 한 문장으로: 중동 종전 기대감이 유가를 끌어내리며 글로벌 증시를...
 
@@ -79,7 +79,7 @@ cssclasses:
 <a class="recent-item" href="13-Signals/daily/2026-03/260326_Morning-Brief-2026-03-26_1824">
 <span class="recent-date">03-26</span>
 <span class="recent-badge">📰</span>
-<span class="recent-title">Morning Brief 2026-03-26</span>
+<span class="recent-title">Morning Brief 2026-03-26 (18:24)</span>
 </a>
 </div>
 

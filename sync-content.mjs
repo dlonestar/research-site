@@ -108,13 +108,16 @@ function parseFrontmatter(path) {
     const type = fm.match(/^type:\s*(.+)/m)?.[1]?.trim() || ''
     const title = fm.match(/^title:\s*(.+)/m)?.[1]?.trim() || ''
     const date = fm.match(/^date:\s*(.+)/m)?.[1]?.trim() || ''
+    const created = fm.match(/^created:\s*(.+)/m)?.[1]?.trim() || ''
+    // Extract time from created (e.g. "2026-03-26 18:24" → "18:24")
+    const createdTime = created.match(/\d{2}:\d{2}/)?.[0] || ''
 
     // Extract first meaningful paragraph for excerpt
     const bodyStart = content.indexOf('---', 3) + 3
     const body = content.slice(bodyStart).trim()
     const excerpt = extractExcerpt(body, 150)
 
-    return { type, title, date, excerpt }
+    return { type, title, date, createdTime, excerpt }
   } catch { return null }
 }
 
@@ -176,13 +179,20 @@ for (const file of walkDir(VAULT_ROOT)) {
       .replace(/\.md$/, '')
       .replace(/ /g, '-')
 
+    // Display title with time suffix for uniqueness
+    const displayTitle = meta.createdTime
+      ? `${meta.title} (${meta.createdTime})`
+      : meta.title
+
     published.push({
       relPath: rel.replace(/\\/g, '/'),
       quartzPath,
       filename: basename(file, '.md'),
       type: meta.type,
       title: meta.title,
+      displayTitle,
       date: meta.date,
+      createdTime: meta.createdTime,
       excerpt: meta.excerpt,
     })
     copied++
@@ -261,7 +271,7 @@ if (featured) {
 
 <span class="featured-badge">${cat.icon} ${cat.fullLabel.toUpperCase()}</span>
 
-### [[${featured.filename}|${featured.title || featured.filename}]]
+### [[${featured.filename}|${featured.displayTitle || featured.filename}]]
 
 ${featured.excerpt ? `${featured.excerpt}` : ''}
 
@@ -314,7 +324,7 @@ if (allSorted.length > 0) {
     index += `<a class="recent-item" href="${item.quartzPath}">
 <span class="recent-date">${shortDate}</span>
 <span class="recent-badge">${cat.icon}</span>
-<span class="recent-title">${item.title || item.filename}</span>
+<span class="recent-title">${item.displayTitle || item.filename}</span>
 </a>
 `
   }
