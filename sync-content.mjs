@@ -298,9 +298,8 @@ for (const cat of CATEGORIES) {
   const items = byType[cat.key] || []
   const count = items.length
   if (count > 0) {
-    // Link to most recent report in this category
-    const latest = items[0]
-    index += `<a class="category-card" href="${latest.quartzPath}">
+    // Link to category listing page
+    index += `<a class="category-card" href="categories/${cat.key}">
 <span class="category-icon">${cat.icon}</span>
 <span class="category-count">${count}</span>
 <span class="category-name">${cat.label}</span>
@@ -360,4 +359,46 @@ Built with conviction.
 
 writeFileSync(join(CONTENT_DIR, 'index.md'), index, 'utf-8')
 console.log(`  📄 index.md 자동 생성 (${published.length}개 리포트)`)
-console.log(`\n✅ Sync complete: ${copied} published, ${skipped} skipped`)
+
+// ─── Generate Category Listing Pages ───
+const categoriesDir = join(CONTENT_DIR, 'categories')
+mkdirSync(categoriesDir, { recursive: true })
+
+let catPagesCreated = 0
+for (const cat of CATEGORIES) {
+  const items = byType[cat.key] || []
+  if (items.length === 0) continue
+
+  let page = `---
+title: ${cat.icon} ${cat.fullLabel}
+publish: true
+---
+
+# ${cat.icon} ${cat.fullLabel}
+
+> ${cat.desc}
+
+**${items.length}개 리포트** | [← 홈으로 돌아가기](/)
+
+---
+
+<div class="recent-list">
+`
+
+  for (const item of items) {
+    page += `<a class="recent-item" href="/${item.quartzPath}">
+<span class="recent-date">${item.date}</span>
+<span class="recent-title">${item.displayTitle || item.filename}</span>
+</a>
+`
+  }
+
+  page += `</div>
+`
+
+  writeFileSync(join(categoriesDir, `${cat.key}.md`), page, 'utf-8')
+  catPagesCreated++
+  console.log(`  📂 categories/${cat.key}.md (${items.length}개)`)
+}
+
+console.log(`\n✅ Sync complete: ${copied} published, ${catPagesCreated} category pages, ${skipped} skipped`)

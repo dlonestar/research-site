@@ -39,7 +39,7 @@ cssclasses:
 <div class="section-label">BROWSE</div>
 
 <div class="category-grid">
-<a class="category-card" href="13-Signals/daily/2026-03/260326_Morning-Brief-2026-03-26_1824">
+<a class="category-card" href="categories/briefing">
 <span class="category-icon">📰</span>
 <span class="category-count">2</span>
 <span class="category-name">Briefing</span>
