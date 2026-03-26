@@ -1,0 +1,217 @@
+@use "./base.scss";
+
+/* ═══════════════════════════════════════════════
+   Star Research — Quartz Custom Theme
+   Investment research premium aesthetic
+   Gold (#C9A84C) + Navy dark mode
+   ═══════════════════════════════════════════════ */
+
+/* ─── Font Smoothing ─── */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ─── Page Title (Site Brand) ─── */
+.page-title {
+  font-weight: 800 !important;
+  letter-spacing: 0.1em !important;
+  text-transform: uppercase !important;
+  font-size: 0.9em !important;
+}
+
+/* ─── Content Area — Headings ─── */
+article {
+  & > h1:first-of-type {
+    font-weight: 800;
+    font-size: 2em;
+    letter-spacing: -0.02em;
+    padding-bottom: 12px;
+    border-bottom: 3px solid var(--secondary);
+    margin-bottom: 24px;
+  }
+
+  h2 {
+    font-weight: 700;
+    font-size: 1.4em;
+    margin-top: 48px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid var(--lightgray);
+
+    &::before {
+      content: '';
+      display: inline-block;
+      width: 4px;
+      height: 0.8em;
+      background: var(--secondary);
+      margin-right: 10px;
+      border-radius: 2px;
+      vertical-align: middle;
+    }
+  }
+
+  h3 {
+    font-weight: 600;
+    font-size: 1.15em;
+    margin-top: 32px;
+  }
+}
+
+/* ─── Tables — Investment Grade ─── */
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 20px 0;
+  font-size: 0.9em;
+  border: 1px solid var(--lightgray);
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+
+  thead tr {
+    background: var(--lightgray);
+  }
+
+  th {
+    font-weight: 700;
+    font-size: 0.82em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 12px 16px;
+    border: none;
+    color: var(--gray);
+  }
+
+  td {
+    padding: 10px 16px;
+    border-bottom: 1px solid var(--lightgray);
+  }
+
+  tbody tr:last-child td {
+    border-bottom: none;
+  }
+
+  tbody tr:hover {
+    background: var(--highlight) !important;
+  }
+}
+
+/* ─── Callouts — Card Style ─── */
+.callout {
+  border-radius: 10px !important;
+  border-left-width: 4px !important;
+  margin: 16px 0 !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  transition: box-shadow 0.2s ease;
+
+  &:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  }
+
+  .callout-title {
+    font-weight: 700 !important;
+    font-size: 0.92em !important;
+  }
+
+  .callout-content {
+    font-size: 0.92em;
+    line-height: 1.7;
+  }
+}
+
+/* Custom callout types */
+.callout {
+  &[data-callout="bull"] { --callout-color: 76, 175, 80; }
+  &[data-callout="bear"] { --callout-color: 244, 67, 54; }
+  &[data-callout="verdict"] { --callout-color: 63, 81, 181; }
+  &[data-callout="signal"] { --callout-color: 255, 152, 0; }
+  &[data-callout="thesis"] { --callout-color: 156, 39, 176; }
+}
+
+/* ─── Blockquotes — Gold Accent ─── */
+blockquote {
+  border-left: 3px solid var(--secondary) !important;
+  padding: 12px 24px;
+  margin: 20px 0;
+  background: var(--highlight);
+  border-radius: 0 10px 10px 0;
+  font-style: italic;
+}
+
+/* ─── Horizontal Rules — Gold Fade ─── */
+hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right, transparent, var(--secondary), transparent);
+  margin: 36px 0;
+  opacity: 0.5;
+}
+
+/* ─── Links — Gold Internal ─── */
+a.internal {
+  color: var(--secondary);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--secondary);
+  transition: all 0.15s;
+
+  &:hover {
+    opacity: 0.8;
+    border-bottom-style: solid;
+  }
+}
+
+/* ─── Footer — Minimal ─── */
+footer {
+  opacity: 0.3;
+  font-size: 0.75em;
+}
+
+/* ─── Tags — Pill Style ─── */
+a.tag-link {
+  font-size: 0.78em;
+  padding: 3px 12px;
+  border-radius: 20px;
+  font-weight: 500;
+}
+
+/* ─── Code ─── */
+pre {
+  border-radius: 10px;
+  border: 1px solid var(--lightgray);
+}
+
+code {
+  font-size: 0.86em;
+  padding: 2px 7px;
+  border-radius: 5px;
+}
+
+/* ─── Progress Bars (inline HTML from reports) ─── */
+div[style*="background:#e0e0e0"] {
+  border-radius: 10px !important;
+  overflow: hidden;
+}
+
+/* ─── Mobile Responsive ─── */
+@media (max-width: 768px) {
+  article {
+    font-size: 15px;
+
+    & > h1:first-of-type { font-size: 1.6em; }
+    h2 { font-size: 1.2em; }
+  }
+
+  table th, table td {
+    padding: 7px 10px;
+    font-size: 0.85em;
+  }
+}
+
+/* ─── Print ─── */
+@media print {
+  .left-sidebar, .right-sidebar, footer {
+    display: none !important;
+  }
+  .callout { box-shadow: none; border: 1px solid #ddd; }
+}
