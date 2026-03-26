@@ -1,59 +1,90 @@
 ---
 title: Star Research
 publish: true
+cssclasses:
+  - homepage
 ---
 
-> *"The stock market is a device for transferring money from the impatient to the patient."*  — Warren Buffett
+<div class="hero">
+<div class="hero-ornament">── ✦ ──</div>
 
-> *"Spend each day trying to be a little wiser than you were when you woke up."*  — Charlie Munger
+# STAR RESEARCH
 
----
+<p class="hero-tagline">Investment Intelligence Platform</p>
 
-## 📰 Morning Briefing
+<div class="hero-ornament">── ✦ ──</div>
 
-> 매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브, Must-Read 3선.
+<p class="hero-quote">"The stock market is a device for transferring money from the impatient to the patient."<br/><span style="color:var(--gray);font-size:0.85em">— Warren Buffett</span></p>
 
-- [[260326_Morning Brief 2026-03-26_1824|2026-03-26 Morning Brief 2026-03-26]]
-
----
-
-## ⚡ Inflection Scan
-
-> 시장 변곡점 탐지. 구조적 변화 시그널 포착.
-
-*게시된 리포트가 없습니다.*
+</div>
 
 ---
 
-## 📊 Deal Analysis
+<div class="section-label">LATEST</div>
 
-> 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝 → BUY/WATCH/PASS 판정.
+<div class="featured-card">
 
-*게시된 리포트가 없습니다.*
+<span class="featured-badge">📰 MORNING BRIEFING</span>
 
----
+### [[260326_Morning Brief 2026-03-26_1824|Morning Brief 2026-03-26]]
 
-## 🔬 Deep & Final Analysis
+하루를 한 문장으로:** 중동 종전 기대감이 유가를 끌어내리며 글로벌 증시를 반등시켰지만, 이란의 협상 부인과 Fed의 인플레이션 경계로 "안도 랠리의 수명"이 시험대에 오른 하루. 하루를 한 문장으로: 중동 종전 기대감이 유가를 끌어내리며 글로벌 증시를...
 
-> 기업/섹터 심층 분석. 25-80 페이지.
+<span class="featured-meta">📅 2026-03-26  ·  📖 읽기</span>
 
-*게시된 리포트가 없습니다.*
-
----
-
-## 🎯 Investment Thesis
-
-> 핵심 투자 테시스. Kill Criteria, Conviction 추적.
-
-*게시된 리포트가 없습니다.*
+</div>
 
 ---
 
-## 📂 Insights & Archives
+<div class="section-label">BROWSE</div>
 
-> 유튜브 분석, PDF 리서치, 미팅 노트, 아이디어 메모 등.
-
-*게시된 리포트가 없습니다.*
+<div class="category-grid">
+<div class="category-card">
+<span class="category-icon">📰</span>
+<span class="category-count">1</span>
+<span class="category-name">Briefing</span>
+</div>
+<div class="category-card">
+<span class="category-icon">⚡</span>
+<span class="category-count">0</span>
+<span class="category-name">Scan</span>
+</div>
+<div class="category-card">
+<span class="category-icon">📊</span>
+<span class="category-count">0</span>
+<span class="category-name">Deal</span>
+</div>
+<div class="category-card">
+<span class="category-icon">🔬</span>
+<span class="category-count">0</span>
+<span class="category-name">Deep</span>
+</div>
+<div class="category-card">
+<span class="category-icon">🎯</span>
+<span class="category-count">0</span>
+<span class="category-name">Thesis</span>
+</div>
+<div class="category-card">
+<span class="category-icon">📂</span>
+<span class="category-count">0</span>
+<span class="category-name">Archives</span>
+</div>
+</div>
 
 ---
 
+<div class="section-label">RECENT</div>
+
+<div class="recent-list">
+<a class="recent-item" href="13-Signals/daily/2026-03/260326_Morning-Brief-2026-03-26_1824">
+<span class="recent-date">03-26</span>
+<span class="recent-badge">📰</span>
+<span class="recent-title">Morning Brief 2026-03-26</span>
+</a>
+</div>
+
+---
+
+<div style="text-align:center;opacity:0.3;font-size:0.8em;padding:16px 0">
+Built with conviction.
+</div>

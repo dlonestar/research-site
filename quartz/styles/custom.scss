@@ -1,48 +1,308 @@
 @use "./base.scss";
 
-/* ═══════════════════════════════════════════════
-   Star Research — Quartz Custom Theme
-   Investment research premium aesthetic
-   Gold (#C9A84C) + Navy dark mode
-   ═══════════════════════════════════════════════ */
+/* ═══════════════════════════════════════════════════════════════
+   Star Research — "Quiet Luxury" Theme
+   ═══════════════════════════════════════════════════════════════
+   Design Philosophy: Authority through restraint.
+   Gold is used sparingly — the fewer gold elements, the more
+   each one commands attention.
 
-/* ─── Font Smoothing ─── */
+   Structure:
+   1. Fonts & Global
+   2. Site Header & Navigation
+   3. Homepage Sections (Hero, Featured, Browse, Recent)
+   4. Report Page (Typography, Tables, Callouts)
+   5. Components (Progress Bar, Badges, Footer)
+   6. Mobile Responsive
+   7. Print
+   ═══════════════════════════════════════════════════════════════ */
+
+/* ─── 1. Fonts & Global ─── */
+/* Pretendard loaded via <link> in Head component instead of @import */
+
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-family: 'Inter', 'Pretendard Variable', 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
 }
 
-/* ─── Page Title (Site Brand) ─── */
+/* Force dark mode as default */
+:root {
+  color-scheme: dark;
+}
+
+/* ─── 2. Site Header & Navigation ─── */
+
 .page-title {
   font-weight: 800 !important;
-  letter-spacing: 0.1em !important;
+  letter-spacing: 0.12em !important;
   text-transform: uppercase !important;
-  font-size: 0.9em !important;
+  font-size: 0.85em !important;
+  color: var(--secondary) !important;
 }
 
-/* ─── Content Area — Headings ─── */
+/* Explorer sidebar */
+.explorer {
+  .folder-title {
+    font-weight: 700;
+    font-size: 0.78em;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--gray);
+  }
+}
+
+/* Search */
+button#search-button {
+  border-radius: 8px;
+}
+
+/* ─── 3. Homepage Sections ─── */
+
+/* Hero */
+.hero {
+  text-align: center;
+  padding: 56px 0 40px;
+
+  h1 {
+    font-weight: 800 !important;
+    font-size: 2.2em !important;
+    letter-spacing: 0.14em !important;
+    text-transform: uppercase !important;
+    color: var(--secondary) !important;
+    border: none !important;
+    background: none !important;
+    margin: 16px 0 8px !important;
+    padding: 0 !important;
+    display: block !important;
+  }
+}
+
+.hero-tagline {
+  font-size: 1.05em;
+  color: var(--gray);
+  font-weight: 300;
+  letter-spacing: 0.06em;
+  margin: 0;
+}
+
+.hero-ornament {
+  color: var(--secondary);
+  font-size: 0.7em;
+  letter-spacing: 1em;
+  opacity: 0.5;
+}
+
+.hero-quote {
+  border-left: none !important;
+  background: none !important;
+  font-style: italic !important;
+  color: var(--gray) !important;
+  font-size: 0.92em !important;
+  margin-top: 28px !important;
+  padding: 0 24px !important;
+  max-width: 480px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  line-height: 1.7 !important;
+}
+
+/* Section labels */
+.section-label {
+  font-size: 0.72em !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.14em !important;
+  text-transform: uppercase !important;
+  color: var(--gray) !important;
+  margin-bottom: 20px !important;
+  padding: 0 !important;
+  border: none !important;
+
+  &::before {
+    display: none !important;
+  }
+}
+
+/* Featured card */
+.featured-card {
+  display: block;
+  border: 1px solid var(--lightgray);
+  border-radius: 14px;
+  padding: 32px;
+  margin: 0 0 16px;
+  transition: all 0.25s ease;
+  text-decoration: none !important;
+  color: inherit !important;
+  background: var(--light);
+
+  &:hover {
+    border-color: var(--secondary);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);
+    transform: translateY(-2px);
+  }
+
+  h3 {
+    font-weight: 700 !important;
+    font-size: 1.3em !important;
+    margin: 12px 0 !important;
+    color: var(--dark) !important;
+  }
+
+  p {
+    color: var(--gray);
+    font-size: 0.92em;
+    line-height: 1.7;
+    margin: 8px 0;
+  }
+}
+
+.featured-badge {
+  font-size: 0.72em;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--secondary);
+}
+
+.featured-meta {
+  font-size: 0.82em;
+  color: var(--gray);
+  margin-top: 16px;
+}
+
+/* Category grid */
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin: 0 0 16px;
+}
+
+.category-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 12px;
+  border: 1px solid var(--lightgray);
+  border-radius: 12px;
+  text-decoration: none !important;
+  color: inherit !important;
+  transition: all 0.2s ease;
+  background: var(--light);
+
+  &:hover {
+    border-color: var(--secondary);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+    transform: translateY(-1px);
+  }
+}
+
+.category-icon {
+  font-size: 1.6em;
+  margin-bottom: 6px;
+}
+
+.category-count {
+  font-size: 1.4em;
+  font-weight: 800;
+  color: var(--dark);
+  line-height: 1;
+}
+
+.category-name {
+  font-size: 0.72em;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--gray);
+  margin-top: 4px;
+}
+
+/* Recent reports list */
+.recent-list {
+  margin: 0;
+}
+
+.recent-item {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 14px 16px;
+  border-radius: 10px;
+  text-decoration: none !important;
+  color: inherit !important;
+  transition: background 0.15s ease;
+  border-bottom: 1px solid var(--lightgray);
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  &:hover {
+    background: var(--highlight);
+  }
+}
+
+.recent-date {
+  font-size: 0.78em;
+  font-weight: 600;
+  color: var(--gray);
+  font-family: 'JetBrains Mono', monospace;
+  min-width: 48px;
+  letter-spacing: -0.02em;
+}
+
+.recent-badge {
+  font-size: 1.1em;
+  min-width: 24px;
+  text-align: center;
+}
+
+.recent-title {
+  flex: 1;
+  font-weight: 500;
+  font-size: 0.92em;
+  color: var(--dark);
+}
+
+.recent-time {
+  font-size: 0.75em;
+  color: var(--gray);
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+/* ─── 4. Report Page ─── */
+
+/* Article body */
 article {
+  line-height: 1.85;
+  font-size: 17px;
+
+  /* H1 — Report title */
   & > h1:first-of-type {
     font-weight: 800;
-    font-size: 2em;
+    font-size: 2.0em;
     letter-spacing: -0.02em;
-    padding-bottom: 12px;
+    padding-bottom: 14px;
     border-bottom: 3px solid var(--secondary);
     margin-bottom: 24px;
+    line-height: 1.3;
   }
 
   h2 {
     font-weight: 700;
     font-size: 1.4em;
-    margin-top: 48px;
-    padding-bottom: 8px;
-    border-bottom: 2px solid var(--lightgray);
+    margin-top: 52px;
+    margin-bottom: 16px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--lightgray);
 
     &::before {
       content: '';
       display: inline-block;
       width: 4px;
-      height: 0.8em;
+      height: 0.75em;
       background: var(--secondary);
       margin-right: 10px;
       border-radius: 2px;
@@ -52,22 +312,28 @@ article {
 
   h3 {
     font-weight: 600;
-    font-size: 1.15em;
-    margin-top: 32px;
+    font-size: 1.12em;
+    margin-top: 36px;
+    margin-bottom: 12px;
+  }
+
+  /* Paragraph spacing */
+  p {
+    margin-bottom: 1.2em;
   }
 }
 
-/* ─── Tables — Investment Grade ─── */
+/* Tables — Investment Grade */
 table {
   width: 100%;
   border-collapse: separate;
   border-spacing: 0;
-  margin: 20px 0;
-  font-size: 0.9em;
+  margin: 24px 0;
+  font-size: 0.88em;
   border: 1px solid var(--lightgray);
   border-radius: 10px;
   overflow: hidden;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
 
   thead tr {
     background: var(--lightgray);
@@ -75,17 +341,19 @@ table {
 
   th {
     font-weight: 700;
-    font-size: 0.82em;
+    font-size: 0.78em;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    padding: 12px 16px;
+    padding: 12px 14px;
     border: none;
     color: var(--gray);
+    white-space: nowrap;
   }
 
   td {
-    padding: 10px 16px;
+    padding: 10px 14px;
     border-bottom: 1px solid var(--lightgray);
+    line-height: 1.5;
   }
 
   tbody tr:last-child td {
@@ -95,41 +363,43 @@ table {
   tbody tr:hover {
     background: var(--highlight) !important;
   }
+
+  /* Right-align numbers */
+  td:nth-child(n+2) {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.92em;
+  }
 }
 
-/* ─── Callouts — Card Style ─── */
+/* Callouts */
 .callout {
   border-radius: 10px !important;
   border-left-width: 4px !important;
-  margin: 16px 0 !important;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
-  transition: box-shadow 0.2s ease;
-
-  &:hover {
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
-  }
+  margin: 18px 0 !important;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
 
   .callout-title {
     font-weight: 700 !important;
-    font-size: 0.92em !important;
+    font-size: 0.9em !important;
+    letter-spacing: 0.01em;
   }
 
   .callout-content {
-    font-size: 0.92em;
-    line-height: 1.7;
+    font-size: 0.9em;
+    line-height: 1.75;
   }
 }
 
 /* Custom callout types */
 .callout {
   &[data-callout="bull"] { --callout-color: 76, 175, 80; }
-  &[data-callout="bear"] { --callout-color: 244, 67, 54; }
+  &[data-callout="bear"] { --callout-color: 239, 83, 80; }
   &[data-callout="verdict"] { --callout-color: 63, 81, 181; }
   &[data-callout="signal"] { --callout-color: 255, 152, 0; }
   &[data-callout="thesis"] { --callout-color: 156, 39, 176; }
 }
 
-/* ─── Blockquotes — Gold Accent ─── */
+/* Blockquotes */
 blockquote {
   border-left: 3px solid var(--secondary) !important;
   padding: 12px 24px;
@@ -139,21 +409,21 @@ blockquote {
   font-style: italic;
 }
 
-/* ─── Horizontal Rules — Gold Fade ─── */
+/* Horizontal rules */
 hr {
   border: none;
   height: 1px;
   background: linear-gradient(to right, transparent, var(--secondary), transparent);
-  margin: 36px 0;
-  opacity: 0.5;
+  margin: 40px 0;
+  opacity: 0.35;
 }
 
-/* ─── Links — Gold Internal ─── */
+/* Links */
 a.internal {
   color: var(--secondary);
   text-decoration: none;
   border-bottom: 1px dotted var(--secondary);
-  transition: all 0.15s;
+  transition: all 0.15s ease;
 
   &:hover {
     opacity: 0.8;
@@ -161,57 +431,152 @@ a.internal {
   }
 }
 
-/* ─── Footer — Minimal ─── */
-footer {
-  opacity: 0.3;
-  font-size: 0.75em;
-}
-
-/* ─── Tags — Pill Style ─── */
-a.tag-link {
-  font-size: 0.78em;
-  padding: 3px 12px;
-  border-radius: 20px;
-  font-weight: 500;
-}
-
-/* ─── Code ─── */
+/* Code */
 pre {
   border-radius: 10px;
   border: 1px solid var(--lightgray);
 }
 
 code {
-  font-size: 0.86em;
-  padding: 2px 7px;
-  border-radius: 5px;
+  font-size: 0.85em;
+  padding: 2px 6px;
+  border-radius: 4px;
 }
 
-/* ─── Progress Bars (inline HTML from reports) ─── */
+/* Progress bars from reports */
 div[style*="background:#e0e0e0"] {
   border-radius: 10px !important;
   overflow: hidden;
 }
 
-/* ─── Mobile Responsive ─── */
-@media (max-width: 768px) {
-  article {
-    font-size: 15px;
+/* ─── 5. Components ─── */
 
-    & > h1:first-of-type { font-size: 1.6em; }
-    h2 { font-size: 1.2em; }
+/* Reading progress bar — pure CSS, no JS needed */
+/* Uses scroll-driven animation (Chrome 115+, progressive enhancement) */
+@supports (animation-timeline: scroll()) {
+  .center > article::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: var(--secondary);
+    z-index: 9999;
+    transform-origin: left;
+    transform: scaleX(0);
+    animation: progress-grow linear;
+    animation-timeline: scroll();
   }
 
-  table th, table td {
-    padding: 7px 10px;
-    font-size: 0.85em;
+  @keyframes progress-grow {
+    to { transform: scaleX(1); }
   }
 }
 
-/* ─── Print ─── */
+/* Tags */
+a.tag-link {
+  font-size: 0.75em;
+  padding: 2px 10px;
+  border-radius: 16px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+/* Frontmatter */
+.frontmatter-container {
+  font-size: 0.8em;
+  opacity: 0.5;
+  border-radius: 8px;
+  padding: 12px 16px;
+  margin-bottom: 24px;
+}
+
+/* Footer */
+footer {
+  opacity: 0.25;
+  font-size: 0.72em;
+  text-align: center;
+  padding: 32px 0;
+  letter-spacing: 0.04em;
+}
+
+/* ─── 6. Mobile Responsive ─── */
+
+@media (max-width: 768px) {
+  article {
+    font-size: 15.5px;
+    line-height: 1.8;
+
+    & > h1:first-of-type {
+      font-size: 1.6em;
+    }
+
+    h2 {
+      font-size: 1.2em;
+      margin-top: 36px;
+    }
+  }
+
+  table {
+    font-size: 0.82em;
+
+    th, td {
+      padding: 8px 10px;
+    }
+  }
+
+  .hero h1 {
+    font-size: 1.6em !important;
+    letter-spacing: 0.08em !important;
+  }
+
+  .hero-tagline {
+    font-size: 0.9em;
+  }
+
+  .category-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+  }
+
+  .category-card {
+    padding: 16px 8px;
+  }
+
+  .featured-card {
+    padding: 24px;
+  }
+
+  .recent-item {
+    padding: 12px 8px;
+    gap: 10px;
+  }
+
+  .recent-date {
+    min-width: 40px;
+    font-size: 0.72em;
+  }
+}
+
+/* ─── 7. Print ─── */
+
 @media print {
-  .left-sidebar, .right-sidebar, footer {
+  .left-sidebar, .right-sidebar, footer, .reading-progress {
     display: none !important;
   }
-  .callout { box-shadow: none; border: 1px solid #ddd; }
+
+  article {
+    max-width: 100%;
+    font-size: 11pt;
+  }
+
+  .callout {
+    box-shadow: none;
+    border: 1px solid #ddd;
+  }
+
+  table {
+    box-shadow: none;
+  }
 }
