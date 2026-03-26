@@ -235,7 +235,7 @@ cssclasses:
 
 <div class="hero-title">STAR RESEARCH</div>
 
-<p class="hero-tagline">Investment Intelligence Platform</p>
+<p class="hero-tagline">Investment Intelligence</p>
 
 <div class="hero-ornament">── ✦ ──</div>
 

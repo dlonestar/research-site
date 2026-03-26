@@ -94,10 +94,11 @@ body:has(.homepage) .right-sidebar {
 }
 
 .hero-tagline {
-  font-size: 1.05em;
+  font-size: 0.82em;
   color: var(--gray);
-  font-weight: 300;
-  letter-spacing: 0.06em;
+  font-weight: 500;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
   margin: 0;
 }
 
