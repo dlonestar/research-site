@@ -179,11 +179,14 @@ for (const file of walkDir(VAULT_ROOT)) {
       .replace(/\.md$/, '')
       .replace(/ /g, '-')
 
-    // Display title: strip date (shown separately in meta) + add time for uniqueness
-    const titleNoDate = meta.title.replace(/\s*\d{4}-\d{2}-\d{2}\s*/, ' ').trim()
-    const displayTitle = meta.createdTime
-      ? `${titleNoDate} (${meta.createdTime})`
-      : titleNoDate
+    // Display title: use frontmatter title as-is
+    // New files: title already includes time (e.g. "Morning Brief 2026-03-26 18:24")
+    // Old files: title without time (e.g. "Morning Brief 2026-03-26") → append from created
+    let displayTitle = meta.title
+    const hasTime = /\d{2}:\d{2}\s*$/.test(meta.title)
+    if (!hasTime && meta.createdTime) {
+      displayTitle = `${meta.title} ${meta.createdTime}`
+    }
 
     published.push({
       relPath: rel.replace(/\\/g, '/'),
