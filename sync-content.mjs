@@ -254,7 +254,7 @@ cssclasses:
 
 <div class="hero">
 <div class="hero-ornament">── ✦ ──</div>
-<div class="hero-title">STAR RESEARCH</div>
+<div class="hero-title">STAR RESEARCH <span style="font-size:0.28em;font-style:italic;font-weight:300;color:var(--gray);vertical-align:super;letter-spacing:0.05em">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
 <p class="hero-quote">"${quote.text}"<br/><span style="color:var(--gray);font-size:0.85em">— ${quote.author}</span></p>
