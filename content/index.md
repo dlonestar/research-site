@@ -8,7 +8,7 @@ cssclasses:
 <div class="hero">
 <div class="hero-ornament">── ✦ ──</div>
 
-# STAR RESEARCH
+<div class="hero-title">STAR RESEARCH</div>
 
 <p class="hero-tagline">Investment Intelligence Platform</p>
 
