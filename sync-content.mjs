@@ -1,13 +1,14 @@
 /**
  * Content Sync: Vault → Quartz
- * Copies only publish:true notes from Obsidian vault to Quartz content/
- * Works on both Windows and Mac.
+ * 1. Copies only publish:true notes from Obsidian vault to Quartz content/
+ * 2. Auto-generates index.md homepage with correct links to synced files
  *
+ * Works on both Windows and Mac.
  * Usage: node sync-content.mjs
  */
 
-import { readFileSync, copyFileSync, mkdirSync, rmSync, readdirSync, existsSync } from 'fs'
-import { join, dirname, relative } from 'path'
+import { readFileSync, writeFileSync, copyFileSync, mkdirSync, rmSync, readdirSync, existsSync } from 'fs'
+import { join, dirname, relative, basename } from 'path'
 import { fileURLToPath } from 'url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
@@ -44,36 +45,122 @@ function walkDir(dir) {
   return files
 }
 
-function hasPublishTrue(path) {
+function parseFrontmatter(path) {
   try {
-    const head = readFileSync(path, 'utf-8').slice(0, 2000)
-    if (!head.startsWith('---')) return false
+    const head = readFileSync(path, 'utf-8').slice(0, 3000)
+    if (!head.startsWith('---')) return null
     const end = head.indexOf('---', 3)
-    if (end === -1) return false
+    if (end === -1) return null
     const fm = head.slice(3, end)
-    // Match various Obsidian formats:
-    //   publish: true
-    //   publish: "true"
-    //   publish:\n  - true
-    //   publish:\n  - "true"
-    return /^publish:\s*true/m.test(fm) ||
-           /^publish:\s*"true"/m.test(fm) ||
-           /^publish:\s*\n\s*-\s*"?true"?/m.test(fm)
-  } catch { return false }
+
+    // Check publish: true (various Obsidian formats)
+    const isPublish =
+      /^publish:\s*true/m.test(fm) ||
+      /^publish:\s*"true"/m.test(fm) ||
+      /^publish:\s*\n\s*-\s*"?true"?/m.test(fm)
+
+    if (!isPublish) return null
+
+    // Extract metadata
+    const type = fm.match(/^type:\s*(.+)/m)?.[1]?.trim() || ''
+    const title = fm.match(/^title:\s*(.+)/m)?.[1]?.trim() || ''
+    const date = fm.match(/^date:\s*(.+)/m)?.[1]?.trim() || ''
+
+    return { type, title, date }
+  } catch { return null }
 }
 
+// ─── Sync files ───
+const published = [] // { relPath, filename, type, title, date }
 let copied = 0, skipped = 0
+
 for (const file of walkDir(VAULT_ROOT)) {
-  if (hasPublishTrue(file)) {
+  // Skip index.md (we generate our own)
+  if (basename(file) === 'index.md' && dirname(file) === VAULT_ROOT) {
+    skipped++
+    continue
+  }
+
+  const meta = parseFrontmatter(file)
+  if (meta) {
     const rel = relative(VAULT_ROOT, file)
     const target = join(CONTENT_DIR, rel)
     mkdirSync(dirname(target), { recursive: true })
     copyFileSync(file, target)
     console.log(`  ✅ ${rel}`)
+
+    published.push({
+      relPath: rel.replace(/\\/g, '/'),
+      filename: basename(file, '.md'),
+      type: meta.type,
+      title: meta.title,
+      date: meta.date,
+    })
     copied++
   } else {
     skipped++
   }
 }
+
+// ─── Auto-generate index.md ───
+const TYPE_SECTIONS = [
+  { key: 'briefing', icon: '📰', label: 'Morning Briefing', desc: '매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브, Must-Read 3선.' },
+  { key: 'scan', icon: '⚡', label: 'Inflection Scan', desc: '시장 변곡점 탐지. 구조적 변화 시그널 포착.' },
+  { key: 'deal-sourcing', icon: '📊', label: 'Deal Analysis', desc: '투자 기회 발굴. 비대칭 업사이드 중심 스크리닝 → BUY/WATCH/PASS 판정.' },
+  { key: 'deep', icon: '🔬', label: 'Deep & Final Analysis', desc: '기업/섹터 심층 분석. 25-80 페이지.' },
+  { key: 'thesis', icon: '🎯', label: 'Investment Thesis', desc: '핵심 투자 테시스. Kill Criteria, Conviction 추적.' },
+]
+
+// Group published files by type
+const byType = {}
+for (const p of published) {
+  // Map to section key
+  let key = p.type
+  if (['deep-company', 'deep-research', 'final-company', 'final-research'].includes(key)) key = 'deep'
+  if (['inflection-scan'].includes(key)) key = 'scan'
+  if (!byType[key]) byType[key] = []
+  byType[key].push(p)
+}
+
+// Sort each group by date desc
+for (const key of Object.keys(byType)) {
+  byType[key].sort((a, b) => b.date.localeCompare(a.date))
+}
+
+// Build index.md
+let index = `---
+title: Star Research
+publish: true
+---
+
+> *"The stock market is a device for transferring money from the impatient to the patient."*  — Warren Buffett
+
+> *"Spend each day trying to be a little wiser than you were when you woke up."*  — Charlie Munger
+
+---
+
+`
+
+for (const section of TYPE_SECTIONS) {
+  const items = byType[section.key] || []
+
+  index += `## ${section.icon} ${section.label}\n\n`
+  index += `> ${section.desc}\n\n`
+
+  if (items.length === 0) {
+    index += `*게시된 리포트가 없습니다.*\n\n`
+  } else {
+    for (const item of items.slice(0, 30)) {
+      const display = item.title || item.filename
+      index += `- [[${item.filename}|${item.date} ${display}]]\n`
+    }
+    index += '\n'
+  }
+
+  index += '---\n\n'
+}
+
+writeFileSync(join(CONTENT_DIR, 'index.md'), index, 'utf-8')
+console.log(`  📄 index.md 자동 생성 (${published.length}개 리포트)`)
 
 console.log(`\n✅ Sync complete: ${copied} published, ${skipped} skipped`)
