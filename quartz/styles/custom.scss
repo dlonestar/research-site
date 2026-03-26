@@ -94,6 +94,7 @@ body:has(article.homepage) .right-sidebar {
   color: var(--secondary);
   opacity: 0.55;
   letter-spacing: 0.08em;
+  text-transform: none;
   vertical-align: 0.45em;
   margin-left: 0.15em;
 }
