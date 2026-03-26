@@ -50,7 +50,15 @@ function hasPublishTrue(path) {
     if (!head.startsWith('---')) return false
     const end = head.indexOf('---', 3)
     if (end === -1) return false
-    return /^publish:\s*true/m.test(head.slice(3, end))
+    const fm = head.slice(3, end)
+    // Match various Obsidian formats:
+    //   publish: true
+    //   publish: "true"
+    //   publish:\n  - true
+    //   publish:\n  - "true"
+    return /^publish:\s*true/m.test(fm) ||
+           /^publish:\s*"true"/m.test(fm) ||
+           /^publish:\s*\n\s*-\s*"?true"?/m.test(fm)
   } catch { return false }
 }
 
