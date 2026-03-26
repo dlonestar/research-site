@@ -252,10 +252,12 @@ cssclasses:
   - homepage
 ---
 
-<div class="hero-compact">
-<span class="hero-brand">✦ STAR RESEARCH</span>
-<span class="hero-divider">—</span>
-<span class="hero-quote-inline">"${quote.text}" <em>— ${quote.author}</em></span>
+<div class="hero">
+<div class="hero-ornament">── ✦ ──</div>
+<div class="hero-title">STAR RESEARCH</div>
+<p class="hero-tagline">Investment Intelligence</p>
+<div class="hero-ornament">── ✦ ──</div>
+<p class="hero-quote">"${quote.text}"<br/><span style="color:var(--gray);font-size:0.85em">— ${quote.author}</span></p>
 </div>
 
 <div class="category-pills">
