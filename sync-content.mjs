@@ -185,13 +185,13 @@ for (const file of walkDir(VAULT_ROOT)) {
       .replace(/\.md$/, '')
       .replace(/ /g, '-')
 
-    // Display title: use frontmatter title as-is
-    // New files: title already includes time (e.g. "Morning Brief 2026-03-26 18:24")
-    // Old files: title without time (e.g. "Morning Brief 2026-03-26") → append from created
-    let displayTitle = meta.title
-    const hasTime = /\d{2}:\d{2}\s*$/.test(meta.title)
+    // Display title: use frontmatter title, fallback to filename
+    // If title exists and doesn't already include time, append createdTime
+    const baseTitle = meta.title || basename(file, '.md')
+    let displayTitle = baseTitle
+    const hasTime = /\d{2}:\d{2}\s*$/.test(baseTitle)
     if (!hasTime && meta.createdTime) {
-      displayTitle = `${meta.title} ${meta.createdTime}`
+      displayTitle = `${baseTitle} ${meta.createdTime}`
     }
 
     published.push({
