@@ -21,13 +21,13 @@ cssclasses:
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
-<div class="category-card card-empty">
+<a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan </div>
+<div class="card-label">Inflection Scan <span class="card-count">1</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
-</div>
+</a>
 <div class="category-card card-empty">
 <div class="card-icon">📊</div>
 <div class="card-body">
@@ -67,6 +67,15 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-03-27 10:13</div>
 <div class="feed-excerpt">🔴 Risk-Off** — 지정학·기술 충격의 이중 악재가 글로벌 매도세를 촉발 - **매크로**: 미 10Y 금리 4.42% (+9bp), WTI 유가 $93.94 (+4.0%), USD/KRW 1,510원 (17년래 고점) - **리스크**: 나스닥 -2.4%...</div>
+</a>
+
+<a class="feed-card" href="13-Signals/scan/260327_Inflection-Scan---2026-03-27_1247">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-03-27</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-03-27 12:47</div>
+<div class="feed-excerpt">탐색 범위: 2026-03-13 ~ 2026-03-27 (2주) | High Conviction 6건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: 지정학 노이즈(미-이란)가 만드는 고성장 자산의 비합리적 할인 + 전력...</div>
 </a>
 
 <a class="feed-card" href="13-Signals/daily/2026-03/260326_Morning-Brief-2026-03-26_1824">
