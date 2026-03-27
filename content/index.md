@@ -10,14 +10,23 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"Price is what you pay. Value is what you get."<br/><span style="color:var(--gray);font-size:0.85em">— Warren Buffett</span></p>
+<p class="hero-quote">"Risk comes from not knowing what you're doing."<br/><span style="color:var(--gray);font-size:0.85em">— Warren Buffett</span></p>
 </div>
 
 <div class="category-pills">
-<a class="pill" href="categories/briefing">📰 Briefing <span class="pill-count">2</span></a> <span class="pill pill-empty">⚡ Scan</span> <span class="pill pill-empty">📊 Deal</span> <span class="pill pill-empty">🔬 Deep</span> <span class="pill pill-empty">🎯 Thesis</span> <span class="pill pill-empty">📂 Archives</span> <a class="pill pill-about" href="about">ℹ️ About</a>
+<a class="pill" href="categories/briefing">📰 Briefing <span class="pill-count">3</span></a> <span class="pill pill-empty">⚡ Scan</span> <span class="pill pill-empty">📊 Deal</span> <span class="pill pill-empty">🔬 Deep</span> <span class="pill pill-empty">🎯 Thesis</span> <span class="pill pill-empty">📂 Archives</span> <a class="pill pill-about" href="about">ℹ️ About</a>
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/2026-03/260327_Morning-Brief-2026-03-27_1013">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-03-27</span>
+</div>
+<div class="feed-title">Morning Brief 2026-03-27 10:13</div>
+<div class="feed-excerpt">🔴 Risk-Off** — 지정학·기술 충격의 이중 악재가 글로벌 매도세를 촉발 - **매크로**: 미 10Y 금리 4.42% (+9bp), WTI 유가 $93.94 (+4.0%), USD/KRW 1,510원 (17년래 고점) - **리스크**: 나스닥 -2.4%...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/2026-03/260326_Morning-Brief-2026-03-26_1824">
 <div class="feed-header">
