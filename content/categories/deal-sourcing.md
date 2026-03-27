@@ -16,7 +16,7 @@ publish: true
 <span class="recent-date">2026-03-27</span>
 <span class="recent-title">Deal - 로켓랩 (RKLB) 14:18</span>
 </a>
-<a class="recent-item" href="/11-Companies/삼천당제약/deal/260327_Deal---삼천당제약-(000250.KS)_0748-(STAR_DSC의-충돌된-사본-2026-03-27)">
+<a class="recent-item" href="/11-Companies/삼천당제약/deal/260327_Deal---삼천당제약-(000250.KS)_0748-(STAR_DSC의-충돌된-사본-2026-03-27)">
 <span class="recent-date">2026-03-27</span>
 <span class="recent-title">Deal - 삼천당제약 (000250.KS) 07:48</span>
 </a>
