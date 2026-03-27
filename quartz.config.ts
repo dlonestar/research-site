@@ -73,7 +73,7 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
+      // Plugin.Latex({ renderEngine: "katex" }),  // 비활성화: $금액 표기가 수식으로 파싱되는 문제 방지
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
