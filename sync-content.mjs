@@ -132,7 +132,7 @@ function extractExcerpt(body, maxLen) {
     if (trimmed.startsWith('---')) continue
     if (trimmed.startsWith('>')) {
       // Blockquote — extract text
-      const clean = trimmed.replace(/^>\s*\*?\*?/, '').replace(/\*?\*?\s*$/, '').trim()
+      const clean = trimmed.replace(/^>\s*\*?\*?/, '').replace(/\*?\*?\s*$/, '').replace(/<[^>]+>/g, '').trim()
       if (clean.length > 20) {
         textLines.push(clean)
       }
@@ -140,8 +140,10 @@ function extractExcerpt(body, maxLen) {
     }
     if (trimmed.startsWith('|')) continue // table
     if (trimmed.startsWith('- [')) continue // task/link list
+    if (trimmed.startsWith('<div') || trimmed.startsWith('<span')) continue // inline HTML blocks
     // Normal text
     const clean = trimmed
+      .replace(/<[^>]+>/g, '') // strip HTML tags (spans, divs, etc.)
       .replace(/\[\[([^\]|]+)\|?([^\]]*)\]\]/g, '$2$1') // wikilinks
       .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // md links
       .replace(/[*_`]/g, '') // formatting

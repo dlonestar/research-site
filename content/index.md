@@ -66,7 +66,7 @@ cssclasses:
 <span class="feed-date">2026-03-27</span>
 </div>
 <div class="feed-title">Deal - 로켓랩 (RKLB) 14:18</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 방산, 인프라, 농업기술, 교육, 미디어, 한국 시장, 중국 테크 4일 주기 로테이션 (27개 분야 커버) <span style="background:#2196F3;color:white;padding:2px...</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 방산, 인프라, 농업기술, 교육, 미디어, 한국 시장, 중국 테크 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 로켓랩은 소형 발사 시장의 검증된 1위이자, 뉴트론(Neutron) 로켓 상용화를...</div>
 </a>
 
 <a class="feed-card" href="13-Signals/scan/260327_Inflection-Scan---2026-03-27_1247">
