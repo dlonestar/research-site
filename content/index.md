@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">1</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">2</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -85,6 +85,15 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-03-27 10:13</div>
 <div class="feed-excerpt">🔴 Risk-Off** — 지정학·기술 충격의 이중 악재가 글로벌 매도세를 촉발 - **매크로**: 미 10Y 금리 4.42% (+9bp), WTI 유가 $93.94 (+4.0%), USD/KRW 1,510원 (17년래 고점) - **리스크**: 나스닥 -2.4%...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/삼천당제약/deal/260327_Deal---삼천당제약-(000250.KS)_0748">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-03-27</span>
+</div>
+<div class="feed-title">Deal - 삼천당제약 (000250.KS) 07:48</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 방산, 인프라, 농업기술, 교육, 미디어, 한국 시장, 중국 테크 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스:** 삼천당제약은 GLP-1 테마로 폭등한 소형 제약사로, 현재 밸류에이션은 비즈니스...</div>
 </a>
 
 <a class="feed-card" href="13-Signals/daily/2026-03/260326_Morning-Brief-2026-03-26_2216">
