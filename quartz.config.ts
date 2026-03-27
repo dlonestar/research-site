@@ -7,7 +7,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: " - Investment Intelligence",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: { provider: "google", tagId: "G-C9NYHQ1HQQ" },
     locale: "ko-KR",
     baseUrl: "dlonestar.com",
     ignorePatterns: [
