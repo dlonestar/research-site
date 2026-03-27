@@ -392,10 +392,9 @@ table {
     background: var(--highlight) !important;
   }
 
-  /* Right-align numbers */
+  /* Monospace for data columns (no extra font-size — inherits table's 0.92em) */
   td:nth-child(n+2) {
     font-family: 'JetBrains Mono', monospace;
-    font-size: 0.92em;
   }
 }
 
