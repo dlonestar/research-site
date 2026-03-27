@@ -60,6 +60,15 @@ cssclasses:
 
 ---
 
+<a class="feed-card" href="16-Theses/260327_Thesis_SK하이닉스_v3_1917">
+<div class="feed-header">
+<span class="feed-badge">🎯 THESIS</span>
+<span class="feed-date">2026-03-27</span>
+</div>
+<div class="feed-title"> 19:17</div>
+<div class="feed-excerpt">v3 | 2026-03-27 | BUY HIGH CONVICTION | 이전: [[260327_Thesis_SK하이닉스_v2_1542]] [!tip] 핵심 투자 논리 (v3 업데이트) SK하이닉스는 AI 컴퓨팅의 물리적 병목인 메모리 대역폭을 해결하는 유일한 HBM...</div>
+</a>
+
 <a class="feed-card" href="11-Companies/로켓랩/deal/260327_Deal---로켓랩-(RKLB)_1418">
 <div class="feed-header">
 <span class="feed-badge">📊 DEAL</span>
@@ -128,17 +137,8 @@ cssclasses:
 <span class="feed-badge">🎯 THESIS</span>
 <span class="feed-date">2026-03-24</span>
 </div>
-<div class="feed-title">260324_Thesis_일본_5대_상사_v1_2120</div>
+<div class="feed-title"> 21:20</div>
 <div class="feed-excerpt">v1 | 2026-03-24 | LONG HIGH CONVICTION 워런 버핏이 선택한 자본배분 개혁의 수혜자 — 일본 종합상사는 PBR 1배 미만의 저평가 구간을 벗어나며 자사주 매입·배당 확대와 ROE 개선의 복합 사이클에 진입했으며, 시장은 아직 이 구조적...</div>
-</a>
-
-<a class="feed-card" href="16-Theses/260327_Thesis_SK하이닉스_v3_1917">
-<div class="feed-header">
-<span class="feed-badge">🎯 THESIS</span>
-<span class="feed-date">'2026-03-27'</span>
-</div>
-<div class="feed-title">260327_Thesis_SK하이닉스_v3_1917</div>
-<div class="feed-excerpt">v3 | 2026-03-27 | BUY HIGH CONVICTION | 이전: [[260327_Thesis_SK하이닉스_v2_1542]] [!tip] 핵심 투자 논리 (v3 업데이트) SK하이닉스는 AI 컴퓨팅의 물리적 병목인 메모리 대역폭을 해결하는 유일한 HBM...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
