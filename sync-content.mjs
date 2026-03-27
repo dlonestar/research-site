@@ -280,8 +280,8 @@ index += `<a class="pill pill-about" href="about">ℹ️ About</a>
 
 `
 
-// Content feed (up to 10 latest, as rich cards)
-const feedItems = allSorted.slice(0, 10)
+// Content feed (up to 20 latest, as rich cards)
+const feedItems = allSorted.slice(0, 20)
 
 if (feedItems.length > 0) {
   for (const item of feedItems) {

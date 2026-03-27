@@ -86,7 +86,7 @@ export default (() => {
 
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
-        <meta name="generator" content="Quartz" />
+        {/* generator tag removed */}
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js
