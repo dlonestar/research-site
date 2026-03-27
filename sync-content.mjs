@@ -216,12 +216,19 @@ for (const p of published) {
   byType[key].push(p)
 }
 
-for (const key of Object.keys(byType)) {
-  byType[key].sort((a, b) => b.date.localeCompare(a.date))
+// Sort helper: by created datetime (descending), fallback to date
+const sortByCreated = (a, b) => {
+  const aKey = a.createdTime ? `${a.date} ${a.createdTime}` : a.date
+  const bKey = b.createdTime ? `${b.date} ${b.createdTime}` : b.date
+  return bKey.localeCompare(aKey)
 }
 
-// All reports sorted by date (for timeline)
-const allSorted = [...published].sort((a, b) => b.date.localeCompare(a.date))
+for (const key of Object.keys(byType)) {
+  byType[key].sort(sortByCreated)
+}
+
+// All reports sorted by created datetime (for timeline)
+const allSorted = [...published].sort(sortByCreated)
 
 // ─── Generate Index.md ───
 

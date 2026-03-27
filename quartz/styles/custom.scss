@@ -471,10 +471,117 @@ code {
   border-radius: 4px;
 }
 
-/* Progress bars from reports */
+/* ─── 4b. Inline HTML Normalization ───
+   Obsidian reports embed raw HTML (div/span with inline styles).
+   These elements need font inheritance, size normalization, and
+   responsive handling to match the site's design system.
+*/
+
+/* Force font inheritance on ALL inline HTML within articles.
+   Without this, <div style="..."> elements fall back to browser
+   default fonts (Times/serif) instead of Inter/Pretendard. */
+article div[style],
+article span[style] {
+  font-family: 'Inter', 'Pretendard Variable', 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, sans-serif !important;
+}
+
+/* Probability bars (Bull/Base/Bear flex containers) —
+   Normalize the font-size that comes as inline 0.85em.
+   In Obsidian base ~16px → 13.6px. Here article is 18px → 15.3px.
+   We reset to a fixed size for consistency. */
+article div[style*="display:flex"][style*="border-radius"] {
+  font-size: 13px !important;
+  line-height: 1.4 !important;
+  margin: 12px 0 !important;
+
+  > div {
+    font-family: 'Inter', 'Pretendard Variable', 'Pretendard', sans-serif !important;
+    font-size: inherit !important;
+    padding: 5px 10px !important;
+  }
+}
+
+/* Confidence/progress bars (gray background containers) */
 div[style*="background:#e0e0e0"] {
   border-radius: 10px !important;
   overflow: hidden;
+  margin: 8px 0 !important;
+
+  > div {
+    font-family: 'Inter', 'Pretendard Variable', 'Pretendard', sans-serif !important;
+    font-size: 12px !important;
+    padding: 4px 10px !important;
+    line-height: 1.4 !important;
+  }
+}
+
+/* Inline badge spans (e.g., /deal, /deep action labels) */
+article span[style*="border-radius:4px"] {
+  font-size: 12px !important;
+  font-family: 'Inter', 'Pretendard Variable', 'Pretendard', sans-serif !important;
+  line-height: 1.4 !important;
+  vertical-align: middle;
+}
+
+/* Colored sidebar quotes (left border divs) */
+article div[style*="border-left:"] {
+  font-family: 'Inter', 'Pretendard Variable', 'Pretendard', sans-serif !important;
+  font-size: 0.92em !important;
+}
+
+/* ─── 4c. Table Responsiveness ───
+   Prevent tables from overflowing the content area.
+   Wide tables (3+ columns with Korean text) get horizontal scroll. */
+
+/* Wrap tables in scroll container — applied via Quartz's rehype pipeline.
+   For tables that aren't auto-wrapped, use article-level overflow. */
+article {
+  /* Prevent any child from pushing beyond article width */
+  overflow-x: hidden;
+
+  /* Table container — override base.scss defaults that cause overflow */
+  .table-container {
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    margin: 24px 0;
+    border-radius: 10px;
+    border: 1px solid var(--lightgray);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+
+    > table {
+      margin: 0 !important;    /* Override base.scss margin: 1rem */
+      padding: 0 !important;   /* Override base.scss padding: 1.5rem */
+      border: none;
+      border-radius: 0;
+      box-shadow: none;
+
+      th, td {
+        min-width: auto !important; /* Override base.scss min-width: 75px */
+      }
+
+      > * {
+        line-height: 1.5 !important; /* Override base.scss line-height: 2rem */
+      }
+    }
+  }
+}
+
+/* Table cell text wrapping — prevent cells from forcing infinite width */
+table {
+  table-layout: auto;
+
+  th {
+    white-space: normal; /* Allow header text to wrap */
+    min-width: auto;
+    border-bottom: none !important; /* Override base.scss 2px solid border */
+  }
+
+  td {
+    word-break: keep-all; /* Korean text: break at word boundaries */
+    overflow-wrap: break-word;
+    min-width: auto;
+  }
 }
 
 /* ─── 5. Components ─── */
@@ -552,6 +659,20 @@ footer {
     th, td {
       padding: 8px 10px;
     }
+  }
+
+  /* Inline HTML normalization for mobile */
+  article div[style*="display:flex"][style*="border-radius"] {
+    font-size: 11px !important;
+
+    > div {
+      padding: 4px 6px !important;
+    }
+  }
+
+  div[style*="background:#e0e0e0"] > div {
+    font-size: 11px !important;
+    padding: 3px 8px !important;
   }
 
   .hero h1 {

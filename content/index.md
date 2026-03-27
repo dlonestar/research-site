@@ -60,15 +60,6 @@ cssclasses:
 
 ---
 
-<a class="feed-card" href="13-Signals/daily/2026-03/260327_Morning-Brief-2026-03-27_1013">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-03-27</span>
-</div>
-<div class="feed-title">Morning Brief 2026-03-27 10:13</div>
-<div class="feed-excerpt">🔴 Risk-Off** — 지정학·기술 충격의 이중 악재가 글로벌 매도세를 촉발 - **매크로**: 미 10Y 금리 4.42% (+9bp), WTI 유가 $93.94 (+4.0%), USD/KRW 1,510원 (17년래 고점) - **리스크**: 나스닥 -2.4%...</div>
-</a>
-
 <a class="feed-card" href="13-Signals/scan/260327_Inflection-Scan---2026-03-27_1247">
 <div class="feed-header">
 <span class="feed-badge">⚡ SCAN</span>
@@ -78,13 +69,13 @@ cssclasses:
 <div class="feed-excerpt">탐색 범위: 2026-03-13 ~ 2026-03-27 (2주) | High Conviction 6건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: 지정학 노이즈(미-이란)가 만드는 고성장 자산의 비합리적 할인 + 전력...</div>
 </a>
 
-<a class="feed-card" href="13-Signals/daily/2026-03/260326_Morning-Brief-2026-03-26_1824">
+<a class="feed-card" href="13-Signals/daily/2026-03/260327_Morning-Brief-2026-03-27_1013">
 <div class="feed-header">
 <span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-03-26</span>
+<span class="feed-date">2026-03-27</span>
 </div>
-<div class="feed-title">Morning Brief 2026-03-26 18:24</div>
-<div class="feed-excerpt">하루를 한 문장으로:** 중동 종전 기대감이 유가를 끌어내리며 글로벌 증시를 반등시켰지만, 이란의 협상 부인과 Fed의 인플레이션 경계로 "안도 랠리의 수명"이 시험대에 오른 하루. 하루를 한 문장으로: 중동 종전 기대감이 유가를 끌어내리며 글로벌 증시를...</div>
+<div class="feed-title">Morning Brief 2026-03-27 10:13</div>
+<div class="feed-excerpt">🔴 Risk-Off** — 지정학·기술 충격의 이중 악재가 글로벌 매도세를 촉발 - **매크로**: 미 10Y 금리 4.42% (+9bp), WTI 유가 $93.94 (+4.0%), USD/KRW 1,510원 (17년래 고점) - **리스크**: 나스닥 -2.4%...</div>
 </a>
 
 <a class="feed-card" href="13-Signals/daily/2026-03/260326_Morning-Brief-2026-03-26_2216">
@@ -94,6 +85,15 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-03-26 22:16</div>
 <div class="feed-excerpt">하루를 한 문장으로:** ** 미국 증시는 기술주 반등으로 상승했으나, 코스피의 3.2% 급락·원화 17년래 고점·VIX 7.8% 급등이 동시에 발생하며 글로벌 리스크오프와 한국 시장 디커플링이 극단적으로 표면화된 하루. 하루를 한 문장으로:** 미국 증시는 기술주...</div>
+</a>
+
+<a class="feed-card" href="13-Signals/daily/2026-03/260326_Morning-Brief-2026-03-26_1824">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-03-26</span>
+</div>
+<div class="feed-title">Morning Brief 2026-03-26 18:24</div>
+<div class="feed-excerpt">하루를 한 문장으로:** 중동 종전 기대감이 유가를 끌어내리며 글로벌 증시를 반등시켰지만, 이란의 협상 부인과 Fed의 인플레이션 경계로 "안도 랠리의 수명"이 시험대에 오른 하루. 하루를 한 문장으로: 중동 종전 기대감이 유가를 끌어내리며 글로벌 증시를...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">

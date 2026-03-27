@@ -16,12 +16,12 @@ publish: true
 <span class="recent-date">2026-03-27</span>
 <span class="recent-title">Morning Brief 2026-03-27 10:13</span>
 </a>
-<a class="recent-item" href="/13-Signals/daily/2026-03/260326_Morning-Brief-2026-03-26_1824">
-<span class="recent-date">2026-03-26</span>
-<span class="recent-title">Morning Brief 2026-03-26 18:24</span>
-</a>
 <a class="recent-item" href="/13-Signals/daily/2026-03/260326_Morning-Brief-2026-03-26_2216">
 <span class="recent-date">2026-03-26</span>
 <span class="recent-title">Morning Brief 2026-03-26 22:16</span>
+</a>
+<a class="recent-item" href="/13-Signals/daily/2026-03/260326_Morning-Brief-2026-03-26_1824">
+<span class="recent-date">2026-03-26</span>
+<span class="recent-title">Morning Brief 2026-03-26 18:24</span>
 </a>
 </div>
