@@ -139,9 +139,10 @@ body:has(article.homepage) .right-sidebar {
 
 .category-card {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 12px;
   padding: 16px;
+  min-height: 88px;
   border: 1px solid var(--lightgray);
   border-radius: 10px;
   text-decoration: none !important;
