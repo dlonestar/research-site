@@ -129,59 +129,75 @@ body:has(article.homepage) .right-sidebar {
   line-height: 1.7 !important;
 }
 
-/* Category Pills */
-.category-pills {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin: 8px 0 4px;
-  justify-content: center;
+/* Category Card Grid */
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin: 12px 0 4px;
 }
 
-.pill {
-  display: inline-flex;
-  align-items: center;
-  gap: 4px;
-  padding: 6px 14px;
+.category-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 16px;
   border: 1px solid var(--lightgray);
-  border-radius: 20px;
-  font-size: 0.85em;
-  font-weight: 500;
+  border-radius: 10px;
   text-decoration: none !important;
   color: var(--dark) !important;
   transition: all 0.2s ease;
   cursor: pointer;
-  white-space: nowrap;
 
   &:hover {
     border-color: var(--secondary);
     background: var(--highlight);
+    transform: translateY(-1px);
   }
 }
 
-.pill-count {
-  font-weight: 700;
-  font-size: 0.85em;
-  color: var(--secondary);
-}
-
-.pill-empty {
+.category-card.card-empty {
   opacity: 0.35;
   cursor: default;
 
   &:hover {
     border-color: var(--lightgray);
     background: none;
+    transform: none;
   }
 }
 
-.pill-about {
-  border-style: dashed;
-  opacity: 0.6;
+.card-icon {
+  font-size: 1.6em;
+  line-height: 1;
+  flex-shrink: 0;
+  padding-top: 2px;
+}
 
-  &:hover {
-    opacity: 1;
-  }
+.card-body {
+  min-width: 0;
+}
+
+.card-label {
+  font-weight: 600;
+  font-size: 0.95em;
+  margin-bottom: 4px;
+}
+
+.card-count {
+  font-weight: 700;
+  font-size: 0.8em;
+  color: var(--secondary);
+  background: var(--highlight);
+  padding: 1px 6px;
+  border-radius: 8px;
+  margin-left: 4px;
+}
+
+.card-desc {
+  font-size: 0.78em;
+  color: var(--gray);
+  line-height: 1.4;
 }
 
 /* Content Feed Cards */
@@ -556,13 +572,17 @@ footer {
     font-size: 0.85em !important;
   }
 
-  .category-pills {
-    gap: 6px;
+  .category-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
   }
 
-  .pill {
-    padding: 5px 10px;
-    font-size: 0.8em;
+  .category-card {
+    padding: 12px;
+  }
+
+  .card-icon {
+    font-size: 1.3em;
   }
 
   .feed-card {

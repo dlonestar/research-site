@@ -260,21 +260,29 @@ cssclasses:
 <p class="hero-quote">"${quote.text}"<br/><span style="color:var(--gray);font-size:0.85em">— ${quote.author}</span></p>
 </div>
 
-<div class="category-pills">
+<div class="category-grid">
 `
 
-// Category pills (horizontal row)
+// Category cards (3-column grid)
 for (const cat of CATEGORIES) {
   const count = (byType[cat.key] || []).length
-  if (count > 0) {
-    index += `<a class="pill" href="categories/${cat.key}">${cat.icon} ${cat.label} <span class="pill-count">${count}</span></a> `
-  } else {
-    index += `<span class="pill pill-empty">${cat.icon} ${cat.label}</span> `
-  }
+  const countBadge = count > 0 ? `<span class="card-count">${count}</span>` : ''
+  const href = count > 0 ? `categories/${cat.key}` : ''
+  const tag = count > 0 ? 'a' : 'div'
+  const hrefAttr = count > 0 ? ` href="${href}"` : ''
+  const emptyClass = count > 0 ? '' : ' card-empty'
+
+  index += `<${tag} class="category-card${emptyClass}"${hrefAttr}>
+<div class="card-icon">${cat.icon}</div>
+<div class="card-body">
+<div class="card-label">${cat.fullLabel} ${countBadge}</div>
+<div class="card-desc">${cat.desc}</div>
+</div>
+</${tag}>
+`
 }
 
-index += `<a class="pill pill-about" href="about">ℹ️ About</a>
-</div>
+index += `</div>
 
 ---
 
@@ -306,8 +314,8 @@ if (feedItems.length === 0) {
 }
 
 // Footer
-index += `<div style="text-align:center;opacity:0.25;font-size:0.8em;padding:24px 0">
-Built without conviction.
+index += `<div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
+<a href="about" style="color:var(--gray);text-decoration:none">About</a> · Built without conviction.
 </div>
 `
 

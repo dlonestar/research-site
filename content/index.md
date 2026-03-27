@@ -13,8 +13,49 @@ cssclasses:
 <p class="hero-quote">"Risk comes from not knowing what you're doing."<br/><span style="color:var(--gray);font-size:0.85em">— Warren Buffett</span></p>
 </div>
 
-<div class="category-pills">
-<a class="pill" href="categories/briefing">📰 Briefing <span class="pill-count">3</span></a> <span class="pill pill-empty">⚡ Scan</span> <span class="pill pill-empty">📊 Deal</span> <span class="pill pill-empty">🔬 Deep</span> <span class="pill pill-empty">🎯 Thesis</span> <span class="pill pill-empty">📂 Archives</span> <a class="pill pill-about" href="about">ℹ️ About</a>
+<div class="category-grid">
+<a class="category-card" href="categories/briefing">
+<div class="card-icon">📰</div>
+<div class="card-body">
+<div class="card-label">Morning Briefing <span class="card-count">3</span></div>
+<div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
+</div>
+</a>
+<div class="category-card card-empty">
+<div class="card-icon">⚡</div>
+<div class="card-body">
+<div class="card-label">Inflection Scan </div>
+<div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
+</div>
+</div>
+<div class="category-card card-empty">
+<div class="card-icon">📊</div>
+<div class="card-body">
+<div class="card-label">Deal Analysis </div>
+<div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
+</div>
+</div>
+<div class="category-card card-empty">
+<div class="card-icon">🔬</div>
+<div class="card-body">
+<div class="card-label">Deep & Final Analysis </div>
+<div class="card-desc">기업/섹터 심층 분석. 25-80페이지.</div>
+</div>
+</div>
+<div class="category-card card-empty">
+<div class="card-icon">🎯</div>
+<div class="card-body">
+<div class="card-label">Investment Thesis </div>
+<div class="card-desc">핵심 투자 테시스. Kill Criteria, Conviction 추적.</div>
+</div>
+</div>
+<div class="category-card card-empty">
+<div class="card-icon">📂</div>
+<div class="card-body">
+<div class="card-label">Insights & Archives </div>
+<div class="card-desc">유튜브 분석, PDF 리서치, 미팅 노트, 아이디어 메모.</div>
+</div>
+</div>
 </div>
 
 ---
@@ -46,6 +87,6 @@ cssclasses:
 <div class="feed-excerpt">하루를 한 문장으로:** ** 미국 증시는 기술주 반등으로 상승했으나, 코스피의 3.2% 급락·원화 17년래 고점·VIX 7.8% 급등이 동시에 발생하며 글로벌 리스크오프와 한국 시장 디커플링이 극단적으로 표면화된 하루. 하루를 한 문장으로:** 미국 증시는 기술주...</div>
 </a>
 
-<div style="text-align:center;opacity:0.25;font-size:0.8em;padding:24px 0">
-Built without conviction.
+<div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
+<a href="about" style="color:var(--gray);text-decoration:none">About</a> · Built without conviction.
 </div>
