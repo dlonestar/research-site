@@ -107,10 +107,12 @@ function parseFrontmatter(path) {
 
     const type = fm.match(/^type:\s*(.+)/m)?.[1]?.trim() || ''
     const title = fm.match(/^title:\s*(.+)/m)?.[1]?.trim() || ''
-    const date = fm.match(/^date:\s*(.+)/m)?.[1]?.trim() || ''
-    const created = fm.match(/^created:\s*(.+)/m)?.[1]?.trim() || ''
-    // Extract time from created (e.g. "2026-03-26 18:24" → "18:24")
-    const createdTime = created.match(/\d{2}:\d{2}/)?.[0] || ''
+    const dateRaw = fm.match(/^date:\s*['"]?(.+?)['"]?\s*$/m)?.[1]?.trim() || ''
+    const created = fm.match(/^created:\s*['"]?(.+?)['"]?\s*$/m)?.[1]?.trim() || ''
+    // Extract date-only portion (e.g. "2026-03-27 14:30" → "2026-03-27")
+    const date = dateRaw.split(/\s/)[0] || dateRaw
+    // Extract time: prefer from date field, fallback to created field
+    const createdTime = dateRaw.match(/\d{2}:\d{2}/)?.[0] || created.match(/\d{2}:\d{2}/)?.[0] || ''
 
     // Extract first meaningful paragraph for excerpt
     const bodyStart = content.indexOf('---', 3) + 3
