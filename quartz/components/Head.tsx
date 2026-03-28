@@ -36,8 +36,31 @@ export default (() => {
     )
     const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
 
+    const passwordGateScript = `(function(){
+var H='cc7fffc22c4f12d190e818690c66a232d95bd5b590fcdf50bcedebca912ea720';
+var C=30;
+function gc(n){var m=document.cookie.match(new RegExp('(^| )'+n+'=([^;]+)'));return m?m[2]:null}
+if(gc('sr_auth')===H)return;
+var s=document.createElement('style');
+s.textContent='body>*{display:none!important}#sr-gate{display:flex!important;position:fixed;inset:0;z-index:999999;background:#0F0F12;align-items:center;justify-content:center;font-family:Inter,system-ui,sans-serif}#sr-gate *{box-sizing:border-box}#sr-gate .box{text-align:center;max-width:380px;width:90%;padding:48px 32px;border-radius:16px;background:#18181D;border:1px solid #2A2830}#sr-gate h1{color:#D4B862;font-size:1.5rem;margin:0 0 8px;font-weight:600;letter-spacing:-0.02em}#sr-gate p{color:#6E6E73;font-size:0.85rem;margin:0 0 32px}#sr-gate input{width:100%;padding:14px 16px;border:1px solid #2A2830;border-radius:10px;background:#0F0F12;color:#ECECEE;font-size:1rem;outline:none;transition:border-color .2s}#sr-gate input:focus{border-color:#D4B862}#sr-gate button{width:100%;padding:14px;margin-top:12px;border:none;border-radius:10px;background:#D4B862;color:#0F0F12;font-size:0.95rem;font-weight:600;cursor:pointer;transition:background .2s}#sr-gate button:hover{background:#E8D090}#sr-gate .err{color:#FF6B6B;font-size:0.8rem;margin-top:12px;display:none}';
+document.head.appendChild(s);
+document.addEventListener('DOMContentLoaded',function(){
+var d=document.createElement('div');d.id='sr-gate';
+d.innerHTML='<div class="box"><h1>Star Research</h1><p>Access is restricted to authorized members.</p><form id="sr-f"><input id="sr-i" type="password" placeholder="Password" autocomplete="current-password" autofocus/><button type="submit">Enter</button><div class="err" id="sr-e">Incorrect password</div></form></div>';
+document.body.appendChild(d);
+document.getElementById('sr-i').focus();
+document.getElementById('sr-f').addEventListener('submit',async function(e){
+e.preventDefault();
+var pw=document.getElementById('sr-i').value;
+var buf=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(pw));
+var h=Array.from(new Uint8Array(buf)).map(function(b){return b.toString(16).padStart(2,'0')}).join('');
+if(h===H){var x=new Date();x.setTime(x.getTime()+C*864e5);document.cookie='sr_auth='+H+';expires='+x.toUTCString()+';path=/;SameSite=Lax';location.reload()}
+else{document.getElementById('sr-e').style.display='block';document.getElementById('sr-i').value='';document.getElementById('sr-i').focus()}
+})})})();`
+
     return (
       <head>
+        <script dangerouslySetInnerHTML={{ __html: passwordGateScript }} />
         <title>{title}</title>
         <meta charSet="utf-8" />
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
