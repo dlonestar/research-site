@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">1</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">2</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -67,6 +67,15 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-03-28 12:30</div>
 <div class="feed-excerpt">🔴 Risk-Off 심화** — 미-이란 충돌 격화 + 유가 $100 돌파 + VIX 31 급등으로 전방위 리스크 확산 - **매크로**: WTI $101.18 (+7.1%), 금 $4,521 (+3.3%), 10Y 4.44%, DXY 100.19, 원/달러...</div>
+</a>
+
+<a class="feed-card" href="13-Signals/scan/260328_Inflection-Scan---2026-03-28_1206">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-03-28</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-03-28 12:06</div>
+<div class="feed-excerpt">탐색 범위: 2026-03-28 기준 최근 2주 | High Conviction 7건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: 이란發 매크로 혼란 속 AI 인프라·방산·크루즈의 펀더멘탈 vs 시장심리 괴리 —...</div>
 </a>
 
 <a class="feed-card" href="16-Theses/260327_Thesis_SK하이닉스_v3_1917">
