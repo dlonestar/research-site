@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">3</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">5</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -76,6 +76,24 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-03-28 12:06</div>
 <div class="feed-excerpt">탐색 범위: 2026-03-28 기준 최근 2주 | High Conviction 7건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: 이란發 매크로 혼란 속 AI 인프라·방산·크루즈의 펀더멘탈 vs 시장심리 괴리 —...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/Cameco-Corporation/deal/260328_Deal---Cameco-Corporation-(CCJ)_0752">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-03-28</span>
+</div>
+<div class="feed-title">Deal - Cameco Corporation (CCJ) 07:52</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 정책, 홍콩, 부동산, 보험, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: Cameco는 미·이란 전쟁발 에너지 안보 위기와 AI 데이터센터 전력 수요라는 두 개의...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/셀트리온/deal/260328_Deal---셀트리온-(068270.KS)_0746">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-03-28</span>
+</div>
+<div class="feed-title">Deal - 셀트리온 (068270.KS) 07:46</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 정책, 홍콩, 부동산, 보험, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 글로벌 바이오시밀러 시장의 구조적 팽창(2024년 ~300억 달러 → 2030년 700억+...</div>
 </a>
 
 <a class="feed-card" href="16-Theses/260327_Thesis_SK하이닉스_v3_1917">
