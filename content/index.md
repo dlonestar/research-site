@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">7</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">8</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/성호전자/deal/260328_Deal---성호전자-(043260.KQ)_1931">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-03-28</span>
+</div>
+<div class="feed-title">Deal - 성호전자 (043260.KQ) 19:31</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 정책, 홍콩, 부동산, 보험, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 성호전자는 전원공급장치(PSU)·필름콘덴서 부품 제조사가 AI 데이터센터·CPO 광통신...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/원익큐엔씨/deal/260328_Deal---원익큐엔씨-(074600.KS)_1249">
 <div class="feed-header">
