@@ -119,9 +119,13 @@ publish: true
 
 ## ⚖️ Legal Disclaimer / 법적 면책 조항
 
-**본 웹사이트의 모든 콘텐츠는 정보 제공 및 교육 목적으로만 작성되었으며, 어떠한 경우에도 투자 자문, 투자 권유, 또는 특정 금융상품의 매수·매도·보유 추천으로 해석되어서는 안 됩니다.**
+**본 웹사이트의 모든 콘텐츠는 운영자 개인의 학습 및 정보 정리 목적으로 작성되었으며, 어떠한 경우에도 투자 자문, 투자 권유, 또는 특정 금융상품의 매수·매도·보유 추천으로 해석되어서는 안 됩니다.**
 
-본 사이트의 운영자는 대한민국 자본시장과 금융투자업에 관한 법률(자본시장법)에 따른 투자자문업자, 투자일임업자, 금융투자업자가 아니며, 미국 SEC에 등록된 투자자문사(Registered Investment Adviser)도 아닙니다. 본 사이트에서 제공하는 어떠한 콘텐츠도 전문적 투자 자문을 구성하지 않습니다.
+**개인 사이트 고지:** 본 사이트는 운영자의 순수한 개인 프로젝트이며, 운영자가 소속된 회사, 기관, 또는 그 어떤 조직과도 일체 무관합니다. 본 사이트에 게시된 모든 견해와 분석은 운영자 개인의 의견일 뿐이며, 소속 회사나 기관의 공식적인 입장, 투자 전략, 또는 견해를 대변하지 않습니다.
+
+**자격 및 등록 관련 고지:** 본 사이트의 운영자는 개인 자격으로 투자자문업, 투자일임업, 또는 기타 금융투자업 등록을 한 사실이 없으며, 본 사이트를 통해 투자자문 서비스를 제공하지 않습니다. 운영자는 금융 업계에 종사하고 있으나, 본 사이트의 콘텐츠는 업무와 완전히 분리된 개인적 리서치 활동의 결과물입니다. 미국 SEC에 등록된 투자자문사(Registered Investment Adviser)도 아닙니다.
+
+**미공개정보 관련 고지:** 본 사이트의 콘텐츠는 공개적으로 이용 가능한 정보(뉴스, 공시, 재무제표, 애널리스트 리포트 등)만을 기반으로 작성되었습니다. 운영자가 직무상 접할 수 있는 미공개중요정보(자본시장법 제174조)는 본 사이트의 분석에 일체 사용되지 않습니다.
 
 **AI 생성 콘텐츠 고지:** 본 사이트의 분석 자료는 AI(인공지능) 모델을 활용하여 생성되었습니다. AI 생성 콘텐츠는 사실과 다른 정보(할루시네이션)를 포함할 수 있으며, 데이터의 정확성, 완전성, 적시성을 보장하지 않습니다. 모든 정보는 작성 시점 기준이며, 사전 통지 없이 변경될 수 있습니다.
 
@@ -129,16 +133,20 @@ publish: true
 
 **면책:** 본 사이트의 콘텐츠를 참고하여 이루어진 투자 결정으로 발생하는 어떠한 손실, 손해, 비용에 대해서도 운영자는 일체의 법적 책임을 지지 않습니다. 본 사이트에 언급된 특정 종목, 기업, 자산, 금융상품은 분석 대상일 뿐이며, 이에 대한 투자를 권유하거나 추천하는 것이 아닙니다.
 
-**이해관계 고지:** 운영자는 본 사이트에서 분석하는 종목 또는 자산에 대해 포지션을 보유하고 있거나, 향후 매매할 수 있습니다. 이러한 잠재적 이해충돌을 인지하시기 바랍니다.
+**이해관계 고지:** 운영자는 본 사이트에서 분석하는 종목 또는 자산에 대해 개인적으로 포지션을 보유하고 있거나, 향후 매매할 수 있습니다. 또한 운영자는 금융 업계에 종사하고 있어 직무상 이해관계가 존재할 수 있습니다. 이러한 잠재적 이해충돌을 인지하시기 바랍니다.
 
 **저작권:** © 2026 Star Research. 본 사이트의 콘텐츠는 개인적 참고 목적으로만 이용 가능하며, 운영자의 사전 서면 동의 없이 상업적 목적의 복제, 배포, 전송을 금합니다.
 
 <details>
 <summary>English Version</summary>
 
-**All content on this website is provided solely for informational and educational purposes and should not be construed as investment advice, solicitation, or a recommendation to buy, sell, or hold any specific financial instrument.**
+**All content on this website is created solely for the operator's personal learning and informational purposes and should not be construed as investment advice, solicitation, or a recommendation to buy, sell, or hold any specific financial instrument.**
 
-The operator of this site is not a registered investment adviser, broker-dealer, or financial planner under any jurisdiction, including but not limited to the Korean Financial Investment Services and Capital Markets Act or the U.S. Securities and Exchange Commission (SEC).
+**Personal Site Notice:** This site is the operator's purely personal project and is in no way affiliated with, endorsed by, or representative of any company, institution, or organization with which the operator is associated. All views and analyses published on this site are the operator's personal opinions only and do not represent the official positions, investment strategies, or views of any affiliated entity.
+
+**Registration & Qualification Notice:** The operator has not registered as an investment adviser, discretionary investment manager, or any other form of financial investment business in a personal capacity, and does not provide investment advisory services through this site. While the operator is employed in the financial industry, the content on this site is the product of personal research activities entirely separate from professional duties. The operator is also not a Registered Investment Adviser with the U.S. SEC.
+
+**Material Non-Public Information Notice:** All content on this site is based exclusively on publicly available information (news, regulatory filings, financial statements, analyst reports, etc.). No material non-public information (as defined under Article 174 of the Korean Financial Investment Services and Capital Markets Act) that the operator may access through professional duties has been used in any analysis on this site.
 
 **AI-Generated Content Notice:** Analytical materials on this site are generated using artificial intelligence (AI) models. AI-generated content may contain inaccuracies (hallucinations), and no guarantee is made regarding the accuracy, completeness, or timeliness of any information. All information is current only as of the date of publication and may change without notice.
 
@@ -146,7 +154,7 @@ The operator of this site is not a registered investment adviser, broker-dealer,
 
 **Limitation of Liability:** The operator assumes no legal liability for any losses, damages, or costs arising from investment decisions made in reference to the content on this site. Any mention of specific securities, companies, assets, or financial products is for analytical purposes only and does not constitute a recommendation.
 
-**Conflict of Interest Disclosure:** The operator may hold positions in, or may trade, securities or assets discussed on this site. Please be aware of this potential conflict of interest.
+**Conflict of Interest Disclosure:** The operator may personally hold positions in, or may trade, securities or assets discussed on this site. Additionally, the operator is employed in the financial industry and may have professional interests that could present conflicts. Please be aware of these potential conflicts of interest.
 
 **Copyright:** © 2026 Star Research. Content on this site is available for personal reference only. Reproduction, distribution, or transmission for commercial purposes without prior written consent of the operator is prohibited.
 
