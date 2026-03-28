@@ -37,7 +37,7 @@ export default (() => {
     const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
 
     const passwordGateScript = `(function(){
-var H='cc7fffc22c4f12d190e818690c66a232d95bd5b590fcdf50bcedebca912ea720';
+var H='943d3bf22ac661fb0f59bc4ff68cc12b04ff17a838dfcc2537008eb9c7f3770a';
 var C=30;
 function gc(n){var m=document.cookie.match(new RegExp('(^| )'+n+'=([^;]+)'));return m?m[2]:null}
 if(gc('sr_auth')===H)return;
