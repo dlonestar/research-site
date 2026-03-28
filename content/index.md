@@ -35,13 +35,13 @@ cssclasses:
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
-<div class="category-card card-empty">
+<a class="category-card" href="categories/deep">
 <div class="card-icon">🔬</div>
 <div class="card-body">
-<div class="card-label">Deep & Final Analysis </div>
+<div class="card-label">Deep & Final Analysis <span class="card-count">1</span></div>
 <div class="card-desc">기업/섹터 심층 분석. 25-80페이지.</div>
 </div>
-</div>
+</a>
 <a class="category-card" href="categories/thesis">
 <div class="card-icon">🎯</div>
 <div class="card-body">
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/원익QnC/deep-dive/260328_Deep-Analysis---원익QnC_2236">
+<div class="feed-header">
+<span class="feed-badge">🔬 DEEP</span>
+<span class="feed-date">2026-03-28</span>
+</div>
+<div class="feed-title">Deep Analysis - 원익QnC 22:36</div>
+<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 42건 + AI 검증) 신뢰도: B** | 숫자 불일치 8건 | 논리 모순 2건 | 확인 필요 4건 원익QnC는 반도체 전공정에 필수적인 **소모성 석영(쿼츠) 부품**의 글로벌 No.1 공급업체로, 2018년...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/메카로/deal/260328_Deal---메카로-(241770.KS)_2100">
 <div class="feed-header">
