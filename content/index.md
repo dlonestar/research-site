@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"In the short run, the market is a voting machine but in the long run, it is a weighing machine."<br/><span style="color:var(--gray);font-size:0.85em">— Benjamin Graham</span></p>
+<p class="hero-quote">"The investor's chief problem — and even his worst enemy — is likely to be himself."<br/><span style="color:var(--gray);font-size:0.85em">— Benjamin Graham</span></p>
 </div>
 
 <div class="category-grid">
