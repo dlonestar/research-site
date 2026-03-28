@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">3</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">4</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/2026-03/260328_Morning-Brief-2026-03-28_1230">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-03-28</span>
+</div>
+<div class="feed-title">Morning Brief 2026-03-28 12:30</div>
+<div class="feed-excerpt">🔴 Risk-Off 심화** — 미-이란 충돌 격화 + 유가 $100 돌파 + VIX 31 급등으로 전방위 리스크 확산 - **매크로**: WTI $101.18 (+7.1%), 금 $4,521 (+3.3%), 10Y 4.44%, DXY 100.19, 원/달러...</div>
+</a>
 
 <a class="feed-card" href="16-Theses/260327_Thesis_SK하이닉스_v3_1917">
 <div class="feed-header">
