@@ -7,11 +7,19 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**9개 리포트** | [← 홈으로 돌아가기](/)
+**11개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/Argan-Inc./deal/260329_Deal---Argan-Inc.-(AGX)_0751">
+<span class="recent-date">2026-03-29</span>
+<span class="recent-title">Deal - Argan Inc. (AGX) 07:51</span>
+</a>
+<a class="recent-item" href="/11-Companies/두산로보틱스/deal/260329_Deal---두산로보틱스-(454910.KQ)_0746">
+<span class="recent-date">2026-03-29</span>
+<span class="recent-title">Deal - 두산로보틱스 (454910.KQ) 07:46</span>
+</a>
 <a class="recent-item" href="/11-Companies/메카로/deal/260328_Deal---메카로-(241770.KS)_2100">
 <span class="recent-date">2026-03-28</span>
 <span class="recent-title">Deal - 메카로 (241770.KS) 21:00</span>

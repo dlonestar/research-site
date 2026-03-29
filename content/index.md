@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">4</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">5</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -31,14 +31,14 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">9</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">11</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
 <a class="category-card" href="categories/deep">
 <div class="card-icon">🔬</div>
 <div class="card-body">
-<div class="card-label">Deep & Final Analysis <span class="card-count">1</span></div>
+<div class="card-label">Deep & Final Analysis <span class="card-count">2</span></div>
 <div class="card-desc">기업/섹터 심층 분석. 25-80페이지.</div>
 </div>
 </a>
@@ -59,6 +59,42 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/Argan-Inc./deal/260329_Deal---Argan-Inc.-(AGX)_0751">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-03-29</span>
+</div>
+<div class="feed-title">Deal - Argan Inc. (AGX) 07:51</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 클린에너지, 원자재, 전기차, 로보틱스, 핀테크, 크립토, 럭셔리 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: AGX는 '전력 인프라 슈퍼사이클'의 가장 직접적인 수혜자이나, 주가가 이미 1년...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/두산로보틱스/deal/260329_Deal---두산로보틱스-(454910.KQ)_0746">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-03-29</span>
+</div>
+<div class="feed-title">Deal - 두산로보틱스 (454910.KQ) 07:46</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 클린에너지, 원자재, 전기차, 로보틱스, 핀테크, 크립토, 럭셔리 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 두산로보틱스는 글로벌 협동로봇(코봇) 시장의 구조적 성장과 미국 '탈중국' 공급망...</div>
+</a>
+
+<a class="feed-card" href="13-Signals/daily/2026-03/260329_Morning-Brief-2026-03-29_0735">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-03-29</span>
+</div>
+<div class="feed-title">Morning Brief 2026-03-29 07:35</div>
+<div class="feed-excerpt">🔴 Risk-Off 지속** — 중동 리스크 심화 + 유가 3년 고점 + 원/달러 17년 최고 + VIX 30선 유지 - **매크로**: WTI $101.18 (52주 고점), 금 $4,521, 10Y 4.44%, 원/달러 1,508.36 (52주 최고) -...</div>
+</a>
+
+<a class="feed-card" href="12-Research/deep-dive/260329_Deep-Analysis---비트코인_0123">
+<div class="feed-header">
+<span class="feed-badge">🔬 DEEP</span>
+<span class="feed-date">2026-03-29</span>
+</div>
+<div class="feed-title">Deep Analysis - 비트코인 01:23</div>
+<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 21건 + AI 검증) 신뢰도: B+** | 숫자 불일치 **3**건 | 논리 모순 **2**건 | 확인 필요 **4**건 비트코인은 16년간 단 한 번의 치명적 장애 없이 가동된 세계 최초의 분산형 가치 저장...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/원익QnC/deep-dive/260328_Deep-Analysis---원익QnC_2236">
 <div class="feed-header">
@@ -202,24 +238,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-03-26 22:16</div>
 <div class="feed-excerpt">하루를 한 문장으로:** ** 미국 증시는 기술주 반등으로 상승했으나, 코스피의 3.2% 급락·원화 17년래 고점·VIX 7.8% 급등이 동시에 발생하며 글로벌 리스크오프와 한국 시장 디커플링이 극단적으로 표면화된 하루. 하루를 한 문장으로:** 미국 증시는 기술주...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/2026-03/260326_Morning-Brief-2026-03-26_1824">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-03-26</span>
-</div>
-<div class="feed-title">Morning Brief 2026-03-26 18:24</div>
-<div class="feed-excerpt">하루를 한 문장으로:** 중동 종전 기대감이 유가를 끌어내리며 글로벌 증시를 반등시켰지만, 이란의 협상 부인과 Fed의 인플레이션 경계로 "안도 랠리의 수명"이 시험대에 오른 하루. 하루를 한 문장으로: 중동 종전 기대감이 유가를 끌어내리며 글로벌 증시를...</div>
-</a>
-
-<a class="feed-card" href="16-Theses/260324_Thesis_일본_5대_상사_v1_2120">
-<div class="feed-header">
-<span class="feed-badge">🎯 THESIS</span>
-<span class="feed-date">2026-03-24</span>
-</div>
-<div class="feed-title">260324_Thesis_일본_5대_상사_v1_2120 21:20</div>
-<div class="feed-excerpt">v1 | 2026-03-24 | LONG HIGH CONVICTION 워런 버핏이 선택한 자본배분 개혁의 수혜자 — 일본 종합상사는 PBR 1배 미만의 저평가 구간을 벗어나며 자사주 매입·배당 확대와 ROE 개선의 복합 사이클에 진입했으며, 시장은 아직 이 구조적...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
