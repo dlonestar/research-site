@@ -38,7 +38,7 @@ cssclasses:
 <a class="category-card" href="categories/deep">
 <div class="card-icon">🔬</div>
 <div class="card-body">
-<div class="card-label">Deep & Final Analysis <span class="card-count">2</span></div>
+<div class="card-label">Deep & Final Analysis <span class="card-count">3</span></div>
 <div class="card-desc">기업/섹터 심층 분석. 25-80페이지.</div>
 </div>
 </a>
@@ -85,6 +85,15 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-03-29 07:35</div>
 <div class="feed-excerpt">🔴 Risk-Off 지속** — 중동 리스크 심화 + 유가 3년 고점 + 원/달러 17년 최고 + VIX 30선 유지 - **매크로**: WTI $101.18 (52주 고점), 금 $4,521, 10Y 4.44%, 원/달러 1,508.36 (52주 최고) -...</div>
+</a>
+
+<a class="feed-card" href="12-Research/deep-dive/260329_Deep-Analysis---금_0124">
+<div class="feed-header">
+<span class="feed-badge">🔬 DEEP</span>
+<span class="feed-date">2026-03-29</span>
+</div>
+<div class="feed-title">Deep Analysis - 금 01:24</div>
+<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 99건 + AI 검증) 신뢰도: B+** | 숫자 불일치 3건 | 논리 모순 2건 | 확인 필요 5건 금은 연간 수요 5,000톤을 최초 돌파하며 구조적 공급 부족이 심화되고 있다. 중앙은행의 3년 연속 1,000톤급...</div>
 </a>
 
 <a class="feed-card" href="12-Research/deep-dive/260329_Deep-Analysis---비트코인_0123">
@@ -229,15 +238,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 삼천당제약 (000250.KS) 07:48</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 방산, 인프라, 농업기술, 교육, 미디어, 한국 시장, 중국 테크 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스:** 삼천당제약은 GLP-1 테마로 폭등한 소형 제약사로, 현재 밸류에이션은 비즈니스...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/2026-03/260326_Morning-Brief-2026-03-26_2216">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-03-26</span>
-</div>
-<div class="feed-title">Morning Brief 2026-03-26 22:16</div>
-<div class="feed-excerpt">하루를 한 문장으로:** ** 미국 증시는 기술주 반등으로 상승했으나, 코스피의 3.2% 급락·원화 17년래 고점·VIX 7.8% 급등이 동시에 발생하며 글로벌 리스크오프와 한국 시장 디커플링이 극단적으로 표면화된 하루. 하루를 한 문장으로:** 미국 증시는 기술주...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
