@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">5</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">6</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -103,6 +103,15 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 아나패스 (Anapas Inc.) 07:46</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 이커머스, 인도 시장, 동남아 시장, 일본 시장, 유럽 시장, 중남미, 방산 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 온디바이스 AI 확산으로 디스플레이 업그레이드 사이클이 구조적으로 시작되는 가운데,...</div>
+</a>
+
+<a class="feed-card" href="13-Signals/daily/2026-03/260330_Morning-Brief-2026-03-30_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-03-30</span>
+</div>
+<div class="feed-title">Morning Brief 2026-03-30 07:36</div>
+<div class="feed-excerpt">🔴 Risk-Off 지속** — 중동 리스크 + 유가 고공행진 + 인플레이션 재점화 + Fed 인하 기대 후퇴 - **매크로**: 유가 고공행진 지속, 10Y 금리 상승 압력, 원/달러 17년 최고권 유지 - **리스크**: S&P 500 5주 연속 하락, 나스닥...</div>
 </a>
 
 <a class="feed-card" href="11-Companies/Argan-Inc./deal/260329_Deal---Argan-Inc.-(AGX)_0751">
@@ -229,15 +238,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 셀트리온 (068270.KS) 07:46</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 정책, 홍콩, 부동산, 보험, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 글로벌 바이오시밀러 시장의 구조적 팽창(2024년 ~300억 달러 → 2030년 700억+...</div>
-</a>
-
-<a class="feed-card" href="16-Theses/260327_Thesis_SK하이닉스_v3_1917">
-<div class="feed-header">
-<span class="feed-badge">🎯 THESIS</span>
-<span class="feed-date">2026-03-27</span>
-</div>
-<div class="feed-title">260327_Thesis_SK하이닉스_v3_1917 19:17</div>
-<div class="feed-excerpt">v3 | 2026-03-27 | BUY HIGH CONVICTION | 이전: [[260327_Thesis_SK하이닉스_v2_1542]] [!tip] 핵심 투자 논리 (v3 업데이트) SK하이닉스는 AI 컴퓨팅의 물리적 병목인 메모리 대역폭을 해결하는 유일한 HBM...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
