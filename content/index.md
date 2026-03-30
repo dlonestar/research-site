@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"The investor's chief problem — and even his worst enemy — is likely to be himself."<br/><span style="color:var(--gray);font-size:0.85em">— Benjamin Graham</span></p>
+<p class="hero-quote">"You can't predict. You can prepare."<br/><span style="color:var(--gray);font-size:0.85em">— Howard Marks</span></p>
 </div>
 
 <div class="category-grid">
@@ -31,14 +31,14 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">11</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">15</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
 <a class="category-card" href="categories/deep">
 <div class="card-icon">🔬</div>
 <div class="card-body">
-<div class="card-label">Deep & Final Analysis <span class="card-count">3</span></div>
+<div class="card-label">Deep & Final Analysis <span class="card-count">4</span></div>
 <div class="card-desc">기업/섹터 심층 분석. 25-80페이지.</div>
 </div>
 </a>
@@ -59,6 +59,51 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/GST/deep-dive/260331_Deep-Analysis---GST_0837">
+<div class="feed-header">
+<span class="feed-badge">🔬 DEEP</span>
+<span class="feed-date">2026-03-31</span>
+</div>
+<div class="feed-title">Deep Analysis - GST 08:37</div>
+<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 21건 + AI 검증) 신뢰도: B** | 숫자 불일치 4건 | 논리 모순 2건 | 확인 필요 6건 GST는 반도체 공장의 "폐"와 "에어컨"을 만드는 회사다 — 유해가스를 정화하는 스크러버와 공정 온도를 제어하는...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/Iperionx-Ltd/deal/260331_Deal---Iperionx-Ltd-(IPX)_0751">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-03-31</span>
+</div>
+<div class="feed-title">Deal - Iperionx Ltd (IPX) 07:51</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 인프라, 농업기술, 교육, 미디어, 한국 시장, 중국 테크, 중국 정책 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: IperionX는 미국 내 유일한 상장 티타늄 순수 플레이어로, 러시아·중국...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/HD현대에너지솔루션/deal/260331_Deal---HD현대에너지솔루션-(HD-Hyundai-Energy-Solutions-Co.,-Ltd.)_0746">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-03-31</span>
+</div>
+<div class="feed-title">Deal - HD현대에너지솔루션 (HD Hyundai Energy Solutions Co., Ltd.) 07:46</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 인프라, 농업기술, 교육, 미디어, 한국 시장, 중국 테크, 중국 정책 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 이란 전쟁발 에너지 위기가 글로벌 재생에너지 전환 수요를 촉발하는 가운데,...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/Zscaler,-Inc./deal/260330_Deal---Zscaler,-Inc.-(ZS)_0801">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-03-30</span>
+</div>
+<div class="feed-title">Deal - Zscaler, Inc. (ZS) 08:01</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 이커머스, 인도 시장, 동남아 시장, 일본 시장, 유럽 시장, 중남미, 방산 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: Zero Trust 보안의 구조적 시장 확대 수혜 속, 52주 저점에 위치한 비대칭...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/아나패스/deal/260330_Deal---아나패스-(Anapas-Inc.)_0746">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-03-30</span>
+</div>
+<div class="feed-title">Deal - 아나패스 (Anapas Inc.) 07:46</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 이커머스, 인도 시장, 동남아 시장, 일본 시장, 유럽 시장, 중남미, 방산 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 온디바이스 AI 확산으로 디스플레이 업그레이드 사이클이 구조적으로 시작되는 가운데,...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Argan-Inc./deal/260329_Deal---Argan-Inc.-(AGX)_0751">
 <div class="feed-header">
@@ -193,51 +238,6 @@ cssclasses:
 </div>
 <div class="feed-title">260327_Thesis_SK하이닉스_v3_1917 19:17</div>
 <div class="feed-excerpt">v3 | 2026-03-27 | BUY HIGH CONVICTION | 이전: [[260327_Thesis_SK하이닉스_v2_1542]] [!tip] 핵심 투자 논리 (v3 업데이트) SK하이닉스는 AI 컴퓨팅의 물리적 병목인 메모리 대역폭을 해결하는 유일한 HBM...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/로켓랩/deal/260327_Deal---로켓랩-(RKLB)_1418">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-03-27</span>
-</div>
-<div class="feed-title">Deal - 로켓랩 (RKLB) 14:18</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 방산, 인프라, 농업기술, 교육, 미디어, 한국 시장, 중국 테크 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 로켓랩은 소형 발사 시장의 검증된 1위이자, 뉴트론(Neutron) 로켓 상용화를...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260327_Inflection-Scan---2026-03-27_1247">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-03-27</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-03-27 12:47</div>
-<div class="feed-excerpt">탐색 범위: 2026-03-13 ~ 2026-03-27 (2주) | High Conviction 6건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: 지정학 노이즈(미-이란)가 만드는 고성장 자산의 비합리적 할인 + 전력...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/2026-03/260327_Morning-Brief-2026-03-27_1013">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-03-27</span>
-</div>
-<div class="feed-title">Morning Brief 2026-03-27 10:13</div>
-<div class="feed-excerpt">🔴 Risk-Off** — 지정학·기술 충격의 이중 악재가 글로벌 매도세를 촉발 - **매크로**: 미 10Y 금리 4.42% (+9bp), WTI 유가 $93.94 (+4.0%), USD/KRW 1,510원 (17년래 고점) - **리스크**: 나스닥 -2.4%...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/삼천당제약/deal/260327_Deal---삼천당제약-(000250.KS)_0748-(STAR_DSC의-충돌된-사본-2026-03-27)">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-03-27</span>
-</div>
-<div class="feed-title">Deal - 삼천당제약 (000250.KS) 07:48</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 방산, 인프라, 농업기술, 교육, 미디어, 한국 시장, 중국 테크 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스:** 삼천당제약은 GLP-1 테마로 폭등한 소형 제약사로, 현재 밸류에이션은 비즈니스...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/삼천당제약/deal/260327_Deal---삼천당제약-(000250.KS)_0748">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-03-27</span>
-</div>
-<div class="feed-title">Deal - 삼천당제약 (000250.KS) 07:48</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 방산, 인프라, 농업기술, 교육, 미디어, 한국 시장, 중국 테크 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스:** 삼천당제약은 GLP-1 테마로 폭등한 소형 제약사로, 현재 밸류에이션은 비즈니스...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">

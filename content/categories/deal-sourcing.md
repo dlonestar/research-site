@@ -7,11 +7,27 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**11개 리포트** | [← 홈으로 돌아가기](/)
+**15개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/Iperionx-Ltd/deal/260331_Deal---Iperionx-Ltd-(IPX)_0751">
+<span class="recent-date">2026-03-31</span>
+<span class="recent-title">Deal - Iperionx Ltd (IPX) 07:51</span>
+</a>
+<a class="recent-item" href="/11-Companies/HD현대에너지솔루션/deal/260331_Deal---HD현대에너지솔루션-(HD-Hyundai-Energy-Solutions-Co.,-Ltd.)_0746">
+<span class="recent-date">2026-03-31</span>
+<span class="recent-title">Deal - HD현대에너지솔루션 (HD Hyundai Energy Solutions Co., Ltd.) 07:46</span>
+</a>
+<a class="recent-item" href="/11-Companies/Zscaler,-Inc./deal/260330_Deal---Zscaler,-Inc.-(ZS)_0801">
+<span class="recent-date">2026-03-30</span>
+<span class="recent-title">Deal - Zscaler, Inc. (ZS) 08:01</span>
+</a>
+<a class="recent-item" href="/11-Companies/아나패스/deal/260330_Deal---아나패스-(Anapas-Inc.)_0746">
+<span class="recent-date">2026-03-30</span>
+<span class="recent-title">Deal - 아나패스 (Anapas Inc.) 07:46</span>
+</a>
 <a class="recent-item" href="/11-Companies/Argan-Inc./deal/260329_Deal---Argan-Inc.-(AGX)_0751">
 <span class="recent-date">2026-03-29</span>
 <span class="recent-title">Deal - Argan Inc. (AGX) 07:51</span>

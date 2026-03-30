@@ -7,11 +7,15 @@ publish: true
 
 > 기업/섹터 심층 분석. 25-80페이지.
 
-**3개 리포트** | [← 홈으로 돌아가기](/)
+**4개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/GST/deep-dive/260331_Deep-Analysis---GST_0837">
+<span class="recent-date">2026-03-31</span>
+<span class="recent-title">Deep Analysis - GST 08:37</span>
+</a>
 <a class="recent-item" href="/12-Research/deep-dive/260329_Deep-Analysis---금_0124">
 <span class="recent-date">2026-03-29</span>
 <span class="recent-title">Deep Analysis - 금 01:24</span>
