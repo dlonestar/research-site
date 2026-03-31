@@ -10,14 +10,14 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"You can't predict. You can prepare."<br/><span style="color:var(--gray);font-size:0.85em">— Howard Marks</span></p>
+<p class="hero-quote">"Know what you own, and know why you own it."<br/><span style="color:var(--gray);font-size:0.85em">— Peter Lynch</span></p>
 </div>
 
 <div class="category-grid">
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">7</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">8</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260401_Morning-Brief-2026-04-01_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-04-01</span>
+</div>
+<div class="feed-title">Morning Brief 2026-04-01 07:36</div>
+<div class="feed-excerpt">🔴 Risk-Off / 조건부 반전 탐색** — 중동 지정학 + 유가 쇼크가 주도하는 하락, 이란 휴전 기대가 유일한 카운터 - **매크로**: WTI 유가 $100 재돌파 / 유로존 CPI 2.5% / 파월 "금리 조정 서두르지 않겠다" 관망 유지 -...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/리브스메드/deep-dive/260331_Deep-Analysis---리브스메드_2230">
 <div class="feed-header">
@@ -229,15 +238,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 성호전자 (043260.KQ) 19:31</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 정책, 홍콩, 부동산, 보험, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 성호전자는 전원공급장치(PSU)·필름콘덴서 부품 제조사가 AI 데이터센터·CPO 광통신...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/원익큐엔씨/deal/260328_Deal---원익큐엔씨-(074600.KS)_1249">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-03-28</span>
-</div>
-<div class="feed-title">Deal - 원익큐엔씨 (074600.KS) 12:49</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 정책, 홍콩, 부동산, 보험, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 반도체 사이클 본격 회복 국면에서 쿼츠·세정 풀가동 전환으로 2026년 영업이익이 전년...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
