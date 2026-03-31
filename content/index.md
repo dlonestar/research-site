@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">15</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">16</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/리브스메드/deal/260331_Deal---리브스메드-(491000.KQ)_2026">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-03-31</span>
+</div>
+<div class="feed-title">Deal - 리브스메드 (491000.KQ) 20:26</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 인프라, 농업기술, 교육, 미디어, 한국 시장, 중국 테크, 중국 정책 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 세계 최초 90° 다관절 기술을 보유한 최소침습수술기구 전문기업으로,...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260331_Inflection-Scan---2026-03-31_0906">
 <div class="feed-header">
@@ -96,7 +105,7 @@ cssclasses:
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 인프라, 농업기술, 교육, 미디어, 한국 시장, 중국 테크, 중국 정책 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 이란 전쟁발 에너지 위기가 글로벌 재생에너지 전환 수요를 촉발하는 가운데,...</div>
 </a>
 
-<a class="feed-card" href="13-Signals/daily/2026-03/260331_Morning-Brief-2026-03-31_0736">
+<a class="feed-card" href="13-Signals/daily/260331_Morning-Brief-2026-03-31_0736">
 <div class="feed-header">
 <span class="feed-badge">📰 BRIEFING</span>
 <span class="feed-date">2026-03-31</span>
@@ -123,7 +132,7 @@ cssclasses:
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 이커머스, 인도 시장, 동남아 시장, 일본 시장, 유럽 시장, 중남미, 방산 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 온디바이스 AI 확산으로 디스플레이 업그레이드 사이클이 구조적으로 시작되는 가운데,...</div>
 </a>
 
-<a class="feed-card" href="13-Signals/daily/2026-03/260330_Morning-Brief-2026-03-30_0736">
+<a class="feed-card" href="13-Signals/daily/260330_Morning-Brief-2026-03-30_0736">
 <div class="feed-header">
 <span class="feed-badge">📰 BRIEFING</span>
 <span class="feed-date">2026-03-30</span>
@@ -150,7 +159,7 @@ cssclasses:
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 클린에너지, 원자재, 전기차, 로보틱스, 핀테크, 크립토, 럭셔리 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 두산로보틱스는 글로벌 협동로봇(코봇) 시장의 구조적 성장과 미국 '탈중국' 공급망...</div>
 </a>
 
-<a class="feed-card" href="13-Signals/daily/2026-03/260329_Morning-Brief-2026-03-29_0735">
+<a class="feed-card" href="13-Signals/daily/260329_Morning-Brief-2026-03-29_0735">
 <div class="feed-header">
 <span class="feed-badge">📰 BRIEFING</span>
 <span class="feed-date">2026-03-29</span>
@@ -222,22 +231,13 @@ cssclasses:
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 정책, 홍콩, 부동산, 보험, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: GST는 반도체 Scrubber·Chiller의 국내 핵심 공급사로,...</div>
 </a>
 
-<a class="feed-card" href="13-Signals/daily/2026-03/260328_Morning-Brief-2026-03-28_1230">
+<a class="feed-card" href="13-Signals/daily/260328_Morning-Brief-2026-03-28_1230">
 <div class="feed-header">
 <span class="feed-badge">📰 BRIEFING</span>
 <span class="feed-date">2026-03-28</span>
 </div>
 <div class="feed-title">Morning Brief 2026-03-28 12:30</div>
 <div class="feed-excerpt">🔴 Risk-Off 심화** — 미-이란 충돌 격화 + 유가 $100 돌파 + VIX 31 급등으로 전방위 리스크 확산 - **매크로**: WTI $101.18 (+7.1%), 금 $4,521 (+3.3%), 10Y 4.44%, DXY 100.19, 원/달러...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260328_Inflection-Scan---2026-03-28_1206">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-03-28</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-03-28 12:06</div>
-<div class="feed-excerpt">탐색 범위: 2026-03-28 기준 최근 2주 | High Conviction 7건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: 이란發 매크로 혼란 속 AI 인프라·방산·크루즈의 펀더멘탈 vs 시장심리 괴리 —...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
