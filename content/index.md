@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">6</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">7</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -85,6 +85,15 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - HD현대에너지솔루션 (HD Hyundai Energy Solutions Co., Ltd.) 07:46</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 인프라, 농업기술, 교육, 미디어, 한국 시장, 중국 테크, 중국 정책 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 이란 전쟁발 에너지 위기가 글로벌 재생에너지 전환 수요를 촉발하는 가운데,...</div>
+</a>
+
+<a class="feed-card" href="13-Signals/daily/2026-03/260331_Morning-Brief-2026-03-31_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-03-31</span>
+</div>
+<div class="feed-title">Morning Brief 2026-03-31 07:36</div>
+<div class="feed-excerpt">🔴 Risk-Off 심화** — 중동 분쟁 에스컬레이션 + 유가 $100 돌파 지속 + Fed 고금리 장기화 고착 - **매크로**: WTI $102.61, 10Y 금리 4.44%, USD/KRW 1,507.95 (17년 최고권) - **리스크**: S&P 500...</div>
 </a>
 
 <a class="feed-card" href="11-Companies/Zscaler,-Inc./deal/260330_Deal---Zscaler,-Inc.-(ZS)_0801">
@@ -229,15 +238,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Cameco Corporation (CCJ) 07:52</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 정책, 홍콩, 부동산, 보험, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: Cameco는 미·이란 전쟁발 에너지 안보 위기와 AI 데이터센터 전력 수요라는 두 개의...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/셀트리온/deal/260328_Deal---셀트리온-(068270.KS)_0746">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-03-28</span>
-</div>
-<div class="feed-title">Deal - 셀트리온 (068270.KS) 07:46</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 정책, 홍콩, 부동산, 보험, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 글로벌 바이오시밀러 시장의 구조적 팽창(2024년 ~300억 달러 → 2030년 700억+...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
