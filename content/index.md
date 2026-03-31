@@ -38,7 +38,7 @@ cssclasses:
 <a class="category-card" href="categories/deep">
 <div class="card-icon">🔬</div>
 <div class="card-body">
-<div class="card-label">Deep & Final Analysis <span class="card-count">4</span></div>
+<div class="card-label">Deep & Final Analysis <span class="card-count">5</span></div>
 <div class="card-desc">기업/섹터 심층 분석. 25-80페이지.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/리브스메드/deep-dive/260331_Deep-Analysis---리브스메드_2230">
+<div class="feed-header">
+<span class="feed-badge">🔬 DEEP</span>
+<span class="feed-date">2026-03-31</span>
+</div>
+<div class="feed-title">Deep Analysis - 리브스메드 22:30</div>
+<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 16건 + AI 검증) 신뢰도: B** | 숫자 불일치 4건 | 논리 모순 1건 | 확인 필요 4건 이 보고서는 **DART 연결재무제표 없이** 작성되었습니다 (신규 상장사, 매칭 실패, 또는 공시 미비)....</div>
+</a>
 
 <a class="feed-card" href="11-Companies/리브스메드/deal/260331_Deal---리브스메드-(491000.KQ)_2026">
 <div class="feed-header">
@@ -229,15 +238,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 원익큐엔씨 (074600.KS) 12:49</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 정책, 홍콩, 부동산, 보험, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 반도체 사이클 본격 회복 국면에서 쿼츠·세정 풀가동 전환으로 2026년 영업이익이 전년...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/글로벌스탠다드테크놀로지/deal/260328_Deal---글로벌스탠다드테크놀로지-(083450.KS)_1248">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-03-28</span>
-</div>
-<div class="feed-title">Deal - 글로벌스탠다드테크놀로지 (083450.KS) 12:48</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 정책, 홍콩, 부동산, 보험, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: GST는 반도체 Scrubber·Chiller의 국내 핵심 공급사로,...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
