@@ -49,16 +49,25 @@ cssclasses:
 <div class="card-desc">핵심 투자 테시스. Kill Criteria, Conviction 추적.</div>
 </div>
 </a>
-<div class="category-card card-empty">
+<a class="category-card" href="categories/_other">
 <div class="card-icon">📂</div>
 <div class="card-body">
-<div class="card-label">Insights & Archives </div>
+<div class="card-label">Insights & Archives <span class="card-count">1</span></div>
 <div class="card-desc">유튜브 분석, PDF 리서치, 미팅 노트, 아이디어 메모.</div>
 </div>
-</div>
+</a>
 </div>
 
 ---
+
+<a class="feed-card" href="12-Research/general/260401_씨메스-(CMES)-통합-딥다이브-—-AI·SW-중심-로봇-솔루션의-기술-해자-vs.-구조적-적자의-실존적_1019">
+<div class="feed-header">
+<span class="feed-badge">📂 ARCHIVES</span>
+<span class="feed-date">2026-04-01</span>
+</div>
+<div class="feed-title">씨메스 (CMES) 통합 딥다이브 — AI·SW 중심 로봇 솔루션의 기술 해자 vs. 구조적 적자의 실존적 긴장 10:19</div>
+<div class="feed-excerpt">작성일: 2025-10-xx | 기준주가: 24,700원 (한국IR협의회 기준, 6/16) / 26,600원 (삼성증권 기준, 6/25) 관련 노트: 260318Thesis씨메스v12317 | 260331Deal - 씨메스 로보틱스 (구 씨메스)2026 씨메스는...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260401_Morning-Brief-2026-04-01_0736">
 <div class="feed-header">
@@ -229,15 +238,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 메카로 (241770.KS) 21:00</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 정책, 홍콩, 부동산, 보험, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 메카로는 국내 반도체 웨이퍼 가공용 히터블럭 시장에서 압도적 점유율(국내 90%+)을...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/성호전자/deal/260328_Deal---성호전자-(043260.KQ)_1931">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-03-28</span>
-</div>
-<div class="feed-title">Deal - 성호전자 (043260.KQ) 19:31</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 정책, 홍콩, 부동산, 보험, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 성호전자는 전원공급장치(PSU)·필름콘덴서 부품 제조사가 AI 데이터센터·CPO 광통신...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
