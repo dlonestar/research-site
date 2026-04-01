@@ -38,7 +38,7 @@ cssclasses:
 <a class="category-card" href="categories/deep">
 <div class="card-icon">🔬</div>
 <div class="card-body">
-<div class="card-label">Deep & Final Analysis <span class="card-count">6</span></div>
+<div class="card-label">Deep & Final Analysis <span class="card-count">7</span></div>
 <div class="card-desc">기업/섹터 심층 분석. 25-80페이지.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="12-Research/deep-dive/260401_Deep-Analysis---미국-사이버-보안-상장사-분석_2036">
+<div class="feed-header">
+<span class="feed-badge">🔬 DEEP</span>
+<span class="feed-date">2026-04-01</span>
+</div>
+<div class="feed-title">Deep Analysis - 미국 사이버 보안 상장사 분석 20:36</div>
+<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 12건 + AI 검증) 신뢰도: B** | 숫자 불일치 4건 | 논리 모순 2건 | 확인 필요 6건 미국 사이버 보안 시장은 AI 기반 위협의 고도화, 클라우드 전환 가속, 규제 강화라는 3대 구조적 동인에 의해...</div>
+</a>
 
 <a class="feed-card" href="12-Research/deep-dive/260401_Deep-Analysis---코스피200ELS_1144">
 <div class="feed-header">
@@ -229,15 +238,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deep Analysis - 비트코인 01:23</div>
 <div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 21건 + AI 검증) 신뢰도: B+** | 숫자 불일치 **3**건 | 논리 모순 **2**건 | 확인 필요 **4**건 비트코인은 16년간 단 한 번의 치명적 장애 없이 가동된 세계 최초의 분산형 가치 저장...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/원익QnC/deep-dive/260328_Deep-Analysis---원익QnC_2236">
-<div class="feed-header">
-<span class="feed-badge">🔬 DEEP</span>
-<span class="feed-date">2026-03-28</span>
-</div>
-<div class="feed-title">Deep Analysis - 원익QnC 22:36</div>
-<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 42건 + AI 검증) 신뢰도: B** | 숫자 불일치 8건 | 논리 모순 2건 | 확인 필요 4건 원익QnC는 반도체 전공정에 필수적인 **소모성 석영(쿼츠) 부품**의 글로벌 No.1 공급업체로, 2018년...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
