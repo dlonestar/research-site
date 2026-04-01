@@ -38,7 +38,7 @@ cssclasses:
 <a class="category-card" href="categories/deep">
 <div class="card-icon">🔬</div>
 <div class="card-body">
-<div class="card-label">Deep & Final Analysis <span class="card-count">5</span></div>
+<div class="card-label">Deep & Final Analysis <span class="card-count">6</span></div>
 <div class="card-desc">기업/섹터 심층 분석. 25-80페이지.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="12-Research/deep-dive/260401_Deep-Analysis---코스피200ELS_1144">
+<div class="feed-header">
+<span class="feed-badge">🔬 DEEP</span>
+<span class="feed-date">2026-04-01</span>
+</div>
+<div class="feed-title">Deep Analysis - 코스피200ELS 11:44</div>
+<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 74건 + AI 검증) 신뢰도: B** | 숫자 불일치 3건 | 논리 모순 2건 | 확인 필요 5건 코스피200 ELS는 코스피200 지수에 연동하여 사전 약정된 수익을 지급하는 파생결합증권으로, 홍콩 H지수 사태...</div>
+</a>
 
 <a class="feed-card" href="12-Research/general/260401_씨메스-(CMES)-통합-딥다이브-—-AI·SW-중심-로봇-솔루션의-기술-해자-vs.-구조적-적자의-실존적_1019">
 <div class="feed-header">
@@ -229,15 +238,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deep Analysis - 원익QnC 22:36</div>
 <div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 42건 + AI 검증) 신뢰도: B** | 숫자 불일치 8건 | 논리 모순 2건 | 확인 필요 4건 원익QnC는 반도체 전공정에 필수적인 **소모성 석영(쿼츠) 부품**의 글로벌 No.1 공급업체로, 2018년...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/메카로/deal/260328_Deal---메카로-(241770.KS)_2100">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-03-28</span>
-</div>
-<div class="feed-title">Deal - 메카로 (241770.KS) 21:00</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 정책, 홍콩, 부동산, 보험, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 메카로는 국내 반도체 웨이퍼 가공용 히터블럭 시장에서 압도적 점유율(국내 90%+)을...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
