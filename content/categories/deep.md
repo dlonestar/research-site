@@ -7,11 +7,15 @@ publish: true
 
 > 기업/섹터 심층 분석. 25-80페이지.
 
-**7개 리포트** | [← 홈으로 돌아가기](/)
+**8개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/12-Research/deep-dive/260403_Deep-Analysis---미국의-생체지표-분석-및-합성생물학(및-제노봇)-관련-기업_0117">
+<span class="recent-date">2026-04-03</span>
+<span class="recent-title">Deep Analysis - 미국의 생체지표 분석 및 합성생물학(및 제노봇) 관련 기업 01:17</span>
+</a>
 <a class="recent-item" href="/12-Research/deep-dive/260401_Deep-Analysis---미국-사이버-보안-상장사-분석_2036">
 <span class="recent-date">2026-04-01</span>
 <span class="recent-title">Deep Analysis - 미국 사이버 보안 상장사 분석 20:36</span>
