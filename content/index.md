@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">9</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">10</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260403_Morning-Brief-2026-04-03_0735">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-04-03</span>
+</div>
+<div class="feed-title">Morning Brief 2026-04-03 07:35</div>
+<div class="feed-excerpt">🔴 Risk-Off** — 중동 지정학 + 유가 급등 + 한국 증시 급락의 복합 충격 - **매크로**: 유가 WTI 배럴당 111달러 (2022년 이후 최고치), IMF 미 금리 인하 연 1회 전망 - **리스크**: 코스피 -4.47%, 코스닥 -5.36%...</div>
+</a>
 
 <a class="feed-card" href="12-Research/deep-dive/260403_Deep-Analysis---미국의-생체지표-분석-및-합성생물학(및-제노봇)-관련-기업_0117">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-03-28 12:06</div>
 <div class="feed-excerpt">탐색 범위: 2026-03-28 기준 최근 2주 | High Conviction 7건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: 이란發 매크로 혼란 속 AI 인프라·방산·크루즈의 펀더멘탈 vs 시장심리 괴리 —...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Cameco-Corporation/deal/260328_Deal---Cameco-Corporation-(CCJ)_0752">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-03-28</span>
-</div>
-<div class="feed-title">Deal - Cameco Corporation (CCJ) 07:52</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 정책, 홍콩, 부동산, 보험, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: Cameco는 미·이란 전쟁발 에너지 안보 위기와 AI 데이터센터 전력 수요라는 두 개의...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
