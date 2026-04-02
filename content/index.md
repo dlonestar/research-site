@@ -240,6 +240,96 @@ cssclasses:
 <div class="feed-excerpt">🔴 Risk-Off 지속** — 중동 리스크 심화 + 유가 3년 고점 + 원/달러 17년 최고 + VIX 30선 유지 - **매크로**: WTI $101.18 (52주 고점), 금 $4,521, 10Y 4.44%, 원/달러 1,508.36 (52주 최고) -...</div>
 </a>
 
+<a class="feed-card" href="12-Research/deep-dive/260329_Deep-Analysis---금_0124">
+<div class="feed-header">
+<span class="feed-badge">🔬 DEEP</span>
+<span class="feed-date">2026-03-29</span>
+</div>
+<div class="feed-title">Deep Analysis - 금 01:24</div>
+<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 99건 + AI 검증) 신뢰도: B+** | 숫자 불일치 3건 | 논리 모순 2건 | 확인 필요 5건 금은 연간 수요 5,000톤을 최초 돌파하며 구조적 공급 부족이 심화되고 있다. 중앙은행의 3년 연속 1,000톤급...</div>
+</a>
+
+<a class="feed-card" href="12-Research/deep-dive/260329_Deep-Analysis---비트코인_0123">
+<div class="feed-header">
+<span class="feed-badge">🔬 DEEP</span>
+<span class="feed-date">2026-03-29</span>
+</div>
+<div class="feed-title">Deep Analysis - 비트코인 01:23</div>
+<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 21건 + AI 검증) 신뢰도: B+** | 숫자 불일치 **3**건 | 논리 모순 **2**건 | 확인 필요 **4**건 비트코인은 16년간 단 한 번의 치명적 장애 없이 가동된 세계 최초의 분산형 가치 저장...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/원익QnC/deep-dive/260328_Deep-Analysis---원익QnC_2236">
+<div class="feed-header">
+<span class="feed-badge">🔬 DEEP</span>
+<span class="feed-date">2026-03-28</span>
+</div>
+<div class="feed-title">Deep Analysis - 원익QnC 22:36</div>
+<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 42건 + AI 검증) 신뢰도: B** | 숫자 불일치 8건 | 논리 모순 2건 | 확인 필요 4건 원익QnC는 반도체 전공정에 필수적인 **소모성 석영(쿼츠) 부품**의 글로벌 No.1 공급업체로, 2018년...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/메카로/deal/260328_Deal---메카로-(241770.KS)_2100">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-03-28</span>
+</div>
+<div class="feed-title">Deal - 메카로 (241770.KS) 21:00</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 정책, 홍콩, 부동산, 보험, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 메카로는 국내 반도체 웨이퍼 가공용 히터블럭 시장에서 압도적 점유율(국내 90%+)을...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/성호전자/deal/260328_Deal---성호전자-(043260.KQ)_1931">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-03-28</span>
+</div>
+<div class="feed-title">Deal - 성호전자 (043260.KQ) 19:31</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 정책, 홍콩, 부동산, 보험, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 성호전자는 전원공급장치(PSU)·필름콘덴서 부품 제조사가 AI 데이터센터·CPO 광통신...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/원익큐엔씨/deal/260328_Deal---원익큐엔씨-(074600.KS)_1249">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-03-28</span>
+</div>
+<div class="feed-title">Deal - 원익큐엔씨 (074600.KS) 12:49</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 정책, 홍콩, 부동산, 보험, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 반도체 사이클 본격 회복 국면에서 쿼츠·세정 풀가동 전환으로 2026년 영업이익이 전년...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/글로벌스탠다드테크놀로지/deal/260328_Deal---글로벌스탠다드테크놀로지-(083450.KS)_1248">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-03-28</span>
+</div>
+<div class="feed-title">Deal - 글로벌스탠다드테크놀로지 (083450.KS) 12:48</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 정책, 홍콩, 부동산, 보험, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: GST는 반도체 Scrubber·Chiller의 국내 핵심 공급사로,...</div>
+</a>
+
+<a class="feed-card" href="13-Signals/daily/260328_Morning-Brief-2026-03-28_1230">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-03-28</span>
+</div>
+<div class="feed-title">Morning Brief 2026-03-28 12:30</div>
+<div class="feed-excerpt">🔴 Risk-Off 심화** — 미-이란 충돌 격화 + 유가 $100 돌파 + VIX 31 급등으로 전방위 리스크 확산 - **매크로**: WTI $101.18 (+7.1%), 금 $4,521 (+3.3%), 10Y 4.44%, DXY 100.19, 원/달러...</div>
+</a>
+
+<a class="feed-card" href="13-Signals/scan/260328_Inflection-Scan---2026-03-28_1206">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-03-28</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-03-28 12:06</div>
+<div class="feed-excerpt">탐색 범위: 2026-03-28 기준 최근 2주 | High Conviction 7건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: 이란發 매크로 혼란 속 AI 인프라·방산·크루즈의 펀더멘탈 vs 시장심리 괴리 —...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/Cameco-Corporation/deal/260328_Deal---Cameco-Corporation-(CCJ)_0752">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-03-28</span>
+</div>
+<div class="feed-title">Deal - Cameco Corporation (CCJ) 07:52</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 정책, 홍콩, 부동산, 보험, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: Cameco는 미·이란 전쟁발 에너지 안보 위기와 AI 데이터센터 전력 수요라는 두 개의...</div>
+</a>
+
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
 <a href="about" style="color:var(--gray);text-decoration:none">About</a> · Built without conviction.
 </div>

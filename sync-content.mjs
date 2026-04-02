@@ -301,8 +301,8 @@ index += `</div>
 
 `
 
-// Content feed (up to 20 latest, as rich cards)
-const feedItems = allSorted.slice(0, 20)
+// Content feed (up to 30 latest, as rich cards)
+const feedItems = allSorted.slice(0, 30)
 
 if (feedItems.length > 0) {
   for (const item of feedItems) {
