@@ -52,13 +52,22 @@ cssclasses:
 <a class="category-card" href="categories/_other">
 <div class="card-icon">📂</div>
 <div class="card-body">
-<div class="card-label">Insights & Archives <span class="card-count">1</span></div>
+<div class="card-label">Insights & Archives <span class="card-count">2</span></div>
 <div class="card-desc">유튜브 분석, PDF 리서치, 미팅 노트, 아이디어 메모.</div>
 </div>
 </a>
 </div>
 
 ---
+
+<a class="feed-card" href="12-Research/youtube/260403_Jensen-Huang-인터뷰-분석_-엔비디아의-장기-전략과-AI-산업-전망_1947">
+<div class="feed-header">
+<span class="feed-badge">📂 ARCHIVES</span>
+<span class="feed-date">2026-04-03</span>
+</div>
+<div class="feed-title">"Jensen Huang 인터뷰 분석: 엔비디아의 장기 전략과 AI 산업 전망 19:47" 19:47</div>
+<div class="feed-excerpt">Jensen Huang은 엔비디아가 단순 칩 회사가 아닌 "AI 풀스택 인프라 기업"으로 진화 중이며, Physical AI·디지털 바이올로지·자율주행이 향후 10년을 이끌 복합 성장 엔진이라고 주장한다. ① 엔비디아는 칩 회사가 아니라 AI 풀스택 회사다 -...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/아이엠바이오로직스/deal/260403_Deal---아이엠바이오로직스-(493280.KS)_1905">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deep Analysis - 원익QnC 22:36</div>
 <div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 42건 + AI 검증) 신뢰도: B** | 숫자 불일치 8건 | 논리 모순 2건 | 확인 필요 4건 원익QnC는 반도체 전공정에 필수적인 **소모성 석영(쿼츠) 부품**의 글로벌 No.1 공급업체로, 2018년...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/메카로/deal/260328_Deal---메카로-(241770.KS)_2100">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-03-28</span>
-</div>
-<div class="feed-title">Deal - 메카로 (241770.KS) 21:00</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 정책, 홍콩, 부동산, 보험, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 메카로는 국내 반도체 웨이퍼 가공용 히터블럭 시장에서 압도적 점유율(국내 90%+)을...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
