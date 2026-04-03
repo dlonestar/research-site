@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**18개 리포트** | [← 홈으로 돌아가기](/)
+**19개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/엘앤씨바이오/deal/260403_Deal---엘앤씨바이오-(290650.KS)_1552">
+<span class="recent-date">2026-04-03</span>
+<span class="recent-title">Deal - 엘앤씨바이오 (290650.KS) 15:52</span>
+</a>
 <a class="recent-item" href="/11-Companies/한스바이오메드/deal/260403_Deal---한스바이오메드-(042520.KS)_1502">
 <span class="recent-date">2026-04-03</span>
 <span class="recent-title">Deal - 한스바이오메드 (042520.KS) 15:02</span>
