@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">17</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">18</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/한스바이오메드/deal/260403_Deal---한스바이오메드-(042520.KS)_1502">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-03</span>
+</div>
+<div class="feed-title">Deal - 한스바이오메드 (042520.KS) 15:02</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 인도 시장, 동남아 시장, 일본 시장, 유럽 시장, 중남미, 방산, 인프라 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 한스바이오메드는 아시아 최초 AATB 인가 조직은행 기반의 독보적 ECM(세포외기질)...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260403_Morning-Brief-2026-04-03_0735">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-03-28 12:30</div>
 <div class="feed-excerpt">🔴 Risk-Off 심화** — 미-이란 충돌 격화 + 유가 $100 돌파 + VIX 31 급등으로 전방위 리스크 확산 - **매크로**: WTI $101.18 (+7.1%), 금 $4,521 (+3.3%), 10Y 4.44%, DXY 100.19, 원/달러...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260328_Inflection-Scan---2026-03-28_1206">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-03-28</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-03-28 12:06</div>
-<div class="feed-excerpt">탐색 범위: 2026-03-28 기준 최근 2주 | High Conviction 7건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: 이란發 매크로 혼란 속 AI 인프라·방산·크루즈의 펀더멘탈 vs 시장심리 괴리 —...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
