@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">21</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">22</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/아이엠바이오로직스/deal/260403_Deal---아이엠바이오로직스-(493280.KS)_1905">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-03</span>
+</div>
+<div class="feed-title">Deal - 아이엠바이오로직스 (493280.KS) 19:05</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 인도 시장, 동남아 시장, 일본 시장, 유럽 시장, 중남미, 방산, 인프라 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 아이엠바이오로직스는 OX40L 타깃 항체 플랫폼을 기반으로 자가면역질환 치료제를...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/보로노이/deal/260403_Deal---보로노이-(310210.KQ)_1836">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 메카로 (241770.KS) 21:00</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 정책, 홍콩, 부동산, 보험, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 메카로는 국내 반도체 웨이퍼 가공용 히터블럭 시장에서 압도적 점유율(국내 90%+)을...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/성호전자/deal/260328_Deal---성호전자-(043260.KQ)_1931">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-03-28</span>
-</div>
-<div class="feed-title">Deal - 성호전자 (043260.KQ) 19:31</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 정책, 홍콩, 부동산, 보험, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 성호전자는 전원공급장치(PSU)·필름콘덴서 부품 제조사가 AI 데이터센터·CPO 광통신...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">

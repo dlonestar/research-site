@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**21개 리포트** | [← 홈으로 돌아가기](/)
+**22개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/아이엠바이오로직스/deal/260403_Deal---아이엠바이오로직스-(493280.KS)_1905">
+<span class="recent-date">2026-04-03</span>
+<span class="recent-title">Deal - 아이엠바이오로직스 (493280.KS) 19:05</span>
+</a>
 <a class="recent-item" href="/11-Companies/보로노이/deal/260403_Deal---보로노이-(310210.KQ)_1836">
 <span class="recent-date">2026-04-03</span>
 <span class="recent-title">Deal - 보로노이 (310210.KQ) 18:36</span>
