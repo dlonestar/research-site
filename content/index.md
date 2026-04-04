@@ -10,14 +10,14 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"It's not whether you're right or wrong, but how much money you make when you're right and how much you lose when you're wrong."<br/><span style="color:var(--gray);font-size:0.85em">— George Soros</span></p>
+<p class="hero-quote">"The four most dangerous words in investing are: 'This time it's different.'"<br/><span style="color:var(--gray);font-size:0.85em">— Sir John Templeton</span></p>
 </div>
 
 <div class="category-grid">
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">10</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">11</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260404_Morning-Brief-2026-04-04_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-04-04</span>
+</div>
+<div class="feed-title">Morning Brief 2026-04-04 07:36</div>
+<div class="feed-excerpt">🔴 Risk-Off** — 중동 리스크·유가 급등·연준 매파 기조 3중 압박 - **매크로**: 국제유가 급등, 10년물 금리 상승 압력 지속 - **리스크**: 다우 선물 하락 마감, VIX 상승 경계 국면 - **시그널**: ① 호르무즈 리스크 → 에너지·방산...</div>
+</a>
 
 <a class="feed-card" href="12-Research/youtube/260403_Jensen-Huang-인터뷰-분석_-엔비디아의-장기-전략과-AI-산업-전망_1947">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deep Analysis - 비트코인 01:23</div>
 <div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 21건 + AI 검증) 신뢰도: B+** | 숫자 불일치 **3**건 | 논리 모순 **2**건 | 확인 필요 **4**건 비트코인은 16년간 단 한 번의 치명적 장애 없이 가동된 세계 최초의 분산형 가치 저장...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/원익QnC/deep-dive/260328_Deep-Analysis---원익QnC_2236">
-<div class="feed-header">
-<span class="feed-badge">🔬 DEEP</span>
-<span class="feed-date">2026-03-28</span>
-</div>
-<div class="feed-title">Deep Analysis - 원익QnC 22:36</div>
-<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 42건 + AI 검증) 신뢰도: B** | 숫자 불일치 8건 | 논리 모순 2건 | 확인 필요 4건 원익QnC는 반도체 전공정에 필수적인 **소모성 석영(쿼츠) 부품**의 글로벌 No.1 공급업체로, 2018년...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
