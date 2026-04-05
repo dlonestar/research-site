@@ -10,14 +10,14 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"The four most dangerous words in investing are: 'This time it's different.'"<br/><span style="color:var(--gray);font-size:0.85em">— Sir John Templeton</span></p>
+<p class="hero-quote">"Bull markets are born on pessimism, grow on skepticism, mature on optimism, and die on euphoria."<br/><span style="color:var(--gray);font-size:0.85em">— Sir John Templeton</span></p>
 </div>
 
 <div class="category-grid">
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">11</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">12</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260405_Morning-Brief-2026-04-05_0735">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-04-05</span>
+</div>
+<div class="feed-title">Morning Brief 2026-04-05 07:35</div>
+<div class="feed-excerpt">🔴 Risk-Off** — 지정학 + 고용발 금리 우려 + 유가 급등이 동시 작동하는 삼중 압박 국면 - **매크로**: 유가 급등, 원/달러 환율 1,500원대 상승 압력 지속 - **리스크**: 나스닥·다우존스 조정 국면 진입, VIX 경계 수준 -...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260404_Morning-Brief-2026-04-04_0736">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deep Analysis - 금 01:24</div>
 <div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 99건 + AI 검증) 신뢰도: B+** | 숫자 불일치 3건 | 논리 모순 2건 | 확인 필요 5건 금은 연간 수요 5,000톤을 최초 돌파하며 구조적 공급 부족이 심화되고 있다. 중앙은행의 3년 연속 1,000톤급...</div>
-</a>
-
-<a class="feed-card" href="12-Research/deep-dive/260329_Deep-Analysis---비트코인_0123">
-<div class="feed-header">
-<span class="feed-badge">🔬 DEEP</span>
-<span class="feed-date">2026-03-29</span>
-</div>
-<div class="feed-title">Deep Analysis - 비트코인 01:23</div>
-<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 21건 + AI 검증) 신뢰도: B+** | 숫자 불일치 **3**건 | 논리 모순 **2**건 | 확인 필요 **4**건 비트코인은 16년간 단 한 번의 치명적 장애 없이 가동된 세계 최초의 분산형 가치 저장...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
