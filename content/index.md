@@ -10,14 +10,14 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"Bull markets are born on pessimism, grow on skepticism, mature on optimism, and die on euphoria."<br/><span style="color:var(--gray);font-size:0.85em">— Sir John Templeton</span></p>
+<p class="hero-quote">"He who lives by the crystal ball will eat shattered glass."<br/><span style="color:var(--gray);font-size:0.85em">— Ray Dalio</span></p>
 </div>
 
 <div class="category-grid">
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">12</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">13</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260406_Morning-Brief-2026-04-06_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-04-06</span>
+</div>
+<div class="feed-title">Morning Brief 2026-04-06 07:36</div>
+<div class="feed-excerpt">🟡 Risk-Mixed** — 지정학 완화 조짐 vs. 긴축 우려 재부상, 방향성 탐색 국면 - **매크로**: 미국 3월 고용 예상 상회 → 연준 금리 인하 기대 후퇴, 강달러 압력 지속 - **리스크**: 코스피 +2.74% 반등, 반도체 주도 회복세 / 트럼프...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260405_Morning-Brief-2026-04-05_0735">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-03-29 07:35</div>
 <div class="feed-excerpt">🔴 Risk-Off 지속** — 중동 리스크 심화 + 유가 3년 고점 + 원/달러 17년 최고 + VIX 30선 유지 - **매크로**: WTI $101.18 (52주 고점), 금 $4,521, 10Y 4.44%, 원/달러 1,508.36 (52주 최고) -...</div>
-</a>
-
-<a class="feed-card" href="12-Research/deep-dive/260329_Deep-Analysis---금_0124">
-<div class="feed-header">
-<span class="feed-badge">🔬 DEEP</span>
-<span class="feed-date">2026-03-29</span>
-</div>
-<div class="feed-title">Deep Analysis - 금 01:24</div>
-<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 99건 + AI 검증) 신뢰도: B+** | 숫자 불일치 3건 | 논리 모순 2건 | 확인 필요 5건 금은 연간 수요 5,000톤을 최초 돌파하며 구조적 공급 부족이 심화되고 있다. 중앙은행의 3년 연속 1,000톤급...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
