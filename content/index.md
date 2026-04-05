@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">23</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">24</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/Cheniere-Energy,-Inc./deal/260406_Deal---Cheniere-Energy,-Inc.-(LNG)_0750">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-06</span>
+</div>
+<div class="feed-title">Deal - Cheniere Energy, Inc. (LNG) 07:50</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 전기차, 로보틱스, 핀테크, 크립토, 럭셔리, 이커머스, 인도 시장 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스:** Cheniere는 미국 최대 LNG 수출 인프라 독점자로, 호르무즈 해협 봉쇄라는...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/리노공업/deal/260406_Deal---리노공업-(058470.KS)_0744">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Argan Inc. (AGX) 07:51</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 클린에너지, 원자재, 전기차, 로보틱스, 핀테크, 크립토, 럭셔리 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: AGX는 '전력 인프라 슈퍼사이클'의 가장 직접적인 수혜자이나, 주가가 이미 1년...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/두산로보틱스/deal/260329_Deal---두산로보틱스-(454910.KQ)_0746">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-03-29</span>
-</div>
-<div class="feed-title">Deal - 두산로보틱스 (454910.KQ) 07:46</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 클린에너지, 원자재, 전기차, 로보틱스, 핀테크, 크립토, 럭셔리 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 두산로보틱스는 글로벌 협동로봇(코봇) 시장의 구조적 성장과 미국 '탈중국' 공급망...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
