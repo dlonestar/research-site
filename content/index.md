@@ -52,13 +52,22 @@ cssclasses:
 <a class="category-card" href="categories/_other">
 <div class="card-icon">📂</div>
 <div class="card-body">
-<div class="card-label">Insights & Archives <span class="card-count">2</span></div>
+<div class="card-label">Insights & Archives <span class="card-count">3</span></div>
 <div class="card-desc">유튜브 분석, PDF 리서치, 미팅 노트, 아이디어 메모.</div>
 </div>
 </a>
 </div>
 
 ---
+
+<a class="feed-card" href="12-Research/deep-dive/260406_한국-방산업-딥-리서치_-글로벌-10위-방산-강국의-구조적-성장과-투자-기회_1236">
+<div class="feed-header">
+<span class="feed-badge">📂 ARCHIVES</span>
+<span class="feed-date">2026-04-06</span>
+</div>
+<div class="feed-title">'한국 방산업 딥 리서치: 글로벌 10위 방산 강국의 구조적 성장과 투자 기회 12:36' 12:36</div>
+<div class="feed-excerpt">한국 방산업은 2024년 매출 +31% 성장(세계 3위 성장률), 세계 100대 방산기업 내 비중 1.7%→2.1%, 수주잔고 113조 원 돌파라는 수치를 기록했다. 이것이 우크라이나 전쟁발 일회성 호황인지, 글로벌 안보 패러다임 전환에 따른 **구조적 성장의...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Cheniere-Energy,-Inc./deal/260406_Deal---Cheniere-Energy,-Inc.-(LNG)_0750">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-03-30 07:36</div>
 <div class="feed-excerpt">🔴 Risk-Off 지속** — 중동 리스크 + 유가 고공행진 + 인플레이션 재점화 + Fed 인하 기대 후퇴 - **매크로**: 유가 고공행진 지속, 10Y 금리 상승 압력, 원/달러 17년 최고권 유지 - **리스크**: S&P 500 5주 연속 하락, 나스닥...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Argan-Inc./deal/260329_Deal---Argan-Inc.-(AGX)_0751">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-03-29</span>
-</div>
-<div class="feed-title">Deal - Argan Inc. (AGX) 07:51</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 클린에너지, 원자재, 전기차, 로보틱스, 핀테크, 크립토, 럭셔리 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: AGX는 '전력 인프라 슈퍼사이클'의 가장 직접적인 수혜자이나, 주가가 이미 1년...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
