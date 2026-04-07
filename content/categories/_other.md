@@ -7,7 +7,7 @@ publish: true
 
 > 유튜브 분석, PDF 리서치, 미팅 노트, 아이디어 메모.
 
-**5개 리포트** | [← 홈으로 돌아가기](/)
+**6개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
@@ -15,6 +15,10 @@ publish: true
 <a class="recent-item" href="/12-Research/deep-dive/260407_전력기기-슈퍼사이클_-AI-확산이-촉발한-구조적-전환과-투자-기회_2307">
 <span class="recent-date">2026-04-07</span>
 <span class="recent-title">'전력기기 슈퍼사이클: AI 확산이 촉발한 구조적 전환과 투자 기회 23:07' 23:07</span>
+</a>
+<a class="recent-item" href="/12-Research/deep-dive/260407_한국-반도체-딥-리서치_-AI·HBM-슈퍼사이클의-수혜자와-소외자-—-구조적-불균형-속-투자-기회-발굴_2234">
+<span class="recent-date">2026-04-07</span>
+<span class="recent-title">'한국 반도체 딥 리서치: AI·HBM 슈퍼사이클의 수혜자와 소외자 — 구조적 불균형 속 투자 기회 발굴 22:34' 22:34</span>
 </a>
 <a class="recent-item" href="/12-Research/deep-dive/260407_한국-원자력-—-원전-르네상스의-최전선_-대형-원전·SMR-이중-모멘텀과-수혜-종목-심층-분석_2043">
 <span class="recent-date">2026-04-07</span>

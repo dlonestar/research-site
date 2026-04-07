@@ -52,7 +52,7 @@ cssclasses:
 <a class="category-card" href="categories/_other">
 <div class="card-icon">📂</div>
 <div class="card-body">
-<div class="card-label">Insights & Archives <span class="card-count">5</span></div>
+<div class="card-label">Insights & Archives <span class="card-count">6</span></div>
 <div class="card-desc">유튜브 분석, PDF 리서치, 미팅 노트, 아이디어 메모.</div>
 </div>
 </a>
@@ -67,6 +67,15 @@ cssclasses:
 </div>
 <div class="feed-title">'전력기기 슈퍼사이클: AI 확산이 촉발한 구조적 전환과 투자 기회 23:07' 23:07</div>
 <div class="feed-excerpt">AI 데이터센터 전력 수요 폭증 + 북미·유럽 노후 전력망 교체 + 에너지 전환이라는 **삼중 수렴(Triple Convergence)**이 동시에 발화하며 전력기기 산업이 수십 년 만의 구조적 슈퍼사이클에 진입했다. 이는 단순한 경기 사이클이 아니라 **공급 병목이...</div>
+</a>
+
+<a class="feed-card" href="12-Research/deep-dive/260407_한국-반도체-딥-리서치_-AI·HBM-슈퍼사이클의-수혜자와-소외자-—-구조적-불균형-속-투자-기회-발굴_2234">
+<div class="feed-header">
+<span class="feed-badge">📂 ARCHIVES</span>
+<span class="feed-date">2026-04-07</span>
+</div>
+<div class="feed-title">'한국 반도체 딥 리서치: AI·HBM 슈퍼사이클의 수혜자와 소외자 — 구조적 불균형 속 투자 기회 발굴 22:34' 22:34</div>
+<div class="feed-excerpt">2026년 글로벌 반도체 시장은 $9,098억~$9,750억(YoY +17.8%)으로 사상 최대 규모에 도달하며, 한국은 HBM·AI 메모리 수출 $1,880억(역대 최대)으로 그 중심에 선다. 그러나 이 슈퍼사이클은 전통 메모리 사이클과 구조적으로 다르다 — 공급...</div>
 </a>
 
 <a class="feed-card" href="12-Research/deep-dive/260407_한국-원자력-—-원전-르네상스의-최전선_-대형-원전·SMR-이중-모멘텀과-수혜-종목-심층-분석_2043">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 씨메스 로보틱스 (구 씨메스) 20:26</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 인프라, 농업기술, 교육, 미디어, 한국 시장, 중국 테크, 중국 정책 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 씨메스 로보틱스는 "피지컬 AI"라는 새로운 패러다임의 최전선에 서 있는 국내...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260331_Inflection-Scan---2026-03-31_0906">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-03-31</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-03-31 09:06</div>
-<div class="feed-excerpt">탐색 범위: 2026-03-31 기준 최근 2주 | High Conviction 7건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: 이란발 매크로 충격이 AI 인프라 슈퍼사이클 & 바이오 구조 변곡점 기업들의 가격을...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
