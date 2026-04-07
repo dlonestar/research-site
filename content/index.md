@@ -38,7 +38,7 @@ cssclasses:
 <a class="category-card" href="categories/deep">
 <div class="card-icon">🔬</div>
 <div class="card-body">
-<div class="card-label">Deep & Final Analysis <span class="card-count">13</span></div>
+<div class="card-label">Deep & Final Analysis <span class="card-count">14</span></div>
 <div class="card-desc">기업/섹터 심층 분석. 25-80페이지.</div>
 </div>
 </a>
@@ -85,6 +85,15 @@ cssclasses:
 </div>
 <div class="feed-title">'한국 소부장(소재·부품·장비) 딥 리서치 리포트: 위기 대응형에서 미래 선도형으로, 지금 투자해야 하는 이유 22:33' 22:33</div>
 <div class="feed-excerpt">[!abstract] 리포트 핵심 테제 한국 소부장 산업은 지금 3개의 독립적 성장 엔진이 동시 점화되는 역사적 변곡점에 서 있다. ①2019년 충격이 촉발한 국산화 성과의 실체적 검증, ②AI/HBM 슈퍼사이클이 만든 전례 없는 수요 폭발, ③제2차...</div>
+</a>
+
+<a class="feed-card" href="12-Research/deep-dive/260407_한국-원자력-산업-투자-리포트_-탈원전-반전에서-글로벌-원전-르네상스-수혜까지_2233">
+<div class="feed-header">
+<span class="feed-badge">🔬 DEEP</span>
+<span class="feed-date">2026-04-07</span>
+</div>
+<div class="feed-title">'한국 원자력 산업 투자 리포트: 탈원전 반전에서 글로벌 원전 르네상스 수혜까지 22:33' 22:33</div>
+<div class="feed-excerpt">탈원전 정책 반전(2022), AI발 전력 수요 폭증, COP28 글로벌 원전 확대 선언이라는 **3중 촉매**가 동시에 작동 중이다. 한국 원전 산업 매출은 2021~2023년 2년간 48% 급성장했으며, 이는 단순 정책 모멘텀이 아닌 **에너지 패러다임 전환의...</div>
 </a>
 
 <a class="feed-card" href="12-Research/deep-dive/260407_한국-원자력-—-원전-르네상스의-최전선_-대형-원전·SMR-이중-모멘텀과-수혜-종목-심층-분석_2043">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deep Analysis - 리브스메드 22:30</div>
 <div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 16건 + AI 검증) 신뢰도: B** | 숫자 불일치 4건 | 논리 모순 1건 | 확인 필요 4건 이 보고서는 **DART 연결재무제표 없이** 작성되었습니다 (신규 상장사, 매칭 실패, 또는 공시 미비)....</div>
-</a>
-
-<a class="feed-card" href="11-Companies/리브스메드/deal/260331_Deal---리브스메드-(491000.KQ)_2026">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-03-31</span>
-</div>
-<div class="feed-title">Deal - 리브스메드 (491000.KQ) 20:26</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 인프라, 농업기술, 교육, 미디어, 한국 시장, 중국 테크, 중국 정책 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 세계 최초 90° 다관절 기술을 보유한 최소침습수술기구 전문기업으로,...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
