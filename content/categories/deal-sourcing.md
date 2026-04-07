@@ -7,11 +7,23 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**25개 리포트** | [← 홈으로 돌아가기](/)
+**28개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/DL이앤씨/deal/260407_Deal---DL이앤씨-(375500.KS)_1003">
+<span class="recent-date">2026-04-07</span>
+<span class="recent-title">Deal - DL이앤씨 (375500.KS) 10:03</span>
+</a>
+<a class="recent-item" href="/11-Companies/서진시스템/deal/260407_Deal---서진시스템-(178320.KQ)_1003">
+<span class="recent-date">2026-04-07</span>
+<span class="recent-title">Deal - 서진시스템 (178320.KQ) 10:03</span>
+</a>
+<a class="recent-item" href="/11-Companies/신흥에스이씨/deal/260407_Deal---신흥에스이씨-(243840.KS)_1002">
+<span class="recent-date">2026-04-07</span>
+<span class="recent-title">Deal - 신흥에스이씨 (243840.KS) 10:02</span>
+</a>
 <a class="recent-item" href="/11-Companies/한화에어로스페이스/deal/260407_Deal---한화에어로스페이스-(Hanwha-Aerospace-Co.,-Ltd.)_0746">
 <span class="recent-date">2026-04-07</span>
 <span class="recent-title">Deal - 한화에어로스페이스 (Hanwha Aerospace Co., Ltd.) 07:46</span>

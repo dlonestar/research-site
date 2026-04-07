@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">25</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">28</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,33 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/DL이앤씨/deal/260407_Deal---DL이앤씨-(375500.KS)_1003">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-07</span>
+</div>
+<div class="feed-title">Deal - DL이앤씨 (375500.KS) 10:03</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 동남아 시장, 일본 시장, 유럽 시장, 중남미, 방산, 인프라, 농업기술 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: DL이앤씨는 건설업 사이클 저점에서 PBR 0.6배에 거래되는 AA- 우량 건설사로,...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/서진시스템/deal/260407_Deal---서진시스템-(178320.KQ)_1003">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-07</span>
+</div>
+<div class="feed-title">Deal - 서진시스템 (178320.KQ) 10:03</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 동남아 시장, 일본 시장, 유럽 시장, 중남미, 방산, 인프라, 농업기술 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 서진시스템은 ESS·AI 데이터센터·6G 통신이라는 3대 슈퍼사이클의 교차점에 위치한...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/신흥에스이씨/deal/260407_Deal---신흥에스이씨-(243840.KS)_1002">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-07</span>
+</div>
+<div class="feed-title">Deal - 신흥에스이씨 (243840.KS) 10:02</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 동남아 시장, 일본 시장, 유럽 시장, 중남미, 방산, 인프라, 농업기술 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 신흥에스이씨는 삼성SDI 40년 동반자로서 각형 배터리 핵심 안전소자(Cap...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/한화에어로스페이스/deal/260407_Deal---한화에어로스페이스-(Hanwha-Aerospace-Co.,-Ltd.)_0746">
 <div class="feed-header">
@@ -301,33 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Iperionx Ltd (IPX) 07:51</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 인프라, 농업기술, 교육, 미디어, 한국 시장, 중국 테크, 중국 정책 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: IperionX는 미국 내 유일한 상장 티타늄 순수 플레이어로, 러시아·중국...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/HD현대에너지솔루션/deal/260331_Deal---HD현대에너지솔루션-(HD-Hyundai-Energy-Solutions-Co.,-Ltd.)_0746">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-03-31</span>
-</div>
-<div class="feed-title">Deal - HD현대에너지솔루션 (HD Hyundai Energy Solutions Co., Ltd.) 07:46</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 인프라, 농업기술, 교육, 미디어, 한국 시장, 중국 테크, 중국 정책 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 이란 전쟁발 에너지 위기가 글로벌 재생에너지 전환 수요를 촉발하는 가운데,...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260331_Morning-Brief-2026-03-31_0736">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-03-31</span>
-</div>
-<div class="feed-title">Morning Brief 2026-03-31 07:36</div>
-<div class="feed-excerpt">🔴 Risk-Off 심화** — 중동 분쟁 에스컬레이션 + 유가 $100 돌파 지속 + Fed 고금리 장기화 고착 - **매크로**: WTI $102.61, 10Y 금리 4.44%, USD/KRW 1,507.95 (17년 최고권) - **리스크**: S&P 500...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Zscaler,-Inc./deal/260330_Deal---Zscaler,-Inc.-(ZS)_0801">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-03-30</span>
-</div>
-<div class="feed-title">Deal - Zscaler, Inc. (ZS) 08:01</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 이커머스, 인도 시장, 동남아 시장, 일본 시장, 유럽 시장, 중남미, 방산 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: Zero Trust 보안의 구조적 시장 확대 수혜 속, 52주 저점에 위치한 비대칭...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
