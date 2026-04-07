@@ -215,7 +215,7 @@ for (const file of walkDir(VAULT_ROOT)) {
 const byType = {}
 for (const p of published) {
   let key = p.type
-  if (['deep-company', 'deep-research', 'final-company', 'final-research'].includes(key)) key = 'deep'
+  if (['deep-company', 'deep-research', 'final-company', 'final-research', 'topic-research'].includes(key)) key = 'deep'
   if (['inflection-scan'].includes(key)) key = 'scan'
   if (!KNOWN_KEYS.has(key)) key = '_other'
   if (!byType[key]) byType[key] = []
@@ -252,7 +252,7 @@ for (const c of CATEGORIES) catLookup[c.key] = c
 
 // ─── Helper: resolve category key ───
 function resolveCatKey(type) {
-  if (['deep-company','deep-research','final-company','final-research'].includes(type)) return 'deep'
+  if (['deep-company','deep-research','final-company','final-research','topic-research'].includes(type)) return 'deep'
   if (['inflection-scan'].includes(type)) return 'scan'
   if (!KNOWN_KEYS.has(type)) return '_other'
   return type

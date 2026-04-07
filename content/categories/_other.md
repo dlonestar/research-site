@@ -7,31 +7,11 @@ publish: true
 
 > 유튜브 분석, PDF 리서치, 미팅 노트, 아이디어 메모.
 
-**7개 리포트** | [← 홈으로 돌아가기](/)
+**2개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
-<a class="recent-item" href="/12-Research/deep-dive/260407_전력기기-슈퍼사이클_-AI-확산이-촉발한-구조적-전환과-투자-기회_2307">
-<span class="recent-date">2026-04-07</span>
-<span class="recent-title">'전력기기 슈퍼사이클: AI 확산이 촉발한 구조적 전환과 투자 기회 23:07' 23:07</span>
-</a>
-<a class="recent-item" href="/12-Research/deep-dive/260407_한국-반도체-딥-리서치_-AI·HBM-슈퍼사이클의-수혜자와-소외자-—-구조적-불균형-속-투자-기회-발굴_2234">
-<span class="recent-date">2026-04-07</span>
-<span class="recent-title">'한국 반도체 딥 리서치: AI·HBM 슈퍼사이클의 수혜자와 소외자 — 구조적 불균형 속 투자 기회 발굴 22:34' 22:34</span>
-</a>
-<a class="recent-item" href="/12-Research/deep-dive/260407_한국-소부장(소재·부품·장비)-딥-리서치-리포트_-위기-대응형에서-미래-선도형으로,-지금-투자해야-하는-이유_2233">
-<span class="recent-date">2026-04-07</span>
-<span class="recent-title">'한국 소부장(소재·부품·장비) 딥 리서치 리포트: 위기 대응형에서 미래 선도형으로, 지금 투자해야 하는 이유 22:33' 22:33</span>
-</a>
-<a class="recent-item" href="/12-Research/deep-dive/260407_한국-원자력-—-원전-르네상스의-최전선_-대형-원전·SMR-이중-모멘텀과-수혜-종목-심층-분석_2043">
-<span class="recent-date">2026-04-07</span>
-<span class="recent-title">'한국 원자력 — 원전 르네상스의 최전선: 대형 원전·SMR 이중 모멘텀과 수혜 종목 심층 분석 20:43' 20:43</span>
-</a>
-<a class="recent-item" href="/12-Research/deep-dive/260406_한국-방산업-딥-리서치_-글로벌-10위-방산-강국의-구조적-성장과-투자-기회_1236">
-<span class="recent-date">2026-04-06</span>
-<span class="recent-title">'한국 방산업 딥 리서치: 글로벌 10위 방산 강국의 구조적 성장과 투자 기회 12:36' 12:36</span>
-</a>
 <a class="recent-item" href="/12-Research/youtube/260403_Jensen-Huang-인터뷰-분석_-엔비디아의-장기-전략과-AI-산업-전망_1947">
 <span class="recent-date">2026-04-03</span>
 <span class="recent-title">"Jensen Huang 인터뷰 분석: 엔비디아의 장기 전략과 AI 산업 전망 19:47" 19:47</span>
