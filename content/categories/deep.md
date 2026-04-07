@@ -7,7 +7,7 @@ publish: true
 
 > 기업/섹터 심층 분석. 25-80페이지.
 
-**14개 리포트** | [← 홈으로 돌아가기](/)
+**13개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
@@ -27,10 +27,6 @@ publish: true
 <a class="recent-item" href="/12-Research/deep-dive/260407_한국-원자력-산업-투자-리포트_-탈원전-반전에서-글로벌-원전-르네상스-수혜까지_2233">
 <span class="recent-date">2026-04-07</span>
 <span class="recent-title">'한국 원자력 산업 투자 리포트: 탈원전 반전에서 글로벌 원전 르네상스 수혜까지 22:33' 22:33</span>
-</a>
-<a class="recent-item" href="/12-Research/deep-dive/260407_한국-원자력-—-원전-르네상스의-최전선_-대형-원전·SMR-이중-모멘텀과-수혜-종목-심층-분석_2043">
-<span class="recent-date">2026-04-07</span>
-<span class="recent-title">'한국 원자력 — 원전 르네상스의 최전선: 대형 원전·SMR 이중 모멘텀과 수혜 종목 심층 분석 20:43' 20:43</span>
 </a>
 <a class="recent-item" href="/12-Research/deep-dive/260406_한국-방산업-딥-리서치_-글로벌-10위-방산-강국의-구조적-성장과-투자-기회_1236">
 <span class="recent-date">2026-04-06</span>
