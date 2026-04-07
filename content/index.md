@@ -52,13 +52,22 @@ cssclasses:
 <a class="category-card" href="categories/_other">
 <div class="card-icon">📂</div>
 <div class="card-body">
-<div class="card-label">Insights & Archives <span class="card-count">3</span></div>
+<div class="card-label">Insights & Archives <span class="card-count">4</span></div>
 <div class="card-desc">유튜브 분석, PDF 리서치, 미팅 노트, 아이디어 메모.</div>
 </div>
 </a>
 </div>
 
 ---
+
+<a class="feed-card" href="12-Research/deep-dive/260407_한국-원자력-—-원전-르네상스의-최전선_-대형-원전·SMR-이중-모멘텀과-수혜-종목-심층-분석_2043">
+<div class="feed-header">
+<span class="feed-badge">📂 ARCHIVES</span>
+<span class="feed-date">2026-04-07</span>
+</div>
+<div class="feed-title">'한국 원자력 — 원전 르네상스의 최전선: 대형 원전·SMR 이중 모멘텀과 수혜 종목 심층 분석 20:43' 20:43</div>
+<div class="feed-excerpt">에너지 안보·탄소중립·AI 전력 수요라는 세 가지 구조적 동인이 사상 처음으로 동시 수렴하며, 한국 원자력 산업은 단순한 정책 수혜를 넘어 **글로벌 공급자 포지션 확립**이라는 역사적 변곡점에 진입했다. 체코 수주 확정·11차 전기본·고리 2호기 재가동이 집중된...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/DL이앤씨/deal/260407_Deal---DL이앤씨-(375500.KS)_1003">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deep Analysis - GST 08:37</div>
 <div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 21건 + AI 검증) 신뢰도: B** | 숫자 불일치 4건 | 논리 모순 2건 | 확인 필요 6건 GST는 반도체 공장의 "폐"와 "에어컨"을 만드는 회사다 — 유해가스를 정화하는 스크러버와 공정 온도를 제어하는...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Iperionx-Ltd/deal/260331_Deal---Iperionx-Ltd-(IPX)_0751">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-03-31</span>
-</div>
-<div class="feed-title">Deal - Iperionx Ltd (IPX) 07:51</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 인프라, 농업기술, 교육, 미디어, 한국 시장, 중국 테크, 중국 정책 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: IperionX는 미국 내 유일한 상장 티타늄 순수 플레이어로, 러시아·중국...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">

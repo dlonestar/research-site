@@ -7,11 +7,15 @@ publish: true
 
 > 유튜브 분석, PDF 리서치, 미팅 노트, 아이디어 메모.
 
-**3개 리포트** | [← 홈으로 돌아가기](/)
+**4개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/12-Research/deep-dive/260407_한국-원자력-—-원전-르네상스의-최전선_-대형-원전·SMR-이중-모멘텀과-수혜-종목-심층-분석_2043">
+<span class="recent-date">2026-04-07</span>
+<span class="recent-title">'한국 원자력 — 원전 르네상스의 최전선: 대형 원전·SMR 이중 모멘텀과 수혜 종목 심층 분석 20:43' 20:43</span>
+</a>
 <a class="recent-item" href="/12-Research/deep-dive/260406_한국-방산업-딥-리서치_-글로벌-10위-방산-강국의-구조적-성장과-투자-기회_1236">
 <span class="recent-date">2026-04-06</span>
 <span class="recent-title">'한국 방산업 딥 리서치: 글로벌 10위 방산 강국의 구조적 성장과 투자 기회 12:36' 12:36</span>
