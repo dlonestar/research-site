@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">13</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">14</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">24</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">25</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,24 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/한화에어로스페이스/deal/260407_Deal---한화에어로스페이스-(Hanwha-Aerospace-Co.,-Ltd.)_0746">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-07</span>
+</div>
+<div class="feed-title">Deal - 한화에어로스페이스 (Hanwha Aerospace Co., Ltd.) 07:46</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 동남아 시장, 일본 시장, 유럽 시장, 중남미, 방산, 인프라, 농업기술 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 지정학적 복합 위기(러-우 전쟁 + 미-이란 전쟁 + NATO 재무장)가 만든 구조적...</div>
+</a>
+
+<a class="feed-card" href="13-Signals/daily/260407_Morning-Brief-2026-04-07_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-04-07</span>
+</div>
+<div class="feed-title">Morning Brief 2026-04-07 07:36</div>
+<div class="feed-excerpt">🟡 조심스러운 Risk-On** — 고용 호조·중동 완화 기대 vs. 이란 긴장 재고조의 줄다리기 - **매크로**: 실시간 데이터 참조 (유가 상승 압력 지속, 금리 고점 논란 재점화) - **리스크**: VIX 실시간 참조 | 중동 지정학 불확실성 + 유가...</div>
+</a>
 
 <a class="feed-card" href="12-Research/deep-dive/260406_한국-방산업-딥-리서치_-글로벌-10위-방산-강국의-구조적-성장과-투자-기회_1236">
 <div class="feed-header">
@@ -310,24 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Zscaler, Inc. (ZS) 08:01</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 이커머스, 인도 시장, 동남아 시장, 일본 시장, 유럽 시장, 중남미, 방산 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: Zero Trust 보안의 구조적 시장 확대 수혜 속, 52주 저점에 위치한 비대칭...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/아나패스/deal/260330_Deal---아나패스-(Anapas-Inc.)_0746">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-03-30</span>
-</div>
-<div class="feed-title">Deal - 아나패스 (Anapas Inc.) 07:46</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 이커머스, 인도 시장, 동남아 시장, 일본 시장, 유럽 시장, 중남미, 방산 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 온디바이스 AI 확산으로 디스플레이 업그레이드 사이클이 구조적으로 시작되는 가운데,...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260330_Morning-Brief-2026-03-30_0736">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-03-30</span>
-</div>
-<div class="feed-title">Morning Brief 2026-03-30 07:36</div>
-<div class="feed-excerpt">🔴 Risk-Off 지속** — 중동 리스크 + 유가 고공행진 + 인플레이션 재점화 + Fed 인하 기대 후퇴 - **매크로**: 유가 고공행진 지속, 10Y 금리 상승 압력, 원/달러 17년 최고권 유지 - **리스크**: S&P 500 5주 연속 하락, 나스닥...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
