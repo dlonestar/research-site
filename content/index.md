@@ -52,13 +52,22 @@ cssclasses:
 <a class="category-card" href="categories/_other">
 <div class="card-icon">📂</div>
 <div class="card-body">
-<div class="card-label">Insights & Archives <span class="card-count">4</span></div>
+<div class="card-label">Insights & Archives <span class="card-count">5</span></div>
 <div class="card-desc">유튜브 분석, PDF 리서치, 미팅 노트, 아이디어 메모.</div>
 </div>
 </a>
 </div>
 
 ---
+
+<a class="feed-card" href="12-Research/deep-dive/260407_전력기기-슈퍼사이클_-AI-확산이-촉발한-구조적-전환과-투자-기회_2307">
+<div class="feed-header">
+<span class="feed-badge">📂 ARCHIVES</span>
+<span class="feed-date">2026-04-07</span>
+</div>
+<div class="feed-title">'전력기기 슈퍼사이클: AI 확산이 촉발한 구조적 전환과 투자 기회 23:07' 23:07</div>
+<div class="feed-excerpt">AI 데이터센터 전력 수요 폭증 + 북미·유럽 노후 전력망 교체 + 에너지 전환이라는 **삼중 수렴(Triple Convergence)**이 동시에 발화하며 전력기기 산업이 수십 년 만의 구조적 슈퍼사이클에 진입했다. 이는 단순한 경기 사이클이 아니라 **공급 병목이...</div>
+</a>
 
 <a class="feed-card" href="12-Research/deep-dive/260407_한국-원자력-—-원전-르네상스의-최전선_-대형-원전·SMR-이중-모멘텀과-수혜-종목-심층-분석_2043">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-03-31 09:06</div>
 <div class="feed-excerpt">탐색 범위: 2026-03-31 기준 최근 2주 | High Conviction 7건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: 이란발 매크로 충격이 AI 인프라 슈퍼사이클 & 바이오 구조 변곡점 기업들의 가격을...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/GST/deep-dive/260331_Deep-Analysis---GST_0837">
-<div class="feed-header">
-<span class="feed-badge">🔬 DEEP</span>
-<span class="feed-date">2026-03-31</span>
-</div>
-<div class="feed-title">Deep Analysis - GST 08:37</div>
-<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 21건 + AI 검증) 신뢰도: B** | 숫자 불일치 4건 | 논리 모순 2건 | 확인 필요 6건 GST는 반도체 공장의 "폐"와 "에어컨"을 만드는 회사다 — 유해가스를 정화하는 스크러버와 공정 온도를 제어하는...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
