@@ -161,6 +161,40 @@ function extractExcerpt(body, maxLen) {
   return full.length >= maxLen ? full.slice(0, full.lastIndexOf(' ')) + '...' : full
 }
 
+// ─── HTML Sanitizer ───
+// AI-generated reports sometimes have malformed HTML that crashes Quartz's rehype parser.
+// Two failure modes: (1) truncated tags (cut off mid-attribute), (2) unclosed tags.
+function sanitizeHtml(content) {
+  const lines = content.split('\n')
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i]
+    // Detect truncated HTML tags: line contains '<' opening a tag but never closes with '>'
+    // Only check lines that look like HTML (start with < or contain inline HTML)
+    if (/<[a-zA-Z][^>]*$/.test(line) && !line.trim().startsWith('```')) {
+      // Tag opened but never closed on this line — check if next line continues it
+      const nextLine = (lines[i + 1] || '').trim()
+      if (!nextLine.startsWith('>') && !nextLine.startsWith('</') && !nextLine.match(/^[^<]*>/)) {
+        // Truly truncated tag — remove the broken line
+        lines[i] = ''
+      }
+    }
+  }
+  content = lines.join('\n')
+
+  // Close any remaining unclosed block-level tags
+  const tags = ['div', 'span', 'details', 'summary', 'section']
+  for (const tag of tags) {
+    const openRe = new RegExp(`<${tag}[\\s>]`, 'gi')
+    const closeRe = new RegExp(`</${tag}>`, 'gi')
+    const opens = (content.match(openRe) || []).length
+    const closes = (content.match(closeRe) || []).length
+    if (opens > closes) {
+      content += `\n</${tag}>`.repeat(opens - closes)
+    }
+  }
+  return content
+}
+
 // Sync files
 const published = []
 let copied = 0, skipped = 0
@@ -176,8 +210,16 @@ for (const file of walkDir(VAULT_ROOT)) {
     const rel = relative(VAULT_ROOT, file)
     const target = join(CONTENT_DIR, rel)
     mkdirSync(dirname(target), { recursive: true })
-    copyFileSync(file, target)
-    console.log(`  ✅ ${rel}`)
+    // Sanitize HTML before writing to prevent Quartz build crashes
+    const raw = readFileSync(file, 'utf-8')
+    const sanitized = sanitizeHtml(raw)
+    if (raw !== sanitized) {
+      writeFileSync(target, sanitized, 'utf-8')
+      console.log(`  ✅ ${rel} (HTML sanitized)`)
+    } else {
+      copyFileSync(file, target)
+      console.log(`  ✅ ${rel}`)
+    }
 
     // Build Quartz-compatible path for links
     const quartzPath = rel
