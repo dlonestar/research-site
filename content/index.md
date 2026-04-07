@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"He who lives by the crystal ball will eat shattered glass."<br/><span style="color:var(--gray);font-size:0.85em">— Ray Dalio</span></p>
+<p class="hero-quote">"The stock market is the story of cycles and of the human behavior that is responsible for overreactions in both directions."<br/><span style="color:var(--gray);font-size:0.85em">— Seth Klarman</span></p>
 </div>
 
 <div class="category-grid">
