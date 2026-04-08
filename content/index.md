@@ -38,7 +38,7 @@ cssclasses:
 <a class="category-card" href="categories/deep">
 <div class="card-icon">🔬</div>
 <div class="card-body">
-<div class="card-label">Deep & Final Analysis <span class="card-count">13</span></div>
+<div class="card-label">Deep & Final Analysis <span class="card-count">14</span></div>
 <div class="card-desc">기업/섹터 심층 분석. 25-80페이지.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="12-Research/deep-dive/260408_한국-슈퍼캐패시터-산업-딥-리서치_-에너지-전환의-숨겨진-인프라,-지금-주목해야-하는-이유_2315">
+<div class="feed-header">
+<span class="feed-badge">🔬 DEEP</span>
+<span class="feed-date">2026-04-08</span>
+</div>
+<div class="feed-title">'한국 슈퍼캐패시터 산업 딥 리서치: 에너지 전환의 숨겨진 인프라, 지금 주목해야 하는 이유 23:15' 23:15</div>
+<div class="feed-excerpt">슈퍼캐패시터는 배터리를 **대체**하는 것이 아니라 **보완**한다. 이 단순한 명제의 정확한 이해가 투자 테마의 경계를 결정한다. 에너지 전환이 가속화될수록, 배터리가 잘 못하는 것(순간 고출력·장수명·극한 온도)을 슈퍼캐패시터가 채우는 구조적 수요가 강해진다....</div>
+</a>
 
 <a class="feed-card" href="11-Companies/비나텍/deal/260408_Deal---비나텍-(126340.KS)_2250">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deep Analysis - 미국 사이버 보안 상장사 분석 20:36</div>
 <div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 12건 + AI 검증) 신뢰도: B** | 숫자 불일치 4건 | 논리 모순 2건 | 확인 필요 6건 미국 사이버 보안 시장은 AI 기반 위협의 고도화, 클라우드 전환 가속, 규제 강화라는 3대 구조적 동인에 의해...</div>
-</a>
-
-<a class="feed-card" href="12-Research/deep-dive/260401_Deep-Analysis---코스피200ELS_1144">
-<div class="feed-header">
-<span class="feed-badge">🔬 DEEP</span>
-<span class="feed-date">2026-04-01</span>
-</div>
-<div class="feed-title">Deep Analysis - 코스피200ELS 11:44</div>
-<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 74건 + AI 검증) 신뢰도: B** | 숫자 불일치 3건 | 논리 모순 2건 | 확인 필요 5건 코스피200 ELS는 코스피200 지수에 연동하여 사전 약정된 수익을 지급하는 파생결합증권으로, 홍콩 H지수 사태...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">

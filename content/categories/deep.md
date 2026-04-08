@@ -7,11 +7,15 @@ publish: true
 
 > 기업/섹터 심층 분석. 25-80페이지.
 
-**13개 리포트** | [← 홈으로 돌아가기](/)
+**14개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/12-Research/deep-dive/260408_한국-슈퍼캐패시터-산업-딥-리서치_-에너지-전환의-숨겨진-인프라,-지금-주목해야-하는-이유_2315">
+<span class="recent-date">2026-04-08</span>
+<span class="recent-title">'한국 슈퍼캐패시터 산업 딥 리서치: 에너지 전환의 숨겨진 인프라, 지금 주목해야 하는 이유 23:15' 23:15</span>
+</a>
 <a class="recent-item" href="/12-Research/deep-dive/260407_전력기기-슈퍼사이클_-AI-확산이-촉발한-구조적-전환과-투자-기회_2307">
 <span class="recent-date">2026-04-07</span>
 <span class="recent-title">'전력기기 슈퍼사이클: AI 확산이 촉발한 구조적 전환과 투자 기회 23:07' 23:07</span>
