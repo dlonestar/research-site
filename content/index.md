@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">28</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">29</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/CS-Wind-Corporation/deal/260408_Deal---CS-Wind-Corporation-(112610.KS)_0747">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-08</span>
+</div>
+<div class="feed-title">Deal - CS Wind Corporation (112610.KS) 07:47</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 교육, 미디어, 한국 시장, 중국 테크, 중국 정책, 홍콩, 부동산 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: CS윈드는 글로벌 1위 풍력타워 제조사로, 고유가·에너지 안보 우려가 가속시키는...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260408_Morning-Brief-2026-04-08_0737">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-04-01 07:36</div>
 <div class="feed-excerpt">🔴 Risk-Off / 조건부 반전 탐색** — 중동 지정학 + 유가 쇼크가 주도하는 하락, 이란 휴전 기대가 유일한 카운터 - **매크로**: WTI 유가 $100 재돌파 / 유로존 CPI 2.5% / 파월 "금리 조정 서두르지 않겠다" 관망 유지 -...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/리브스메드/deep-dive/260331_Deep-Analysis---리브스메드_2230">
-<div class="feed-header">
-<span class="feed-badge">🔬 DEEP</span>
-<span class="feed-date">2026-03-31</span>
-</div>
-<div class="feed-title">Deep Analysis - 리브스메드 22:30</div>
-<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 16건 + AI 검증) 신뢰도: B** | 숫자 불일치 4건 | 논리 모순 1건 | 확인 필요 4건 이 보고서는 **DART 연결재무제표 없이** 작성되었습니다 (신규 상장사, 매칭 실패, 또는 공시 미비)....</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
