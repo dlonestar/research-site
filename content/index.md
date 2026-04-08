@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">29</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">30</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/Palo-Alto-Networks,-Inc./deal/260408_Deal---Palo-Alto-Networks,-Inc.-(PANW)_0752">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-08</span>
+</div>
+<div class="feed-title">Deal - Palo Alto Networks, Inc. (PANW) 07:52</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 교육, 미디어, 한국 시장, 중국 테크, 중국 정책, 홍콩, 부동산 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스:** PANW는 사이버보안 플랫폼화의 가장 앞선 실행자이며, 지금은 AI 검증 + 지정학...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/CS-Wind-Corporation/deal/260408_Deal---CS-Wind-Corporation-(112610.KS)_0747">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">씨메스 (CMES) 통합 딥다이브 — AI·SW 중심 로봇 솔루션의 기술 해자 vs. 구조적 적자의 실존적 긴장 10:19</div>
 <div class="feed-excerpt">작성일: 2025-10-xx | 기준주가: 24,700원 (한국IR협의회 기준, 6/16) / 26,600원 (삼성증권 기준, 6/25) 관련 노트: 260318Thesis씨메스v12317 | 260331Deal - 씨메스 로보틱스 (구 씨메스)2026 씨메스는...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260401_Morning-Brief-2026-04-01_0736">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-04-01</span>
-</div>
-<div class="feed-title">Morning Brief 2026-04-01 07:36</div>
-<div class="feed-excerpt">🔴 Risk-Off / 조건부 반전 탐색** — 중동 지정학 + 유가 쇼크가 주도하는 하락, 이란 휴전 기대가 유일한 카운터 - **매크로**: WTI 유가 $100 재돌파 / 유로존 CPI 2.5% / 파월 "금리 조정 서두르지 않겠다" 관망 유지 -...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
