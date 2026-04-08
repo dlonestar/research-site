@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">30</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">31</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/비나텍/deal/260408_Deal---비나텍-(126340.KS)_2250">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-08</span>
+</div>
+<div class="feed-title">Deal - 비나텍 (126340.KS) 22:50</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 교육, 미디어, 한국 시장, 중국 테크, 중국 정책, 홍콩, 부동산 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 비나텍은 국내 유일 수퍼커패시터 독립 상장사로, 수소연료전지 MEA(막전극접합체)...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Palo-Alto-Networks,-Inc./deal/260408_Deal---Palo-Alto-Networks,-Inc.-(PANW)_0752">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deep Analysis - 코스피200ELS 11:44</div>
 <div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 74건 + AI 검증) 신뢰도: B** | 숫자 불일치 3건 | 논리 모순 2건 | 확인 필요 5건 코스피200 ELS는 코스피200 지수에 연동하여 사전 약정된 수익을 지급하는 파생결합증권으로, 홍콩 H지수 사태...</div>
-</a>
-
-<a class="feed-card" href="12-Research/general/260401_씨메스-(CMES)-통합-딥다이브-—-AI·SW-중심-로봇-솔루션의-기술-해자-vs.-구조적-적자의-실존적_1019">
-<div class="feed-header">
-<span class="feed-badge">📂 ARCHIVES</span>
-<span class="feed-date">2026-04-01</span>
-</div>
-<div class="feed-title">씨메스 (CMES) 통합 딥다이브 — AI·SW 중심 로봇 솔루션의 기술 해자 vs. 구조적 적자의 실존적 긴장 10:19</div>
-<div class="feed-excerpt">작성일: 2025-10-xx | 기준주가: 24,700원 (한국IR협의회 기준, 6/16) / 26,600원 (삼성증권 기준, 6/25) 관련 노트: 260318Thesis씨메스v12317 | 260331Deal - 씨메스 로보틱스 (구 씨메스)2026 씨메스는...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
