@@ -7,7 +7,7 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**34개 리포트** | [← 홈으로 돌아가기](/)
+**35개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
@@ -15,6 +15,10 @@ publish: true
 <a class="recent-item" href="/11-Companies/레딧/deal/260409_Deal---레딧-(RDDT)_1036">
 <span class="recent-date">2026-04-09</span>
 <span class="recent-title">Deal - 레딧 (RDDT) 10:36</span>
+</a>
+<a class="recent-item" href="/11-Companies/씨메스-로보틱스/deal/260409_Deal---씨메스-로보틱스-(구-씨메스)_1029">
+<span class="recent-date">2026-04-09</span>
+<span class="recent-title">Deal - 씨메스 로보틱스 (구 씨메스) 10:29</span>
 </a>
 <a class="recent-item" href="/11-Companies/Intel-Corporation/deal/260409_Deal---Intel-Corporation-(INTC)_0744">
 <span class="recent-date">2026-04-09</span>
