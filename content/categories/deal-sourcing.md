@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**31개 리포트** | [← 홈으로 돌아가기](/)
+**32개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/와이엠티/deal/260409_Deal---와이엠티-(YMT-Co.,-Ltd.)_0739">
+<span class="recent-date">2026-04-09</span>
+<span class="recent-title">Deal - 와이엠티 (YMT Co., Ltd.) 07:39</span>
+</a>
 <a class="recent-item" href="/11-Companies/비나텍/deal/260408_Deal---비나텍-(126340.KS)_2250">
 <span class="recent-date">2026-04-08</span>
 <span class="recent-title">Deal - 비나텍 (126340.KS) 22:50</span>

@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">31</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">32</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/와이엠티/deal/260409_Deal---와이엠티-(YMT-Co.,-Ltd.)_0739">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-09</span>
+</div>
+<div class="feed-title">Deal - 와이엠티 (YMT Co., Ltd.) 07:39</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 보험, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스:** AI 서버 HDI/패키지 기판 수요 폭발 사이클에서, 국내 PCB 고부가 도금 소재 과점...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260409_Morning-Brief-2026-04-09_0733">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deep Analysis - 미국의 생체지표 분석 및 합성생물학(및 제노봇) 관련 기업 01:17</div>
 <div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 17건 + AI 검증) 신뢰도: B** | 숫자 불일치 2건 | 논리 모순 1건 | 확인 필요 5건 생체지표 분석과 합성생물학은 AI·유전자 편집 기술의 수렴(convergence)으로 "생명의 프로그래밍...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260402_Morning-Brief-2026-04-02_0735">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-04-02</span>
-</div>
-<div class="feed-title">Morning Brief 2026-04-02 07:35</div>
-<div class="feed-excerpt">🟢 Risk-On** — 중동 리스크 완화 + 경제지표 서프라이즈, 심리적 전환점 - **매크로**: 미 10년물 국채 월간 +35bp 누적 상승, 유가 변동성 확대 - **리스크**: VIX 하락 전환, 3대 지수 급등 마감 → 프리마켓 상승 지속 -...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
