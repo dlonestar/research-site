@@ -10,14 +10,14 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"The three most harmful addictions are heroin, carbohydrates, and a monthly salary."<br/><span style="color:var(--gray);font-size:0.85em">— Nassim Taleb</span></p>
+<p class="hero-quote">"There is nothing new in Wall Street. There can't be because speculation is as old as the hills."<br/><span style="color:var(--gray);font-size:0.85em">— Jesse Livermore</span></p>
 </div>
 
 <div class="category-grid">
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">15</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">16</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260409_Morning-Brief-2026-04-09_0733">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-04-09</span>
+</div>
+<div class="feed-title">Morning Brief 2026-04-09 07:33</div>
+<div class="feed-excerpt">🔴 Risk-Off** — 고용 강세에도 변동성·스프레드 확대가 주도하는 경계 국면 - **매크로**: 10년물 국채 금리 소폭 하락, 달러 인덱스 상승 - **리스크**: VIX 상승 + 하이일드 스프레드 확대 → 신용 리스크 경계 - **시그널**: 고용 지표...</div>
+</a>
 
 <a class="feed-card" href="12-Research/deep-dive/260408_한국-슈퍼캐패시터-산업-딥-리서치_-에너지-전환의-숨겨진-인프라,-지금-주목해야-하는-이유_2315">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-04-02 07:35</div>
 <div class="feed-excerpt">🟢 Risk-On** — 중동 리스크 완화 + 경제지표 서프라이즈, 심리적 전환점 - **매크로**: 미 10년물 국채 월간 +35bp 누적 상승, 유가 변동성 확대 - **리스크**: VIX 하락 전환, 3대 지수 급등 마감 → 프리마켓 상승 지속 -...</div>
-</a>
-
-<a class="feed-card" href="12-Research/deep-dive/260401_Deep-Analysis---미국-사이버-보안-상장사-분석_2036">
-<div class="feed-header">
-<span class="feed-badge">🔬 DEEP</span>
-<span class="feed-date">2026-04-01</span>
-</div>
-<div class="feed-title">Deep Analysis - 미국 사이버 보안 상장사 분석 20:36</div>
-<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 12건 + AI 검증) 신뢰도: B** | 숫자 불일치 4건 | 논리 모순 2건 | 확인 필요 6건 미국 사이버 보안 시장은 AI 기반 위협의 고도화, 클라우드 전환 가속, 규제 강화라는 3대 구조적 동인에 의해...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
