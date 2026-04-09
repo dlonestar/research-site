@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">35</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">36</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/SK하이닉스/deal/260410_Deal---SK하이닉스-(SK-Hynix-Inc.)_0749">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-10</span>
+</div>
+<div class="feed-title">Deal - SK하이닉스 (SK Hynix Inc.) 07:49</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: SK하이닉스는 AI 데이터센터 HBM 수요 구조 변화의 핵심 수혜주로,...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260410_Morning-Brief-2026-04-10_0736">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 아이엠바이오로직스 (493280.KS) 19:05</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 인도 시장, 동남아 시장, 일본 시장, 유럽 시장, 중남미, 방산, 인프라 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 아이엠바이오로직스는 OX40L 타깃 항체 플랫폼을 기반으로 자가면역질환 치료제를...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/보로노이/deal/260403_Deal---보로노이-(310210.KQ)_1836">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-03</span>
-</div>
-<div class="feed-title">Deal - 보로노이 (310210.KQ) 18:36</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 인도 시장, 동남아 시장, 일본 시장, 유럽 시장, 중남미, 방산, 인프라 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 보로노이는 한국 최고 수준의 키나아제 (Kinase) 선택적 저분자 신약 플랫폼을...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
