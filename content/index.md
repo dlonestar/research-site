@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">33</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">34</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -67,6 +67,15 @@ cssclasses:
 </div>
 <div class="feed-title">Deep Analysis - 씨메스 10:47</div>
 <div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 16건 + AI 검증) 신뢰도: B** | 숫자 불일치 4건 | 논리 모순 1건 | 확인 필요 4건 이 보고서는 **DART 연결재무제표 없이** 작성되었습니다 (신규 상장사, 매칭 실패, 또는 공시 미비)....</div>
+</a>
+
+<a class="feed-card" href="11-Companies/레딧/deal/260409_Deal---레딧-(RDDT)_1036">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-09</span>
+</div>
+<div class="feed-title">Deal - 레딧 (RDDT) 10:36</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 보험, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 레딧은 인터넷에서 가장 진본성 높은 인간 데이터 자산을 보유한 플랫폼으로, AI 시대의...</div>
 </a>
 
 <a class="feed-card" href="11-Companies/Intel-Corporation/deal/260409_Deal---Intel-Corporation-(INTC)_0744">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 엘앤씨바이오 (290650.KS) 15:52</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 인도 시장, 동남아 시장, 일본 시장, 유럽 시장, 중남미, 방산, 인프라 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 인체조직 유래 ECM(세포외기질) 스킨부스터 '리투오'를 앞세운 메디컬 에스테틱...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/한스바이오메드/deal/260403_Deal---한스바이오메드-(042520.KS)_1502">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-03</span>
-</div>
-<div class="feed-title">Deal - 한스바이오메드 (042520.KS) 15:02</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 인도 시장, 동남아 시장, 일본 시장, 유럽 시장, 중남미, 방산, 인프라 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 한스바이오메드는 아시아 최초 AATB 인가 조직은행 기반의 독보적 ECM(세포외기질)...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">

@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**33개 리포트** | [← 홈으로 돌아가기](/)
+**34개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/레딧/deal/260409_Deal---레딧-(RDDT)_1036">
+<span class="recent-date">2026-04-09</span>
+<span class="recent-title">Deal - 레딧 (RDDT) 10:36</span>
+</a>
 <a class="recent-item" href="/11-Companies/Intel-Corporation/deal/260409_Deal---Intel-Corporation-(INTC)_0744">
 <span class="recent-date">2026-04-09</span>
 <span class="recent-title">Deal - Intel Corporation (INTC) 07:44</span>
