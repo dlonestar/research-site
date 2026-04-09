@@ -7,11 +7,15 @@ publish: true
 
 > 기업/섹터 심층 분석. 25-80페이지.
 
-**14개 리포트** | [← 홈으로 돌아가기](/)
+**15개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/475400/deep-dive/260409_Deep-Analysis---씨메스_1047">
+<span class="recent-date">2026-04-09</span>
+<span class="recent-title">Deep Analysis - 씨메스 10:47</span>
+</a>
 <a class="recent-item" href="/12-Research/deep-dive/260408_한국-슈퍼캐패시터-산업-딥-리서치_-에너지-전환의-숨겨진-인프라,-지금-주목해야-하는-이유_2315">
 <span class="recent-date">2026-04-08</span>
 <span class="recent-title">'한국 슈퍼캐패시터 산업 딥 리서치: 에너지 전환의 숨겨진 인프라, 지금 주목해야 하는 이유 23:15' 23:15</span>

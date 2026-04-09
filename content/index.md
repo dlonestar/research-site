@@ -38,7 +38,7 @@ cssclasses:
 <a class="category-card" href="categories/deep">
 <div class="card-icon">🔬</div>
 <div class="card-body">
-<div class="card-label">Deep & Final Analysis <span class="card-count">14</span></div>
+<div class="card-label">Deep & Final Analysis <span class="card-count">15</span></div>
 <div class="card-desc">기업/섹터 심층 분석. 25-80페이지.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/475400/deep-dive/260409_Deep-Analysis---씨메스_1047">
+<div class="feed-header">
+<span class="feed-badge">🔬 DEEP</span>
+<span class="feed-date">2026-04-09</span>
+</div>
+<div class="feed-title">Deep Analysis - 씨메스 10:47</div>
+<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 16건 + AI 검증) 신뢰도: B** | 숫자 불일치 4건 | 논리 모순 1건 | 확인 필요 4건 이 보고서는 **DART 연결재무제표 없이** 작성되었습니다 (신규 상장사, 매칭 실패, 또는 공시 미비)....</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Intel-Corporation/deal/260409_Deal---Intel-Corporation-(INTC)_0744">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 한스바이오메드 (042520.KS) 15:02</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 인도 시장, 동남아 시장, 일본 시장, 유럽 시장, 중남미, 방산, 인프라 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 한스바이오메드는 아시아 최초 AATB 인가 조직은행 기반의 독보적 ECM(세포외기질)...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260403_Morning-Brief-2026-04-03_0735">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-04-03</span>
-</div>
-<div class="feed-title">Morning Brief 2026-04-03 07:35</div>
-<div class="feed-excerpt">🔴 Risk-Off** — 중동 지정학 + 유가 급등 + 한국 증시 급락의 복합 충격 - **매크로**: 유가 WTI 배럴당 111달러 (2022년 이후 최고치), IMF 미 금리 인하 연 1회 전망 - **리스크**: 코스피 -4.47%, 코스닥 -5.36%...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
