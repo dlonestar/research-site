@@ -10,14 +10,14 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"There is nothing new in Wall Street. There can't be because speculation is as old as the hills."<br/><span style="color:var(--gray);font-size:0.85em">— Jesse Livermore</span></p>
+<p class="hero-quote">"Spend each day trying to be a little wiser than you were when you woke up."<br/><span style="color:var(--gray);font-size:0.85em">— Charlie Munger</span></p>
 </div>
 
 <div class="category-grid">
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">16</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">17</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260410_Morning-Brief-2026-04-10_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-04-10</span>
+</div>
+<div class="feed-title">Morning Brief 2026-04-10 07:36</div>
+<div class="feed-excerpt">🟡 Risk-On (조건부)** — 지정학 변동성 속 장중 반등 성공, 휴전 불확실성은 상존 - **매크로**: 核PCE 2.8% YoY (예상 부합) / 4Q GDP 최종 0.5% (예상 하회) / 주간 실업청구 219,000건 - **리스크**: 미국-이란 휴전...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/475400/deep-dive/260409_Deep-Analysis---씨메스_1047">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 보로노이 (310210.KQ) 18:36</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 인도 시장, 동남아 시장, 일본 시장, 유럽 시장, 중남미, 방산, 인프라 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 보로노이는 한국 최고 수준의 키나아제 (Kinase) 선택적 저분자 신약 플랫폼을...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/하이브/deal/260403_Deal---하이브-(352820.KS)_1803">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-03</span>
-</div>
-<div class="feed-title">Deal - 하이브 (352820.KS) 18:03</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 인도 시장, 동남아 시장, 일본 시장, 유럽 시장, 중남미, 방산, 인프라 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스:** 하이브는 BTS 완전체 컴백이라는 역사적 촉매를 정면에 두고 있지만, 구조적 수익성...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
