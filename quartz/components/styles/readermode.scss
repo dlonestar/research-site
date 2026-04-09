@@ -22,13 +22,25 @@
 }
 
 :root[reader-mode="on"] {
-  & .sidebar.left,
-  & .sidebar.right {
-    opacity: 0;
-    transition: opacity 0.2s ease;
+  & .sidebar.left {
+    display: none;
+  }
 
-    &:hover {
-      opacity: 1;
-    }
+  & .sidebar.right {
+    display: none;
+  }
+
+  & .center {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+    grid-column: 1 / -1;
+  }
+
+  & .page {
+    display: block !important;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 24px;
   }
 }
