@@ -7,10 +7,6 @@ import { classNames } from "../util/lang"
 
 const ReaderMode: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
   return (
-    <>
-    <button class="reader-exit readermode" aria-label="Exit reader mode">
-      <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path d="M2 3h12v1H2zm0 4h12v1H2zm0 4h12v1H2z"/></svg>
-    </button>
     <button class={classNames(displayClass, "readermode")}>
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -33,7 +29,6 @@ const ReaderMode: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps
         </g>
       </svg>
     </button>
-    </>
   )
 }
 

@@ -7,6 +7,13 @@ const emitReaderModeChangeEvent = (mode: "on" | "off") => {
   document.dispatchEvent(event)
 }
 
+// Create floating exit button on document.body (outside sidebar)
+const exitBtn = document.createElement("button")
+exitBtn.className = "reader-exit"
+exitBtn.setAttribute("aria-label", "Exit reader mode")
+exitBtn.innerHTML = '<svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path d="M2 3h12v1H2zm0 4h12v1H2zm0 4h12v1H2z"/></svg>'
+document.body.appendChild(exitBtn)
+
 document.addEventListener("nav", () => {
   const switchReaderMode = () => {
     isReaderMode = !isReaderMode
@@ -16,10 +23,15 @@ document.addEventListener("nav", () => {
     emitReaderModeChangeEvent(newMode)
   }
 
+  // Sidebar button (book icon)
   for (const readerModeButton of document.getElementsByClassName("readermode")) {
     readerModeButton.addEventListener("click", switchReaderMode)
     window.addCleanup(() => readerModeButton.removeEventListener("click", switchReaderMode))
   }
+
+  // Floating exit button
+  exitBtn.addEventListener("click", switchReaderMode)
+  window.addCleanup(() => exitBtn.removeEventListener("click", switchReaderMode))
 
   // Keyboard shortcut: F key
   const handleKey = (e: KeyboardEvent) => {
