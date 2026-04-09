@@ -22,24 +22,23 @@
 }
 
 :root[reader-mode="on"] {
-  & .page {
+  // The grid lives on #quartz-body, not .page
+  & #quartz-body {
     display: block !important;
     max-width: 850px;
     margin: 0 auto;
     padding: 0 2rem;
-  }
 
-  & .sidebar.left,
-  & .sidebar.right {
-    display: none !important;
-  }
+    & > .sidebar.left,
+    & > .sidebar.right {
+      display: none !important;
+    }
 
-  & .page > .center {
-    width: 100%;
-    max-width: 100%;
-  }
-
-  & .page-header {
-    margin-top: 2rem;
+    & > .center {
+      width: 100%;
+      max-width: 100%;
+      margin: 0;
+      padding: 0;
+    }
   }
 }
