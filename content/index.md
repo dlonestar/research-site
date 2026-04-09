@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">36</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">37</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/ASML-Holding-NV/deal/260410_Deal---ASML-Holding-NV-(ASML)_0755">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-10</span>
+</div>
+<div class="feed-title">Deal - ASML Holding NV (ASML) 07:55</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: ASML은 EUV 리소그래피 장비의 **전 세계 유일한** 공급자로, AI...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/SK하이닉스/deal/260410_Deal---SK하이닉스-(SK-Hynix-Inc.)_0749">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">"Jensen Huang 인터뷰 분석: 엔비디아의 장기 전략과 AI 산업 전망 19:47" 19:47</div>
 <div class="feed-excerpt">Jensen Huang은 엔비디아가 단순 칩 회사가 아닌 "AI 풀스택 인프라 기업"으로 진화 중이며, Physical AI·디지털 바이올로지·자율주행이 향후 10년을 이끌 복합 성장 엔진이라고 주장한다. ① 엔비디아는 칩 회사가 아니라 AI 풀스택 회사다 -...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/아이엠바이오로직스/deal/260403_Deal---아이엠바이오로직스-(493280.KS)_1905">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-03</span>
-</div>
-<div class="feed-title">Deal - 아이엠바이오로직스 (493280.KS) 19:05</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 인도 시장, 동남아 시장, 일본 시장, 유럽 시장, 중남미, 방산, 인프라 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 아이엠바이오로직스는 OX40L 타깃 항체 플랫폼을 기반으로 자가면역질환 치료제를...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
