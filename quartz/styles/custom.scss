@@ -733,7 +733,7 @@ footer {
 
 // Floating exit button — appended to body via JS, always outside sidebar
 #focus-exit {
-  display: none;
+  display: block;
   position: fixed;
   top: 12px;
   left: 12px;
@@ -744,7 +744,7 @@ footer {
   border: 1px solid var(--lightgray);
   background: var(--light);
   color: var(--darkgray);
-  opacity: 0.4;
+  opacity: 0.3;
   transition: opacity 0.2s;
   font-size: 16px;
   line-height: 1;
@@ -757,10 +757,6 @@ footer {
 }
 
 html.focus {
-  // Show exit button
-  #focus-exit {
-    display: block;
-  }
 
   // Hide sidebars completely
   #quartz-body > .sidebar.left,
