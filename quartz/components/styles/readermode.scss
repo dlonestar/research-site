@@ -21,7 +21,34 @@
   }
 }
 
+// Floating exit button (visible only in reader mode)
+.reader-exit {
+  display: none;
+  position: fixed;
+  top: 12px;
+  left: 12px;
+  z-index: 999;
+  cursor: pointer;
+  padding: 6px 8px;
+  border-radius: 6px;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--darkgray);
+  opacity: 0.4;
+  transition: opacity 0.2s;
+  font-size: 14px;
+
+  &:hover {
+    opacity: 1;
+    color: var(--secondary);
+    border-color: var(--secondary);
+  }
+}
+
 :root[reader-mode="on"] {
+  & .reader-exit {
+    display: block;
+  }
   // The grid lives on #quartz-body, not .page
   & #quartz-body {
     display: block !important;
