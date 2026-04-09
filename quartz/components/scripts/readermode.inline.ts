@@ -1,49 +1,50 @@
 let isReaderMode = localStorage.getItem("readerMode") === "on"
 
-const emitReaderModeChangeEvent = (mode: "on" | "off") => {
-  const event: CustomEventMap["readermodechange"] = new CustomEvent("readermodechange", {
-    detail: { mode },
-  })
-  document.dispatchEvent(event)
+// Apply immediately to prevent flash
+if (isReaderMode) {
+  document.documentElement.classList.add("focus")
 }
 
-// Create floating exit button on document.body (outside sidebar)
-const exitBtn = document.createElement("button")
-exitBtn.className = "reader-exit"
-exitBtn.setAttribute("aria-label", "Exit reader mode")
-exitBtn.innerHTML = '<svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path d="M2 3h12v1H2zm0 4h12v1H2zm0 4h12v1H2z"/></svg>'
-document.body.appendChild(exitBtn)
-
 document.addEventListener("nav", () => {
-  const switchReaderMode = () => {
-    isReaderMode = !isReaderMode
-    const newMode = isReaderMode ? "on" : "off"
-    document.documentElement.setAttribute("reader-mode", newMode)
-    localStorage.setItem("readerMode", newMode)
-    emitReaderModeChangeEvent(newMode)
+  // Create floating exit button if not exists
+  if (!document.getElementById("focus-exit")) {
+    const btn = document.createElement("button")
+    btn.id = "focus-exit"
+    btn.innerHTML = "☰"
+    btn.title = "사이드바 표시"
+    document.body.appendChild(btn)
   }
 
-  // Sidebar button (book icon)
-  for (const readerModeButton of document.getElementsByClassName("readermode")) {
-    readerModeButton.addEventListener("click", switchReaderMode)
-    window.addCleanup(() => readerModeButton.removeEventListener("click", switchReaderMode))
+  const toggle = () => {
+    isReaderMode = !isReaderMode
+    document.documentElement.classList.toggle("focus", isReaderMode)
+    localStorage.setItem("readerMode", isReaderMode ? "on" : "off")
+  }
+
+  // Sidebar readermode button (book icon)
+  for (const btn of document.getElementsByClassName("readermode")) {
+    btn.addEventListener("click", toggle)
+    window.addCleanup(() => btn.removeEventListener("click", toggle))
   }
 
   // Floating exit button
-  exitBtn.addEventListener("click", switchReaderMode)
-  window.addCleanup(() => exitBtn.removeEventListener("click", switchReaderMode))
+  const exitBtn = document.getElementById("focus-exit")
+  if (exitBtn) {
+    exitBtn.addEventListener("click", toggle)
+    window.addCleanup(() => exitBtn.removeEventListener("click", toggle))
+  }
 
-  // Keyboard shortcut: F key
-  const handleKey = (e: KeyboardEvent) => {
+  // F key
+  const onKey = (e: KeyboardEvent) => {
     if (e.key === "f" && !e.ctrlKey && !e.metaKey && !e.altKey &&
         e.target instanceof HTMLElement &&
         e.target.tagName !== "INPUT" && e.target.tagName !== "TEXTAREA") {
-      switchReaderMode()
+      toggle()
     }
   }
-  document.addEventListener("keydown", handleKey)
-  window.addCleanup(() => document.removeEventListener("keydown", handleKey))
+  document.addEventListener("keydown", onKey)
+  window.addCleanup(() => document.removeEventListener("keydown", onKey))
 
-  // Set initial state from localStorage
-  document.documentElement.setAttribute("reader-mode", isReaderMode ? "on" : "off")
+  // Sync
+  document.documentElement.classList.toggle("focus", isReaderMode)
 })
