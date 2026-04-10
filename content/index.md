@@ -52,22 +52,13 @@ cssclasses:
 <a class="category-card" href="categories/_other">
 <div class="card-icon">📂</div>
 <div class="card-body">
-<div class="card-label">Insights & Archives <span class="card-count">4</span></div>
+<div class="card-label">Insights & Archives <span class="card-count">3</span></div>
 <div class="card-desc">유튜브 분석, PDF 리서치, 미팅 노트, 아이디어 메모.</div>
 </div>
 </a>
 </div>
 
 ---
-
-<a class="feed-card" href="14-Ideas/260410_SK하이닉스-헬륨-공급-차질-리스크-심층-분석_1400">
-<div class="feed-header">
-<span class="feed-badge">📂 ARCHIVES</span>
-<span class="feed-date">2026-04-10</span>
-</div>
-<div class="feed-title">SK하이닉스 헬륨 공급 차질 리스크 심층 분석 14:00</div>
-<div class="feed-excerpt">질문**: SK하이닉스 관련해서 헬륨 공급 차질 리스크에 대해서 최대한 분석해줘. 또한, 이를 어떻게 모니터링할 수 있을까? 이란-이스라엘 전쟁 여파로 카타르 라스라판 헬륨 생산단지가 타격을 받아 전 세계 헬륨 공급의 ~30%가 중단됐다. 한국은 수입의 64.7%를...</div>
-</a>
 
 <a class="feed-card" href="11-Companies/SK하이닉스/deep-dive/260410_Buffett-Standard---SK하이닉스_1012">
 <div class="feed-header">
@@ -328,6 +319,15 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-04-05 07:35</div>
 <div class="feed-excerpt">🔴 Risk-Off** — 지정학 + 고용발 금리 우려 + 유가 급등이 동시 작동하는 삼중 압박 국면 - **매크로**: 유가 급등, 원/달러 환율 1,500원대 상승 압력 지속 - **리스크**: 나스닥·다우존스 조정 국면 진입, VIX 경계 수준 -...</div>
+</a>
+
+<a class="feed-card" href="13-Signals/daily/260404_Morning-Brief-2026-04-04_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-04-04</span>
+</div>
+<div class="feed-title">Morning Brief 2026-04-04 07:36</div>
+<div class="feed-excerpt">🔴 Risk-Off** — 중동 리스크·유가 급등·연준 매파 기조 3중 압박 - **매크로**: 국제유가 급등, 10년물 금리 상승 압력 지속 - **리스크**: 다우 선물 하락 마감, VIX 상승 경계 국면 - **시그널**: ① 호르무즈 리스크 → 에너지·방산...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
