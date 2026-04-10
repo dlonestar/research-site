@@ -52,13 +52,22 @@ cssclasses:
 <a class="category-card" href="categories/_other">
 <div class="card-icon">📂</div>
 <div class="card-body">
-<div class="card-label">Insights & Archives <span class="card-count">2</span></div>
+<div class="card-label">Insights & Archives <span class="card-count">3</span></div>
 <div class="card-desc">유튜브 분석, PDF 리서치, 미팅 노트, 아이디어 메모.</div>
 </div>
 </a>
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/SK하이닉스/deep-dive/260410_Buffett-Standard---SK하이닉스_1012">
+<div class="feed-header">
+<span class="feed-badge">📂 ARCHIVES</span>
+<span class="feed-date">2026-04-10</span>
+</div>
+<div class="feed-title">Buffett Standard - SK하이닉스 10:12</div>
+<div class="feed-excerpt">✅ 검증 완료: 계산 오류 1건 수정 (32 × 1.3 × 1.3 × 10/6 = 90.3, 원본 90.1과 미미한 차이이나 중간값 수정), 사이클 조정 점수 계산 오류 수정 (25 × 1.3 × 1.3 × 10/6 = 70.4로 원본과 일치하나 조합 승수 재검증...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/ASML-Holding-NV/deal/260410_Deal---ASML-Holding-NV-(ASML)_0755">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-04-04 07:36</div>
 <div class="feed-excerpt">🔴 Risk-Off** — 중동 리스크·유가 급등·연준 매파 기조 3중 압박 - **매크로**: 국제유가 급등, 10년물 금리 상승 압력 지속 - **리스크**: 다우 선물 하락 마감, VIX 상승 경계 국면 - **시그널**: ① 호르무즈 리스크 → 에너지·방산...</div>
-</a>
-
-<a class="feed-card" href="12-Research/youtube/260403_Jensen-Huang-인터뷰-분석_-엔비디아의-장기-전략과-AI-산업-전망_1947">
-<div class="feed-header">
-<span class="feed-badge">📂 ARCHIVES</span>
-<span class="feed-date">2026-04-03</span>
-</div>
-<div class="feed-title">"Jensen Huang 인터뷰 분석: 엔비디아의 장기 전략과 AI 산업 전망 19:47" 19:47</div>
-<div class="feed-excerpt">Jensen Huang은 엔비디아가 단순 칩 회사가 아닌 "AI 풀스택 인프라 기업"으로 진화 중이며, Physical AI·디지털 바이올로지·자율주행이 향후 10년을 이끌 복합 성장 엔진이라고 주장한다. ① 엔비디아는 칩 회사가 아니라 AI 풀스택 회사다 -...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">

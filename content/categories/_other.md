@@ -7,11 +7,15 @@ publish: true
 
 > 유튜브 분석, PDF 리서치, 미팅 노트, 아이디어 메모.
 
-**2개 리포트** | [← 홈으로 돌아가기](/)
+**3개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/SK하이닉스/deep-dive/260410_Buffett-Standard---SK하이닉스_1012">
+<span class="recent-date">2026-04-10</span>
+<span class="recent-title">Buffett Standard - SK하이닉스 10:12</span>
+</a>
 <a class="recent-item" href="/12-Research/youtube/260403_Jensen-Huang-인터뷰-분석_-엔비디아의-장기-전략과-AI-산업-전망_1947">
 <span class="recent-date">2026-04-03</span>
 <span class="recent-title">"Jensen Huang 인터뷰 분석: 엔비디아의 장기 전략과 AI 산업 전망 19:47" 19:47</span>
