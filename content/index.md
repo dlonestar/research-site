@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">37</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">38</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/삼성전자/deal/260413_Deal---삼성전자-(005930.KS)_0747">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-13</span>
+</div>
+<div class="feed-title">Deal - 삼성전자 (005930.KS) 07:47</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: 삼성전자는 1Q26 어닝 서프라이즈(영업이익 57.2조원, 컨센서스 40% 상회)로...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260413_Morning-Brief-2026-04-13_0736">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 리노공업 (058470.KS) 07:44</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 전기차, 로보틱스, 핀테크, 크립토, 럭셔리, 이커머스, 인도 시장 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 리노공업은 세계 최고 수준의 반도체 테스트 소켓·포고핀 제조사로, AI·HBM...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260406_Morning-Brief-2026-04-06_0736">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-04-06</span>
-</div>
-<div class="feed-title">Morning Brief 2026-04-06 07:36</div>
-<div class="feed-excerpt">🟡 Risk-Mixed** — 지정학 완화 조짐 vs. 긴축 우려 재부상, 방향성 탐색 국면 - **매크로**: 미국 3월 고용 예상 상회 → 연준 금리 인하 기대 후퇴, 강달러 압력 지속 - **리스크**: 코스피 +2.74% 반등, 반도체 주도 회복세 / 트럼프...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
