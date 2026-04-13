@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">41</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">42</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="Library/CloudStorage/Dropbox/Investment-Brain/11-Companies/하이록코리아/deal/260413_Deal---하이록코리아-(013030.KS)_1422">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-13</span>
+</div>
+<div class="feed-title">Deal - 하이록코리아 (013030.KS) 14:22</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 국내 독점적 계장용 피팅·밸브 1위 기업이 조선·반도체·수소 세 개의 성장 사이클이...</div>
+</a>
 
 <a class="feed-card" href="Library/CloudStorage/Dropbox/Investment-Brain/11-Companies/(주)태웅/deal/260413_Deal---(주)태웅-(044490.KS)_1421">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 신흥에스이씨 (243840.KS) 10:02</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 동남아 시장, 일본 시장, 유럽 시장, 중남미, 방산, 인프라, 농업기술 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 신흥에스이씨는 삼성SDI 40년 동반자로서 각형 배터리 핵심 안전소자(Cap...</div>
-</a>
-
-<a class="feed-card" href="Library/CloudStorage/Dropbox/Investment-Brain/11-Companies/한화에어로스페이스/deal/260407_Deal---한화에어로스페이스-(Hanwha-Aerospace-Co.,-Ltd.)_0746">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-07</span>
-</div>
-<div class="feed-title">Deal - 한화에어로스페이스 (Hanwha Aerospace Co., Ltd.) 07:46</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 동남아 시장, 일본 시장, 유럽 시장, 중남미, 방산, 인프라, 농업기술 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 지정학적 복합 위기(러-우 전쟁 + 미-이란 전쟁 + NATO 재무장)가 만든 구조적...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">

@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**41개 리포트** | [← 홈으로 돌아가기](/)
+**42개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/Library/CloudStorage/Dropbox/Investment-Brain/11-Companies/하이록코리아/deal/260413_Deal---하이록코리아-(013030.KS)_1422">
+<span class="recent-date">2026-04-13</span>
+<span class="recent-title">Deal - 하이록코리아 (013030.KS) 14:22</span>
+</a>
 <a class="recent-item" href="/Library/CloudStorage/Dropbox/Investment-Brain/11-Companies/(주)태웅/deal/260413_Deal---(주)태웅-(044490.KS)_1421">
 <span class="recent-date">2026-04-13</span>
 <span class="recent-title">Deal - (주)태웅 (044490.KS) 14:21</span>
