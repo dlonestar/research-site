@@ -7,7 +7,7 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**40개 리포트** | [← 홈으로 돌아가기](/)
+**41개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
@@ -15,6 +15,10 @@ publish: true
 <a class="recent-item" href="/Library/CloudStorage/Dropbox/Investment-Brain/11-Companies/(주)태웅/deal/260413_Deal---(주)태웅-(044490.KS)_1421">
 <span class="recent-date">2026-04-13</span>
 <span class="recent-title">Deal - (주)태웅 (044490.KS) 14:21</span>
+</a>
+<a class="recent-item" href="/Library/CloudStorage/Dropbox/Investment-Brain/11-Companies/원익큐엔씨/deal/260413_Deal---원익큐엔씨-(074600.KS)_1420">
+<span class="recent-date">2026-04-13</span>
+<span class="recent-title">Deal - 원익큐엔씨 (074600.KS) 14:20</span>
 </a>
 <a class="recent-item" href="/Library/CloudStorage/Dropbox/Investment-Brain/11-Companies/Eli-Lilly-and-Company/deal/260413_Deal---Eli-Lilly-and-Company-(LLY)_0752">
 <span class="recent-date">2026-04-13</span>

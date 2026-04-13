@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">40</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">41</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -67,6 +67,15 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - (주)태웅 (044490.KS) 14:21</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 태웅은 "단조강"의 물리적 한계가 만든 천연 해자를 보유한 회사로, 2025년 설비...</div>
+</a>
+
+<a class="feed-card" href="Library/CloudStorage/Dropbox/Investment-Brain/11-Companies/원익큐엔씨/deal/260413_Deal---원익큐엔씨-(074600.KS)_1420">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-13</span>
+</div>
+<div class="feed-title">Deal - 원익큐엔씨 (074600.KS) 14:20</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: 원익큐엔씨는 글로벌 쿼츠웨어 시장 점유율 1위 소재 기업으로, 2025년의 일시적...</div>
 </a>
 
 <a class="feed-card" href="Library/CloudStorage/Dropbox/Investment-Brain/13-Signals/scan/260413_Inflection-Scan---2026-04-13_0951">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 한화에어로스페이스 (Hanwha Aerospace Co., Ltd.) 07:46</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 동남아 시장, 일본 시장, 유럽 시장, 중남미, 방산, 인프라, 농업기술 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 지정학적 복합 위기(러-우 전쟁 + 미-이란 전쟁 + NATO 재무장)가 만든 구조적...</div>
-</a>
-
-<a class="feed-card" href="Library/CloudStorage/Dropbox/Investment-Brain/13-Signals/daily/260407_Morning-Brief-2026-04-07_0736">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-04-07</span>
-</div>
-<div class="feed-title">Morning Brief 2026-04-07 07:36</div>
-<div class="feed-excerpt">🟡 조심스러운 Risk-On** — 고용 호조·중동 완화 기대 vs. 이란 긴장 재고조의 줄다리기 - **매크로**: 실시간 데이터 참조 (유가 상승 압력 지속, 금리 고점 논란 재점화) - **리스크**: VIX 실시간 참조 | 중동 지정학 불확실성 + 유가...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
