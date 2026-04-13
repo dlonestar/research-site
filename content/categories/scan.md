@@ -12,19 +12,19 @@ publish: true
 ---
 
 <div class="recent-list">
-<a class="recent-item" href="/13-Signals/scan/260413_Inflection-Scan---2026-04-13_0951">
+<a class="recent-item" href="/Library/CloudStorage/Dropbox/Investment-Brain/13-Signals/scan/260413_Inflection-Scan---2026-04-13_0951">
 <span class="recent-date">2026-04-13</span>
 <span class="recent-title">Inflection Scan - 2026-04-13 09:51</span>
 </a>
-<a class="recent-item" href="/13-Signals/scan/260331_Inflection-Scan---2026-03-31_0906">
+<a class="recent-item" href="/Library/CloudStorage/Dropbox/Investment-Brain/13-Signals/scan/260331_Inflection-Scan---2026-03-31_0906">
 <span class="recent-date">2026-03-31</span>
 <span class="recent-title">Inflection Scan - 2026-03-31 09:06</span>
 </a>
-<a class="recent-item" href="/13-Signals/scan/260328_Inflection-Scan---2026-03-28_1206">
+<a class="recent-item" href="/Library/CloudStorage/Dropbox/Investment-Brain/13-Signals/scan/260328_Inflection-Scan---2026-03-28_1206">
 <span class="recent-date">2026-03-28</span>
 <span class="recent-title">Inflection Scan - 2026-03-28 12:06</span>
 </a>
-<a class="recent-item" href="/13-Signals/scan/260327_Inflection-Scan---2026-03-27_1247">
+<a class="recent-item" href="/Library/CloudStorage/Dropbox/Investment-Brain/13-Signals/scan/260327_Inflection-Scan---2026-03-27_1247">
 <span class="recent-date">2026-03-27</span>
 <span class="recent-title">Inflection Scan - 2026-03-27 12:47</span>
 </a>
