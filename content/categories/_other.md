@@ -7,7 +7,7 @@ publish: true
 
 > 유튜브 분석, PDF 리서치, 미팅 노트, 아이디어 메모.
 
-**6개 리포트** | [← 홈으로 돌아가기](/)
+**5개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
@@ -19,10 +19,6 @@ publish: true
 <a class="recent-item" href="/Library/CloudStorage/Dropbox/Investment-Brain/11-Companies/SK하이닉스/deep-dive/260410_Buffett-Standard---SK하이닉스_1012">
 <span class="recent-date">2026-04-10</span>
 <span class="recent-title">Buffett Standard - SK하이닉스 10:12</span>
-</a>
-<a class="recent-item" href="/Library/CloudStorage/Dropbox/Investment-Brain/14-Ideas/AI-Native-VC-기획안-v1">
-<span class="recent-date">2026-04-08</span>
-<span class="recent-title">AI-Native VC 기획안 v1</span>
 </a>
 <a class="recent-item" href="/Library/CloudStorage/Dropbox/Investment-Brain/12-Research/youtube/260403_Jensen-Huang-인터뷰-분석_-엔비디아의-장기-전략과-AI-산업-전망_1947">
 <span class="recent-date">2026-04-03</span>

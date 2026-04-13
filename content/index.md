@@ -52,7 +52,7 @@ cssclasses:
 <a class="category-card" href="categories/_other">
 <div class="card-icon">📂</div>
 <div class="card-body">
-<div class="card-label">Insights & Archives <span class="card-count">6</span></div>
+<div class="card-label">Insights & Archives <span class="card-count">5</span></div>
 <div class="card-desc">유튜브 분석, PDF 리서치, 미팅 노트, 아이디어 메모.</div>
 </div>
 </a>
@@ -240,15 +240,6 @@ cssclasses:
 <div class="feed-excerpt">🔴 Risk-Off (전환 중)** — 어제 Risk-On에서 오늘 프리마켓 Risk-Off로 반전 - **매크로**: 미 3월 비농업 고용 +17.8만 명, 실업률 4.3% 하락 — 경기침체 우려 완화 - **리스크**: 이란 최후통첩 기한 임박 → 프리마켓 하락...</div>
 </a>
 
-<a class="feed-card" href="Library/CloudStorage/Dropbox/Investment-Brain/14-Ideas/AI-Native-VC-기획안-v1">
-<div class="feed-header">
-<span class="feed-badge">📂 ARCHIVES</span>
-<span class="feed-date">2026-04-08</span>
-</div>
-<div class="feed-title">AI-Native VC 기획안 v1</div>
-<div class="feed-excerpt">"The best VCs of the next decade won't be the ones with the most partners — they'll be the ones with the best systems." — 이 기획안은 VC 업무 전 과정을 AI로...</div>
-</a>
-
 <a class="feed-card" href="Library/CloudStorage/Dropbox/Investment-Brain/12-Research/deep-dive/260407_전력기기-슈퍼사이클_-AI-확산이-촉발한-구조적-전환과-투자-기회_2307">
 <div class="feed-header">
 <span class="feed-badge">🔬 DEEP</span>
@@ -328,6 +319,15 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-04-07 07:36</div>
 <div class="feed-excerpt">🟡 조심스러운 Risk-On** — 고용 호조·중동 완화 기대 vs. 이란 긴장 재고조의 줄다리기 - **매크로**: 실시간 데이터 참조 (유가 상승 압력 지속, 금리 고점 논란 재점화) - **리스크**: VIX 실시간 참조 | 중동 지정학 불확실성 + 유가...</div>
+</a>
+
+<a class="feed-card" href="Library/CloudStorage/Dropbox/Investment-Brain/12-Research/deep-dive/260406_한국-방산업-딥-리서치_-글로벌-10위-방산-강국의-구조적-성장과-투자-기회_1236">
+<div class="feed-header">
+<span class="feed-badge">🔬 DEEP</span>
+<span class="feed-date">2026-04-06</span>
+</div>
+<div class="feed-title">'한국 방산업 딥 리서치: 글로벌 10위 방산 강국의 구조적 성장과 투자 기회 12:36' 12:36</div>
+<div class="feed-excerpt">한국 방산업은 2024년 매출 +31% 성장(세계 3위 성장률), 세계 100대 방산기업 내 비중 1.7%→2.1%, 수주잔고 113조 원 돌파라는 수치를 기록했다. 이것이 우크라이나 전쟁발 일회성 호황인지, 글로벌 안보 패러다임 전환에 따른 **구조적 성장의...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
