@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">39</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">40</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="Library/CloudStorage/Dropbox/Investment-Brain/11-Companies/(주)태웅/deal/260413_Deal---(주)태웅-(044490.KS)_1421">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-13</span>
+</div>
+<div class="feed-title">Deal - (주)태웅 (044490.KS) 14:21</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 태웅은 "단조강"의 물리적 한계가 만든 천연 해자를 보유한 회사로, 2025년 설비...</div>
+</a>
 
 <a class="feed-card" href="Library/CloudStorage/Dropbox/Investment-Brain/13-Signals/scan/260413_Inflection-Scan---2026-04-13_0951">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-04-07 07:36</div>
 <div class="feed-excerpt">🟡 조심스러운 Risk-On** — 고용 호조·중동 완화 기대 vs. 이란 긴장 재고조의 줄다리기 - **매크로**: 실시간 데이터 참조 (유가 상승 압력 지속, 금리 고점 논란 재점화) - **리스크**: VIX 실시간 참조 | 중동 지정학 불확실성 + 유가...</div>
-</a>
-
-<a class="feed-card" href="Library/CloudStorage/Dropbox/Investment-Brain/12-Research/deep-dive/260406_한국-방산업-딥-리서치_-글로벌-10위-방산-강국의-구조적-성장과-투자-기회_1236">
-<div class="feed-header">
-<span class="feed-badge">🔬 DEEP</span>
-<span class="feed-date">2026-04-06</span>
-</div>
-<div class="feed-title">'한국 방산업 딥 리서치: 글로벌 10위 방산 강국의 구조적 성장과 투자 기회 12:36' 12:36</div>
-<div class="feed-excerpt">한국 방산업은 2024년 매출 +31% 성장(세계 3위 성장률), 세계 100대 방산기업 내 비중 1.7%→2.1%, 수주잔고 113조 원 돌파라는 수치를 기록했다. 이것이 우크라이나 전쟁발 일회성 호황인지, 글로벌 안보 패러다임 전환에 따른 **구조적 성장의...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
