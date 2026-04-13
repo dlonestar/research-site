@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**38개 리포트** | [← 홈으로 돌아가기](/)
+**39개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/Eli-Lilly-and-Company/deal/260413_Deal---Eli-Lilly-and-Company-(LLY)_0752">
+<span class="recent-date">2026-04-13</span>
+<span class="recent-title">Deal - Eli Lilly and Company (LLY) 07:52</span>
+</a>
 <a class="recent-item" href="/11-Companies/삼성전자/deal/260413_Deal---삼성전자-(005930.KS)_0747">
 <span class="recent-date">2026-04-13</span>
 <span class="recent-title">Deal - 삼성전자 (005930.KS) 07:47</span>
@@ -44,7 +48,7 @@ publish: true
 <span class="recent-date">2026-04-08</span>
 <span class="recent-title">Deal - 비나텍 (126340.KS) 22:50</span>
 </a>
-<a class="recent-item" href="/11-Companies/Palo-Alto-Networks,-Inc./deal/260408_Deal---Palo-Alto-Networks,-Inc.-(PANW)_0752">
+<a class="recent-item" href="/11-Companies/Palo-Alto-Networks,-Inc_/deal/260408_Deal---Palo-Alto-Networks,-Inc.-(PANW)_0752">
 <span class="recent-date">2026-04-08</span>
 <span class="recent-title">Deal - Palo Alto Networks, Inc. (PANW) 07:52</span>
 </a>
@@ -64,11 +68,11 @@ publish: true
 <span class="recent-date">2026-04-07</span>
 <span class="recent-title">Deal - 신흥에스이씨 (243840.KS) 10:02</span>
 </a>
-<a class="recent-item" href="/11-Companies/한화에어로스페이스/deal/260407_Deal---한화에어로스페이스-(Hanwha-Aerospace-Co.,-Ltd.)_0746">
+<a class="recent-item" href="/11-Companies/한화에어로스페이스/deal/260407_Deal---한화에어로스페이스-(Hanwha-Aerospace-Co.,-Ltd.)_0746">
 <span class="recent-date">2026-04-07</span>
 <span class="recent-title">Deal - 한화에어로스페이스 (Hanwha Aerospace Co., Ltd.) 07:46</span>
 </a>
-<a class="recent-item" href="/11-Companies/Cheniere-Energy,-Inc./deal/260406_Deal---Cheniere-Energy,-Inc.-(LNG)_0750">
+<a class="recent-item" href="/11-Companies/Cheniere-Energy,-Inc_/deal/260406_Deal---Cheniere-Energy,-Inc.-(LNG)_0750">
 <span class="recent-date">2026-04-06</span>
 <span class="recent-title">Deal - Cheniere Energy, Inc. (LNG) 07:50</span>
 </a>
@@ -112,7 +116,7 @@ publish: true
 <span class="recent-date">2026-03-31</span>
 <span class="recent-title">Deal - HD현대에너지솔루션 (HD Hyundai Energy Solutions Co., Ltd.) 07:46</span>
 </a>
-<a class="recent-item" href="/11-Companies/Zscaler,-Inc./deal/260330_Deal---Zscaler,-Inc.-(ZS)_0801">
+<a class="recent-item" href="/11-Companies/Zscaler,-Inc_/deal/260330_Deal---Zscaler,-Inc.-(ZS)_0801">
 <span class="recent-date">2026-03-30</span>
 <span class="recent-title">Deal - Zscaler, Inc. (ZS) 08:01</span>
 </a>
@@ -120,7 +124,7 @@ publish: true
 <span class="recent-date">2026-03-30</span>
 <span class="recent-title">Deal - 아나패스 (Anapas Inc.) 07:46</span>
 </a>
-<a class="recent-item" href="/11-Companies/Argan-Inc./deal/260329_Deal---Argan-Inc.-(AGX)_0751">
+<a class="recent-item" href="/11-Companies/Argan-Inc_/deal/260329_Deal---Argan-Inc.-(AGX)_0751">
 <span class="recent-date">2026-03-29</span>
 <span class="recent-title">Deal - Argan Inc. (AGX) 07:51</span>
 </a>
@@ -156,7 +160,7 @@ publish: true
 <span class="recent-date">2026-03-27</span>
 <span class="recent-title">Deal - 로켓랩 (RKLB) 14:18</span>
 </a>
-<a class="recent-item" href="/11-Companies/삼천당제약/deal/260327_Deal---삼천당제약-(000250.KS)_0748-(STAR_DSC의-충돌된-사본-2026-03-27)">
+<a class="recent-item" href="/11-Companies/삼천당제약/deal/260327_Deal---삼천당제약-(000250.KS)_0748-(STAR_DSC의-충돌된-사본-2026-03-27)">
 <span class="recent-date">2026-03-27</span>
 <span class="recent-title">Deal - 삼천당제약 (000250.KS) 07:48</span>
 </a>

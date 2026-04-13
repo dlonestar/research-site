@@ -69,7 +69,16 @@ console.log(`📁 Vault: ${VAULT_ROOT}`)
 console.log(`📁 Content: ${CONTENT_DIR}`)
 
 // ─── Clean ───
-if (existsSync(CONTENT_DIR)) rmSync(CONTENT_DIR, { recursive: true })
+// Tolerant rmSync: Dropbox / Quartz dev server may hold locks on Windows.
+// Fall back to incremental overwrite if full clean fails (mkdirSync is idempotent,
+// and writeFileSync/copyFileSync overwrite by default).
+if (existsSync(CONTENT_DIR)) {
+  try {
+    rmSync(CONTENT_DIR, { recursive: true, force: true, maxRetries: 5, retryDelay: 200 })
+  } catch (e) {
+    console.warn(`⚠️  Full clean failed (${e.code || e.message}). Doing incremental overwrite instead.`)
+  }
+}
 mkdirSync(CONTENT_DIR, { recursive: true })
 
 // ─── Walk & Sync ───

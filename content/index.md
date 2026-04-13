@@ -24,14 +24,14 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">3</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">4</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">38</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">39</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,24 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260413_Inflection-Scan---2026-04-13_0951">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-04-13</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-04-13 09:51</div>
+<div class="feed-excerpt">탐색 범위: 2026-04-13 기준 최근 2주 | High Conviction 7건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: 삼성전자 OPM 43% 역대급 어닝 서프라이즈가 촉발한 AI 메모리 구조 전환 +...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/Eli-Lilly-and-Company/deal/260413_Deal---Eli-Lilly-and-Company-(LLY)_0752">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-13</span>
+</div>
+<div class="feed-title">Deal - Eli Lilly and Company (LLY) 07:52</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** FDA 4월 1일 경구용 GLP-1 '파운다요' 승인으로 LLY의 비만 치료제...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/삼성전자/deal/260413_Deal---삼성전자-(005930.KS)_0747">
 <div class="feed-header">
@@ -195,7 +213,7 @@ cssclasses:
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 교육, 미디어, 한국 시장, 중국 테크, 중국 정책, 홍콩, 부동산 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 비나텍은 국내 유일 수퍼커패시터 독립 상장사로, 수소연료전지 MEA(막전극접합체)...</div>
 </a>
 
-<a class="feed-card" href="11-Companies/Palo-Alto-Networks,-Inc./deal/260408_Deal---Palo-Alto-Networks,-Inc.-(PANW)_0752">
+<a class="feed-card" href="11-Companies/Palo-Alto-Networks,-Inc_/deal/260408_Deal---Palo-Alto-Networks,-Inc.-(PANW)_0752">
 <div class="feed-header">
 <span class="feed-badge">📊 DEAL</span>
 <span class="feed-date">2026-04-08</span>
@@ -285,7 +303,7 @@ cssclasses:
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 동남아 시장, 일본 시장, 유럽 시장, 중남미, 방산, 인프라, 농업기술 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 신흥에스이씨는 삼성SDI 40년 동반자로서 각형 배터리 핵심 안전소자(Cap...</div>
 </a>
 
-<a class="feed-card" href="11-Companies/한화에어로스페이스/deal/260407_Deal---한화에어로스페이스-(Hanwha-Aerospace-Co.,-Ltd.)_0746">
+<a class="feed-card" href="11-Companies/한화에어로스페이스/deal/260407_Deal---한화에어로스페이스-(Hanwha-Aerospace-Co.,-Ltd.)_0746">
 <div class="feed-header">
 <span class="feed-badge">📊 DEAL</span>
 <span class="feed-date">2026-04-07</span>
@@ -310,24 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">'한국 방산업 딥 리서치: 글로벌 10위 방산 강국의 구조적 성장과 투자 기회 12:36' 12:36</div>
 <div class="feed-excerpt">한국 방산업은 2024년 매출 +31% 성장(세계 3위 성장률), 세계 100대 방산기업 내 비중 1.7%→2.1%, 수주잔고 113조 원 돌파라는 수치를 기록했다. 이것이 우크라이나 전쟁발 일회성 호황인지, 글로벌 안보 패러다임 전환에 따른 **구조적 성장의...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Cheniere-Energy,-Inc./deal/260406_Deal---Cheniere-Energy,-Inc.-(LNG)_0750">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-06</span>
-</div>
-<div class="feed-title">Deal - Cheniere Energy, Inc. (LNG) 07:50</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 전기차, 로보틱스, 핀테크, 크립토, 럭셔리, 이커머스, 인도 시장 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스:** Cheniere는 미국 최대 LNG 수출 인프라 독점자로, 호르무즈 해협 봉쇄라는...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/리노공업/deal/260406_Deal---리노공업-(058470.KS)_0744">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-06</span>
-</div>
-<div class="feed-title">Deal - 리노공업 (058470.KS) 07:44</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 전기차, 로보틱스, 핀테크, 크립토, 럭셔리, 이커머스, 인도 시장 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 리노공업은 세계 최고 수준의 반도체 테스트 소켓·포고핀 제조사로, AI·HBM...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
