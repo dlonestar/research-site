@@ -38,7 +38,7 @@ cssclasses:
 <a class="category-card" href="categories/deep">
 <div class="card-icon">🔬</div>
 <div class="card-body">
-<div class="card-label">Deep & Final Analysis <span class="card-count">15</span></div>
+<div class="card-label">Deep & Final Analysis <span class="card-count">16</span></div>
 <div class="card-desc">기업/섹터 심층 분석. 25-80페이지.</div>
 </div>
 </a>
@@ -85,6 +85,15 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-04-14 07:15</div>
 <div class="feed-excerpt">탐색 범위: 2026-04-14 기준 최근 2주 | High Conviction 5건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 수요가 '투기적 선투자'에서 '실제 워크로드 기반 수요'로 전환되며 반도체·AI...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/하이록코리아/deep-dive/260413_Deep-Analysis---하이록코리아_1652">
+<div class="feed-header">
+<span class="feed-badge">🔬 DEEP</span>
+<span class="feed-date">2026-04-13</span>
+</div>
+<div class="feed-title">Deep Analysis - 하이록코리아 16:52</div>
+<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 22건 + AI 검증) 신뢰도: B** | 숫자 불일치 4건 | 논리 모순 2건 | 확인 필요 5건 하이록코리아는 "눈에 띄지 않지만 없으면 안 되는" 부품을 만드는 기업이다. 반세기 누적 기술력으로 쌓은 공급자...</div>
 </a>
 
 <a class="feed-card" href="11-Companies/하이록코리아/deal/260413_Deal---하이록코리아-(013030.KS)_1422">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">'한국 소부장(소재·부품·장비) 딥 리서치 리포트: 위기 대응형에서 미래 선도형으로, 지금 투자해야 하는 이유 22:33' 22:33</div>
 <div class="feed-excerpt">[!abstract] 리포트 핵심 테제 한국 소부장 산업은 지금 3개의 독립적 성장 엔진이 동시 점화되는 역사적 변곡점에 서 있다. ①2019년 충격이 촉발한 국산화 성과의 실체적 검증, ②AI/HBM 슈퍼사이클이 만든 전례 없는 수요 폭발, ③제2차...</div>
-</a>
-
-<a class="feed-card" href="12-Research/deep-dive/260407_한국-원자력-산업-투자-리포트_-탈원전-반전에서-글로벌-원전-르네상스-수혜까지_2233">
-<div class="feed-header">
-<span class="feed-badge">🔬 DEEP</span>
-<span class="feed-date">2026-04-07</span>
-</div>
-<div class="feed-title">'한국 원자력 산업 투자 리포트: 탈원전 반전에서 글로벌 원전 르네상스 수혜까지 22:33' 22:33</div>
-<div class="feed-excerpt">탈원전 정책 반전(2022), AI발 전력 수요 폭증, COP28 글로벌 원전 확대 선언이라는 **3중 촉매**가 동시에 작동 중이다. 한국 원전 산업 매출은 2021~2023년 2년간 48% 급성장했으며, 이는 단순 정책 모멘텀이 아닌 **에너지 패러다임 전환의...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
