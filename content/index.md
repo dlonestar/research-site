@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">44</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">45</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/코리안리재보험/deal/260415_Deal---코리안리재보험-(003690.KS)_0748">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-15</span>
+</div>
+<div class="feed-title">Deal - 코리안리재보험 (003690.KS) 07:48</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 농업기술, 교육, 미디어, 한국 시장, 부동산, 보험, 한국 반도체 소부장 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 코리안리는 국내 유일의 재보험 전문사로서, 이란 전쟁發 호르무즈 해협 선박 전쟁보험료...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260415_Morning-Brief-2026-04-15_0736">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Palo Alto Networks, Inc. (PANW) 07:52</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 교육, 미디어, 한국 시장, 중국 테크, 중국 정책, 홍콩, 부동산 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스:** PANW는 사이버보안 플랫폼화의 가장 앞선 실행자이며, 지금은 AI 검증 + 지정학...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/CS-Wind-Corporation/deal/260408_Deal---CS-Wind-Corporation-(112610.KS)_0747">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-08</span>
-</div>
-<div class="feed-title">Deal - CS Wind Corporation (112610.KS) 07:47</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 교육, 미디어, 한국 시장, 중국 테크, 중국 정책, 홍콩, 부동산 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: CS윈드는 글로벌 1위 풍력타워 제조사로, 고유가·에너지 안보 우려가 가속시키는...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
