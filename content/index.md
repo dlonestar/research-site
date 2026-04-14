@@ -52,13 +52,22 @@ cssclasses:
 <a class="category-card" href="categories/_other">
 <div class="card-icon">📂</div>
 <div class="card-body">
-<div class="card-label">Insights & Archives <span class="card-count">4</span></div>
+<div class="card-label">Insights & Archives <span class="card-count">5</span></div>
 <div class="card-desc">유튜브 분석, PDF 리서치, 미팅 노트, 아이디어 메모.</div>
 </div>
 </a>
 </div>
 
 ---
+
+<a class="feed-card" href="14-Ideas/260414_하이록코리아-vs-비엠티-심층-비교-분석_1351">
+<div class="feed-header">
+<span class="feed-badge">📂 ARCHIVES</span>
+<span class="feed-date">2026-04-14</span>
+</div>
+<div class="feed-title">하이록코리아 vs 비엠티 심층 비교 분석 13:51</div>
+<div class="feed-excerpt">질문**: 하이록코리아와 비엠티 둘 중 더 좋은 투자처는? 상세 비교분석해줘 하이록코리아는 "지금 당장 돈 버는 기계"**, **비엠티는 "반도체 업사이클 레버리지 베팅" 현재 데이터 기준, 비즈니스 품질과 안정성은 하이록코리아 우위. 단, 비대칭 성장 기회는...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/비엠티/deal/260414_Deal---비엠티-(086670.KS)_1315">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">'전력기기 슈퍼사이클: AI 확산이 촉발한 구조적 전환과 투자 기회 23:07' 23:07</div>
 <div class="feed-excerpt">AI 데이터센터 전력 수요 폭증 + 북미·유럽 노후 전력망 교체 + 에너지 전환이라는 **삼중 수렴(Triple Convergence)**이 동시에 발화하며 전력기기 산업이 수십 년 만의 구조적 슈퍼사이클에 진입했다. 이는 단순한 경기 사이클이 아니라 **공급 병목이...</div>
-</a>
-
-<a class="feed-card" href="12-Research/deep-dive/260407_한국-반도체-딥-리서치_-AI·HBM-슈퍼사이클의-수혜자와-소외자-—-구조적-불균형-속-투자-기회-발굴_2234">
-<div class="feed-header">
-<span class="feed-badge">🔬 DEEP</span>
-<span class="feed-date">2026-04-07</span>
-</div>
-<div class="feed-title">'한국 반도체 딥 리서치: AI·HBM 슈퍼사이클의 수혜자와 소외자 — 구조적 불균형 속 투자 기회 발굴 22:34' 22:34</div>
-<div class="feed-excerpt">2026년 글로벌 반도체 시장은 $9,098억~$9,750억(YoY +17.8%)으로 사상 최대 규모에 도달하며, 한국은 HBM·AI 메모리 수출 $1,880억(역대 최대)으로 그 중심에 선다. 그러나 이 슈퍼사이클은 전통 메모리 사이클과 구조적으로 다르다 — 공급...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">

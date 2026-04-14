@@ -7,11 +7,15 @@ publish: true
 
 > 유튜브 분석, PDF 리서치, 미팅 노트, 아이디어 메모.
 
-**4개 리포트** | [← 홈으로 돌아가기](/)
+**5개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/14-Ideas/260414_하이록코리아-vs-비엠티-심층-비교-분석_1351">
+<span class="recent-date">2026-04-14</span>
+<span class="recent-title">하이록코리아 vs 비엠티 심층 비교 분석 13:51</span>
+</a>
 <a class="recent-item" href="/14-Ideas/260410_SK하이닉스-헬륨-공급-차질-리스크-심층-분석_1400">
 <span class="recent-date">2026-04-10</span>
 <span class="recent-title">SK하이닉스 헬륨 공급 차질 리스크 심층 분석 14:00</span>
