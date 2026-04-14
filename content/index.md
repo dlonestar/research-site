@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">19</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">20</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260415_Morning-Brief-2026-04-15_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-04-15</span>
+</div>
+<div class="feed-title">Morning Brief 2026-04-15 07:36</div>
+<div class="feed-excerpt">🟢 Risk-On** — 지정학 완화 + 실적 서프라이즈로 전방위 위험자산 랠리 - **매크로**: 유가 배럴당 $110선, 10년 미국채 수익률 상승 압력 지속 - **리스크**: 나스닥 10거래일 연속 상승 (과열 경계), VIX 하락 전환 - **시그널**:...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260415_Inflection-Scan---2026-04-15_0717">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - CS Wind Corporation (112610.KS) 07:47</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 교육, 미디어, 한국 시장, 중국 테크, 중국 정책, 홍콩, 부동산 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: CS윈드는 글로벌 1위 풍력타워 제조사로, 고유가·에너지 안보 우려가 가속시키는...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260408_Morning-Brief-2026-04-08_0737">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-04-08</span>
-</div>
-<div class="feed-title">Morning Brief 2026-04-08 07:37</div>
-<div class="feed-excerpt">🔴 Risk-Off (전환 중)** — 어제 Risk-On에서 오늘 프리마켓 Risk-Off로 반전 - **매크로**: 미 3월 비농업 고용 +17.8만 명, 실업률 4.3% 하락 — 경기침체 우려 완화 - **리스크**: 이란 최후통첩 기한 임박 → 프리마켓 하락...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
