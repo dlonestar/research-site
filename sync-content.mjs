@@ -19,7 +19,19 @@ import { join, dirname, relative, basename } from 'path'
 import { fileURLToPath } from 'url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
-const VAULT_ROOT = join(__dirname, '..')
+// Resolution order:
+//   1. INVESTMENT_BRAIN_VAULT / VAULT_ROOT env — set by PM2 ecosystem
+//      and by delivery.auto_publish_note. Source of truth after
+//      2026-04-13 when this repo was moved out of the vault
+//      (~/Dropbox/.../.website -> ~/research-site).
+//   2. __dirname/.. — back-compat for legacy in-vault layout. When
+//      this repo lives at ~/research-site, that resolves to ~/ and
+//      walkDir traverses the whole home (incl. 1.3GB
+//      investment_brain_data), hitting the 120s timeout — the
+//      2026-04-14 publish-failure root cause.
+const VAULT_ROOT = process.env.INVESTMENT_BRAIN_VAULT
+                || process.env.VAULT_ROOT
+                || join(__dirname, '..')
 const CONTENT_DIR = join(__dirname, 'content')
 
 const EXCLUDE_DIRS = new Set([
