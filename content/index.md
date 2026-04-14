@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">43</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">44</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/비엠티/deal/260414_Deal---비엠티-(086670.KS)_1315">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-14</span>
+</div>
+<div class="feed-title">Deal - 비엠티 (086670.KS) 13:15</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 핀테크, 크립토, 럭셔리, 이커머스, 일본 시장, 방산, 인프라 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: 비엠티는 시총 1,540억원의 소외된 소형주이지만, 반도체 UHP 피팅과 LNG 초저온...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Oracle-Corporation/deal/260414_Deal---Oracle-Corporation-(ORCL)_0747">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">'한국 반도체 딥 리서치: AI·HBM 슈퍼사이클의 수혜자와 소외자 — 구조적 불균형 속 투자 기회 발굴 22:34' 22:34</div>
 <div class="feed-excerpt">2026년 글로벌 반도체 시장은 $9,098억~$9,750억(YoY +17.8%)으로 사상 최대 규모에 도달하며, 한국은 HBM·AI 메모리 수출 $1,880억(역대 최대)으로 그 중심에 선다. 그러나 이 슈퍼사이클은 전통 메모리 사이클과 구조적으로 다르다 — 공급...</div>
-</a>
-
-<a class="feed-card" href="12-Research/deep-dive/260407_한국-소부장(소재·부품·장비)-딥-리서치-리포트_-위기-대응형에서-미래-선도형으로,-지금-투자해야-하는-이유_2233">
-<div class="feed-header">
-<span class="feed-badge">🔬 DEEP</span>
-<span class="feed-date">2026-04-07</span>
-</div>
-<div class="feed-title">'한국 소부장(소재·부품·장비) 딥 리서치 리포트: 위기 대응형에서 미래 선도형으로, 지금 투자해야 하는 이유 22:33' 22:33</div>
-<div class="feed-excerpt">[!abstract] 리포트 핵심 테제 한국 소부장 산업은 지금 3개의 독립적 성장 엔진이 동시 점화되는 역사적 변곡점에 서 있다. ①2019년 충격이 촉발한 국산화 성과의 실체적 검증, ②AI/HBM 슈퍼사이클이 만든 전례 없는 수요 폭발, ③제2차...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">

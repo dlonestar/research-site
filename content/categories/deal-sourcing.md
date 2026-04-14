@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**43개 리포트** | [← 홈으로 돌아가기](/)
+**44개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/비엠티/deal/260414_Deal---비엠티-(086670.KS)_1315">
+<span class="recent-date">2026-04-14</span>
+<span class="recent-title">Deal - 비엠티 (086670.KS) 13:15</span>
+</a>
 <a class="recent-item" href="/11-Companies/Oracle-Corporation/deal/260414_Deal---Oracle-Corporation-(ORCL)_0747">
 <span class="recent-date">2026-04-14</span>
 <span class="recent-title">Deal - Oracle Corporation (ORCL) 07:47</span>
