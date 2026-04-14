@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"Be fearful when others are greedy, and greedy when others are fearful."<br/><span style="color:var(--gray);font-size:0.85em">— Warren Buffett</span></p>
+<p class="hero-quote">"Price is what you pay. Value is what you get."<br/><span style="color:var(--gray);font-size:0.85em">— Warren Buffett</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">5</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">6</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260415_Inflection-Scan---2026-04-15_0717">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-04-15</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-04-15 07:17</div>
+<div class="feed-excerpt">탐색 범위: 2026-04-15 기준 최근 2주 | High Conviction **7건** 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 인프라 수요가 반도체 파운드리·전력 기기·클라우드·연료전지를 동시에...</div>
+</a>
 
 <a class="feed-card" href="14-Ideas/260414_하이록코리아-vs-비엠티-심층-비교-분석_1351">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-04-08 07:37</div>
 <div class="feed-excerpt">🔴 Risk-Off (전환 중)** — 어제 Risk-On에서 오늘 프리마켓 Risk-Off로 반전 - **매크로**: 미 3월 비농업 고용 +17.8만 명, 실업률 4.3% 하락 — 경기침체 우려 완화 - **리스크**: 이란 최후통첩 기한 임박 → 프리마켓 하락...</div>
-</a>
-
-<a class="feed-card" href="12-Research/deep-dive/260407_전력기기-슈퍼사이클_-AI-확산이-촉발한-구조적-전환과-투자-기회_2307">
-<div class="feed-header">
-<span class="feed-badge">🔬 DEEP</span>
-<span class="feed-date">2026-04-07</span>
-</div>
-<div class="feed-title">'전력기기 슈퍼사이클: AI 확산이 촉발한 구조적 전환과 투자 기회 23:07' 23:07</div>
-<div class="feed-excerpt">AI 데이터센터 전력 수요 폭증 + 북미·유럽 노후 전력망 교체 + 에너지 전환이라는 **삼중 수렴(Triple Convergence)**이 동시에 발화하며 전력기기 산업이 수십 년 만의 구조적 슈퍼사이클에 진입했다. 이는 단순한 경기 사이클이 아니라 **공급 병목이...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
