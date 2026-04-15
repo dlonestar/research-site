@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">20</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">21</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260416_Morning-Brief-2026-04-16_0737">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-04-16</span>
+</div>
+<div class="feed-title">Morning Brief 2026-04-16 07:37</div>
+<div class="feed-excerpt">🟢 Risk-On** — 중동 평화 기대 + 실적 시즌 호조로 위험선호 심리 우세 - **매크로**: 유가 급락(중동 휴전 협상), DXY 7거래일 연속 하락, 미-일 금리차 3%p 유지 - **리스크**: S&P 500 사상 첫 7000선 돌파, VIX 하락...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260416_Inflection-Scan---2026-04-16_0717">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-04-09 07:33</div>
 <div class="feed-excerpt">🔴 Risk-Off** — 고용 강세에도 변동성·스프레드 확대가 주도하는 경계 국면 - **매크로**: 10년물 국채 금리 소폭 하락, 달러 인덱스 상승 - **리스크**: VIX 상승 + 하이일드 스프레드 확대 → 신용 리스크 경계 - **시그널**: 고용 지표...</div>
-</a>
-
-<a class="feed-card" href="12-Research/deep-dive/260408_한국-슈퍼캐패시터-산업-딥-리서치_-에너지-전환의-숨겨진-인프라,-지금-주목해야-하는-이유_2315">
-<div class="feed-header">
-<span class="feed-badge">🔬 DEEP</span>
-<span class="feed-date">2026-04-08</span>
-</div>
-<div class="feed-title">'한국 슈퍼캐패시터 산업 딥 리서치: 에너지 전환의 숨겨진 인프라, 지금 주목해야 하는 이유 23:15' 23:15</div>
-<div class="feed-excerpt">슈퍼캐패시터는 배터리를 **대체**하는 것이 아니라 **보완**한다. 이 단순한 명제의 정확한 이해가 투자 테마의 경계를 결정한다. 에너지 전환이 가속화될수록, 배터리가 잘 못하는 것(순간 고출력·장수명·극한 온도)을 슈퍼캐패시터가 채우는 구조적 수요가 강해진다....</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
