@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"Price is what you pay. Value is what you get."<br/><span style="color:var(--gray);font-size:0.85em">— Warren Buffett</span></p>
+<p class="hero-quote">"Risk comes from not knowing what you're doing."<br/><span style="color:var(--gray);font-size:0.85em">— Warren Buffett</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">6</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">7</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260416_Inflection-Scan---2026-04-16_0717">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-04-16</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-04-16 07:17</div>
+<div class="feed-excerpt">탐색 범위: 2026-04-16 기준 최근 2주 | High Conviction 7건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI CapEx 불연속 성장이 반도체·기판·전력 인프라 전 섹터 비수기 계절성을 동시에...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Netflix,-Inc./deal/260415_Deal---Netflix,-Inc.-(NFLX)_0753">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">'한국 슈퍼캐패시터 산업 딥 리서치: 에너지 전환의 숨겨진 인프라, 지금 주목해야 하는 이유 23:15' 23:15</div>
 <div class="feed-excerpt">슈퍼캐패시터는 배터리를 **대체**하는 것이 아니라 **보완**한다. 이 단순한 명제의 정확한 이해가 투자 테마의 경계를 결정한다. 에너지 전환이 가속화될수록, 배터리가 잘 못하는 것(순간 고출력·장수명·극한 온도)을 슈퍼캐패시터가 채우는 구조적 수요가 강해진다....</div>
-</a>
-
-<a class="feed-card" href="11-Companies/비나텍/deal/260408_Deal---비나텍-(126340.KS)_2250">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-08</span>
-</div>
-<div class="feed-title">Deal - 비나텍 (126340.KS) 22:50</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 교육, 미디어, 한국 시장, 중국 테크, 중국 정책, 홍콩, 부동산 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 비나텍은 국내 유일 수퍼커패시터 독립 상장사로, 수소연료전지 MEA(막전극접합체)...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
