@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">46</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">47</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/셀트리온/deal/260416_Deal---셀트리온-(068270.KS)_0748">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-16</span>
+</div>
+<div class="feed-title">Deal - 셀트리온 (068270.KS) 07:48</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: 셀트리온은 바이오시밀러 현금흐름 엔진 위에 ADC 신약 옵셔널리티가 탑재된...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260416_Morning-Brief-2026-04-16_0737">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 와이엠티 (YMT Co., Ltd.) 07:39</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 보험, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스:** AI 서버 HDI/패키지 기판 수요 폭발 사이클에서, 국내 PCB 고부가 도금 소재 과점...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260409_Morning-Brief-2026-04-09_0733">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-04-09</span>
-</div>
-<div class="feed-title">Morning Brief 2026-04-09 07:33</div>
-<div class="feed-excerpt">🔴 Risk-Off** — 고용 강세에도 변동성·스프레드 확대가 주도하는 경계 국면 - **매크로**: 10년물 국채 금리 소폭 하락, 달러 인덱스 상승 - **리스크**: VIX 상승 + 하이일드 스프레드 확대 → 신용 리스크 경계 - **시그널**: 고용 지표...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
