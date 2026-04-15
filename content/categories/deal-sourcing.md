@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**45개 리포트** | [← 홈으로 돌아가기](/)
+**46개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/Netflix,-Inc./deal/260415_Deal---Netflix,-Inc.-(NFLX)_0753">
+<span class="recent-date">2026-04-15</span>
+<span class="recent-title">Deal - Netflix, Inc. (NFLX) 07:53</span>
+</a>
 <a class="recent-item" href="/11-Companies/코리안리재보험/deal/260415_Deal---코리안리재보험-(003690.KS)_0748">
 <span class="recent-date">2026-04-15</span>
 <span class="recent-title">Deal - 코리안리재보험 (003690.KS) 07:48</span>
