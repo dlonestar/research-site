@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">47</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">48</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/Taiwan-Semiconductor-Manufacturing-Company-Limited/deal/260416_Deal---Taiwan-Semiconductor-Manufacturing-Company-Limited-(T_0754">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-16</span>
+</div>
+<div class="feed-title">Deal - Taiwan Semiconductor Manufacturing Company Limited (TSM) 07:54</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** TSMC는 AI 시대 반도체 제조의 물리적 병목이며, 오늘 발표되는 Q1...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/셀트리온/deal/260416_Deal---셀트리온-(068270.KS)_0748">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Intel Corporation (INTC) 07:44</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 보험, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 인텔은 현재 "좋은 기업"이 아니라 "망가졌다가 돌아올 수 있는 기업"에 베팅하는 구조적...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/와이엠티/deal/260409_Deal---와이엠티-(YMT-Co.,-Ltd.)_0739">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-09</span>
-</div>
-<div class="feed-title">Deal - 와이엠티 (YMT Co., Ltd.) 07:39</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 보험, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스:** AI 서버 HDI/패키지 기판 수요 폭발 사이클에서, 국내 PCB 고부가 도금 소재 과점...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
