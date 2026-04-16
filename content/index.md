@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">50</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">51</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/Samsung-E&A-Co.,-Ltd./deal/260417_Deal---Samsung-E&A-Co.,-Ltd.-(028050.KS)_0748">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-17</span>
+</div>
+<div class="feed-title">Deal - Samsung E&A Co., Ltd. (028050.KS) 07:48</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 핀테크, 크립토, 럭셔리, 이커머스, 일본 시장, 방산, 인프라 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 삼성E&A는 미-이란 종전 협상 진전 시 중동 에너지 인프라 재건 수요의 최직접 수혜주이며,...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260417_Morning-Brief-2026-04-17_0737">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - SK하이닉스 (SK Hynix Inc.) 07:49</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: SK하이닉스는 AI 데이터센터 HBM 수요 구조 변화의 핵심 수혜주로,...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260410_Morning-Brief-2026-04-10_0736">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-04-10</span>
-</div>
-<div class="feed-title">Morning Brief 2026-04-10 07:36</div>
-<div class="feed-excerpt">🟡 Risk-On (조건부)** — 지정학 변동성 속 장중 반등 성공, 휴전 불확실성은 상존 - **매크로**: 核PCE 2.8% YoY (예상 부합) / 4Q GDP 최종 0.5% (예상 하회) / 주간 실업청구 219,000건 - **리스크**: 미국-이란 휴전...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
