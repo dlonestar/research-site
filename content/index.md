@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">48</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">49</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/SNT에너지/deal/260416_Deal---SNT에너지-(100840.KS)_1350">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-16</span>
+</div>
+<div class="feed-title">Deal - SNT에너지 (100840.KS) 13:50</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: SNT에너지는 공랭식 열교환기(에어쿨러) 글로벌 시장점유율 1위 기업으로,...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Taiwan-Semiconductor-Manufacturing-Company-Limited/deal/260416_Deal---Taiwan-Semiconductor-Manufacturing-Company-Limited-(T_0754">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 씨메스 로보틱스 (구 씨메스) 10:29</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 보험, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 씨메스 로보틱스는 국내 유일의 피지컬 AI 풀스택 로봇 솔루션 기업으로, 기술 해자는...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Intel-Corporation/deal/260409_Deal---Intel-Corporation-(INTC)_0744">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-09</span>
-</div>
-<div class="feed-title">Deal - Intel Corporation (INTC) 07:44</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 보험, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 인텔은 현재 "좋은 기업"이 아니라 "망가졌다가 돌아올 수 있는 기업"에 베팅하는 구조적...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">

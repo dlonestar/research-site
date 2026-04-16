@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**48개 리포트** | [← 홈으로 돌아가기](/)
+**49개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/SNT에너지/deal/260416_Deal---SNT에너지-(100840.KS)_1350">
+<span class="recent-date">2026-04-16</span>
+<span class="recent-title">Deal - SNT에너지 (100840.KS) 13:50</span>
+</a>
 <a class="recent-item" href="/11-Companies/Taiwan-Semiconductor-Manufacturing-Company-Limited/deal/260416_Deal---Taiwan-Semiconductor-Manufacturing-Company-Limited-(T_0754">
 <span class="recent-date">2026-04-16</span>
 <span class="recent-title">Deal - Taiwan Semiconductor Manufacturing Company Limited (TSM) 07:54</span>
