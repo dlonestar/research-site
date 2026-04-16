@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">21</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">22</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260417_Morning-Brief-2026-04-17_0737">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-04-17</span>
+</div>
+<div class="feed-title">Morning Brief 2026-04-17 07:37</div>
+<div class="feed-excerpt">🟢 Risk-On** — 지정학 완화 + 실적 서프라이즈가 만든 '골디락스 모멘텀' - **매크로**: 데이터 확인 필요 (시스템 자동 삽입 참조) - **리스크**: VIX 데이터 확인 필요 (시스템 자동 삽입 참조) - **시그널**: ① 미·이란 외교 복원...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260417_Inflection-Scan---2026-04-17_0717">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-04-10 07:36</div>
 <div class="feed-excerpt">🟡 Risk-On (조건부)** — 지정학 변동성 속 장중 반등 성공, 휴전 불확실성은 상존 - **매크로**: 核PCE 2.8% YoY (예상 부합) / 4Q GDP 최종 0.5% (예상 하회) / 주간 실업청구 219,000건 - **리스크**: 미국-이란 휴전...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/475400/deep-dive/260409_Deep-Analysis---씨메스_1047">
-<div class="feed-header">
-<span class="feed-badge">🔬 DEEP</span>
-<span class="feed-date">2026-04-09</span>
-</div>
-<div class="feed-title">Deep Analysis - 씨메스 10:47</div>
-<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 16건 + AI 검증) 신뢰도: B** | 숫자 불일치 4건 | 논리 모순 1건 | 확인 필요 4건 이 보고서는 **DART 연결재무제표 없이** 작성되었습니다 (신규 상장사, 매칭 실패, 또는 공시 미비)....</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
