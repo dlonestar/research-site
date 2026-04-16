@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">49</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">50</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/아모센스/deal/260416_Deal---아모센스-(357580.KS)_1651">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-16</span>
+</div>
+<div class="feed-title">Deal - 아모센스 (357580.KS) 16:51</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 아모센스는 무선충전 소재 전문기업에서 SOFC(고체산화물 연료전지) 세라믹...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/SNT에너지/deal/260416_Deal---SNT에너지-(100840.KS)_1350">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 레딧 (RDDT) 10:36</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 보험, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 레딧은 인터넷에서 가장 진본성 높은 인간 데이터 자산을 보유한 플랫폼으로, AI 시대의...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/씨메스-로보틱스/deal/260409_Deal---씨메스-로보틱스-(구-씨메스)_1029">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-09</span>
-</div>
-<div class="feed-title">Deal - 씨메스 로보틱스 (구 씨메스) 10:29</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 보험, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 씨메스 로보틱스는 국내 유일의 피지컬 AI 풀스택 로봇 솔루션 기업으로, 기술 해자는...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
