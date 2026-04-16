@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">51</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">52</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/Taiwan-Semiconductor-Manufacturing-Co-Ltd/deal/260417_Deal---Taiwan-Semiconductor-Manufacturing-Co-Ltd-(TSM)_0753">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-17</span>
+</div>
+<div class="feed-title">Deal - Taiwan Semiconductor Manufacturing Co Ltd (TSM) 07:53</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 핀테크, 크립토, 럭셔리, 이커머스, 일본 시장, 방산, 인프라 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: TSMC는 글로벌 AI 인프라의 유일한 병목이다. 엔비디아 블랙웰, 애플 A 시리즈, AMD,...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Samsung-E&A-Co.,-Ltd./deal/260417_Deal---Samsung-E&A-Co.,-Ltd.-(028050.KS)_0748">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - ASML Holding NV (ASML) 07:55</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: ASML은 EUV 리소그래피 장비의 **전 세계 유일한** 공급자로, AI...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/SK하이닉스/deal/260410_Deal---SK하이닉스-(SK-Hynix-Inc.)_0749">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-10</span>
-</div>
-<div class="feed-title">Deal - SK하이닉스 (SK Hynix Inc.) 07:49</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: SK하이닉스는 AI 데이터센터 HBM 수요 구조 변화의 핵심 수혜주로,...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
