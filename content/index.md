@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"Risk comes from not knowing what you're doing."<br/><span style="color:var(--gray);font-size:0.85em">— Warren Buffett</span></p>
+<p class="hero-quote">"In the short run, the market is a voting machine but in the long run, it is a weighing machine."<br/><span style="color:var(--gray);font-size:0.85em">— Benjamin Graham</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">7</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">8</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260417_Inflection-Scan---2026-04-17_0717">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-04-17</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-04-17 07:17</div>
+<div class="feed-excerpt">탐색 범위: 2026-04-17 기준 최근 2주 | High Conviction 7건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 슈퍼사이클이 파운드리→장비→검사→전력 인프라로 확산되는 생태계 전방위 가속 —...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/아모센스/deal/260416_Deal---아모센스-(357580.KS)_1651">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deep Analysis - 씨메스 10:47</div>
 <div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 16건 + AI 검증) 신뢰도: B** | 숫자 불일치 4건 | 논리 모순 1건 | 확인 필요 4건 이 보고서는 **DART 연결재무제표 없이** 작성되었습니다 (신규 상장사, 매칭 실패, 또는 공시 미비)....</div>
-</a>
-
-<a class="feed-card" href="11-Companies/레딧/deal/260409_Deal---레딧-(RDDT)_1036">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-09</span>
-</div>
-<div class="feed-title">Deal - 레딧 (RDDT) 10:36</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 보험, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차 4일 주기 로테이션 (27개 분야 커버) 한 줄 테시스**: 레딧은 인터넷에서 가장 진본성 높은 인간 데이터 자산을 보유한 플랫폼으로, AI 시대의...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
