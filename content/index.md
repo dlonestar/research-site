@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">54</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">55</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/스마트레이더시스템/deal/260417_Deal---스마트레이더시스템-(424960.KQ)_2257">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-17</span>
+</div>
+<div class="feed-title">Deal - 스마트레이더시스템 (424960.KQ) 22:57</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 핀테크, 크립토, 럭셔리, 이커머스, 일본 시장, 방산, 인프라 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 국내 유일 4D 이미징 레이더 풀스택 기업으로, 자율주행·드론·국방 수요가 폭발하는 구조적 성장...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/GE-버노바/deal/260417_Deal---GE-버노바-(GEV)_1914">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-04-13 07:36</div>
 <div class="feed-excerpt">🟡 Risk-Off 우세 혼조** — 지정학 불확실성 속 기술주 강세가 견인하는 양방향 시장 - **매크로**: 중동 휴전 협상 진행 중, 3월 CPI 헤드라인 가속·근원 안정화 혼조 - **리스크**: 나스닥 100 6주 최고치 vs 소비자 심리 기록적 위축 ·...</div>
-</a>
-
-<a class="feed-card" href="14-Ideas/260410_SK하이닉스-헬륨-공급-차질-리스크-심층-분석_1400">
-<div class="feed-header">
-<span class="feed-badge">📂 ARCHIVES</span>
-<span class="feed-date">2026-04-10</span>
-</div>
-<div class="feed-title">SK하이닉스 헬륨 공급 차질 리스크 심층 분석 14:00</div>
-<div class="feed-excerpt">질문**: SK하이닉스 관련해서 헬륨 공급 차질 리스크에 대해서 최대한 분석해줘. 또한, 이를 어떻게 모니터링할 수 있을까? 이란-이스라엘 전쟁 여파로 카타르 라스라판 헬륨 생산단지가 타격을 받아 전 세계 헬륨 공급의 ~30%가 중단됐다. 한국은 수입의 64.7%를...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
