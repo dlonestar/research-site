@@ -7,12 +7,16 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**52개 리포트** | [← 홈으로 돌아가기](/)
+**53개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
-<a class="recent-item" href="/11-Companies/Taiwan-Semiconductor-Manufacturing-Co-Ltd/deal/260417_Deal---Taiwan-Semiconductor-Manufacturing-Co-Ltd-(TSM)_0753">
+<a class="recent-item" href="/11-Companies/스마트레이더시스템/deal/260417_Deal---스마트레이더시스템-(424960.KQ)_1912">
+<span class="recent-date">2026-04-17</span>
+<span class="recent-title">Deal - 스마트레이더시스템 (424960.KQ) 19:12</span>
+</a>
+<a class="recent-item" href="/11-Companies/Taiwan-Semiconductor-Manufacturing-Company-Limited/deal/260417_Deal---Taiwan-Semiconductor-Manufacturing-Co-Ltd-(TSM)_0753">
 <span class="recent-date">2026-04-17</span>
 <span class="recent-title">Deal - Taiwan Semiconductor Manufacturing Co Ltd (TSM) 07:53</span>
 </a>
