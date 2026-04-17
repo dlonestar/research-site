@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**54개 리포트** | [← 홈으로 돌아가기](/)
+**55개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/스마트레이더시스템/deal/260417_Deal---스마트레이더시스템-(424960.KQ)_2257">
+<span class="recent-date">2026-04-17</span>
+<span class="recent-title">Deal - 스마트레이더시스템 (424960.KQ) 22:57</span>
+</a>
 <a class="recent-item" href="/11-Companies/GE-버노바/deal/260417_Deal---GE-버노바-(GEV)_1914">
 <span class="recent-date">2026-04-17</span>
 <span class="recent-title">Deal - GE 버노바 (GEV) 19:14</span>
