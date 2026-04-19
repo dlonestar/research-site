@@ -7,7 +7,7 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**58개 리포트** | [← 홈으로 돌아가기](/)
+**59개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
@@ -19,6 +19,10 @@ publish: true
 <a class="recent-item" href="/11-Companies/솔브레인/deal/260419_Deal---솔브레인-(357780.KS)_2248">
 <span class="recent-date">2026-04-19</span>
 <span class="recent-title">Deal - 솔브레인 (357780.KS) 22:48</span>
+</a>
+<a class="recent-item" href="/11-Companies/이수페타시스/deal/260419_Deal---이수페타시스-(007660.KS)_2248">
+<span class="recent-date">2026-04-19</span>
+<span class="recent-title">Deal - 이수페타시스 (007660.KS) 22:48</span>
 </a>
 <a class="recent-item" href="/11-Companies/마이크로소프트/deal/260418_Deal---마이크로소프트-(MSFT)_1351">
 <span class="recent-date">2026-04-18</span>
