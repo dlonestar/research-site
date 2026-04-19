@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"In the short run, the market is a voting machine but in the long run, it is a weighing machine."<br/><span style="color:var(--gray);font-size:0.85em">— Benjamin Graham</span></p>
+<p class="hero-quote">"The most important thing is being attentive to cycles. Everything is cyclical."<br/><span style="color:var(--gray);font-size:0.85em">— Howard Marks</span></p>
 </div>
 
 <div class="category-grid">
@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">55</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">56</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/대덕전자/deal/260419_Deal---대덕전자-(353200.KS)_2248">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-19</span>
+</div>
+<div class="feed-title">Deal - 대덕전자 (353200.KS) 22:48</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 대덕전자는 AI 데이터센터·서버·네트워크 장비 수요 폭발에 직격 수혜하는 고부가...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/스마트레이더시스템/deal/260417_Deal---스마트레이더시스템-(424960.KQ)_2257">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 삼성전자 (005930.KS) 07:47</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: 삼성전자는 1Q26 어닝 서프라이즈(영업이익 57.2조원, 컨센서스 40% 상회)로...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260413_Morning-Brief-2026-04-13_0736">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-04-13</span>
-</div>
-<div class="feed-title">Morning Brief 2026-04-13 07:36</div>
-<div class="feed-excerpt">🟡 Risk-Off 우세 혼조** — 지정학 불확실성 속 기술주 강세가 견인하는 양방향 시장 - **매크로**: 중동 휴전 협상 진행 중, 3월 CPI 헤드라인 가속·근원 안정화 혼조 - **리스크**: 나스닥 100 6주 최고치 vs 소비자 심리 기록적 위축 ·...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
