@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">56</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">57</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -67,6 +67,15 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 대덕전자 (353200.KS) 22:48</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 대덕전자는 AI 데이터센터·서버·네트워크 장비 수요 폭발에 직격 수혜하는 고부가...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/마이크로소프트/deal/260418_Deal---마이크로소프트-(MSFT)_1351">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-18</span>
+</div>
+<div class="feed-title">Deal - 마이크로소프트 (MSFT) 13:51</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 농업기술, 교육, 미디어, 한국 시장, 부동산, 보험, 한국 반도체 소부장 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: 세계 최고 품질의 엔터프라이즈 소프트웨어+클라우드 복합체가 52주 고점 대비...</div>
 </a>
 
 <a class="feed-card" href="11-Companies/스마트레이더시스템/deal/260417_Deal---스마트레이더시스템-(424960.KQ)_2257">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Eli Lilly and Company (LLY) 07:52</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** FDA 4월 1일 경구용 GLP-1 '파운다요' 승인으로 LLY의 비만 치료제...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/삼성전자/deal/260413_Deal---삼성전자-(005930.KS)_0747">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-13</span>
-</div>
-<div class="feed-title">Deal - 삼성전자 (005930.KS) 07:47</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: 삼성전자는 1Q26 어닝 서프라이즈(영업이익 57.2조원, 컨센서스 40% 상회)로...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
