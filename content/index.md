@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">66</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">67</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/HD현대일렉트릭/deal/260420_Deal---HD현대일렉트릭-(267260.KS)_0745">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-20</span>
+</div>
+<div class="feed-title">Deal - HD현대일렉트릭 (267260.KS) 07:45</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: AI 데이터센터 전력 수요 슈퍼사이클의 공급 병목...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260420_Morning-Brief-2026-04-20_0736">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-04-15 07:36</div>
 <div class="feed-excerpt">🟢 Risk-On** — 지정학 완화 + 실적 서프라이즈로 전방위 위험자산 랠리 - **매크로**: 유가 배럴당 $110선, 10년 미국채 수익률 상승 압력 지속 - **리스크**: 나스닥 10거래일 연속 상승 (과열 경계), VIX 하락 전환 - **시그널**:...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260415_Inflection-Scan---2026-04-15_0717">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-04-15</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-04-15 07:17</div>
-<div class="feed-excerpt">탐색 범위: 2026-04-15 기준 최근 2주 | High Conviction **7건** 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 인프라 수요가 반도체 파운드리·전력 기기·클라우드·연료전지를 동시에...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
