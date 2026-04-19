@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">65</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">66</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/에스티팜/deal/260419_Deal---에스티팜-(237690.KQ)_2310">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-19</span>
+</div>
+<div class="feed-title">Deal - 에스티팜 (237690.KQ) 23:10</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: 에스티팜은 글로벌 올리고핵산 치료제 붐의 핵심 수혜자로, "R&D 단계 → 상업화...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/비에이치아이/deal/260419_Deal---비에이치아이-(083650.KS)_2303">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 비엠티 (086670.KS) 13:15</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 핀테크, 크립토, 럭셔리, 이커머스, 일본 시장, 방산, 인프라 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: 비엠티는 시총 1,540억원의 소외된 소형주이지만, 반도체 UHP 피팅과 LNG 초저온...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Oracle-Corporation/deal/260414_Deal---Oracle-Corporation-(ORCL)_0747">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-14</span>
-</div>
-<div class="feed-title">Deal - Oracle Corporation (ORCL) 07:47</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 핀테크, 크립토, 럭셔리, 이커머스, 일본 시장, 방산, 인프라 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: Oracle은 AI 시대에 '위협받는 소프트웨어 기업'이 아니라 AI 컴퓨팅 수요를...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
