@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">67</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">68</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/Alphabet-Inc./deal/260420_Deal---Alphabet-Inc.-(GOOGL)_0752">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-20</span>
+</div>
+<div class="feed-title">Deal - Alphabet Inc. (GOOGL) 07:52</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: Alphabet은 AI 시대 가장 광범위한 수익화...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/HD현대일렉트릭/deal/260420_Deal---HD현대일렉트릭-(267260.KS)_0745">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 코리안리재보험 (003690.KS) 07:48</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 농업기술, 교육, 미디어, 한국 시장, 부동산, 보험, 한국 반도체 소부장 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 코리안리는 국내 유일의 재보험 전문사로서, 이란 전쟁發 호르무즈 해협 선박 전쟁보험료...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260415_Morning-Brief-2026-04-15_0736">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-04-15</span>
-</div>
-<div class="feed-title">Morning Brief 2026-04-15 07:36</div>
-<div class="feed-excerpt">🟢 Risk-On** — 지정학 완화 + 실적 서프라이즈로 전방위 위험자산 랠리 - **매크로**: 유가 배럴당 $110선, 10년 미국채 수익률 상승 압력 지속 - **리스크**: 나스닥 10거래일 연속 상승 (과열 경계), VIX 하락 전환 - **시그널**:...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
