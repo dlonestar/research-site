@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">63</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">64</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -67,6 +67,15 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 펩트론 (087010.KS) 23:03</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: 펩트론은 장기지속형 약물전달 플랫폼 'SmartDepot'을 보유한 국내 유일...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/한국전력기술/deal/260419_Deal---한국전력기술-(052690.KS)_2303">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-19</span>
+</div>
+<div class="feed-title">Deal - 한국전력기술 (052690.KS) 23:03</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: 한국전력기술은 국내 원전설계 독점 + 글로벌 원전 르네상스의 최전선에 서 있는...</div>
 </a>
 
 <a class="feed-card" href="11-Companies/현대모비스/deal/260419_Deal---현대모비스-(012330.KS)_2256">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-04-14 07:35</div>
 <div class="feed-excerpt">🟢 Risk-On (회복)** — 지정학 공포에서 외교 기대로 빠른 전환 - **매크로**: CPI 연율 3.3% (에너지 급등 견인), 유가 변동성 확대 후 안정세 - **리스크**: VIX 데이터 확인 필요 | 전주 S&P 500 +3.6%, 나스닥 +4.7%...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260414_Inflection-Scan---2026-04-14_0715">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-04-14</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-04-14 07:15</div>
-<div class="feed-excerpt">탐색 범위: 2026-04-14 기준 최근 2주 | High Conviction 5건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 수요가 '투기적 선투자'에서 '실제 워크로드 기반 수요'로 전환되며 반도체·AI...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
