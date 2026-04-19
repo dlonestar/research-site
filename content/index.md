@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">62</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">63</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/펩트론/deal/260419_Deal---펩트론-(087010.KS)_2303">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-19</span>
+</div>
+<div class="feed-title">Deal - 펩트론 (087010.KS) 23:03</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: 펩트론은 장기지속형 약물전달 플랫폼 'SmartDepot'을 보유한 국내 유일...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/현대모비스/deal/260419_Deal---현대모비스-(012330.KS)_2256">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-04-14 07:15</div>
 <div class="feed-excerpt">탐색 범위: 2026-04-14 기준 최근 2주 | High Conviction 5건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 수요가 '투기적 선투자'에서 '실제 워크로드 기반 수요'로 전환되며 반도체·AI...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/하이록코리아/deep-dive/260413_Deep-Analysis---하이록코리아_1652">
-<div class="feed-header">
-<span class="feed-badge">🔬 DEEP</span>
-<span class="feed-date">2026-04-13</span>
-</div>
-<div class="feed-title">Deep Analysis - 하이록코리아 16:52</div>
-<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 22건 + AI 검증) 신뢰도: B** | 숫자 불일치 4건 | 논리 모순 2건 | 확인 필요 5건 하이록코리아는 "눈에 띄지 않지만 없으면 안 되는" 부품을 만드는 기업이다. 반세기 누적 기술력으로 쌓은 공급자...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">

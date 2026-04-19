@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**62개 리포트** | [← 홈으로 돌아가기](/)
+**63개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/펩트론/deal/260419_Deal---펩트론-(087010.KS)_2303">
+<span class="recent-date">2026-04-19</span>
+<span class="recent-title">Deal - 펩트론 (087010.KS) 23:03</span>
+</a>
 <a class="recent-item" href="/11-Companies/현대모비스/deal/260419_Deal---현대모비스-(012330.KS)_2256">
 <span class="recent-date">2026-04-19</span>
 <span class="recent-title">Deal - 현대모비스 (012330.KS) 22:56</span>
