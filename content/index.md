@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">57</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">58</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -67,6 +67,15 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 대덕전자 (353200.KS) 22:48</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 대덕전자는 AI 데이터센터·서버·네트워크 장비 수요 폭발에 직격 수혜하는 고부가...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/솔브레인/deal/260419_Deal---솔브레인-(357780.KS)_2248">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-19</span>
+</div>
+<div class="feed-title">Deal - 솔브레인 (357780.KS) 22:48</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: 솔브레인은 국내 반도체 식각액 시장을 사실상 독점하는 '화학 인프라 기업'으로,...</div>
 </a>
 
 <a class="feed-card" href="11-Companies/마이크로소프트/deal/260418_Deal---마이크로소프트-(MSFT)_1351">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-04-13 09:51</div>
 <div class="feed-excerpt">탐색 범위: 2026-04-13 기준 최근 2주 | High Conviction 7건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: 삼성전자 OPM 43% 역대급 어닝 서프라이즈가 촉발한 AI 메모리 구조 전환 +...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Eli-Lilly-and-Company/deal/260413_Deal---Eli-Lilly-and-Company-(LLY)_0752">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-13</span>
-</div>
-<div class="feed-title">Deal - Eli Lilly and Company (LLY) 07:52</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** FDA 4월 1일 경구용 GLP-1 '파운다요' 승인으로 LLY의 비만 치료제...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
