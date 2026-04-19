@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">64</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">65</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/비에이치아이/deal/260419_Deal---비에이치아이-(083650.KS)_2303">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-19</span>
+</div>
+<div class="feed-title">Deal - 비에이치아이 (083650.KS) 23:03</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 비에이치아이는 HRSG(배열회수보일러) 국내 독보적 1위 + 원전 보조기기(BOP)...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/펩트론/deal/260419_Deal---펩트론-(087010.KS)_2303">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Oracle Corporation (ORCL) 07:47</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 핀테크, 크립토, 럭셔리, 이커머스, 일본 시장, 방산, 인프라 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: Oracle은 AI 시대에 '위협받는 소프트웨어 기업'이 아니라 AI 컴퓨팅 수요를...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260414_Morning-Brief-2026-04-14_0735">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-04-14</span>
-</div>
-<div class="feed-title">Morning Brief 2026-04-14 07:35</div>
-<div class="feed-excerpt">🟢 Risk-On (회복)** — 지정학 공포에서 외교 기대로 빠른 전환 - **매크로**: CPI 연율 3.3% (에너지 급등 견인), 유가 변동성 확대 후 안정세 - **리스크**: VIX 데이터 확인 필요 | 전주 S&P 500 +3.6%, 나스닥 +4.7%...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
