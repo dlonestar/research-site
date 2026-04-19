@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"The most important thing is being attentive to cycles. Everything is cyclical."<br/><span style="color:var(--gray);font-size:0.85em">— Howard Marks</span></p>
+<p class="hero-quote">"You can't predict. You can prepare."<br/><span style="color:var(--gray);font-size:0.85em">— Howard Marks</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">8</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">9</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260420_Inflection-Scan---2026-04-20_0715">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-04-20</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-04-20 07:15</div>
+<div class="feed-excerpt">탐색 범위: 2026-04-05 ~ 2026-04-19 (2주) | High Conviction **6건** 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI CapEx 슈퍼사이클이 반도체...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/에스티팜/deal/260419_Deal---에스티팜-(237690.KQ)_2310">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">하이록코리아 vs 비엠티 심층 비교 분석 13:51</div>
 <div class="feed-excerpt">질문**: 하이록코리아와 비엠티 둘 중 더 좋은 투자처는? 상세 비교분석해줘 하이록코리아는 "지금 당장 돈 버는 기계"**, **비엠티는 "반도체 업사이클 레버리지 베팅" 현재 데이터 기준, 비즈니스 품질과 안정성은 하이록코리아 우위. 단, 비대칭 성장 기회는...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/비엠티/deal/260414_Deal---비엠티-(086670.KS)_1315">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-14</span>
-</div>
-<div class="feed-title">Deal - 비엠티 (086670.KS) 13:15</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 핀테크, 크립토, 럭셔리, 이커머스, 일본 시장, 방산, 인프라 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: 비엠티는 시총 1,540억원의 소외된 소형주이지만, 반도체 UHP 피팅과 LNG 초저온...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
