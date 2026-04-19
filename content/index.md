@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">22</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">23</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260420_Morning-Brief-2026-04-20_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-04-20</span>
+</div>
+<div class="feed-title">Morning Brief 2026-04-20 07:36</div>
+<div class="feed-excerpt">🟡 Risk-Mixed** — 호르무즈 재봉쇄 시사 + AI 강세의 동시 충돌 - **매크로**: 중동 지정학 리스크 재점화, 러시아 석유 제재 면제 5월 16일까지 연장 - **리스크**: S&P 500·나스닥 전 거래일 사상 최고치 경신 vs. 이란 재봉쇄...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260420_Inflection-Scan---2026-04-20_0715">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-04-15 07:17</div>
 <div class="feed-excerpt">탐색 범위: 2026-04-15 기준 최근 2주 | High Conviction **7건** 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 인프라 수요가 반도체 파운드리·전력 기기·클라우드·연료전지를 동시에...</div>
-</a>
-
-<a class="feed-card" href="14-Ideas/260414_하이록코리아-vs-비엠티-심층-비교-분석_1351">
-<div class="feed-header">
-<span class="feed-badge">📂 ARCHIVES</span>
-<span class="feed-date">2026-04-14</span>
-</div>
-<div class="feed-title">하이록코리아 vs 비엠티 심층 비교 분석 13:51</div>
-<div class="feed-excerpt">질문**: 하이록코리아와 비엠티 둘 중 더 좋은 투자처는? 상세 비교분석해줘 하이록코리아는 "지금 당장 돈 버는 기계"**, **비엠티는 "반도체 업사이클 레버리지 베팅" 현재 데이터 기준, 비즈니스 품질과 안정성은 하이록코리아 우위. 단, 비대칭 성장 기회는...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
