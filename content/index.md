@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">60</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">61</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -67,6 +67,15 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - LG이노텍 (011070.KS) 22:55</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** LG이노텍은 "애플 카메라 모듈 세계 1위"라는 프레임에서 벗어나, **AI 반도체...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/LIG넥스원/deal/260419_Deal---LIG넥스원-(079550.KS)_2255">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-19</span>
+</div>
+<div class="feed-title">Deal - LIG넥스원 (079550.KS) 22:55</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 천궁-II의 중동 실전 검증이 패트리엇 대체 서사로 발전하며 LIG D&A는 "미사일...</div>
 </a>
 
 <a class="feed-card" href="11-Companies/대덕전자/deal/260419_Deal---대덕전자-(353200.KS)_2248">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 하이록코리아 (013030.KS) 14:22</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 국내 독점적 계장용 피팅·밸브 1위 기업이 조선·반도체·수소 세 개의 성장 사이클이...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/(주)태웅/deal/260413_Deal---(주)태웅-(044490.KS)_1421">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-13</span>
-</div>
-<div class="feed-title">Deal - (주)태웅 (044490.KS) 14:21</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 태웅은 "단조강"의 물리적 한계가 만든 천연 해자를 보유한 회사로, 2025년 설비...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
