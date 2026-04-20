@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">68</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">69</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/두산에너빌리티/deal/260421_Deal---두산에너빌리티-(034020.KS)_0751">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-21</span>
+</div>
+<div class="feed-title">Deal - 두산에너빌리티 (034020.KS) 07:51</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 첨단 소재, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물, 전기차 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 두산에너빌리티는 글로벌 SMR(소형모듈원전) 공급망에서 원자로...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260421_Morning-Brief-2026-04-21_0736">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-04-16 07:37</div>
 <div class="feed-excerpt">🟢 Risk-On** — 중동 평화 기대 + 실적 시즌 호조로 위험선호 심리 우세 - **매크로**: 유가 급락(중동 휴전 협상), DXY 7거래일 연속 하락, 미-일 금리차 3%p 유지 - **리스크**: S&P 500 사상 첫 7000선 돌파, VIX 하락...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260416_Inflection-Scan---2026-04-16_0717">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-04-16</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-04-16 07:17</div>
-<div class="feed-excerpt">탐색 범위: 2026-04-16 기준 최근 2주 | High Conviction 7건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI CapEx 불연속 성장이 반도체·기판·전력 인프라 전 섹터 비수기 계절성을 동시에...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
