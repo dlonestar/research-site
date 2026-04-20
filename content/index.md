@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"You can't predict. You can prepare."<br/><span style="color:var(--gray);font-size:0.85em">— Howard Marks</span></p>
+<p class="hero-quote">"Know what you own, and know why you own it."<br/><span style="color:var(--gray);font-size:0.85em">— Peter Lynch</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">9</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">10</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260421_Inflection-Scan---2026-04-21_0716">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-04-21</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-04-21 07:16</div>
+<div class="feed-excerpt">탐색 범위: 2026-04-21 기준 최근 2주 | High Conviction 6건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 수요가 반도체→첨단패키징→전력인프라로 공급망 전체를 동시 관통하며 실적 변곡점을...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Alphabet-Inc./deal/260420_Deal---Alphabet-Inc.-(GOOGL)_0752">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Netflix, Inc. (NFLX) 07:53</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 농업기술, 교육, 미디어, 한국 시장, 부동산, 보험, 한국 반도체 소부장 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** Netflix는 광고 지원 구독(Ad-supported tier)을 통해 순수 구독...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/코리안리재보험/deal/260415_Deal---코리안리재보험-(003690.KS)_0748">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-15</span>
-</div>
-<div class="feed-title">Deal - 코리안리재보험 (003690.KS) 07:48</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 농업기술, 교육, 미디어, 한국 시장, 부동산, 보험, 한국 반도체 소부장 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 코리안리는 국내 유일의 재보험 전문사로서, 이란 전쟁發 호르무즈 해협 선박 전쟁보험료...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
