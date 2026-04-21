@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">75</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">76</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/Advanced-Micro-Devices,-Inc./deal/260422_Deal---Advanced-Micro-Devices,-Inc.-(AMD)_0755">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-22</span>
+</div>
+<div class="feed-title">Deal - Advanced Micro Devices, Inc. (AMD) 07:55</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 로보틱스, 디지털 금융 혁신, K-뷰티, 디지털 유통, 인도 시장, 동남아 시장, 일본 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: AMD는 인텔의 서버 CPU 독점 붕괴라는 수십 년 만의...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/SK-Hynix-Inc./deal/260422_Deal---SK-Hynix-Inc.-(000660.KS)_0749">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Taiwan Semiconductor Manufacturing Co Ltd (TSM) 07:53</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 핀테크, 크립토, 럭셔리, 이커머스, 일본 시장, 방산, 인프라 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: TSMC는 글로벌 AI 인프라의 유일한 병목이다. 엔비디아 블랙웰, 애플 A 시리즈, AMD,...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Samsung-E&A-Co.,-Ltd./deal/260417_Deal---Samsung-E&A-Co.,-Ltd.-(028050.KS)_0748">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-17</span>
-</div>
-<div class="feed-title">Deal - Samsung E&A Co., Ltd. (028050.KS) 07:48</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 핀테크, 크립토, 럭셔리, 이커머스, 일본 시장, 방산, 인프라 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 삼성E&A는 미-이란 종전 협상 진전 시 중동 에너지 인프라 재건 수요의 최직접 수혜주이며,...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
