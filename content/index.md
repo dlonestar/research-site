@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">24</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">25</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260422_Morning-Brief-2026-04-22_0738">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-04-22</span>
+</div>
+<div class="feed-title">Morning Brief 2026-04-22 07:38</div>
+<div class="feed-excerpt">🟡 혼조 → Risk-On 전환 시도** — 지정학 리스크가 시장을 흔들었지만, 협상 기대감과 빅테크 투자 모멘텀이 반등 동력으로 작용 중 - **매크로**: WTI 유가 급등 / 중동 지정학 변수 부각 - **리스크**: 미국 3대 지수 전일 동반 하락,...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260422_Inflection-Scan---2026-04-22_0717">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-04-17 07:37</div>
 <div class="feed-excerpt">🟢 Risk-On** — 지정학 완화 + 실적 서프라이즈가 만든 '골디락스 모멘텀' - **매크로**: 데이터 확인 필요 (시스템 자동 삽입 참조) - **리스크**: VIX 데이터 확인 필요 (시스템 자동 삽입 참조) - **시그널**: ① 미·이란 외교 복원...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260417_Inflection-Scan---2026-04-17_0717">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-04-17</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-04-17 07:17</div>
-<div class="feed-excerpt">탐색 범위: 2026-04-17 기준 최근 2주 | High Conviction 7건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 슈퍼사이클이 파운드리→장비→검사→전력 인프라로 확산되는 생태계 전방위 가속 —...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
