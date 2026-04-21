@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"Know what you own, and know why you own it."<br/><span style="color:var(--gray);font-size:0.85em">— Peter Lynch</span></p>
+<p class="hero-quote">"The key to making money in stocks is not to get scared out of them."<br/><span style="color:var(--gray);font-size:0.85em">— Peter Lynch</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">10</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">11</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260422_Inflection-Scan---2026-04-22_0717">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-04-22</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-04-22 07:17</div>
+<div class="feed-excerpt">탐색 범위: 2026-04-22 기준 최근 2주 | High Conviction 7건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI가 만들어낸 비용 구조 혁명 + 전력·우주 인프라 슈퍼사이클의 교차 — 실적 가속과...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/제이오/deal/260421_Deal---제이오-(418550.KQ)_2233">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-04-17 07:17</div>
 <div class="feed-excerpt">탐색 범위: 2026-04-17 기준 최근 2주 | High Conviction 7건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 슈퍼사이클이 파운드리→장비→검사→전력 인프라로 확산되는 생태계 전방위 가속 —...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/아모센스/deal/260416_Deal---아모센스-(357580.KS)_1651">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-16</span>
-</div>
-<div class="feed-title">Deal - 아모센스 (357580.KS) 16:51</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 아모센스는 무선충전 소재 전문기업에서 SOFC(고체산화물 연료전지) 세라믹...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
