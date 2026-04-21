@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**72개 리포트** | [← 홈으로 돌아가기](/)
+**73개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/버티브-홀딩스/deal/260421_Deal---버티브-홀딩스-(VRT)_2157">
+<span class="recent-date">2026-04-21</span>
+<span class="recent-title">Deal - 버티브 홀딩스 (VRT) 21:57</span>
+</a>
 <a class="recent-item" href="/11-Companies/현대건설/deal/260421_Deal---현대건설-(000720.KS)_2151">
 <span class="recent-date">2026-04-21</span>
 <span class="recent-title">Deal - 현대건설 (000720.KS) 21:51</span>
