@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">70</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">71</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -303,6 +303,15 @@ cssclasses:
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 아모센스는 무선충전 소재 전문기업에서 SOFC(고체산화물 연료전지) 세라믹...</div>
 </a>
 
+<a class="feed-card" href="11-Companies/HYBE-Co.,-Ltd./deal/260416_Deal---HYBE-Co.,-Ltd.-(352820.KS)_1520">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-16</span>
+</div>
+<div class="feed-title">Deal - HYBE Co., Ltd. (352820.KS) 15:20</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: HYBE는 K-pop 1위 IP 보유자로서, 빅4 합작법인을 통한 글로벌...</div>
+</a>
+
 <a class="feed-card" href="11-Companies/SNT에너지/deal/260416_Deal---SNT에너지-(100840.KS)_1350">
 <div class="feed-header">
 <span class="feed-badge">📊 DEAL</span>
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Taiwan Semiconductor Manufacturing Company Limited (TSM) 07:54</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** TSMC는 AI 시대 반도체 제조의 물리적 병목이며, 오늘 발표되는 Q1...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/셀트리온/deal/260416_Deal---셀트리온-(068270.KS)_0748">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-16</span>
-</div>
-<div class="feed-title">Deal - 셀트리온 (068270.KS) 07:48</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: 셀트리온은 바이오시밀러 현금흐름 엔진 위에 ADC 신약 옵셔널리티가 탑재된...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">

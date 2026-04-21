@@ -7,7 +7,7 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**70개 리포트** | [← 홈으로 돌아가기](/)
+**71개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
@@ -95,6 +95,10 @@ publish: true
 <a class="recent-item" href="/11-Companies/아모센스/deal/260416_Deal---아모센스-(357580.KS)_1651">
 <span class="recent-date">2026-04-16</span>
 <span class="recent-title">Deal - 아모센스 (357580.KS) 16:51</span>
+</a>
+<a class="recent-item" href="/11-Companies/HYBE-Co.,-Ltd./deal/260416_Deal---HYBE-Co.,-Ltd.-(352820.KS)_1520">
+<span class="recent-date">2026-04-16</span>
+<span class="recent-title">Deal - HYBE Co., Ltd. (352820.KS) 15:20</span>
 </a>
 <a class="recent-item" href="/11-Companies/SNT에너지/deal/260416_Deal---SNT에너지-(100840.KS)_1350">
 <span class="recent-date">2026-04-16</span>
