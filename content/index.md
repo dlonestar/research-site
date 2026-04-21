@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">73</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">74</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/제이오/deal/260421_Deal---제이오-(418550.KQ)_2233">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-21</span>
+</div>
+<div class="feed-title">Deal - 제이오 (418550.KQ) 22:33</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 농업기술, 교육, 미디어, 한국 시장, 부동산, 보험, 한국 반도체 소부장 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 제이오는 세계 유일의 TWCNT(이중벽 탄소나노튜브) 대량생산 기업으로, 전고체...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/버티브-홀딩스/deal/260421_Deal---버티브-홀딩스-(VRT)_2157">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 아모센스 (357580.KS) 16:51</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 아모센스는 무선충전 소재 전문기업에서 SOFC(고체산화물 연료전지) 세라믹...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/HYBE-Co.,-Ltd./deal/260416_Deal---HYBE-Co.,-Ltd.-(352820.KS)_1520">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-16</span>
-</div>
-<div class="feed-title">Deal - HYBE Co., Ltd. (352820.KS) 15:20</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: HYBE는 K-pop 1위 IP 보유자로서, 빅4 합작법인을 통한 글로벌...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
