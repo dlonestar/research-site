@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">71</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">72</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/현대건설/deal/260421_Deal---현대건설-(000720.KS)_2151">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-21</span>
+</div>
+<div class="feed-title">Deal - 현대건설 (000720.KS) 21:51</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 농업기술, 교육, 미디어, 한국 시장, 부동산, 보험, 한국 반도체 소부장 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: 현대건설은 국내 건설업의 외피를 걸친 원전 EPC 글로벌 플레이어로 변신 중이며,...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Intuitive-Surgical,-Inc./deal/260421_Deal---Intuitive-Surgical,-Inc.-(ISRG)_0757">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - SNT에너지 (100840.KS) 13:50</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: SNT에너지는 공랭식 열교환기(에어쿨러) 글로벌 시장점유율 1위 기업으로,...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Taiwan-Semiconductor-Manufacturing-Company-Limited/deal/260416_Deal---Taiwan-Semiconductor-Manufacturing-Company-Limited-(T_0754">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-16</span>
-</div>
-<div class="feed-title">Deal - Taiwan Semiconductor Manufacturing Company Limited (TSM) 07:54</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** TSMC는 AI 시대 반도체 제조의 물리적 병목이며, 오늘 발표되는 Q1...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
