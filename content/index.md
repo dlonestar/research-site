@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">25</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">26</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260423_Morning-Brief-2026-04-23_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-04-23</span>
+</div>
+<div class="feed-title">Morning Brief 2026-04-23 07:36</div>
+<div class="feed-excerpt">🟡 Risk-On (경계 속 반등)** — 휴전 연장으로 센티먼트 반전, 단 유가 재상승으로 상승폭 제한 - **매크로**: WTI 전일 +6.87% 급등 후 추가 상승 중, 달러 강세 기조 유지 - **리스크**: 호르무즈 해협 선박 나포 → 지정학 노이즈...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260423_Inflection-Scan---2026-04-23_0718">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - GE 버노바 (GEV) 19:14</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 핀테크, 크립토, 럭셔리, 이커머스, 일본 시장, 방산, 인프라 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: GE Vernova는 AI 전력 수요 슈퍼사이클의 핵심 인프라 독점 공급자로, FCF가...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/스마트레이더시스템/deal/260417_Deal---스마트레이더시스템-(424960.KQ)_1912">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-17</span>
-</div>
-<div class="feed-title">Deal - 스마트레이더시스템 (424960.KQ) 19:12</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 핀테크, 크립토, 럭셔리, 이커머스, 일본 시장, 방산, 인프라 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 스마트레이더시스템은 4D 이미징 레이더 원천 기술을 보유한 코스닥 극소형 기술주로, 글로벌...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
