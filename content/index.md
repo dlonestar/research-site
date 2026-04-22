@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">76</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">77</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/한화시스템/deal/260423_Deal---한화시스템-(272210.KS)_0750">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-23</span>
+</div>
+<div class="feed-title">Deal - 한화시스템 (272210.KS) 07:50</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 유럽 경제, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 한화시스템은 인적분할을 통해 복합 기업 디스카운트를 해소하고,...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260423_Morning-Brief-2026-04-23_0736">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 스마트레이더시스템 (424960.KQ) 22:57</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 핀테크, 크립토, 럭셔리, 이커머스, 일본 시장, 방산, 인프라 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 국내 유일 4D 이미징 레이더 풀스택 기업으로, 자율주행·드론·국방 수요가 폭발하는 구조적 성장...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/GE-버노바/deal/260417_Deal---GE-버노바-(GEV)_1914">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-17</span>
-</div>
-<div class="feed-title">Deal - GE 버노바 (GEV) 19:14</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 핀테크, 크립토, 럭셔리, 이커머스, 일본 시장, 방산, 인프라 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: GE Vernova는 AI 전력 수요 슈퍼사이클의 핵심 인프라 독점 공급자로, FCF가...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
