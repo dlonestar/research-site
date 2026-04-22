@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**77개 리포트** | [← 홈으로 돌아가기](/)
+**78개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/Rheinmetall-AG/deal/260423_Deal---Rheinmetall-AG-(RNMBF)_0756">
+<span class="recent-date">2026-04-23</span>
+<span class="recent-title">Deal - Rheinmetall AG (RNMBF) 07:56</span>
+</a>
 <a class="recent-item" href="/11-Companies/한화시스템/deal/260423_Deal---한화시스템-(272210.KS)_0750">
 <span class="recent-date">2026-04-23</span>
 <span class="recent-title">Deal - 한화시스템 (272210.KS) 07:50</span>
