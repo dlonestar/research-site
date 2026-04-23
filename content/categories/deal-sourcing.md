@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**81개 리포트** | [← 홈으로 돌아가기](/)
+**82개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/Texas-Instruments-Incorporated/deal/260424_Deal---Texas-Instruments-Incorporated-(TXN)_0757">
+<span class="recent-date">2026-04-24</span>
+<span class="recent-title">Deal - Texas Instruments Incorporated (TXN) 07:57</span>
+</a>
 <a class="recent-item" href="/11-Companies/Samsung-SDS-Co.,-Ltd./deal/260424_Deal---Samsung-SDS-Co.,-Ltd.-(018260.KS)_0750">
 <span class="recent-date">2026-04-24</span>
 <span class="recent-title">Deal - Samsung SDS Co., Ltd. (018260.KS) 07:50</span>
