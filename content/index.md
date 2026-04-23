@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"It's not whether you're right or wrong, but how much money you make when you're right and how much you lose when you're wrong."<br/><span style="color:var(--gray);font-size:0.85em">— George Soros</span></p>
+<p class="hero-quote">"The four most dangerous words in investing are: 'This time it's different.'"<br/><span style="color:var(--gray);font-size:0.85em">— Sir John Templeton</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,14 +24,14 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">12</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">13</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">81</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">80</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -60,13 +60,13 @@ cssclasses:
 
 ---
 
-<a class="feed-card" href="11-Companies/실리콘투/deal/260423_Deal---실리콘투-(257720.KS)_2228">
+<a class="feed-card" href="13-Signals/scan/260424_Inflection-Scan---2026-04-24_0714">
 <div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-23</span>
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-04-24</span>
 </div>
-<div class="feed-title">Deal - 실리콘투 (257720.KS) 22:28</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 유럽 경제, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** 실리콘투는 K-뷰티 글로벌 확산의 인프라 레이어 — 브랜드가 뜨면...</div>
+<div class="feed-title">Inflection Scan - 2026-04-24 07:14</div>
+<div class="feed-excerpt">탐색 범위: 2026-04-24 기준 최근 2주 | High Conviction 5건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 수요가 GPU에서 CPU·아날로그·ASIC·소재 전반으로 확산되는 **'2차...</div>
 </a>
 
 <a class="feed-card" href="11-Companies/현대로템/deal/260423_Deal---현대로템-(064350.KS)_2228">
