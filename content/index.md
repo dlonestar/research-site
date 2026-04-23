@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">26</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">27</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260424_Morning-Brief-2026-04-24_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-04-24</span>
+</div>
+<div class="feed-title">Morning Brief 2026-04-24 07:36</div>
+<div class="feed-excerpt">🔴 Risk-Off (단기 조정 국면)** — 사상 최고치 이후 차익 실현 + 중동 긴장 재고조 - **매크로**: 국제유가 배럴당 $100 돌파, 인플레이션 압력 재부상 - **리스크**: 미국 3대 지수 동반 하락, 중동 호르무즈 해협 긴장 지속 -...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260424_Inflection-Scan---2026-04-24_0714">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - LIG넥스원 (079550.KS) 22:55</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 천궁-II의 중동 실전 검증이 패트리엇 대체 서사로 발전하며 LIG D&A는 "미사일...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/대덕전자/deal/260419_Deal---대덕전자-(353200.KS)_2248">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-19</span>
-</div>
-<div class="feed-title">Deal - 대덕전자 (353200.KS) 22:48</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 대덕전자는 AI 데이터센터·서버·네트워크 장비 수요 폭발에 직격 수혜하는 고부가...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
