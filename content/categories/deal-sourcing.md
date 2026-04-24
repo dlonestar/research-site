@@ -7,7 +7,7 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**82개 리포트** | [← 홈으로 돌아가기](/)
+**83개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
@@ -19,6 +19,10 @@ publish: true
 <a class="recent-item" href="/11-Companies/Samsung-SDS-Co.,-Ltd./deal/260424_Deal---Samsung-SDS-Co.,-Ltd.-(018260.KS)_0750">
 <span class="recent-date">2026-04-24</span>
 <span class="recent-title">Deal - Samsung SDS Co., Ltd. (018260.KS) 07:50</span>
+</a>
+<a class="recent-item" href="/11-Companies/실리콘투/deal/260423_Deal---실리콘투-(257720.KS)_2228">
+<span class="recent-date">2026-04-23</span>
+<span class="recent-title">Deal - 실리콘투 (257720.KS) 22:28</span>
 </a>
 <a class="recent-item" href="/11-Companies/현대로템/deal/260423_Deal---현대로템-(064350.KS)_2228">
 <span class="recent-date">2026-04-23</span>
