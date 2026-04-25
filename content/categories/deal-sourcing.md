@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**84개 리포트** | [← 홈으로 돌아가기](/)
+**85개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/HD현대건설기계/deal/260425_Deal---HD현대건설기계-(267270.KS)_2117">
+<span class="recent-date">2026-04-25</span>
+<span class="recent-title">Deal - HD현대건설기계 (267270.KS) 21:17</span>
+</a>
 <a class="recent-item" href="/11-Companies/두산밥캣/deal/260425_Deal---두산밥캣-(241560.KS)_2117">
 <span class="recent-date">2026-04-25</span>
 <span class="recent-title">Deal - 두산밥캣 (241560.KS) 21:17</span>

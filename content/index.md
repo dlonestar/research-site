@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">84</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">85</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/HD현대건설기계/deal/260425_Deal---HD현대건설기계-(267270.KS)_2117">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-25</span>
+</div>
+<div class="feed-title">Deal - HD현대건설기계 (267270.KS) 21:17</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 글로벌 인구 이동, 사이버 보안, 첨단 소재, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: HD현대건설기계와 HD현대인프라코어의 합병(2026.1.1)으로...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/두산밥캣/deal/260425_Deal---두산밥캣-(241560.KS)_2117">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 에스티팜 (237690.KQ) 23:10</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: 에스티팜은 글로벌 올리고핵산 치료제 붐의 핵심 수혜자로, "R&D 단계 → 상업화...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/비에이치아이/deal/260419_Deal---비에이치아이-(083650.KS)_2303">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-19</span>
-</div>
-<div class="feed-title">Deal - 비에이치아이 (083650.KS) 23:03</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 비에이치아이는 HRSG(배열회수보일러) 국내 독보적 1위 + 원전 보조기기(BOP)...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
