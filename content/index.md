@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"The four most dangerous words in investing are: 'This time it's different.'"<br/><span style="color:var(--gray);font-size:0.85em">— Sir John Templeton</span></p>
+<p class="hero-quote">"Bull markets are born on pessimism, grow on skepticism, mature on optimism, and die on euphoria."<br/><span style="color:var(--gray);font-size:0.85em">— Sir John Templeton</span></p>
 </div>
 
 <div class="category-grid">
@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">83</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">84</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -52,13 +52,31 @@ cssclasses:
 <a class="category-card" href="categories/_other">
 <div class="card-icon">📂</div>
 <div class="card-body">
-<div class="card-label">Insights & Archives <span class="card-count">5</span></div>
+<div class="card-label">Insights & Archives <span class="card-count">6</span></div>
 <div class="card-desc">유튜브 분석, PDF 리서치, 미팅 노트, 아이디어 메모.</div>
 </div>
 </a>
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/두산밥캣/deal/260425_Deal---두산밥캣-(241560.KS)_2117">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-25</span>
+</div>
+<div class="feed-title">Deal - 두산밥캣 (241560.KS) 21:17</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 글로벌 인구 이동, 사이버 보안, 첨단 소재, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 두산밥캣은 글로벌 소형 건설장비 시장 1위 사업자로, 2025년...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/현대로템/research/260424_Research---현대로템-(064350.KS)_0800">
+<div class="feed-header">
+<span class="feed-badge">📂 ARCHIVES</span>
+<span class="feed-date">2026-04-24</span>
+</div>
+<div class="feed-title">Research - 현대로템 (064350.KS) 전차 무용론 · 딜 체크리스트 검증 08:00</div>
+<div class="feed-excerpt">Source deal report: 260423Deal - 현대로템 (064350.KS)2228 Research date: 2026-04-24 Analyst framing: 5-agent 병렬 리서치 · cold · non-hedged [!abstract]...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Texas-Instruments-Incorporated/deal/260424_Deal---Texas-Instruments-Incorporated-(TXN)_0757">
 <div class="feed-header">
@@ -310,24 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 비에이치아이 (083650.KS) 23:03</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 비에이치아이는 HRSG(배열회수보일러) 국내 독보적 1위 + 원전 보조기기(BOP)...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/펩트론/deal/260419_Deal---펩트론-(087010.KS)_2303">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-19</span>
-</div>
-<div class="feed-title">Deal - 펩트론 (087010.KS) 23:03</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: 펩트론은 장기지속형 약물전달 플랫폼 'SmartDepot'을 보유한 국내 유일...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/한국전력기술/deal/260419_Deal---한국전력기술-(052690.KS)_2303">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-19</span>
-</div>
-<div class="feed-title">Deal - 한국전력기술 (052690.KS) 23:03</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: 한국전력기술은 국내 원전설계 독점 + 글로벌 원전 르네상스의 최전선에 서 있는...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">

@@ -7,11 +7,15 @@ publish: true
 
 > 유튜브 분석, PDF 리서치, 미팅 노트, 아이디어 메모.
 
-**5개 리포트** | [← 홈으로 돌아가기](/)
+**6개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/현대로템/research/260424_Research---현대로템-(064350.KS)_0800">
+<span class="recent-date">2026-04-24</span>
+<span class="recent-title">Research - 현대로템 (064350.KS) 전차 무용론 · 딜 체크리스트 검증 08:00</span>
+</a>
 <a class="recent-item" href="/14-Ideas/260414_하이록코리아-vs-비엠티-심층-비교-분석_1351">
 <span class="recent-date">2026-04-14</span>
 <span class="recent-title">하이록코리아 vs 비엠티 심층 비교 분석 13:51</span>
