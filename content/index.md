@@ -38,7 +38,7 @@ cssclasses:
 <a class="category-card" href="categories/deep">
 <div class="card-icon">🔬</div>
 <div class="card-body">
-<div class="card-label">Deep & Final Analysis <span class="card-count">17</span></div>
+<div class="card-label">Deep & Final Analysis <span class="card-count">18</span></div>
 <div class="card-desc">기업/섹터 심층 분석. 25-80페이지.</div>
 </div>
 </a>
@@ -78,13 +78,22 @@ cssclasses:
 <div class="feed-excerpt">🟡 혼조 (Risk-On/Off 교차)** — 주말 미-이란 협상 무산으로 지정학 리스크 재점화, 빅테크 실적 시즌 돌입 - **매크로**: 미국 10Y 4.31%, DXY 98.64, WTI 원유 $96.14 - **리스크**: S&P 500 52주...</div>
 </a>
 
-<a class="feed-card" href="12-Research/deep-dive/260426_Deep-Analysis---한국-금-거래소-사업-종합-핸드북_2300-(MacBook-Pro의-충돌된-사본-2026-04-27)">
+<a class="feed-card" href="12-Research/deep-dive/260427_2026-하반기-국내-자산시장-종합-전망-v2---CEO-보고용">
 <div class="feed-header">
 <span class="feed-badge">🔬 DEEP</span>
-<span class="feed-date">2026-04-26</span>
+<span class="feed-date">2026-04-27</span>
 </div>
-<div class="feed-title">한국 금 거래소 사업 종합 핸드북 — 도소매+온라인 사업자를 위한 완전 가이드 23:00</div>
-<div class="feed-excerpt">[!abstract] 이 문서가 무엇인가 한국에서 금 거래소(도소매 + 온라인) 사업을 시작·운영하려는 사업자가 **다른 보고서를 더 읽지 않아도 되도록** 시장·규제·경쟁사·운영·재무·디지털·리스크 7개 영역을 한 번에 다룬 마스터 핸드북. 작성 방식**: 7개의...</div>
+<div class="feed-title">'2026년 하반기 국내 자산시장 종합 전망: 코스피·코스닥 5대 메가트렌드와 4대 시나리오 (CEO 보고용 v2)'</div>
+<div class="feed-excerpt">CEO 보고용** | 작성: 2026-04-27 | 분석 대상: 2026 H2 (7~12월) 방법론**: 4개 분석 에이전트 (거시·지정학 / 산업 사이클 / 글로벌 자본 흐름 / 국내 수급·정책) 독립 리서치 후 통합·검증 2026년 하반기는 "외부 충격과 내부...</div>
+</a>
+
+<a class="feed-card" href="12-Research/deep-dive/260427_2026-하반기-국내-자산시장-종합-전망_코스피코스닥의-운명을-좌우할-7대-변수와-4대-시나리오">
+<div class="feed-header">
+<span class="feed-badge">🔬 DEEP</span>
+<span class="feed-date">2026-04-27</span>
+</div>
+<div class="feed-title">'2026년 하반기 국내 자산시장 종합 전망: 코스피·코스닥의 운명을 좌우할 7대 변수와 4대 시나리오'</div>
+<div class="feed-excerpt">2026년 하반기 국내 자산시장은 "지수 폭락이 아닌 종목 차별화의 가속" 국면이다.** 미국 메가 IPO($200~250bn 조달)가 글로벌 위험자산 풀을 빨아들이는 외부의 창과, 한국 예탁금 80조·밸류업 정책·연기금이 받쳐주는 내부의 방패가 충돌하면서 지수는...</div>
 </a>
 
 <a class="feed-card" href="11-Companies/HD현대건설기계/deal/260425_Deal---HD현대건설기계-(267270.KS)_2117">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Alphabet Inc. (GOOGL) 07:52</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: Alphabet은 AI 시대 가장 광범위한 수익화...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/HD현대일렉트릭/deal/260420_Deal---HD현대일렉트릭-(267260.KS)_0745">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-20</span>
-</div>
-<div class="feed-title">Deal - HD현대일렉트릭 (267260.KS) 07:45</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: AI 데이터센터 전력 수요 슈퍼사이클의 공급 병목...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
