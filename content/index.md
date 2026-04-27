@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">28</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">29</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260428_Morning-Brief-2026-04-28_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-04-28</span>
+</div>
+<div class="feed-title">Morning Brief 2026-04-28 07:36</div>
+<div class="feed-excerpt">🟢 Risk-On** — 사상 최고치 경신 랠리, 지정학 완화 + 실적 서프라이즈가 동시에 작동 - **리스크**: S&P500·나스닥 신고가, VIX 데이터 블록 참조 - **시그널**: 인텔 실적 서프라이즈 + 미-이란 협상 기대 → 반도체·에너지 복합 랠리...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260428_Inflection-Scan---2026-04-28_0725">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-04-21 07:36</div>
 <div class="feed-excerpt">🔴 Risk-Off** — 중동 긴장 재고조 + 유가 급등으로 리스크 회피 심리 우세 - **매크로**: 원/달러 상방 압력 지속, 국제유가 급등세 - **리스크**: 미국 프리마켓 하락, 호르무즈 해협 봉쇄 리스크 현실화 - **시그널**: 수요일 휴전 기한 만료...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260421_Inflection-Scan---2026-04-21_0716">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-04-21</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-04-21 07:16</div>
-<div class="feed-excerpt">탐색 범위: 2026-04-21 기준 최근 2주 | High Conviction 6건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 수요가 반도체→첨단패키징→전력인프라로 공급망 전체를 동시 관통하며 실적 변곡점을...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
