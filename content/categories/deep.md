@@ -7,11 +7,15 @@ publish: true
 
 > 기업/섹터 심층 분석. 25-80페이지.
 
-**16개 리포트** | [← 홈으로 돌아가기](/)
+**17개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/12-Research/deep-dive/260426_Deep-Analysis---한국-금-거래소-사업-종합-핸드북_2300-(MacBook-Pro의-충돌된-사본-2026-04-27)">
+<span class="recent-date">2026-04-26</span>
+<span class="recent-title">한국 금 거래소 사업 종합 핸드북 — 도소매+온라인 사업자를 위한 완전 가이드 23:00</span>
+</a>
 <a class="recent-item" href="/11-Companies/하이록코리아/deep-dive/260413_Deep-Analysis---하이록코리아_1652">
 <span class="recent-date">2026-04-13</span>
 <span class="recent-title">Deep Analysis - 하이록코리아 16:52</span>

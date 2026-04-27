@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">28</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">27</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -38,7 +38,7 @@ cssclasses:
 <a class="category-card" href="categories/deep">
 <div class="card-icon">🔬</div>
 <div class="card-body">
-<div class="card-label">Deep & Final Analysis <span class="card-count">16</span></div>
+<div class="card-label">Deep & Final Analysis <span class="card-count">17</span></div>
 <div class="card-desc">기업/섹터 심층 분석. 25-80페이지.</div>
 </div>
 </a>
@@ -60,13 +60,13 @@ cssclasses:
 
 ---
 
-<a class="feed-card" href="13-Signals/daily/260427_Morning-Brief-2026-04-27_0912">
+<a class="feed-card" href="12-Research/deep-dive/260426_Deep-Analysis---한국-금-거래소-사업-종합-핸드북_2300-(MacBook-Pro의-충돌된-사본-2026-04-27)">
 <div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-04-27</span>
+<span class="feed-badge">🔬 DEEP</span>
+<span class="feed-date">2026-04-26</span>
 </div>
-<div class="feed-title">Morning Brief 2026-04-27 09:12</div>
-<div class="feed-excerpt">🟡 혼조 (Risk-On/Off 교차)** — 주말 미-이란 협상 무산으로 지정학 리스크 재점화, 빅테크 실적 시즌 돌입 - **매크로**: 미국 10Y 4.31%, DXY 98.64, WTI 원유 $96.14 - **리스크**: S&P 500 52주...</div>
+<div class="feed-title">한국 금 거래소 사업 종합 핸드북 — 도소매+온라인 사업자를 위한 완전 가이드 23:00</div>
+<div class="feed-excerpt">[!abstract] 이 문서가 무엇인가 한국에서 금 거래소(도소매 + 온라인) 사업을 시작·운영하려는 사업자가 **다른 보고서를 더 읽지 않아도 되도록** 시장·규제·경쟁사·운영·재무·디지털·리스크 7개 영역을 한 번에 다룬 마스터 핸드북. 작성 방식**: 7개의...</div>
 </a>
 
 <a class="feed-card" href="11-Companies/HD현대건설기계/deal/260425_Deal---HD현대건설기계-(267270.KS)_2117">

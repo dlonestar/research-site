@@ -7,15 +7,11 @@ publish: true
 
 > 매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.
 
-**28개 리포트** | [← 홈으로 돌아가기](/)
+**27개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
-<a class="recent-item" href="/13-Signals/daily/260427_Morning-Brief-2026-04-27_0912">
-<span class="recent-date">2026-04-27</span>
-<span class="recent-title">Morning Brief 2026-04-27 09:12</span>
-</a>
 <a class="recent-item" href="/13-Signals/daily/260424_Morning-Brief-2026-04-24_0736">
 <span class="recent-date">2026-04-24</span>
 <span class="recent-title">Morning Brief 2026-04-24 07:36</span>
