@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">85</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">86</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/삼성전기/deal/260428_Deal---삼성전기-(009150.KS)_0750">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-28</span>
+</div>
+<div class="feed-title">Deal - 삼성전기 (009150.KS) 07:50</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 삼성전기는 AI 데이터센터 확산이 만들어낸 MLCC...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260428_Morning-Brief-2026-04-28_0736">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 두산에너빌리티 (034020.KS) 07:51</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 첨단 소재, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물, 전기차 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 두산에너빌리티는 글로벌 SMR(소형모듈원전) 공급망에서 원자로...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260421_Morning-Brief-2026-04-21_0736">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-04-21</span>
-</div>
-<div class="feed-title">Morning Brief 2026-04-21 07:36</div>
-<div class="feed-excerpt">🔴 Risk-Off** — 중동 긴장 재고조 + 유가 급등으로 리스크 회피 심리 우세 - **매크로**: 원/달러 상방 압력 지속, 국제유가 급등세 - **리스크**: 미국 프리마켓 하락, 호르무즈 해협 봉쇄 리스크 현실화 - **시그널**: 수요일 휴전 기한 만료...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
