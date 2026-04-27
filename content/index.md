@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">27</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">28</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260427_Morning-Brief-2026-04-27_0912">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-04-27</span>
+</div>
+<div class="feed-title">Morning Brief 2026-04-27 09:12</div>
+<div class="feed-excerpt">🟡 혼조 (Risk-On/Off 교차)** — 주말 미-이란 협상 무산으로 지정학 리스크 재점화, 빅테크 실적 시즌 돌입 - **매크로**: 미국 10Y 4.31%, DXY 98.64, WTI 원유 $96.14 - **리스크**: S&P 500 52주...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/HD현대건설기계/deal/260425_Deal---HD현대건설기계-(267270.KS)_2117">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-04-20 07:15</div>
 <div class="feed-excerpt">탐색 범위: 2026-04-05 ~ 2026-04-19 (2주) | High Conviction **6건** 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI CapEx 슈퍼사이클이 반도체...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/에스티팜/deal/260419_Deal---에스티팜-(237690.KQ)_2310">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-19</span>
-</div>
-<div class="feed-title">Deal - 에스티팜 (237690.KQ) 23:10</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 바이오텍, 헬스케어 테크, 원자력, 클린에너지, 원자재, 전기차, 로보틱스 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: 에스티팜은 글로벌 올리고핵산 치료제 붐의 핵심 수혜자로, "R&D 단계 → 상업화...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
