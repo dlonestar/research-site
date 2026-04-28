@@ -38,7 +38,7 @@ cssclasses:
 <a class="category-card" href="categories/deep">
 <div class="card-icon">🔬</div>
 <div class="card-body">
-<div class="card-label">Deep & Final Analysis <span class="card-count">17</span></div>
+<div class="card-label">Deep & Final Analysis <span class="card-count">16</span></div>
 <div class="card-desc">기업/섹터 심층 분석. 25-80페이지.</div>
 </div>
 </a>
@@ -112,15 +112,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-04-27 09:12</div>
 <div class="feed-excerpt">🟡 혼조 (Risk-On/Off 교차)** — 주말 미-이란 협상 무산으로 지정학 리스크 재점화, 빅테크 실적 시즌 돌입 - **매크로**: 미국 10Y 4.31%, DXY 98.64, WTI 원유 $96.14 - **리스크**: S&P 500 52주...</div>
-</a>
-
-<a class="feed-card" href="12-Research/deep-dive/260427_2026하반기-자산시장-시나리오">
-<div class="feed-header">
-<span class="feed-badge">🔬 DEEP</span>
-<span class="feed-date">2026-04-27</span>
-</div>
-<div class="feed-title">'2026년 하반기 국내 자산시장 종합 전망: 코스피·코스닥의 운명을 좌우할 7대 변수와 4대 시나리오'</div>
-<div class="feed-excerpt">2026년 하반기 국내 자산시장은 "지수 폭락이 아닌 종목 차별화의 가속" 국면이다.** 미국 메가 IPO($200~250bn 조달)가 글로벌 위험자산 풀을 빨아들이는 외부의 창과, 한국 예탁금 80조·밸류업 정책·연기금이 받쳐주는 내부의 방패가 충돌하면서 지수는...</div>
 </a>
 
 <a class="feed-card" href="11-Companies/HD현대건설기계/deal/260425_Deal---HD현대건설기계-(267270.KS)_2117">
@@ -328,6 +319,15 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 두산에너빌리티 (034020.KS) 07:51</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 첨단 소재, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물, 전기차 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 두산에너빌리티는 글로벌 SMR(소형모듈원전) 공급망에서 원자로...</div>
+</a>
+
+<a class="feed-card" href="13-Signals/daily/260421_Morning-Brief-2026-04-21_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-04-21</span>
+</div>
+<div class="feed-title">Morning Brief 2026-04-21 07:36</div>
+<div class="feed-excerpt">🔴 Risk-Off** — 중동 긴장 재고조 + 유가 급등으로 리스크 회피 심리 우세 - **매크로**: 원/달러 상방 압력 지속, 국제유가 급등세 - **리스크**: 미국 프리마켓 하락, 호르무즈 해협 봉쇄 리스크 현실화 - **시그널**: 수요일 휴전 기한 만료...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
