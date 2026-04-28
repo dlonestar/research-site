@@ -40,6 +40,33 @@ const EXCLUDE_DIRS = new Set([
   '80 Templates', '90 Data',
 ])
 
+// ─── Guards (2026-04-28 incident: GitHub Actions checkout died on overlong
+// Korean filename + Dropbox conflict file leaked into vault) ───
+//
+// B-4: Dropbox sync produces "(MacBook Pro의 충돌된 사본 ...)" / "(conflicted
+// copy ...)" duplicates when two devices edit the same note. They carry valid
+// frontmatter, so without an explicit filter they would be published as
+// duplicates. Skip + log so the original author can resolve manually.
+const CONFLICT_PATTERNS = [
+  /\(.*충돌된 사본.*\)/,
+  /\(.*conflicted copy.*\)/i,
+]
+// readdirSync may return NFD on some macOS configs (Dropbox folders, network
+// volumes). Normalize to NFC so the Hangul regex can match either form.
+const isConflictFile = (file) => {
+  const name = basename(file).normalize('NFC')
+  return CONFLICT_PATTERNS.some(p => p.test(name))
+}
+
+// B-1: ext4 NAME_MAX is 255 bytes. macOS git normally commits as NFC, but
+// when a Hangul-heavy filename lands as NFD in the tree it expands ~3× on
+// Linux and breaks GitHub Actions checkout (2026-04-28 incident). Raw NFC
+// byte length alone is not a reliable predictor — historically successful
+// files reached raw 161 — so cap at 200 as a soft guard for blatantly large
+// names. Real failure detection is delegated to the post-deploy alert.
+const NAME_MAX_RAW_BYTES = 200
+const rawByteLen = (name) => Buffer.byteLength(name, 'utf-8')
+
 // ─── Category Definitions ───
 // Easy to modify: add/remove/reorder categories here
 const CATEGORIES = [
@@ -219,6 +246,7 @@ function sanitizeHtml(content) {
 // Sync files
 const published = []
 let copied = 0, skipped = 0
+let conflictSkipped = 0, longNameSkipped = 0
 
 for (const file of walkDir(VAULT_ROOT)) {
   if (basename(file) === 'index.md' && dirname(file) === VAULT_ROOT) {
@@ -226,8 +254,23 @@ for (const file of walkDir(VAULT_ROOT)) {
     continue
   }
 
+  if (isConflictFile(file)) {
+    console.warn(`  ⚠️  conflict copy skipped: ${relative(VAULT_ROOT, file)}`)
+    conflictSkipped++
+    skipped++
+    continue
+  }
+
   const meta = parseFrontmatter(file)
   if (meta) {
+    const rawBytes = rawByteLen(basename(file))
+    if (rawBytes > NAME_MAX_RAW_BYTES) {
+      console.error(`  ❌ filename too long (raw ${rawBytes}b > ${NAME_MAX_RAW_BYTES}): ${relative(VAULT_ROOT, file)}`)
+      console.error(`     → may break GitHub Actions checkout (NFD expansion crosses ext4 NAME_MAX). Shorten filename in vault.`)
+      longNameSkipped++
+      skipped++
+      continue
+    }
     const rel = relative(VAULT_ROOT, file)
     const target = join(CONTENT_DIR, rel)
     mkdirSync(dirname(target), { recursive: true })
@@ -606,4 +649,7 @@ publish: true
 writeFileSync(join(CONTENT_DIR, 'about.md'), aboutPage, 'utf-8')
 console.log(`  📄 about.md 생성`)
 
-console.log(`\n✅ Sync complete: ${copied} published, ${catPagesCreated} category pages, ${skipped} skipped`)
+const guardSummary = (conflictSkipped || longNameSkipped)
+  ? ` (guard: ${conflictSkipped} conflict, ${longNameSkipped} long-name)`
+  : ''
+console.log(`\n✅ Sync complete: ${copied} published, ${catPagesCreated} category pages, ${skipped} skipped${guardSummary}`)
