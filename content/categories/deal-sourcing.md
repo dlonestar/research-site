@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**87개 리포트** | [← 홈으로 돌아가기](/)
+**88개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/Eaton-Corporation-plc/deal/260429_Deal---Eaton-Corporation-plc-(ETN)_0753">
+<span class="recent-date">2026-04-29</span>
+<span class="recent-title">Deal - Eaton Corporation plc (ETN) 07:53</span>
+</a>
 <a class="recent-item" href="/11-Companies/효성중공업/deal/260429_Deal---효성중공업-(298040.KS)_0746">
 <span class="recent-date">2026-04-29</span>
 <span class="recent-title">Deal - 효성중공업 (298040.KS) 07:46</span>
