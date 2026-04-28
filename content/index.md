@@ -123,7 +123,7 @@ cssclasses:
 <div class="feed-excerpt">CEO 보고용** | 작성: 2026-04-27 | 분석 대상: 2026 H2 (7~12월) 방법론**: 4개 분석 에이전트 (거시·지정학 / 산업 사이클 / 글로벌 자본 흐름 / 국내 수급·정책) 독립 리서치 후 통합·검증 2026년 하반기는 "외부 충격과 내부...</div>
 </a>
 
-<a class="feed-card" href="12-Research/deep-dive/260427_2026-하반기-국내-자산시장-종합-전망_코스피코스닥의-운명을-좌우할-7대-변수와-4대-시나리오">
+<a class="feed-card" href="12-Research/deep-dive/260427_2026하반기-자산시장-시나리오">
 <div class="feed-header">
 <span class="feed-badge">🔬 DEEP</span>
 <span class="feed-date">2026-04-27</span>

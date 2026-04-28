@@ -16,7 +16,7 @@ publish: true
 <span class="recent-date">2026-04-27</span>
 <span class="recent-title">'2026년 하반기 국내 자산시장 종합 전망: 코스피·코스닥 5대 메가트렌드와 4대 시나리오 (CEO 보고용 v2)'</span>
 </a>
-<a class="recent-item" href="/12-Research/deep-dive/260427_2026-하반기-국내-자산시장-종합-전망_코스피코스닥의-운명을-좌우할-7대-변수와-4대-시나리오">
+<a class="recent-item" href="/12-Research/deep-dive/260427_2026하반기-자산시장-시나리오">
 <span class="recent-date">2026-04-27</span>
 <span class="recent-title">'2026년 하반기 국내 자산시장 종합 전망: 코스피·코스닥의 운명을 좌우할 7대 변수와 4대 시나리오'</span>
 </a>
