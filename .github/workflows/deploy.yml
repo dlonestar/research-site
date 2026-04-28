@@ -69,7 +69,7 @@ jobs:
   # Fires only when build or deploy failed (lighthouse excluded). Bridges
   # the silent-failure gap that hid the 2026-04-28 incident for ~30h.
   notify-failure:
-    if: ${{ failure() && github.event_name == 'push' }}
+    if: failure() && github.event_name == 'push'
     needs: [build, deploy]
     runs-on: ubuntu-latest
     steps:
@@ -84,8 +84,7 @@ jobs:
             echo "Telegram secrets missing — skipping alert" >&2
             exit 0
           fi
+          MSG="🚨 dlonestar.com 빌드 실패 | 커밋: ${COMMIT_MSG} | 로그: ${RUN_URL}"
           curl -sS -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
             --data-urlencode "chat_id=${CHAT_ID}" \
-            --data-urlencode "text=🚨 dlonestar.com 빌드 실패
-커밋: ${COMMIT_MSG}
-로그: ${RUN_URL}" >/dev/null
+            --data-urlencode "text=${MSG}" >/dev/null
