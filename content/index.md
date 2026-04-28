@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"The three most harmful addictions are heroin, carbohydrates, and a monthly salary."<br/><span style="color:var(--gray);font-size:0.85em">— Nassim Taleb</span></p>
+<p class="hero-quote">"There is nothing new in Wall Street. There can't be because speculation is as old as the hills."<br/><span style="color:var(--gray);font-size:0.85em">— Jesse Livermore</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">15</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">16</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260429_Inflection-Scan---2026-04-29_0722">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-04-29</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-04-29 07:22</div>
+<div class="feed-excerpt">탐색 범위: 2026-04-29 기준 최근 2주 | High Conviction 5건 확정 (KEEP 1 + REVISE 4 보강) 소스: 어닝 트랜스크립트 / IR 데이터 / 셀사이드 리포트 / X 크로스체크 핵심 테마**: AI 인프라 수요 가속이...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Qualcomm-Incorporated/deal/260428_Deal---Qualcomm-Incorporated-(QCOM)_0756">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 두산에너빌리티 (034020.KS) 07:51</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 첨단 소재, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물, 전기차 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 두산에너빌리티는 글로벌 SMR(소형모듈원전) 공급망에서 원자로...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260421_Morning-Brief-2026-04-21_0736">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-04-21</span>
-</div>
-<div class="feed-title">Morning Brief 2026-04-21 07:36</div>
-<div class="feed-excerpt">🔴 Risk-Off** — 중동 긴장 재고조 + 유가 급등으로 리스크 회피 심리 우세 - **매크로**: 원/달러 상방 압력 지속, 국제유가 급등세 - **리스크**: 미국 프리마켓 하락, 호르무즈 해협 봉쇄 리스크 현실화 - **시그널**: 수요일 휴전 기한 만료...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
