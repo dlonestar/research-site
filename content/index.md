@@ -38,7 +38,7 @@ cssclasses:
 <a class="category-card" href="categories/deep">
 <div class="card-icon">🔬</div>
 <div class="card-body">
-<div class="card-label">Deep & Final Analysis <span class="card-count">18</span></div>
+<div class="card-label">Deep & Final Analysis <span class="card-count">17</span></div>
 <div class="card-desc">기업/섹터 심층 분석. 25-80페이지.</div>
 </div>
 </a>
@@ -112,15 +112,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-04-27 09:12</div>
 <div class="feed-excerpt">🟡 혼조 (Risk-On/Off 교차)** — 주말 미-이란 협상 무산으로 지정학 리스크 재점화, 빅테크 실적 시즌 돌입 - **매크로**: 미국 10Y 4.31%, DXY 98.64, WTI 원유 $96.14 - **리스크**: S&P 500 52주...</div>
-</a>
-
-<a class="feed-card" href="12-Research/deep-dive/260427_2026-하반기-국내-자산시장-종합-전망-v2---CEO-보고용">
-<div class="feed-header">
-<span class="feed-badge">🔬 DEEP</span>
-<span class="feed-date">2026-04-27</span>
-</div>
-<div class="feed-title">'2026년 하반기 국내 자산시장 종합 전망: 코스피·코스닥 5대 메가트렌드와 4대 시나리오 (CEO 보고용 v2)'</div>
-<div class="feed-excerpt">CEO 보고용** | 작성: 2026-04-27 | 분석 대상: 2026 H2 (7~12월) 방법론**: 4개 분석 에이전트 (거시·지정학 / 산업 사이클 / 글로벌 자본 흐름 / 국내 수급·정책) 독립 리서치 후 통합·검증 2026년 하반기는 "외부 충격과 내부...</div>
 </a>
 
 <a class="feed-card" href="12-Research/deep-dive/260427_2026하반기-자산시장-시나리오">
@@ -328,6 +319,15 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Intuitive Surgical, Inc. (ISRG) 07:57</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 첨단 소재, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물, 전기차 4일 주기 로테이션 (30개 분야 커버) 발견 가치 항목은 34명 커버리지로 본래 0~1점이 맞으나, 이 리포트의 핵심 엣지는 **"이미...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/두산에너빌리티/deal/260421_Deal---두산에너빌리티-(034020.KS)_0751">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-21</span>
+</div>
+<div class="feed-title">Deal - 두산에너빌리티 (034020.KS) 07:51</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 첨단 소재, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물, 전기차 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 두산에너빌리티는 글로벌 SMR(소형모듈원전) 공급망에서 원자로...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
