@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">89</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">90</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/Palantir-Technologies-Inc./deal/260430_Deal---Palantir-Technologies-Inc.-(PLTR)_0756">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-30</span>
+</div>
+<div class="feed-title">Deal - Palantir Technologies Inc. (PLTR) 07:56</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스, 디지털 금융 혁신, K-뷰티 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: Palantir는 AI 플랫폼(AIP) + 미국 정부 데이터...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/LS-ELECTRIC-Co.,-Ltd./deal/260430_Deal---LS-ELECTRIC-Co.,-Ltd.-(010120.KS)_0749">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - SK Hynix Inc. (000660.KS) 07:49</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 로보틱스, 디지털 금융 혁신, K-뷰티, 디지털 유통, 인도 시장, 동남아 시장, 일본 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: SK하이닉스는 HBM3E 독점 공급 지위를 기반으로 AI...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260422_Morning-Brief-2026-04-22_0738">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-04-22</span>
-</div>
-<div class="feed-title">Morning Brief 2026-04-22 07:38</div>
-<div class="feed-excerpt">🟡 혼조 → Risk-On 전환 시도** — 지정학 리스크가 시장을 흔들었지만, 협상 기대감과 빅테크 투자 모멘텀이 반등 동력으로 작용 중 - **매크로**: WTI 유가 급등 / 중동 지정학 변수 부각 - **리스크**: 미국 3대 지수 전일 동반 하락,...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
