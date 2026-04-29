@@ -8,7 +8,7 @@ market: US
 tags:
   - daily
   - deal-sourcing
-ticker: Anapas Inc.
+ticker: 263860.KQ
 title: Deal - 아나패스 (Anapas Inc.) 07:46
 type: deal-sourcing
 publish: true

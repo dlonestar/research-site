@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"There is nothing new in Wall Street. There can't be because speculation is as old as the hills."<br/><span style="color:var(--gray);font-size:0.85em">— Jesse Livermore</span></p>
+<p class="hero-quote">"Spend each day trying to be a little wiser than you were when you woke up."<br/><span style="color:var(--gray);font-size:0.85em">— Charlie Munger</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">16</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">17</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260430_Inflection-Scan---2026-04-30_0724">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-04-30</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-04-30 07:24</div>
+<div class="feed-excerpt">탐색 범위: 2026-04-30 기준 최근 2주 | High Conviction 6건 발견 (KEEP 2 / REVISE 4) 소스: 1차 IR + 셀사이드 리포트 + 매크로 데이터 핵심 테마**: AI CapEx 슈퍼사이클이 검색·클라우드·전력 인프라·배터리 전반에...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Eaton-Corporation-plc/deal/260429_Deal---Eaton-Corporation-plc-(ETN)_0753">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 제이오 (418550.KQ) 22:33</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 농업기술, 교육, 미디어, 한국 시장, 부동산, 보험, 한국 반도체 소부장 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 제이오는 세계 유일의 TWCNT(이중벽 탄소나노튜브) 대량생산 기업으로, 전고체...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/버티브-홀딩스/deal/260421_Deal---버티브-홀딩스-(VRT)_2157">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-21</span>
-</div>
-<div class="feed-title">Deal - 버티브 홀딩스 (VRT) 21:57</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 농업기술, 교육, 미디어, 한국 시장, 부동산, 보험, 한국 반도체 소부장 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스**: 버티브는 AI 데이터센터의 '전력·냉각 인프라 필수재'로, 이미 시장이 알고 있는...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">

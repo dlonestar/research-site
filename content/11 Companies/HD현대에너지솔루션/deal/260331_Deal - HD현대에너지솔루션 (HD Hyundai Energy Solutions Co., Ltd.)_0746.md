@@ -8,7 +8,7 @@ market: US
 tags:
   - deal-sourcing
   - daily
-ticker: HD Hyundai Energy Solutions Co., Ltd.
+ticker: 267260.KS
 title: Deal - HD현대에너지솔루션 (HD Hyundai Energy Solutions Co., Ltd.) 07:46
 type: deal-sourcing
 publish: true

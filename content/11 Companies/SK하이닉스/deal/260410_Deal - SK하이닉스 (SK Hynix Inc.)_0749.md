@@ -8,7 +8,7 @@ market: KR
 tags:
 - deal-sourcing
 - daily
-ticker: SK Hynix Inc.
+ticker: 000660.KS
 title: Deal - SK하이닉스 (SK Hynix Inc.) 07:49
 type: deal-sourcing
 publish: true

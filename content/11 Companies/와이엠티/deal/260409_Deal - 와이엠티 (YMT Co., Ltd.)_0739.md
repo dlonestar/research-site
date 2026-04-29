@@ -8,7 +8,7 @@ market: US
 tags:
 - daily
 - deal-sourcing
-ticker: YMT Co., Ltd.
+ticker: 251370.KQ
 title: Deal - 와이엠티 (YMT Co., Ltd.) 07:39
 type: deal-sourcing
 publish: true

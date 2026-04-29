@@ -8,7 +8,7 @@ market: US
 tags:
   - daily
   - deal-sourcing
-ticker: Hanwha Aerospace Co., Ltd.
+ticker: 012450.KS
 title: Deal - 한화에어로스페이스 (Hanwha Aerospace Co., Ltd.) 07:46
 type: deal-sourcing
 publish: true

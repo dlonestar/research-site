@@ -10,7 +10,7 @@ tags:
 - company-deep-dive
 - deep-company
 - research
-ticker: 원익QNC
+ticker: 074600.KS
 title: Deep Analysis - 원익QnC 22:36
 type: deep-company
 publish: true
