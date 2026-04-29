@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">88</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">89</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/LS-ELECTRIC-Co.,-Ltd./deal/260430_Deal---LS-ELECTRIC-Co.,-Ltd.-(010120.KS)_0749">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-30</span>
+</div>
+<div class="feed-title">Deal - LS ELECTRIC Co., Ltd. (010120.KS) 07:49</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스, 디지털 금융 혁신, K-뷰티 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: LS ELECTRIC은 국내 전력기기 독과점 기업이 글로벌 빅테크...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260430_Morning-Brief-2026-04-30_0736">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-04-22 07:38</div>
 <div class="feed-excerpt">🟡 혼조 → Risk-On 전환 시도** — 지정학 리스크가 시장을 흔들었지만, 협상 기대감과 빅테크 투자 모멘텀이 반등 동력으로 작용 중 - **매크로**: WTI 유가 급등 / 중동 지정학 변수 부각 - **리스크**: 미국 3대 지수 전일 동반 하락,...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260422_Inflection-Scan---2026-04-22_0717">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-04-22</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-04-22 07:17</div>
-<div class="feed-excerpt">탐색 범위: 2026-04-22 기준 최근 2주 | High Conviction 7건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI가 만들어낸 비용 구조 혁명 + 전력·우주 인프라 슈퍼사이클의 교차 — 실적 가속과...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
