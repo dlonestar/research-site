@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">30</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">31</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260430_Morning-Brief-2026-04-30_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-04-30</span>
+</div>
+<div class="feed-title">Morning Brief 2026-04-30 07:36</div>
+<div class="feed-excerpt">🔴 Risk-Off** — AI 수익성 의구심 + 중동 지정학 리스크가 동시에 작동 - **매크로**: 유가 100달러 돌파 임박, 연준 금리 동결 유력, 금리 슈퍼위크 진행 중 - **리스크**: 필라델피아 반도체 지수 전일 급락, VIX 상승 압력 지속 -...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260430_Inflection-Scan---2026-04-30_0724">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-04-22 07:17</div>
 <div class="feed-excerpt">탐색 범위: 2026-04-22 기준 최근 2주 | High Conviction 7건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI가 만들어낸 비용 구조 혁명 + 전력·우주 인프라 슈퍼사이클의 교차 — 실적 가속과...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/제이오/deal/260421_Deal---제이오-(418550.KQ)_2233">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-21</span>
-</div>
-<div class="feed-title">Deal - 제이오 (418550.KQ) 22:33</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 농업기술, 교육, 미디어, 한국 시장, 부동산, 보험, 한국 반도체 소부장 4일 주기 로테이션 (21개 분야 커버) 한 줄 테시스:** 제이오는 세계 유일의 TWCNT(이중벽 탄소나노튜브) 대량생산 기업으로, 전고체...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
