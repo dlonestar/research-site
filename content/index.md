@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">93</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">94</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -85,6 +85,15 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 한화엔진 (082740.KS) 23:20</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스, 디지털 금융 혁신, K-뷰티 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 한화엔진은 조선 슈퍼사이클의 핵심 수혜기업으로, DF엔진 기술...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/HD현대중공업/deal/260430_Deal---HD현대중공업-(329180.KS)_2319">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-30</span>
+</div>
+<div class="feed-title">Deal - HD현대중공업 (329180.KS) 23:19</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스, 디지털 금융 혁신, K-뷰티 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: HD현대중공업은 세계 최대 조선소의 슈퍼사이클 수혜 위에,...</div>
 </a>
 
 <a class="feed-card" href="11-Companies/Palantir-Technologies-Inc./deal/260430_Deal---Palantir-Technologies-Inc.-(PLTR)_0756">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 한화시스템 (272210.KS) 07:50</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 유럽 경제, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 한화시스템은 인적분할을 통해 복합 기업 디스카운트를 해소하고,...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260423_Morning-Brief-2026-04-23_0736">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-04-23</span>
-</div>
-<div class="feed-title">Morning Brief 2026-04-23 07:36</div>
-<div class="feed-excerpt">🟡 Risk-On (경계 속 반등)** — 휴전 연장으로 센티먼트 반전, 단 유가 재상승으로 상승폭 제한 - **매크로**: WTI 전일 +6.87% 급등 후 추가 상승 중, 달러 강세 기조 유지 - **리스크**: 호르무즈 해협 선박 나포 → 지정학 노이즈...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
