@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">91</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">92</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -67,6 +67,15 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - HD현대마린엔진 (071970.KS) 23:20</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스, 디지털 금융 혁신, K-뷰티 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: HD현대마린엔진은 조선 슈퍼사이클의 핵심 기자재 수혜주로,...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/한화엔진/deal/260430_Deal---한화엔진-(082740.KS)_2320">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-04-30</span>
+</div>
+<div class="feed-title">Deal - 한화엔진 (082740.KS) 23:20</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스, 디지털 금융 혁신, K-뷰티 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 한화엔진은 조선 슈퍼사이클의 핵심 수혜기업으로, DF엔진 기술...</div>
 </a>
 
 <a class="feed-card" href="11-Companies/Palantir-Technologies-Inc./deal/260430_Deal---Palantir-Technologies-Inc.-(PLTR)_0756">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-04-23 07:18</div>
 <div class="feed-excerpt">탐색 범위: 2026-04-23 기준 최근 2주 | High Conviction 7건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 인프라 슈퍼사이클이 "기대"에서 "실제 수주·생산능력 확대"로 전환되는 임계점 —...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Advanced-Micro-Devices,-Inc./deal/260422_Deal---Advanced-Micro-Devices,-Inc.-(AMD)_0755">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-22</span>
-</div>
-<div class="feed-title">Deal - Advanced Micro Devices, Inc. (AMD) 07:55</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 로보틱스, 디지털 금융 혁신, K-뷰티, 디지털 유통, 인도 시장, 동남아 시장, 일본 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: AMD는 인텔의 서버 CPU 독점 붕괴라는 수십 년 만의...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
