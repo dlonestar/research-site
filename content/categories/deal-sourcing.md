@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**90개 리포트** | [← 홈으로 돌아가기](/)
+**91개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/HD현대마린엔진/deal/260430_Deal---HD현대마린엔진-(071970.KS)_2320">
+<span class="recent-date">2026-04-30</span>
+<span class="recent-title">Deal - HD현대마린엔진 (071970.KS) 23:20</span>
+</a>
 <a class="recent-item" href="/11-Companies/Palantir-Technologies-Inc./deal/260430_Deal---Palantir-Technologies-Inc.-(PLTR)_0756">
 <span class="recent-date">2026-04-30</span>
 <span class="recent-title">Deal - Palantir Technologies Inc. (PLTR) 07:56</span>
