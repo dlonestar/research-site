@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">96</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">97</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/한화솔루션/deal/260504_Deal---한화솔루션-(009830.KS)_0747">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-04</span>
+</div>
+<div class="feed-title">Deal - 한화솔루션 (009830.KS) 07:47</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스 4일 주기 로테이션 (30개 분야 커버) 배당수익률 113.0% 표기는 데이터 오류로 판단** — Yahoo Finance 수집값...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260504_Morning-Brief-2026-05-04_0736">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-04-24 07:14</div>
 <div class="feed-excerpt">탐색 범위: 2026-04-24 기준 최근 2주 | High Conviction 5건 발견 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 수요가 GPU에서 CPU·아날로그·ASIC·소재 전반으로 확산되는 **'2차...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/실리콘투/deal/260423_Deal---실리콘투-(257720.KS)_2228">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-23</span>
-</div>
-<div class="feed-title">Deal - 실리콘투 (257720.KS) 22:28</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 유럽 경제, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** 실리콘투는 K-뷰티 글로벌 확산의 인프라 레이어 — 브랜드가 뜨면...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
