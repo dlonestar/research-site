@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">31</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">32</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260504_Morning-Brief-2026-05-04_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-05-04</span>
+</div>
+<div class="feed-title">Morning Brief 2026-05-04 07:36</div>
+<div class="feed-excerpt">🟡 Risk-Mixed** — 빅테크 실적 호조의 Risk-On과 지정학·금리 리스크의 Risk-Off가 팽팽히 대치 - **매크로**: 10년물 국채금리·유가·달러인덱스 — 📊 블록 참조 - **리스크**: S&P500·나스닥 사상 최고치 경신 vs. VIX...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260504_Inflection-Scan---2026-05-04_0720">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 실리콘투 (257720.KS) 22:28</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 유럽 경제, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** 실리콘투는 K-뷰티 글로벌 확산의 인프라 레이어 — 브랜드가 뜨면...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/현대로템/deal/260423_Deal---현대로템-(064350.KS)_2228">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-23</span>
-</div>
-<div class="feed-title">Deal - 현대로템 (064350.KS) 22:28</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 유럽 경제, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** 현대로템은 K2 전차 수출 사이클 + KTX·메트로 글로벌 확장이라는...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
