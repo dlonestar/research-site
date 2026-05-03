@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">95</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">96</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/한선엔지니어링/deal/260503_Deal---한선엔지니어링-(452280.KS)_1117">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-03</span>
+</div>
+<div class="feed-title">Deal - 한선엔지니어링 (452280.KS) 11:17</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안, 첨단 소재 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** 한선엔지니어링은 계장용 피팅·밸브라는 틈새 산업재에서...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/코세스/deal/260503_Deal---코세스-(089890.KQ)_1116">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - KH바텍 (060720.KQ) 21:12</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 유럽 경제, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: KH바텍은 삼성 폴더블폰 힌지 공급사에서 전장·로봇 부품 다각화...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Rheinmetall-AG/deal/260423_Deal---Rheinmetall-AG-(RNMBF)_0756">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-23</span>
-</div>
-<div class="feed-title">Deal - Rheinmetall AG (RNMBF) 07:56</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 유럽 경제, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 라인메탈은 유럽 방산 슈퍼사이클의 핵심 수혜주로, NATO GDP 5%...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
