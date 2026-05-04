@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">32</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">33</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260505_Morning-Brief-2026-05-05_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-05-05</span>
+</div>
+<div class="feed-title">Morning Brief 2026-05-05 07:36</div>
+<div class="feed-excerpt">🔴 Risk-Off (미국) / 🟢 Risk-On (한국) — 지정학 충격과 한국 외국인 자금 유입의 디커플링 - **매크로**: WTI +4.39% 급등 (지정학), 원/달러 1,462.8원 (-20.5원 급락) - **리스크**: 미국 3대 지수 하락, VIX...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260505_Inflection-Scan---2026-05-05_0722">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Texas Instruments Incorporated (TXN) 07:57</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: TXN은 아날로그 반도체 시장의 구조적 지배자로,...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Samsung-SDS-Co.,-Ltd./deal/260424_Deal---Samsung-SDS-Co.,-Ltd.-(018260.KS)_0750">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-24</span>
-</div>
-<div class="feed-title">Deal - Samsung SDS Co., Ltd. (018260.KS) 07:50</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** 삼성SDS는 삼성그룹이라는 '락인된 TAM'을...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
