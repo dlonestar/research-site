@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">99</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">100</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/Pinterest,-Inc./deal/260505_Deal---Pinterest,-Inc.-(PINS)_0754">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-05</span>
+</div>
+<div class="feed-title">Deal - Pinterest, Inc. (PINS) 07:54</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 디지털 금융 혁신, K-뷰티, 디지털 유통, 인도 시장, 동남아 시장, 일본 시장, 유럽 경제 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** Pinterest는 AI 주도 수익화 전환이 이제 막 가속화되는...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/한화에어로스페이스/deal/260505_Deal---한화에어로스페이스-(012450.KS)_0748">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 두산밥캣 (241560.KS) 21:17</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 글로벌 인구 이동, 사이버 보안, 첨단 소재, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 두산밥캣은 글로벌 소형 건설장비 시장 1위 사업자로, 2025년...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/현대로템/research/260424_Research---현대로템-(064350.KS)_0800">
-<div class="feed-header">
-<span class="feed-badge">📂 ARCHIVES</span>
-<span class="feed-date">2026-04-24</span>
-</div>
-<div class="feed-title">Research - 현대로템 (064350.KS) 전차 무용론 · 딜 체크리스트 검증 08:00</div>
-<div class="feed-excerpt">Source deal report: 260423Deal - 현대로템 (064350.KS)2228 Research date: 2026-04-24 Analyst framing: 5-agent 병렬 리서치 · cold · non-hedged [!abstract]...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
