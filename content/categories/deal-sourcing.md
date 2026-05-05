@@ -7,7 +7,7 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**104개 리포트** | [← 홈으로 돌아가기](/)
+**105개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
@@ -35,6 +35,10 @@ publish: true
 <a class="recent-item" href="/11-Companies/쎄트렉아이/deal/260504_Deal---쎄트렉아이-(099320.KS)_2159">
 <span class="recent-date">2026-05-04</span>
 <span class="recent-title">Deal - 쎄트렉아이 (099320.KS) 21:59</span>
+</a>
+<a class="recent-item" href="/11-Companies/한온시스템/deal/260504_Deal---한온시스템-(018880.KS)_2158">
+<span class="recent-date">2026-05-04</span>
+<span class="recent-title">Deal - 한온시스템 (018880.KS) 21:58</span>
 </a>
 <a class="recent-item" href="/11-Companies/Intel-Corporation/deal/260504_Deal---Intel-Corporation-(INTC)_0754">
 <span class="recent-date">2026-05-04</span>
