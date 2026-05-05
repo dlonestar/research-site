@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">101</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">102</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/쇼피파이/deal/260506_Deal---쇼피파이-(SHOP)_0046">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-06</span>
+</div>
+<div class="feed-title">Deal - 쇼피파이 (SHOP) 00:46</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 쇼피파이는 글로벌 이커머스의 운영체제(OS)로, 34% 매출...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/스포츠레이더-그룹/deal/260506_Deal---스포츠레이더-그룹-(SRAD)_0045">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-04-27 09:12</div>
 <div class="feed-excerpt">🟡 혼조 (Risk-On/Off 교차)** — 주말 미-이란 협상 무산으로 지정학 리스크 재점화, 빅테크 실적 시즌 돌입 - **매크로**: 미국 10Y 4.31%, DXY 98.64, WTI 원유 $96.14 - **리스크**: S&P 500 52주...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/HD현대건설기계/deal/260425_Deal---HD현대건설기계-(267270.KS)_2117">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-25</span>
-</div>
-<div class="feed-title">Deal - HD현대건설기계 (267270.KS) 21:17</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 글로벌 인구 이동, 사이버 보안, 첨단 소재, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: HD현대건설기계와 HD현대인프라코어의 합병(2026.1.1)으로...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
