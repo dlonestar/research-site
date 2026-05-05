@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">19</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">20</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260506_Inflection-Scan---2026-05-06_0723">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-05-06</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-05-06 07:23</div>
+<div class="feed-excerpt">탐색 범위: 2026-05-06 기준 최근 2주 | High Conviction 4건 확정 (5건 검토 → SMCI 1건 DROP) 소스: IR 어닝콜 + 셀사이드 리서치 + 수주 공시 + 매크로 크로스체크 핵심 테마**: AI 인프라 수요 가속의 수혜 지형이 GPU...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/백블레이즈/deal/260506_Deal---백블레이즈-(BLZE)_0052">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Qualcomm Incorporated (QCOM) 07:56</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: Qualcomm은 '모바일 칩 회사'라는 오래된...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/삼성전기/deal/260428_Deal---삼성전기-(009150.KS)_0750">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-28</span>
-</div>
-<div class="feed-title">Deal - 삼성전기 (009150.KS) 07:50</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 삼성전기는 AI 데이터센터 확산이 만들어낸 MLCC...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
