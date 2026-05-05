@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">110</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">111</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/Micron-Technology,-Inc./deal/260506_Deal---Micron-Technology,-Inc.-(MU)_0753">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-06</span>
+</div>
+<div class="feed-title">Deal - Micron Technology, Inc. (MU) 07:53</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** Micron은 AI Capex 1조 달러 시대의 HBM 수혜를...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/크래프톤/deal/260506_Deal---크래프톤-(259960.KS)_0747">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 효성중공업 (298040.KS) 07:46</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안, 첨단 소재, 바이오텍, 헬스케어 테크 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 효성중공업은 글로벌 AI 데이터센터 전력 수요 급증의 직접...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260429_Morning-Brief-2026-04-29_0737">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-04-29</span>
-</div>
-<div class="feed-title">Morning Brief 2026-04-29 07:37</div>
-<div class="feed-excerpt">🟡 혼조 (Risk-On 우세, 경계감 공존)** — 빅테크 실적 기대 vs. FOMC·유가·OpenAI 노이즈 - **매크로**: FOMC 회의 오늘 종료, 금리 동결 전망 우세 / 중동 긴장으로 유가 상승 압력 지속 - **리스크**: S&P500·나스닥 사상...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
