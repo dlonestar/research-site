@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">103</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">104</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -121,6 +121,15 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-05-05 07:22</div>
 <div class="feed-excerpt">탐색 범위: 2026-05-05 기준 최근 2주 | High Conviction 5건 분석 (KEEP 2 / REVISE 3) 소스: 어닝스 서프라이즈 / 애널리스트 목표주가 / 백로그 데이터 / 셀사이드 컨센서스 핵심 테마**: AI CapEx 공급망 전반의 동시...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/쎄트렉아이/deal/260504_Deal---쎄트렉아이-(099320.KS)_2159">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-04</span>
+</div>
+<div class="feed-title">Deal - 쎄트렉아이 (099320.KS) 21:59</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 쎄트렉아이는 한국 유일의 소형 지구관측위성 수출 기업으로, 위성 제조...</div>
 </a>
 
 <a class="feed-card" href="11-Companies/Intel-Corporation/deal/260504_Deal---Intel-Corporation-(INTC)_0754">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-04-28 07:25</div>
 <div class="feed-excerpt">탐색 범위: 2026-04-28 기준 최근 2주 | High Conviction 6건 (KR 2 / US 4) 소스: 1Q26 실적 IR + 셀사이드 리포트 + 애널리스트 업그레이드 핵심 테마**: AI 데이터센터 전력·네트워킹 인프라 수요가 '발주 → 수주잔고 →...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260427_Inflection-Scan---2026-04-27_0922">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-04-27</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-04-27 09:22</div>
-<div class="feed-excerpt">탐색 범위**: 2026-04-27 기준 최근 2주 | High Conviction 7건 발견 소스**: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 인프라 투자 사이클이 반도체를 넘어 전력·냉각·네트워킹·소재로 확산 —...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
