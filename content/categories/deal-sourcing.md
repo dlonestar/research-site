@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**102개 리포트** | [← 홈으로 돌아가기](/)
+**103개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/백블레이즈/deal/260506_Deal---백블레이즈-(BLZE)_0052">
+<span class="recent-date">2026-05-06</span>
+<span class="recent-title">Deal - 백블레이즈 (BLZE) 00:52</span>
+</a>
 <a class="recent-item" href="/11-Companies/쇼피파이/deal/260506_Deal---쇼피파이-(SHOP)_0046">
 <span class="recent-date">2026-05-06</span>
 <span class="recent-title">Deal - 쇼피파이 (SHOP) 00:46</span>
