@@ -1,5 +1,5 @@
 ---
-company: Pinterest, Inc.
+company: 핀터레스트
 created: 2026-05-05 07:54
 date: 2026-05-05 07:54
 exchange: NASDAQ/NYSE

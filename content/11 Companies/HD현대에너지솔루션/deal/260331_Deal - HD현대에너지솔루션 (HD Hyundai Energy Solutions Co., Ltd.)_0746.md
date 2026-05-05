@@ -2,13 +2,13 @@
 company: HD현대에너지솔루션
 created: 2026-03-31 07:46
 date: 2026-03-31 07:46
-exchange: NASDAQ/NYSE
+exchange: KOSPI
 listing: public
-market: US
+market: KR
 tags:
   - deal-sourcing
   - daily
-ticker: 267260.KS
+ticker: 322000.KS
 title: Deal - HD현대에너지솔루션 (HD Hyundai Energy Solutions Co., Ltd.) 07:46
 type: deal-sourcing
 publish: true

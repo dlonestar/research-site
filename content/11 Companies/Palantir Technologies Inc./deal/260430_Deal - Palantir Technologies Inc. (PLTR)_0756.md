@@ -1,5 +1,5 @@
 ---
-company: Palantir Technologies Inc.
+company: 팔란티어
 created: 2026-04-30 07:56
 date: 2026-04-30 07:56
 exchange: NASDAQ/NYSE

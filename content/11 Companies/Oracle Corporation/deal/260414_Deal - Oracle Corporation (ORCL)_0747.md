@@ -1,5 +1,5 @@
 ---
-company: Oracle Corporation
+company: 오라클
 created: 2026-04-14 07:47
 date: 2026-04-14 07:47
 exchange: NASDAQ/NYSE

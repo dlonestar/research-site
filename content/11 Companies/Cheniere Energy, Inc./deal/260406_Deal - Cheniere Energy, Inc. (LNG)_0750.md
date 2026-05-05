@@ -1,5 +1,5 @@
 ---
-company: Cheniere Energy, Inc.
+company: 셰니에르 에너지
 created: 2026-04-06 07:50
 date: 2026-04-06 07:50
 exchange: NASDAQ/NYSE

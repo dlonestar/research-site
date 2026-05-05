@@ -1,5 +1,5 @@
 ---
-company: Zscaler, Inc.
+company: Zscaler
 created: 2026-03-30 08:01
 date: 2026-03-30 08:01
 exchange: NASDAQ/NYSE

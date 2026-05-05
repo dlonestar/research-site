@@ -1,5 +1,5 @@
 ---
-company: Alphabet Inc.
+company: 알파벳
 created: 2026-04-20 07:52
 date: 2026-04-20 07:52
 exchange: NASDAQ/NYSE

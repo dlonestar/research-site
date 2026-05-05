@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"Price is what you pay. Value is what you get."<br/><span style="color:var(--gray);font-size:0.85em">— Warren Buffett</span></p>
+<p class="hero-quote">"Risk comes from not knowing what you're doing."<br/><span style="color:var(--gray);font-size:0.85em">— Warren Buffett</span></p>
 </div>
 
 <div class="category-grid">
@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">100</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">101</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/스포츠레이더-그룹/deal/260506_Deal---스포츠레이더-그룹-(SRAD)_0045">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-06</span>
+</div>
+<div class="feed-title">Deal - 스포츠레이더 그룹 (SRAD) 00:45</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 스포츠레이더는 글로벌 스포츠 데이터 인프라의 독점적 공급자로,...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Pinterest,-Inc./deal/260505_Deal---Pinterest,-Inc.-(PINS)_0754">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - HD현대건설기계 (267270.KS) 21:17</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 글로벌 인구 이동, 사이버 보안, 첨단 소재, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: HD현대건설기계와 HD현대인프라코어의 합병(2026.1.1)으로...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/두산밥캣/deal/260425_Deal---두산밥캣-(241560.KS)_2117">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-25</span>
-</div>
-<div class="feed-title">Deal - 두산밥캣 (241560.KS) 21:17</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 글로벌 인구 이동, 사이버 보안, 첨단 소재, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 두산밥캣은 글로벌 소형 건설장비 시장 1위 사업자로, 2025년...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">

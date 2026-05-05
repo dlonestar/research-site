@@ -1,5 +1,5 @@
 ---
-company: Eaton Corporation plc
+company: 이튼
 created: 2026-04-29 07:53
 date: 2026-04-29 07:53
 exchange: NASDAQ/NYSE

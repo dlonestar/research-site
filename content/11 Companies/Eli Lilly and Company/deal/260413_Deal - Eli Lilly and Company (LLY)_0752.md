@@ -1,6 +1,6 @@
 ---
 
-company: Eli Lilly and Company
+company: 일라이 릴리
 created: 2026-04-13 07:52
 date: 2026-04-13 07:52
 exchange: NASDAQ/NYSE

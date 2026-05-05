@@ -1,5 +1,5 @@
 ---
-company: Taiwan Semiconductor Manufacturing Company Limited
+company: TSMC
 created: 2026-04-16 07:54
 date: 2026-04-16 07:54
 exchange: NASDAQ/NYSE

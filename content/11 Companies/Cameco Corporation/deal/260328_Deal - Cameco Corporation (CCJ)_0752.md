@@ -1,5 +1,5 @@
 ---
-company: Cameco Corporation
+company: 카메코
 created: 2026-03-28 07:52
 date: 2026-03-28 07:52
 exchange: NASDAQ/NYSE

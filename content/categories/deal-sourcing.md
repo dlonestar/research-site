@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**100개 리포트** | [← 홈으로 돌아가기](/)
+**101개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/스포츠레이더-그룹/deal/260506_Deal---스포츠레이더-그룹-(SRAD)_0045">
+<span class="recent-date">2026-05-06</span>
+<span class="recent-title">Deal - 스포츠레이더 그룹 (SRAD) 00:45</span>
+</a>
 <a class="recent-item" href="/11-Companies/Pinterest,-Inc./deal/260505_Deal---Pinterest,-Inc.-(PINS)_0754">
 <span class="recent-date">2026-05-05</span>
 <span class="recent-title">Deal - Pinterest, Inc. (PINS) 07:54</span>

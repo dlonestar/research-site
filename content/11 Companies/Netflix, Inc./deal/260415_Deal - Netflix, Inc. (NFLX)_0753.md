@@ -1,6 +1,6 @@
 ---
 
-company: Netflix, Inc.
+company: 넷플릭스
 created: 2026-04-15 07:53
 date: 2026-04-15 07:53
 exchange: NASDAQ/NYSE

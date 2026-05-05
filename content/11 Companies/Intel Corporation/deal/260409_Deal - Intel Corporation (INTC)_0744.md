@@ -1,5 +1,5 @@
 ---
-company: Intel Corporation
+company: 인텔
 created: 2026-04-09 07:44
 date: 2026-04-09 07:44
 exchange: NASDAQ/NYSE

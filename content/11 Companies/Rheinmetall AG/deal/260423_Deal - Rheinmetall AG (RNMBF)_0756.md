@@ -1,5 +1,5 @@
 ---
-company: Rheinmetall AG
+company: 라인메탈
 created: 2026-04-23 07:56
 date: 2026-04-23 07:56
 exchange: 'US (OTC) / PRIMARY: RHM.DE'

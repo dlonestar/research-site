@@ -1,5 +1,5 @@
 ---
-company: SK Hynix Inc.
+company: SK하이닉스
 created: 2026-04-22 07:49
 date: 2026-04-22 07:49
 exchange: KRX

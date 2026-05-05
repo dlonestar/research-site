@@ -1,5 +1,5 @@
 ---
-company: ASML Holding NV
+company: ASML
 created: 2026-04-10 07:55
 date: 2026-04-10 07:55
 exchange: NASDAQ/NYSE

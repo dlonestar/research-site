@@ -1,5 +1,5 @@
 ---
-company: Qualcomm Incorporated
+company: 퀄컴
 created: 2026-04-28 07:56
 date: 2026-04-28 07:56
 exchange: NASDAQ/NYSE

@@ -1,6 +1,6 @@
 ---
 
-company: HYBE Co., Ltd.
+company: 하이브
 created: 2026-04-16 15:20
 date: 2026-04-16 15:20
 exchange: KRX

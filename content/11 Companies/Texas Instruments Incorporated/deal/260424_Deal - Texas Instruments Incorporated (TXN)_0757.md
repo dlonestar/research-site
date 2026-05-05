@@ -1,5 +1,5 @@
 ---
-company: Texas Instruments Incorporated
+company: 텍사스 인스트루먼츠
 created: 2026-04-24 07:57
 date: 2026-04-24 07:57
 exchange: NASDAQ/NYSE

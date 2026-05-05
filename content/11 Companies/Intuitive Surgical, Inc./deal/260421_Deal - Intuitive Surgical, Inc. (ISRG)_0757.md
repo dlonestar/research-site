@@ -1,5 +1,5 @@
 ---
-company: Intuitive Surgical, Inc.
+company: 인튜이티브 서지컬
 created: 2026-04-21 07:57
 date: 2026-04-21 07:57
 exchange: NASDAQ/NYSE

@@ -1,5 +1,5 @@
 ---
-company: Advanced Micro Devices, Inc.
+company: AMD
 created: 2026-04-22 07:55
 date: 2026-04-22 07:55
 exchange: NASDAQ/NYSE

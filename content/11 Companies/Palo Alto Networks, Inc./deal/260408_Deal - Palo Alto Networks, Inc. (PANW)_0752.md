@@ -1,5 +1,5 @@
 ---
-company: Palo Alto Networks, Inc.
+company: 팔로알토 네트웍스
 created: 2026-04-08 07:52
 date: 2026-04-08 07:52
 exchange: NASDAQ/NYSE

@@ -1,5 +1,5 @@
 ---
-company: Argan Inc.
+company: Argan
 created: 2026-03-29 07:51
 date: 2026-03-29 07:51
 exchange: NASDAQ/NYSE

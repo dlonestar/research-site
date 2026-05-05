@@ -1,5 +1,5 @@
 ---
-company: Iperionx Ltd
+company: IperionX
 created: 2026-03-31 07:51
 date: 2026-03-31 07:51
 exchange: NASDAQ/NYSE
