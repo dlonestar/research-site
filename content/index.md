@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">33</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">34</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -59,6 +59,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260506_Morning-Brief-2026-05-06_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-05-06</span>
+</div>
+<div class="feed-title">Morning Brief 2026-05-06 07:36</div>
+<div class="feed-excerpt">🟢 Risk-On** — 실적 서프라이즈 + 유가 급락 + AI 강세의 삼중 호재 - **매크로**: 호주 기준금리 4.35% (RBA +25bp 인상), 유가 WTI 약 4% 급락 - **리스크**: S&P 500·나스닥 사상 최고치 경신, VIX 하락세 유지 -...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260506_Inflection-Scan---2026-05-06_0723">
 <div class="feed-header">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-04-29 07:22</div>
 <div class="feed-excerpt">탐색 범위: 2026-04-29 기준 최근 2주 | High Conviction 5건 확정 (KEEP 1 + REVISE 4 보강) 소스: 어닝 트랜스크립트 / IR 데이터 / 셀사이드 리포트 / X 크로스체크 핵심 테마**: AI 인프라 수요 가속이...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Qualcomm-Incorporated/deal/260428_Deal---Qualcomm-Incorporated-(QCOM)_0756">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-28</span>
-</div>
-<div class="feed-title">Deal - Qualcomm Incorporated (QCOM) 07:56</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: Qualcomm은 '모바일 칩 회사'라는 오래된...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
