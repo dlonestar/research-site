@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">105</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">106</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -130,6 +130,15 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 쎄트렉아이 (099320.KS) 21:59</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 쎄트렉아이는 한국 유일의 소형 지구관측위성 수출 기업으로, 위성 제조...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/DN오토모티브/deal/260504_Deal---DN오토모티브-(007340.KS)_2158">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-04</span>
+</div>
+<div class="feed-title">Deal - DN오토모티브 (007340.KS) 21:58</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: DN오토모티브는 글로벌 방진부품(VMS) + 국내 1위...</div>
 </a>
 
 <a class="feed-card" href="11-Companies/한온시스템/deal/260504_Deal---한온시스템-(018880.KS)_2158">
@@ -319,15 +328,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 삼성전기 (009150.KS) 07:50</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 삼성전기는 AI 데이터센터 확산이 만들어낸 MLCC...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260428_Morning-Brief-2026-04-28_0736">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-04-28</span>
-</div>
-<div class="feed-title">Morning Brief 2026-04-28 07:36</div>
-<div class="feed-excerpt">🟢 Risk-On** — 사상 최고치 경신 랠리, 지정학 완화 + 실적 서프라이즈가 동시에 작동 - **리스크**: S&P500·나스닥 신고가, VIX 데이터 블록 참조 - **시그널**: 인텔 실적 서프라이즈 + 미-이란 협상 기대 → 반도체·에너지 복합 랠리...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
