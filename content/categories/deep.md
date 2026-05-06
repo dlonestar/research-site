@@ -7,11 +7,15 @@ publish: true
 
 > 기업/섹터 심층 분석. 25-80페이지.
 
-**18개 리포트** | [← 홈으로 돌아가기](/)
+**19개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/비엠티/deep-dive/260506_Final-Analysis---비엠티_1540">
+<span class="recent-date">2026-05-06</span>
+<span class="recent-title">Final Analysis - 비엠티 15:40</span>
+</a>
 <a class="recent-item" href="/11-Companies/RNMBF/deep-dive/260506_Deep-Analysis---RNMBF_1528">
 <span class="recent-date">2026-05-06</span>
 <span class="recent-title">Deep Analysis - RNMBF 15:28</span>
