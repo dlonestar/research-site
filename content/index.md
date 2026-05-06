@@ -38,7 +38,7 @@ cssclasses:
 <a class="category-card" href="categories/deep">
 <div class="card-icon">🔬</div>
 <div class="card-body">
-<div class="card-label">Deep & Final Analysis <span class="card-count">17</span></div>
+<div class="card-label">Deep & Final Analysis <span class="card-count">18</span></div>
 <div class="card-desc">기업/섹터 심층 분석. 25-80페이지.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/RNMBF/deep-dive/260506_Deep-Analysis---RNMBF_1528">
+<div class="feed-header">
+<span class="feed-badge">🔬 DEEP</span>
+<span class="feed-date">2026-05-06</span>
+</div>
+<div class="feed-title">Deep Analysis - RNMBF 15:28</div>
+<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 75건 + AI 검증 · 14대 원칙/4 Gate) 신뢰도: B** | 숫자 불일치 4건 | 논리 모순 2건 | 확인 필요 6건 Gate 커버리지**: G1[2/3] · G2[3/4] · G3[3/5]+lens미흡 ·...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/비엠티/deep-dive/260506_Deep-Analysis---비엠티_1514">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-04-30 07:36</div>
 <div class="feed-excerpt">🔴 Risk-Off** — AI 수익성 의구심 + 중동 지정학 리스크가 동시에 작동 - **매크로**: 유가 100달러 돌파 임박, 연준 금리 동결 유력, 금리 슈퍼위크 진행 중 - **리스크**: 필라델피아 반도체 지수 전일 급락, VIX 상승 압력 지속 -...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260430_Inflection-Scan---2026-04-30_0724">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-04-30</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-04-30 07:24</div>
-<div class="feed-excerpt">탐색 범위: 2026-04-30 기준 최근 2주 | High Conviction 6건 발견 (KEEP 2 / REVISE 4) 소스: 1차 IR + 셀사이드 리포트 + 매크로 데이터 핵심 테마**: AI CapEx 슈퍼사이클이 검색·클라우드·전력 인프라·배터리 전반에...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
