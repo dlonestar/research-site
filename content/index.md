@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">111</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">112</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/AMD/deal/260506_Deal---AMD-(AMD)_2242">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-06</span>
+</div>
+<div class="feed-title">Deal - AMD (AMD) 22:42</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: AMD는 AI 인프라 사이클의 핵심 수혜주이나, 주가가 이미...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/비엠티/deep-dive/260506_Final-Analysis---비엠티_1540">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Palantir Technologies Inc. (PLTR) 07:56</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스, 디지털 금융 혁신, K-뷰티 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: Palantir는 AI 플랫폼(AIP) + 미국 정부 데이터...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/LS-ELECTRIC-Co.,-Ltd./deal/260430_Deal---LS-ELECTRIC-Co.,-Ltd.-(010120.KS)_0749">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-30</span>
-</div>
-<div class="feed-title">Deal - LS ELECTRIC Co., Ltd. (010120.KS) 07:49</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스, 디지털 금융 혁신, K-뷰티 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: LS ELECTRIC은 국내 전력기기 독과점 기업이 글로벌 빅테크...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
