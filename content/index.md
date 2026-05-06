@@ -154,7 +154,7 @@ cssclasses:
 <span class="feed-date">2026-05-06</span>
 </div>
 <div class="feed-title">260506_CRA_월간_Report</div>
-<div class="feed-excerpt">2026-05-06 · spec v1.0.6 "오늘 CRA 점수는 71. 가장 가까운 historical 패턴은 None이다." 이번 달 핵심 5가지 (CEO 30초 read): 1. 점수: CRA 71 (Warning, 권고 cash 45%) 2. Driving...</div>
+<div class="feed-excerpt">2026-05-06 · spec v1.0.6 "오늘 CRA 점수는 71. 가장 가까운 historical 패턴은 2026-01-30이다." 이번 달 핵심 5가지 (CEO 30초 read): 1. 점수: CRA 71 (Warning, 권고 cash 45%) 2....</div>
 </a>
 
 <a class="feed-card" href="11-Companies/Pinterest,-Inc./deal/260505_Deal---Pinterest,-Inc.-(PINS)_0754">
