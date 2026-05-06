@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">34</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">35</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260507_Morning-Brief-2026-05-07_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-05-07</span>
+</div>
+<div class="feed-title">Morning Brief 2026-05-07 07:36</div>
+<div class="feed-excerpt">🟢 Risk-On** — 지정학 완화 + AI 어닝 서프라이즈의 이중 점화 - **매크로**: 10Y 국채 금리 동결 국면 지속, 달러 강세 완화 기대, 유가 급락 - **리스크**: S&P 500 · 나스닥 사상 최고치 경신, VIX 하락 - **시그널**:...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260507_Inflection-Scan---2026-05-07_0728">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 한화엔진 (082740.KS) 23:20</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스, 디지털 금융 혁신, K-뷰티 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 한화엔진은 조선 슈퍼사이클의 핵심 수혜기업으로, DF엔진 기술...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/HD현대중공업/deal/260430_Deal---HD현대중공업-(329180.KS)_2319">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-04-30</span>
-</div>
-<div class="feed-title">Deal - HD현대중공업 (329180.KS) 23:19</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스, 디지털 금융 혁신, K-뷰티 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: HD현대중공업은 세계 최대 조선소의 슈퍼사이클 수혜 위에,...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
