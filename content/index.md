@@ -154,7 +154,7 @@ cssclasses:
 <span class="feed-date">2026-05-06</span>
 </div>
 <div class="feed-title">260506_CRA_월간_Report</div>
-<div class="feed-excerpt">2026-05-06 · spec v1.0.6 "오늘 CRA 점수는 71. 가장 가까운 historical 패턴은 1998-05-23이다." 이번 달 핵심 5가지 (CEO 30초 read): 1. 점수: CRA 71 (Warning, 권고 cash 45%) 2....</div>
+<div class="feed-excerpt">Score: 71 / 100 (▼ 5.8 m/m) · Lead time (median, n=10): 6.5mo (95% CI 0.7–23.4mo) 가장 가까운 historical 패턴: **1998-05-23**. 이번 달은 그 시점과 14-D risk profile...</div>
 </a>
 
 <a class="feed-card" href="11-Companies/Pinterest,-Inc./deal/260505_Deal---Pinterest,-Inc.-(PINS)_0754">
