@@ -49,10 +49,17 @@ cssclasses:
 <div class="card-desc">핵심 투자 테시스. Kill Criteria, Conviction 추적.</div>
 </div>
 </a>
+<a class="category-card" href="categories/cra-monthly">
+<div class="card-icon">⚠️</div>
+<div class="card-body">
+<div class="card-label">CRA Risk Alerts <span class="card-count">1</span></div>
+<div class="card-desc">시장 위험 종합 점수 (CRA) 월간 리포트. 14 indicator 기반 0-100 score + 권고 현금 비중.</div>
+</div>
+</a>
 <a class="category-card" href="categories/_other">
 <div class="card-icon">📂</div>
 <div class="card-body">
-<div class="card-label">Insights & Archives <span class="card-count">7</span></div>
+<div class="card-label">Insights & Archives <span class="card-count">6</span></div>
 <div class="card-desc">유튜브 분석, PDF 리서치, 미팅 노트, 아이디어 메모.</div>
 </div>
 </a>
@@ -125,7 +132,7 @@ cssclasses:
 
 <a class="feed-card" href="13-Signals/CRA/260506_CRA_월간_Report">
 <div class="feed-header">
-<span class="feed-badge">📂 ARCHIVES</span>
+<span class="feed-badge">⚠️ RISK ALERT</span>
 <span class="feed-date">2026-05-06</span>
 </div>
 <div class="feed-title">260506_CRA_월간_Report</div>

@@ -75,6 +75,7 @@ const CATEGORIES = [
   { key: 'deal-sourcing', icon: '📊', label: 'Deal', fullLabel: 'Deal Analysis', desc: '투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.' },
   { key: 'deep', icon: '🔬', label: 'Deep', fullLabel: 'Deep & Final Analysis', desc: '기업/섹터 심층 분석. 25-80페이지.' },
   { key: 'thesis', icon: '🎯', label: 'Thesis', fullLabel: 'Investment Thesis', desc: '핵심 투자 테시스. Kill Criteria, Conviction 추적.' },
+  { key: 'cra-monthly', icon: '⚠️', label: 'Risk Alert', fullLabel: 'CRA Risk Alerts', desc: '시장 위험 종합 점수 (CRA) 월간 리포트. 14 indicator 기반 0-100 score + 권고 현금 비중.' },
   { key: '_other', icon: '📂', label: 'Archives', fullLabel: 'Insights & Archives', desc: '유튜브 분석, PDF 리서치, 미팅 노트, 아이디어 메모.' },
 ]
 const KNOWN_KEYS = new Set(CATEGORIES.filter(c => c.key !== '_other').map(c => c.key))
