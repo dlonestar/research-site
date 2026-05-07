@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**114개 리포트** | [← 홈으로 돌아가기](/)
+**115개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/비츠로테크/deal/260507_Deal---비츠로테크-(042370.KS)_1517">
+<span class="recent-date">2026-05-07</span>
+<span class="recent-title">Deal - 비츠로테크 (042370.KS) 15:17</span>
+</a>
 <a class="recent-item" href="/11-Companies/Fortinet,-Inc./deal/260507_Deal---Fortinet,-Inc.-(FTNT)_0752">
 <span class="recent-date">2026-05-07</span>
 <span class="recent-title">Deal - Fortinet, Inc. (FTNT) 07:52</span>
