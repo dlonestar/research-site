@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">118</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">117</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,15 +66,6 @@ cssclasses:
 </div>
 
 ---
-
-<a class="feed-card" href="11-Companies/미래컴퍼니/deal/260508_Deal---미래컴퍼니-(049830.KS)_0152">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-08</span>
-</div>
-<div class="feed-title">Deal - 미래컴퍼니 (049830.KS) 01:52</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 사이버 보안, 첨단 소재, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 시총 454억원에 불과한 국내 유일 복강경 수술로봇 상장사가,...</div>
-</a>
 
 <a class="feed-card" href="13-Signals/daily/260508_Morning-Brief-2026-05-08_0152">
 <div class="feed-header">
@@ -335,6 +326,15 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 한화솔루션 (009830.KS) 07:47</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스 4일 주기 로테이션 (30개 분야 커버) 배당수익률 113.0% 표기는 데이터 오류로 판단** — Yahoo Finance 수집값...</div>
+</a>
+
+<a class="feed-card" href="13-Signals/daily/260504_Morning-Brief-2026-05-04_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-05-04</span>
+</div>
+<div class="feed-title">Morning Brief 2026-05-04 07:36</div>
+<div class="feed-excerpt">🟡 Risk-Mixed** — 빅테크 실적 호조의 Risk-On과 지정학·금리 리스크의 Risk-Off가 팽팽히 대치 - **매크로**: 10년물 국채금리·유가·달러인덱스 — 📊 블록 참조 - **리스크**: S&P500·나스닥 사상 최고치 경신 vs. VIX...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
