@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**118개 리포트** | [← 홈으로 돌아가기](/)
+**119개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/Datadog,-Inc./deal/260508_Deal---Datadog,-Inc.-(DDOG)_0157">
+<span class="recent-date">2026-05-08</span>
+<span class="recent-title">Deal - Datadog, Inc. (DDOG) 01:57</span>
+</a>
 <a class="recent-item" href="/11-Companies/미래컴퍼니/deal/260508_Deal---미래컴퍼니-(049830.KS)_0152">
 <span class="recent-date">2026-05-08</span>
 <span class="recent-title">Deal - 미래컴퍼니 (049830.KS) 01:52</span>
