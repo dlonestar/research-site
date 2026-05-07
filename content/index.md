@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">21</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">22</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260508_Inflection-Scan---2026-05-08_0244">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-05-08</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-05-08 02:44</div>
+<div class="feed-excerpt">탐색 범위: 2026-05-08 기준 최근 2주 | High Conviction 4건 확정 (2건 하향/조건부) 소스: 회사 공식 IR + 셀사이드 리포트 (Needham/Stifel/국내 복수) + 실적 발표 핵심 테마**: AI 인프라 빌드아웃이 만드는 **2차...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/비츠로테크/deal/260507_Deal---비츠로테크-(042370.KS)_1517">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-05-04 07:36</div>
 <div class="feed-excerpt">🟡 Risk-Mixed** — 빅테크 실적 호조의 Risk-On과 지정학·금리 리스크의 Risk-Off가 팽팽히 대치 - **매크로**: 10년물 국채금리·유가·달러인덱스 — 📊 블록 참조 - **리스크**: S&P500·나스닥 사상 최고치 경신 vs. VIX...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260504_Inflection-Scan---2026-05-04_0720">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-05-04</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-05-04 07:20</div>
-<div class="feed-excerpt">탐색 범위**: 2026-05-04 기준 최근 2주 | High Conviction (검정 후) 5건 소스**: 1차 IR(기업 실적 발표) + 2차 셀사이드 + 3차 추정 핵심 테마**: 빅테크 AI 인프라 투자 가속 + 플랫폼 구조 변화 — 가이던스·수주잔고·규제...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
