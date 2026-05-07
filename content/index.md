@@ -10,14 +10,14 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"In the short run, the market is a voting machine but in the long run, it is a weighing machine."<br/><span style="color:var(--gray);font-size:0.85em">— Benjamin Graham</span></p>
+<p class="hero-quote">"The investor's chief problem — and even his worst enemy — is likely to be himself."<br/><span style="color:var(--gray);font-size:0.85em">— Benjamin Graham</span></p>
 </div>
 
 <div class="category-grid">
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">35</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">36</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260508_Morning-Brief-2026-05-08_0152">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-05-08</span>
+</div>
+<div class="feed-title">Morning Brief 2026-05-08 01:52</div>
+<div class="feed-excerpt">🟢 Risk-On** — 미-이란 협상 기대 + AI 실적 호조, 글로벌 위험자산 선호 우세 - **매크로**: 유가 하락 기조 지속, 원/달러 1,440원대 하락 후 낙폭 일부 회복 - **리스크**: 코스피 사상 최고치(7,500선) 돌파 후 차익실현 하락 전환...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/비츠로테크/deal/260507_Deal---비츠로테크-(042370.KS)_1517">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-05-04 07:36</div>
 <div class="feed-excerpt">🟡 Risk-Mixed** — 빅테크 실적 호조의 Risk-On과 지정학·금리 리스크의 Risk-Off가 팽팽히 대치 - **매크로**: 10년물 국채금리·유가·달러인덱스 — 📊 블록 참조 - **리스크**: S&P500·나스닥 사상 최고치 경신 vs. VIX...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260504_Inflection-Scan---2026-05-04_0720">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-05-04</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-05-04 07:20</div>
-<div class="feed-excerpt">탐색 범위**: 2026-05-04 기준 최근 2주 | High Conviction (검정 후) 5건 소스**: 1차 IR(기업 실적 발표) + 2차 셀사이드 + 3차 추정 핵심 테마**: 빅테크 AI 인프라 투자 가속 + 플랫폼 구조 변화 — 가이던스·수주잔고·규제...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
