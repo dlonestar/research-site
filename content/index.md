@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">119</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">120</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/Option-Care-Health,-Inc./deal/260511_Deal---Option-Care-Health,-Inc.-(OPCH)_0752">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-11</span>
+</div>
+<div class="feed-title">Deal - Option Care Health, Inc. (OPCH) 07:52</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 미국 최대 독립 홈 인퓨전 서비스 사업자가 고금리發...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/에이피알/deal/260511_Deal---에이피알-(278470.KS)_0746">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 쎄트렉아이 (099320.KS) 21:59</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 쎄트렉아이는 한국 유일의 소형 지구관측위성 수출 기업으로, 위성 제조...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/DN오토모티브/deal/260504_Deal---DN오토모티브-(007340.KS)_2158">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-04</span>
-</div>
-<div class="feed-title">Deal - DN오토모티브 (007340.KS) 21:58</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: DN오토모티브는 글로벌 방진부품(VMS) + 국내 1위...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
