@@ -10,14 +10,14 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"The investor's chief problem — and even his worst enemy — is likely to be himself."<br/><span style="color:var(--gray);font-size:0.85em">— Benjamin Graham</span></p>
+<p class="hero-quote">"Know what you own, and know why you own it."<br/><span style="color:var(--gray);font-size:0.85em">— Peter Lynch</span></p>
 </div>
 
 <div class="category-grid">
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">36</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">37</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260511_Morning-Brief-2026-05-11_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-05-11</span>
+</div>
+<div class="feed-title">Morning Brief 2026-05-11 07:36</div>
+<div class="feed-excerpt">🟢 Risk-On** — AI 인프라 주도 사상 최고치 갱신, 다만 중동 불확실성이 변수 - **매크로**: 미 고용 예상치 상회 / 유가 중동 리스크로 변동성 확대 - **리스크**: S&P 500 & 나스닥 100 사상 최고치 갱신 / VIX 데이터 확인 필요...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/일진전기/deal/260508_Deal---일진전기-(103590.KS)_1615">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 한온시스템 (018880.KS) 21:58</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 한온시스템은 글로벌 차량 열관리 2위 사업자로, 한국앤컴퍼니 인수 후...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Intel-Corporation/deal/260504_Deal---Intel-Corporation-(INTC)_0754">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-04</span>
-</div>
-<div class="feed-title">Deal - Intel Corporation (INTC) 07:54</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: Intel은 '구시대 칩 기업' 내러티브에서 'AI 추론 시대 CPU...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
