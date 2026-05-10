@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**118개 리포트** | [← 홈으로 돌아가기](/)
+**119개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/에이피알/deal/260511_Deal---에이피알-(278470.KS)_0746">
+<span class="recent-date">2026-05-11</span>
+<span class="recent-title">Deal - 에이피알 (278470.KS) 07:46</span>
+</a>
 <a class="recent-item" href="/11-Companies/일진전기/deal/260508_Deal---일진전기-(103590.KS)_1615">
 <span class="recent-date">2026-05-08</span>
 <span class="recent-title">Deal - 일진전기 (103590.KS) 16:15</span>
