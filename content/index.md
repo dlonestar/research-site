@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">120</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">121</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/미래에셋증권/deal/260512_Deal---미래에셋증권-(006800.KS)_0749">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-12</span>
+</div>
+<div class="feed-title">Deal - 미래에셋증권 (006800.KS) 07:49</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, AI 전력, 글로벌 인구 이동, 사이버 보안, 첨단 소재, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 미래에셋증권은 코스피 불장의 직접 수혜주이면서, 美 증권사...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260512_Morning-Brief-2026-05-12_0736">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-05-05 07:36</div>
 <div class="feed-excerpt">🔴 Risk-Off (미국) / 🟢 Risk-On (한국) — 지정학 충격과 한국 외국인 자금 유입의 디커플링 - **매크로**: WTI +4.39% 급등 (지정학), 원/달러 1,462.8원 (-20.5원 급락) - **리스크**: 미국 3대 지수 하락, VIX...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260505_Inflection-Scan---2026-05-05_0722">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-05-05</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-05-05 07:22</div>
-<div class="feed-excerpt">탐색 범위: 2026-05-05 기준 최근 2주 | High Conviction 5건 분석 (KEEP 2 / REVISE 3) 소스: 어닝스 서프라이즈 / 애널리스트 목표주가 / 백로그 데이터 / 셀사이드 컨센서스 핵심 테마**: AI CapEx 공급망 전반의 동시...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
