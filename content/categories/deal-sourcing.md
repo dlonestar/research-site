@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**121개 리포트** | [← 홈으로 돌아가기](/)
+**122개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/Eli-Lilly-and-Company/deal/260512_Deal---Eli-Lilly-and-Company-(LLY)_0754">
+<span class="recent-date">2026-05-12</span>
+<span class="recent-title">Deal - Eli Lilly and Company (LLY) 07:54</span>
+</a>
 <a class="recent-item" href="/11-Companies/미래에셋증권/deal/260512_Deal---미래에셋증권-(006800.KS)_0749">
 <span class="recent-date">2026-05-12</span>
 <span class="recent-title">Deal - 미래에셋증권 (006800.KS) 07:49</span>
