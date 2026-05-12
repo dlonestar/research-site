@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**123개 리포트** | [← 홈으로 돌아가기](/)
+**124개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/Nebius-Group-Inc./deal/260513_Deal---Nebius-Group-Inc.-(NBIS)_0755">
+<span class="recent-date">2026-05-13</span>
+<span class="recent-title">Deal - Nebius Group Inc. (NBIS) 07:55</span>
+</a>
 <a class="recent-item" href="/11-Companies/고려아연/deal/260513_Deal---고려아연-(010130.KS)_0749">
 <span class="recent-date">2026-05-13</span>
 <span class="recent-title">Deal - 고려아연 (010130.KS) 07:49</span>
