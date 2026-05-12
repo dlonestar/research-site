@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">122</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">123</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/고려아연/deal/260513_Deal---고려아연-(010130.KS)_0749">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-13</span>
+</div>
+<div class="feed-title">Deal - 고려아연 (010130.KS) 07:49</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 신재생에너지, 전략 광물, 전기차, 로보틱스, 디지털 금융 혁신, K-뷰티, 디지털 유통 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 고려아연은 '아연 제련사'에서 '미국 정부가 지원하는 핵심광물 공급망...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260513_Morning-Brief-2026-05-13_0736">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 쇼피파이 (SHOP) 00:46</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 쇼피파이는 글로벌 이커머스의 운영체제(OS)로, 34% 매출...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/스포츠레이더-그룹/deal/260506_Deal---스포츠레이더-그룹-(SRAD)_0045">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-06</span>
-</div>
-<div class="feed-title">Deal - 스포츠레이더 그룹 (SRAD) 00:45</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 스포츠레이더는 글로벌 스포츠 데이터 인프라의 독점적 공급자로,...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
