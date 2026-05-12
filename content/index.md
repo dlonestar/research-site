@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"The key to making money in stocks is not to get scared out of them."<br/><span style="color:var(--gray);font-size:0.85em">— Peter Lynch</span></p>
+<p class="hero-quote">"It's not whether you're right or wrong, but how much money you make when you're right and how much you lose when you're wrong."<br/><span style="color:var(--gray);font-size:0.85em">— George Soros</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">23</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">24</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260513_Inflection-Scan---2026-05-13_0726">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-05-13</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-05-13 07:26</div>
+<div class="feed-excerpt">탐색 범위: 2026-05-13 기준 최근 2주 | High Conviction 6건 발견 (IonQ Circle of Competence 경계선으로 별도 표기) 소스: 1차 기업 IR + 2차 셀사이드 + 3차 추정 (각 시그널별 명시) 핵심 테마**: AI 인프라...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260512_Inflection-Scan---2026-05-12_1325">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">260506_CRA_월간_Report</div>
 <div class="feed-excerpt">Score: 71 / 100 (▼ 5.8 m/m) · Lead time (median, n=10): 6.5mo (95% CI 0.7–23.4mo) 가장 가까운 historical 패턴: **1998-05-23**. 이번 달은 그 시점과 14-D risk profile...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Pinterest,-Inc./deal/260505_Deal---Pinterest,-Inc.-(PINS)_0754">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-05</span>
-</div>
-<div class="feed-title">Deal - Pinterest, Inc. (PINS) 07:54</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 디지털 금융 혁신, K-뷰티, 디지털 유통, 인도 시장, 동남아 시장, 일본 시장, 유럽 경제 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** Pinterest는 AI 주도 수익화 전환이 이제 막 가속화되는...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
