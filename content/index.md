@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">38</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">39</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260513_Morning-Brief-2026-05-13_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-05-13</span>
+</div>
+<div class="feed-title">Morning Brief 2026-05-13 07:36</div>
+<div class="feed-excerpt">🔴 Risk-Off** — 인플레이션 쇼크 + 지정학 긴장의 이중 압박 - **매크로**: 4월 CPI 예상치 상회, 국채 수익률 상승, 국제 유가 급등 - **리스크**: S&P 500·나스닥 하락, 다우 소폭 상승 혼조 / VIX 경계 구간 유지 -...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260513_Inflection-Scan---2026-05-13_0726">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 스포츠레이더 그룹 (SRAD) 00:45</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 스포츠레이더는 글로벌 스포츠 데이터 인프라의 독점적 공급자로,...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/CRA/260506_CRA_월간_Report">
-<div class="feed-header">
-<span class="feed-badge">⚠️ RISK ALERT</span>
-<span class="feed-date">2026-05-06</span>
-</div>
-<div class="feed-title">260506_CRA_월간_Report</div>
-<div class="feed-excerpt">Score: 71 / 100 (▼ 5.8 m/m) · Lead time (median, n=10): 6.5mo (95% CI 0.7–23.4mo) 가장 가까운 historical 패턴: **1998-05-23**. 이번 달은 그 시점과 14-D risk profile...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
