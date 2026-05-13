@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**126개 리포트** | [← 홈으로 돌아가기](/)
+**127개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/SK하이닉스/deal/260514_Deal---SK하이닉스-(000660.KS)_0747">
+<span class="recent-date">2026-05-14</span>
+<span class="recent-title">Deal - SK하이닉스 (000660.KS) 07:47</span>
+</a>
 <a class="recent-item" href="/11-Companies/휴스틸/deal/260513_Deal---휴스틸-(005010.KS)_2248">
 <span class="recent-date">2026-05-13</span>
 <span class="recent-title">Deal - 휴스틸 (005010.KS) 22:48</span>

@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">126</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">127</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/SK하이닉스/deal/260514_Deal---SK하이닉스-(000660.KS)_0747">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-14</span>
+</div>
+<div class="feed-title">Deal - SK하이닉스 (000660.KS) 07:47</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 인도 시장, 동남아 시장, 일본 시장, 유럽 경제, 신흥국 성장 시장, 방산, 지속가능 인프라 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: SK하이닉스는 AI 인프라 슈퍼사이클의 핵심 병목 —...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260514_Morning-Brief-2026-05-14_0736">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deep Analysis - 비엠티 15:14</div>
 <div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 48건 + AI 검증 · 14대 원칙/4 Gate) 신뢰도: B** | 숫자 불일치 3건 | 논리 모순 2건 | 확인 필요 6건 Gate 커버리지**: G1[2/3] · G2[3/4] · G3[4/5]+lens미흡 ·...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Micron-Technology,-Inc./deal/260506_Deal---Micron-Technology,-Inc.-(MU)_0753">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-06</span>
-</div>
-<div class="feed-title">Deal - Micron Technology, Inc. (MU) 07:53</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** Micron은 AI Capex 1조 달러 시대의 HBM 수혜를...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
