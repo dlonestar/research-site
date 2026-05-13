@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">127</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">128</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/Cisco-Systems,-Inc./deal/260514_Deal---Cisco-Systems,-Inc.-(CSCO)_0753">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-14</span>
+</div>
+<div class="feed-title">Deal - Cisco Systems, Inc. (CSCO) 07:53</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 인도 시장, 동남아 시장, 일본 시장, 유럽 경제, 신흥국 성장 시장, 방산, 지속가능 인프라 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 시스코는 AI 인프라 사이클에서 '보이지 않는 인프라'...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/SK하이닉스/deal/260514_Deal---SK하이닉스-(000660.KS)_0747">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deep Analysis - RNMBF 15:28</div>
 <div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 75건 + AI 검증 · 14대 원칙/4 Gate) 신뢰도: B** | 숫자 불일치 4건 | 논리 모순 2건 | 확인 필요 6건 Gate 커버리지**: G1[2/3] · G2[3/4] · G3[3/5]+lens미흡 ·...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/비엠티/deep-dive/260506_Deep-Analysis---비엠티_1514">
-<div class="feed-header">
-<span class="feed-badge">🔬 DEEP</span>
-<span class="feed-date">2026-05-06</span>
-</div>
-<div class="feed-title">Deep Analysis - 비엠티 15:14</div>
-<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 48건 + AI 검증 · 14대 원칙/4 Gate) 신뢰도: B** | 숫자 불일치 3건 | 논리 모순 2건 | 확인 필요 6건 Gate 커버리지**: G1[2/3] · G2[3/4] · G3[4/5]+lens미흡 ·...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
