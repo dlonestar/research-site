@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">39</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">40</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260514_Morning-Brief-2026-05-14_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-05-14</span>
+</div>
+<div class="feed-title">Morning Brief 2026-05-14 07:36</div>
+<div class="feed-excerpt">🔴 Risk-Off** — 인플레이션 재가속 + 유가 급등이 금리 인하 기대를 압살 - **매크로**: 미 30년물 국채금리 5% 재돌파, 국제 유가 배럴당 $100 돌파 - **리스크**: 필라델피아 반도체 지수 -3%, VIX 상승 (공포 구간) -...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260514_Inflection-Scan---2026-05-14_0721">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Micron Technology, Inc. (MU) 07:53</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** Micron은 AI Capex 1조 달러 시대의 HBM 수혜를...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/크래프톤/deal/260506_Deal---크래프톤-(259960.KS)_0747">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-06</span>
-</div>
-<div class="feed-title">Deal - 크래프톤 (259960.KS) 07:47</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 글로벌 최상위 배틀로얄 IP(PUBG)를 보유한 크래프톤은,...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
