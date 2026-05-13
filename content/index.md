@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"It's not whether you're right or wrong, but how much money you make when you're right and how much you lose when you're wrong."<br/><span style="color:var(--gray);font-size:0.85em">— George Soros</span></p>
+<p class="hero-quote">"The four most dangerous words in investing are: 'This time it's different.'"<br/><span style="color:var(--gray);font-size:0.85em">— Sir John Templeton</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">24</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">25</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260514_Inflection-Scan---2026-05-14_0721">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-05-14</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-05-14 07:21</div>
+<div class="feed-excerpt">탐색 범위: 2026-05-14 기준 최근 2주 | High Conviction 4건 확정 (5건 입력 → 1건 DROP) 소스: IR 발표 + 셀사이드 리포트 + 뉴스와이어 + 임상 데이터 핵심 테마**: AI 인프라 수요가 네트워킹·기판·냉각 부품까지 연쇄 점화...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/휴스틸/deal/260513_Deal---휴스틸-(005010.KS)_2248">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 크래프톤 (259960.KS) 07:47</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 글로벌 최상위 배틀로얄 IP(PUBG)를 보유한 크래프톤은,...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260506_Morning-Brief-2026-05-06_0736">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-05-06</span>
-</div>
-<div class="feed-title">Morning Brief 2026-05-06 07:36</div>
-<div class="feed-excerpt">🟢 Risk-On** — 실적 서프라이즈 + 유가 급락 + AI 강세의 삼중 호재 - **매크로**: 호주 기준금리 4.35% (RBA +25bp 인상), 유가 WTI 약 4% 급락 - **리스크**: S&P 500·나스닥 사상 최고치 경신, VIX 하락세 유지 -...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
