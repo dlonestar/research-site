@@ -10,14 +10,14 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"The four most dangerous words in investing are: 'This time it's different.'"<br/><span style="color:var(--gray);font-size:0.85em">— Sir John Templeton</span></p>
+<p class="hero-quote">"Bull markets are born on pessimism, grow on skepticism, mature on optimism, and die on euphoria."<br/><span style="color:var(--gray);font-size:0.85em">— Sir John Templeton</span></p>
 </div>
 
 <div class="category-grid">
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">40</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">41</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260515_Morning-Brief-2026-05-15_0501">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-05-15</span>
+</div>
+<div class="feed-title">Morning Brief 2026-05-15 05:01</div>
+<div class="feed-excerpt">🟢 Risk-On** — AI·기술주 랠리가 매크로 역풍을 압도하는 국면 - **매크로**: 중동 긴장으로 유가 3%대 급등, 인플레 재점화 우려로 금리 인하 기대 후퇴 - **리스크**: VIX 안정 속 S&P 500·나스닥 사상 최고치 경신, 단 고금리 장기화...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Cisco-Systems,-Inc./deal/260514_Deal---Cisco-Systems,-Inc.-(CSCO)_0753">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Final Analysis - 비엠티 15:40</div>
 <div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 + Opus 3-Pass · 14대 원칙/4 Gate 기준) 신뢰도: A-** | 숫자 불일치 **7건** (핵심) | 논리 모순 **4건** | 확인 필요 **5건 - Gate 1 FRAME [3/3]: ✅ —...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/RNMBF/deep-dive/260506_Deep-Analysis---RNMBF_1528">
-<div class="feed-header">
-<span class="feed-badge">🔬 DEEP</span>
-<span class="feed-date">2026-05-06</span>
-</div>
-<div class="feed-title">Deep Analysis - RNMBF 15:28</div>
-<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 75건 + AI 검증 · 14대 원칙/4 Gate) 신뢰도: B** | 숫자 불일치 4건 | 논리 모순 2건 | 확인 필요 6건 Gate 커버리지**: G1[2/3] · G2[3/4] · G3[3/5]+lens미흡 ·...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
