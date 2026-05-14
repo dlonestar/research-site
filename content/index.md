@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">128</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">129</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/키움증권/deal/260515_Deal---키움증권-(039490.KS)_0546">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-15</span>
+</div>
+<div class="feed-title">Deal - 키움증권 (039490.KS) 05:46</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 코스피 사상 최고치 랠리가 진행 중인 시점에 자사주 취득을 결정한 온라인...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260515_Morning-Brief-2026-05-15_0501">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - AMD (AMD) 22:42</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: AMD는 AI 인프라 사이클의 핵심 수혜주이나, 주가가 이미...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/비엠티/deep-dive/260506_Final-Analysis---비엠티_1540">
-<div class="feed-header">
-<span class="feed-badge">🔬 DEEP</span>
-<span class="feed-date">2026-05-06</span>
-</div>
-<div class="feed-title">Final Analysis - 비엠티 15:40</div>
-<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 + Opus 3-Pass · 14대 원칙/4 Gate 기준) 신뢰도: A-** | 숫자 불일치 **7건** (핵심) | 논리 모순 **4건** | 확인 필요 **5건 - Gate 1 FRAME [3/3]: ✅ —...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
