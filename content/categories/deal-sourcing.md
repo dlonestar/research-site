@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**129개 리포트** | [← 홈으로 돌아가기](/)
+**130개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/Upstart-Holdings,-Inc./deal/260515_Deal---Upstart-Holdings,-Inc.-(UPST)_0552">
+<span class="recent-date">2026-05-15</span>
+<span class="recent-title">Deal - Upstart Holdings, Inc. (UPST) 05:52</span>
+</a>
 <a class="recent-item" href="/11-Companies/키움증권/deal/260515_Deal---키움증권-(039490.KS)_0546">
 <span class="recent-date">2026-05-15</span>
 <span class="recent-title">Deal - 키움증권 (039490.KS) 05:46</span>
