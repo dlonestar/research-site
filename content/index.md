@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">25</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">26</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260515_Inflection-Scan---2026-05-15_0611">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-05-15</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-05-15 06:11</div>
+<div class="feed-excerpt">탐색 범위: 2026-05-15 기준 최근 2주 | High Conviction 시그널 6건 분석 (KEEP 2 / REVISE 4 / DROPPED 0) 소스: 1차 IR 공시 + 2차 셀사이드 리포트 + 3차 추정치 핵심 테마**: AI 인프라(추론칩·네트워킹)...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Upstart-Holdings,-Inc./deal/260515_Deal---Upstart-Holdings,-Inc.-(UPST)_0552">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-05-07 07:36</div>
 <div class="feed-excerpt">🟢 Risk-On** — 지정학 완화 + AI 어닝 서프라이즈의 이중 점화 - **매크로**: 10Y 국채 금리 동결 국면 지속, 달러 강세 완화 기대, 유가 급락 - **리스크**: S&P 500 · 나스닥 사상 최고치 경신, VIX 하락 - **시그널**:...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260507_Inflection-Scan---2026-05-07_0728">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-05-07</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-05-07 07:28</div>
-<div class="feed-excerpt">탐색 범위: 2026-05-07 기준 최근 2주 | High Conviction 6건 확정 (1건 DROPPED) 소스: Q1 2026 어닝스콜 1차 IR + CEO 발언 + 임상 데이터 (NEJM) + 수주 공시 핵심 테마**: AI 인프라 CapEx 사이클이...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
