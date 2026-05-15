@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">41</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">42</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260516_Morning-Brief-2026-05-16_0737">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-05-16</span>
+</div>
+<div class="feed-title">Morning Brief 2026-05-16 07:37</div>
+<div class="feed-excerpt">🔴 Risk-Off** — 인플레이션 공포가 금리를 밀어올리고, 고점 부담이 증시를 짓누르는 국면 - **매크로**: 미국 30년물 국채 금리 5% 돌파, 원/달러 1,500원선 돌파 - **리스크**: S&P 500·나스닥 사상 최고치 후 하락 전환, 코스피...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260516_Inflection-Scan---2026-05-16_0724">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 삼성E&A (삼성엔지니어링) 15:17</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 삼성E&A는 AI 반도체 플랜트 + 중동 에너지...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/세아제강/deal/260507_Deal---세아제강-(306200.KS)_1516">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-07</span>
-</div>
-<div class="feed-title">Deal - 세아제강 (306200.KS) 15:16</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 국내 최대 강관 제조사 세아제강이 PBR 0.44배...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
