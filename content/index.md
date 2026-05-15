@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"Bull markets are born on pessimism, grow on skepticism, mature on optimism, and die on euphoria."<br/><span style="color:var(--gray);font-size:0.85em">— Sir John Templeton</span></p>
+<p class="hero-quote">"He who lives by the crystal ball will eat shattered glass."<br/><span style="color:var(--gray);font-size:0.85em">— Ray Dalio</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">26</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">27</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260516_Inflection-Scan---2026-05-16_0724">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-05-16</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-05-16 07:24</div>
+<div class="feed-excerpt">탐색 범위**: 2026-05-16 기준 최근 2주 | High Conviction 5건 (전건 REVISE 후 통과) 소스**: 1차 IR + 셀사이드 + 매크로 스캔 | Gate 2 압력 검정 전건 적용 핵심 테마**: AI 인프라 필수재化 + 에너지 수출 사이클...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260515_Inflection-Scan---2026-05-15_0611">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 세아제강 (306200.KS) 15:16</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 국내 최대 강관 제조사 세아제강이 PBR 0.44배...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Fortinet,-Inc./deal/260507_Deal---Fortinet,-Inc.-(FTNT)_0752">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-07</span>
-</div>
-<div class="feed-title">Deal - Fortinet, Inc. (FTNT) 07:52</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: Fortinet은 AI가 사이버 공격의 도구로...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
