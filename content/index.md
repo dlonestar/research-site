@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">132</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">133</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/비에이치아이/deal/260516_Deal---비에이치아이-(083650.KQ)_0749">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-16</span>
+</div>
+<div class="feed-title">Deal - 비에이치아이 (083650.KQ) 07:49</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안, 첨단 소재, 바이오텍 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 비에이치아이는 AI 데이터센터 전력 수요 폭증의...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260516_Morning-Brief-2026-05-16_0737">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 비츠로테크 (042370.KS) 15:17</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 비츠로테크는 전력기기(진공인터럽터 독자 기술) +...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/삼성E&A/deal/260507_Deal---삼성E&A-(삼성엔지니어링)_1517">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-07</span>
-</div>
-<div class="feed-title">Deal - 삼성E&A (삼성엔지니어링) 15:17</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 삼성E&A는 AI 반도체 플랜트 + 중동 에너지...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
