@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">131</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">132</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -83,6 +83,15 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 성일하이텍 (365340.KQ) 06:01</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** 글로벌 폐배터리 리사이클링 선두 플레이어로, 4년 적자 터널 끝...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/포스코인터내셔널/deal/260515_Deal---포스코인터내셔널-(047050.KS)_0601">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-15</span>
+</div>
+<div class="feed-title">Deal - 포스코인터내셔널 (047050.KS) 06:01</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 포스코인터내셔널은 "종합상사"라는 구시대적 프레임에 갇혀 저평가된,...</div>
 </a>
 
 <a class="feed-card" href="11-Companies/Upstart-Holdings,-Inc./deal/260515_Deal---Upstart-Holdings,-Inc.-(UPST)_0552">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Fortinet, Inc. (FTNT) 07:52</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: Fortinet은 AI가 사이버 공격의 도구로...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/삼성전자/deal/260507_Deal---삼성전자-(005930.KS)_0746">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-07</span>
-</div>
-<div class="feed-title">Deal - 삼성전자 (005930.KS) 07:46</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 삼성전자는 메모리 사이클 저점 통과 + 파운드리 구조...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">

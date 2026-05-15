@@ -7,7 +7,7 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**131개 리포트** | [← 홈으로 돌아가기](/)
+**132개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
@@ -15,6 +15,10 @@ publish: true
 <a class="recent-item" href="/11-Companies/성일하이텍/deal/260515_Deal---성일하이텍-(365340.KQ)_0601">
 <span class="recent-date">2026-05-15</span>
 <span class="recent-title">Deal - 성일하이텍 (365340.KQ) 06:01</span>
+</a>
+<a class="recent-item" href="/11-Companies/포스코인터내셔널/deal/260515_Deal---포스코인터내셔널-(047050.KS)_0601">
+<span class="recent-date">2026-05-15</span>
+<span class="recent-title">Deal - 포스코인터내셔널 (047050.KS) 06:01</span>
 </a>
 <a class="recent-item" href="/11-Companies/Upstart-Holdings,-Inc./deal/260515_Deal---Upstart-Holdings,-Inc.-(UPST)_0552">
 <span class="recent-date">2026-05-15</span>
