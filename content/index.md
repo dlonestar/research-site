@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">130</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">131</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -74,6 +74,15 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-05-15 06:11</div>
 <div class="feed-excerpt">탐색 범위: 2026-05-15 기준 최근 2주 | High Conviction 시그널 6건 분석 (KEEP 2 / REVISE 4 / DROPPED 0) 소스: 1차 IR 공시 + 2차 셀사이드 리포트 + 3차 추정치 핵심 테마**: AI 인프라(추론칩·네트워킹)...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/성일하이텍/deal/260515_Deal---성일하이텍-(365340.KQ)_0601">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-15</span>
+</div>
+<div class="feed-title">Deal - 성일하이텍 (365340.KQ) 06:01</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** 글로벌 폐배터리 리사이클링 선두 플레이어로, 4년 적자 터널 끝...</div>
 </a>
 
 <a class="feed-card" href="11-Companies/Upstart-Holdings,-Inc./deal/260515_Deal---Upstart-Holdings,-Inc.-(UPST)_0552">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 삼성전자 (005930.KS) 07:46</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 삼성전자는 메모리 사이클 저점 통과 + 파운드리 구조...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260507_Morning-Brief-2026-05-07_0736">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-05-07</span>
-</div>
-<div class="feed-title">Morning Brief 2026-05-07 07:36</div>
-<div class="feed-excerpt">🟢 Risk-On** — 지정학 완화 + AI 어닝 서프라이즈의 이중 점화 - **매크로**: 10Y 국채 금리 동결 국면 지속, 달러 강세 완화 기대, 유가 급락 - **리스크**: S&P 500 · 나스닥 사상 최고치 경신, VIX 하락 - **시그널**:...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
