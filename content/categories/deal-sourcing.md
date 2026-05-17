@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**135개 리포트** | [← 홈으로 돌아가기](/)
+**136개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/Marvell-Technology,-Inc./deal/260518_Deal---Marvell-Technology,-Inc.-(MRVL)_0106">
+<span class="recent-date">2026-05-18</span>
+<span class="recent-title">Deal - Marvell Technology, Inc. (MRVL) 01:06</span>
+</a>
 <a class="recent-item" href="/11-Companies/달바글로벌/deal/260518_Deal---달바글로벌-(417200.KQ)_0100">
 <span class="recent-date">2026-05-18</span>
 <span class="recent-title">Deal - 달바글로벌 (417200.KQ) 01:00</span>

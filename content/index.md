@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">135</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">136</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/Marvell-Technology,-Inc./deal/260518_Deal---Marvell-Technology,-Inc.-(MRVL)_0106">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-18</span>
+</div>
+<div class="feed-title">Deal - Marvell Technology, Inc. (MRVL) 01:06</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, K-뷰티, 디지털 유통, 인도 시장, 동남아 시장, 일본 시장, 유럽 경제, 신흥국 성장 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: Marvell은 AI 데이터센터 인프라의 두 핵심...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260518_Inflection-Scan---2026-05-18_0106">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 에이피알 (278470.KS) 07:46</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 에이피알은 글로벌 D2C 채널을 자체 구축하는 한국...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260511_Morning-Brief-2026-05-11_0736">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-05-11</span>
-</div>
-<div class="feed-title">Morning Brief 2026-05-11 07:36</div>
-<div class="feed-excerpt">🟢 Risk-On** — AI 인프라 주도 사상 최고치 갱신, 다만 중동 불확실성이 변수 - **매크로**: 미 고용 예상치 상회 / 유가 중동 리스크로 변동성 확대 - **리스크**: S&P 500 & 나스닥 100 사상 최고치 갱신 / VIX 데이터 확인 필요...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
