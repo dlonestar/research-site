@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">134</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">135</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -74,6 +74,15 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-05-18 01:06</div>
 <div class="feed-excerpt">탐색 범위: 2026-05-18 기준 최근 2주 | High Conviction 5건 발견 소스: 기업 IR 발표 + 셀사이드 리포트 + 시장 데이터 핵심 테마**: AI 인프라 수혜 재편 — 네트워크·부품·발사체 전반의 구조적 변곡점 탐색, 단 "AI"로 재포장된...</div>
+</a>
+
+<a class="feed-card" href="11-Companies/달바글로벌/deal/260518_Deal---달바글로벌-(417200.KQ)_0100">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-18</span>
+</div>
+<div class="feed-title">Deal - 달바글로벌 (417200.KQ) 01:00</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, K-뷰티, 디지털 유통, 인도 시장, 동남아 시장, 일본 시장, 유럽 경제, 신흥국 성장 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 달바글로벌은 미국 틱톡샵에서 K-뷰티 더마 카테고리를...</div>
 </a>
 
 <a class="feed-card" href="13-Signals/daily/260518_Morning-Brief-2026-05-18_0050">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-05-11 07:36</div>
 <div class="feed-excerpt">🟢 Risk-On** — AI 인프라 주도 사상 최고치 갱신, 다만 중동 불확실성이 변수 - **매크로**: 미 고용 예상치 상회 / 유가 중동 리스크로 변동성 확대 - **리스크**: S&P 500 & 나스닥 100 사상 최고치 갱신 / VIX 데이터 확인 필요...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/일진전기/deal/260508_Deal---일진전기-(103590.KS)_1615">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-08</span>
-</div>
-<div class="feed-title">Deal - 일진전기 (103590.KS) 16:15</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 사이버 보안, 첨단 소재, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 일진전기는 AI 데이터센터 전력 폭증이 만든 글로벌 변압기...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
