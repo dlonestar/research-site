@@ -10,14 +10,14 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"He who lives by the crystal ball will eat shattered glass."<br/><span style="color:var(--gray);font-size:0.85em">— Ray Dalio</span></p>
+<p class="hero-quote">"The three most harmful addictions are heroin, carbohydrates, and a monthly salary."<br/><span style="color:var(--gray);font-size:0.85em">— Nassim Taleb</span></p>
 </div>
 
 <div class="category-grid">
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">42</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">43</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260518_Morning-Brief-2026-05-18_0050">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-05-18</span>
+</div>
+<div class="feed-title">Morning Brief 2026-05-18 00:50</div>
+<div class="feed-excerpt">🔴 Risk-Off** — 인플레이션 재점화 + 지정학 불안으로 복합 충격 - **매크로**: 미 10년물 국채 4.595%, 원/달러 1,500원 돌파, 유가 100달러 상회 - **리스크**: 코스피 -6.12%, VIX 상승 압력, 기술주 전반 차익 실현 -...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Palo-Alto-Networks,-Inc./deal/260516_Deal---Palo-Alto-Networks,-Inc.-(PANW)_0755">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-05-08 02:44</div>
 <div class="feed-excerpt">탐색 범위: 2026-05-08 기준 최근 2주 | High Conviction 4건 확정 (2건 하향/조건부) 소스: 회사 공식 IR + 셀사이드 리포트 (Needham/Stifel/국내 복수) + 실적 발표 핵심 테마**: AI 인프라 빌드아웃이 만드는 **2차...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260508_Morning-Brief-2026-05-08_0152">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-05-08</span>
-</div>
-<div class="feed-title">Morning Brief 2026-05-08 01:52</div>
-<div class="feed-excerpt">🟢 Risk-On** — 미-이란 협상 기대 + AI 실적 호조, 글로벌 위험자산 선호 우세 - **매크로**: 유가 하락 기조 지속, 원/달러 1,440원대 하락 후 낙폭 일부 회복 - **리스크**: 코스피 사상 최고치(7,500선) 돌파 후 차익실현 하락 전환...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
