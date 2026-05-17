@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">27</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">28</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260518_Inflection-Scan---2026-05-18_0106">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-05-18</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-05-18 01:06</div>
+<div class="feed-excerpt">탐색 범위: 2026-05-18 기준 최근 2주 | High Conviction 5건 발견 소스: 기업 IR 발표 + 셀사이드 리포트 + 시장 데이터 핵심 테마**: AI 인프라 수혜 재편 — 네트워크·부품·발사체 전반의 구조적 변곡점 탐색, 단 "AI"로 재포장된...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260518_Morning-Brief-2026-05-18_0050">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 일진전기 (103590.KS) 16:15</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 사이버 보안, 첨단 소재, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 일진전기는 AI 데이터센터 전력 폭증이 만든 글로벌 변압기...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260508_Inflection-Scan---2026-05-08_0244">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-05-08</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-05-08 02:44</div>
-<div class="feed-excerpt">탐색 범위: 2026-05-08 기준 최근 2주 | High Conviction 4건 확정 (2건 하향/조건부) 소스: 회사 공식 IR + 셀사이드 리포트 (Needham/Stifel/국내 복수) + 실적 발표 핵심 테마**: AI 인프라 빌드아웃이 만드는 **2차...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
