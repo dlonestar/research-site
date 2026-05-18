@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">137</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">138</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/F5,-Inc./deal/260519_Deal---F5,-Inc.-(FFIV)_0118">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-19</span>
+</div>
+<div class="feed-title">Deal - F5, Inc. (FFIV) 01:18</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: F5는 로드밸런서 전통 기업에서 AI 시대 API 보안·전달 플랫폼으로...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/HD현대일렉트릭/deal/260519_Deal---HD현대일렉트릭-(267260.KS)_0112">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 미래에셋증권 (006800.KS) 07:49</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, AI 전력, 글로벌 인구 이동, 사이버 보안, 첨단 소재, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 미래에셋증권은 코스피 불장의 직접 수혜주이면서, 美 증권사...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260512_Morning-Brief-2026-05-12_0736">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-05-12</span>
-</div>
-<div class="feed-title">Morning Brief 2026-05-12 07:36</div>
-<div class="feed-excerpt">🔴 Risk-Off** — 중동 긴장 재고조 + 연준 매파 기조 복합 압박 - **매크로**: 10년물 국채금리 · WTI유가 · 달러인덱스 → 📊 블록 참조 - **리스크**: S&P500·나스닥 사상 최고치 근접 vs VIX 재반등 경계 → 📊 블록 참조 -...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
