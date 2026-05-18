@@ -244,10 +244,57 @@ function sanitizeHtml(content) {
   return content
 }
 
+// ─── Referenced image asset copy ───
+// Morning brief etc. embed `![alt](../_assets/flow_*.png)`. The .md sync alone
+// publishes the markdown but leaves the PNG behind in the vault — Quartz then
+// 404s the image. Scan each published .md for image links, resolve relative
+// to the .md's vault dir, and mirror the binary into content/ at the same
+// relative path so Quartz serves it.
+const IMG_EXT_RE = /\.(png|jpe?g|gif|webp|svg)$/i
+const MD_IMG_RE = /!\[[^\]]*\]\(([^)\s]+)/g
+
+function copyReferencedImages(mdAbsPath, mdContent) {
+  const seen = new Set()
+  let copiedHere = 0
+  let m
+  MD_IMG_RE.lastIndex = 0
+  while ((m = MD_IMG_RE.exec(mdContent)) !== null) {
+    const src = m[1]
+    if (seen.has(src)) continue
+    seen.add(src)
+    // Skip absolute URLs and data URIs — Quartz handles them.
+    if (/^(https?:|data:|\/\/)/i.test(src)) continue
+    // Only handle image extensions we whitelist.
+    if (!IMG_EXT_RE.test(src)) continue
+    // Resolve relative to the .md's vault directory.
+    const imgAbsPath = join(dirname(mdAbsPath), src)
+    if (!existsSync(imgAbsPath)) {
+      console.warn(`     ⚠️  image not found: ${src} (from ${basename(mdAbsPath)})`)
+      continue
+    }
+    const imgRel = relative(VAULT_ROOT, imgAbsPath)
+    // Refuse anything that escapes the vault.
+    if (imgRel.startsWith('..') || imgRel.startsWith('/')) {
+      console.warn(`     ⚠️  image outside vault refused: ${src}`)
+      continue
+    }
+    const imgTarget = join(CONTENT_DIR, imgRel)
+    try {
+      mkdirSync(dirname(imgTarget), { recursive: true })
+      copyFileSync(imgAbsPath, imgTarget)
+      copiedHere++
+    } catch (e) {
+      console.warn(`     ⚠️  image copy failed: ${imgRel} — ${e.code || e.message}`)
+    }
+  }
+  return copiedHere
+}
+
 // Sync files
 const published = []
 let copied = 0, skipped = 0
 let conflictSkipped = 0, longNameSkipped = 0
+let imgCopied = 0
 
 for (const file of walkDir(VAULT_ROOT)) {
   if (basename(file) === 'index.md' && dirname(file) === VAULT_ROOT) {
@@ -284,6 +331,13 @@ for (const file of walkDir(VAULT_ROOT)) {
     } else {
       copyFileSync(file, target)
       console.log(`  ✅ ${rel}`)
+    }
+
+    // Mirror referenced image assets (PNG flow chart, etc.) into content/.
+    const imgN = copyReferencedImages(file, raw)
+    if (imgN > 0) {
+      console.log(`     📷 ${imgN} image asset(s) copied`)
+      imgCopied += imgN
     }
 
     // Build Quartz-compatible path for links
@@ -653,4 +707,5 @@ console.log(`  📄 about.md 생성`)
 const guardSummary = (conflictSkipped || longNameSkipped)
   ? ` (guard: ${conflictSkipped} conflict, ${longNameSkipped} long-name)`
   : ''
-console.log(`\n✅ Sync complete: ${copied} published, ${catPagesCreated} category pages, ${skipped} skipped${guardSummary}`)
+const imgSummary = imgCopied > 0 ? `, ${imgCopied} images` : ''
+console.log(`\n✅ Sync complete: ${copied} published${imgSummary}, ${catPagesCreated} category pages, ${skipped} skipped${guardSummary}`)
