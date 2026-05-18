@@ -10,14 +10,14 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"The three most harmful addictions are heroin, carbohydrates, and a monthly salary."<br/><span style="color:var(--gray);font-size:0.85em">— Nassim Taleb</span></p>
+<p class="hero-quote">"There is nothing new in Wall Street. There can't be because speculation is as old as the hills."<br/><span style="color:var(--gray);font-size:0.85em">— Jesse Livermore</span></p>
 </div>
 
 <div class="category-grid">
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">43</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">44</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260519_Morning-Brief-2026-05-19_0051">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-05-19</span>
+</div>
+<div class="feed-title">Morning Brief 2026-05-19 00:51</div>
+<div class="feed-excerpt">🔴 Risk-Off** — 국채금리 급등과 인플레이션 재점화 우려가 시장을 압박하는 국면 - **매크로**: 미 10년물 국채금리 15개월 최고치 경신, 인플레이션 우려 재확산 - **리스크**: 미 증시 전반 하락, 기술주 차익실현 + VIX 상승 압력 지속 -...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Marvell-Technology,-Inc./deal/260518_Deal---Marvell-Technology,-Inc.-(MRVL)_0106">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Option Care Health, Inc. (OPCH) 07:52</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 미국 최대 독립 홈 인퓨전 서비스 사업자가 고금리發...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/에이피알/deal/260511_Deal---에이피알-(278470.KS)_0746">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-11</span>
-</div>
-<div class="feed-title">Deal - 에이피알 (278470.KS) 07:46</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 에이피알은 글로벌 D2C 채널을 자체 구축하는 한국...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
