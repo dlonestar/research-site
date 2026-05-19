@@ -6,7 +6,7 @@ const config: QuartzConfig = {
     pageTitle: "Star Research",
     pageTitleSuffix: " - Investment Intelligence",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     analytics: { provider: "google", tagId: "G-C9NYHQ1HQQ" },
     locale: "ko-KR",
     baseUrl: "dlonestar.com",
