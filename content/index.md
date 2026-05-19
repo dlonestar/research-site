@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">139</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">140</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/이오테크닉스/deal/260519_Deal---이오테크닉스-(039030.KS)_1348">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-19</span>
+</div>
+<div class="feed-title">Deal - 이오테크닉스 (039030.KS) 13:48</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 이오테크닉스는 반도체 후공정 고도화(HBM·첨단패키징)의 구조적...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/한미반도체/deal/260519_Deal---한미반도체-(042700.KS)_1348">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-05-13 07:26</div>
 <div class="feed-excerpt">탐색 범위: 2026-05-13 기준 최근 2주 | High Conviction 6건 발견 (IonQ Circle of Competence 경계선으로 별도 표기) 소스: 1차 기업 IR + 2차 셀사이드 + 3차 추정 (각 시그널별 명시) 핵심 테마**: AI 인프라...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260512_Inflection-Scan---2026-05-12_1325">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-05-12</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-05-12 13:25</div>
-<div class="feed-excerpt">탐색 범위: 2026-05-12 기준 최근 2주 | High Conviction 5건 확정 (1건 DROPPED) 소스: IR 공시 + 셀사이드 리포트 + 어닝스 서프라이즈 + 공시 데이터 핵심 테마**: AI 인프라 2라운드 — 연산(GPU)에서...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
