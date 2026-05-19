@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">143</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">144</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/파마리서치/deal/260519_Deal---파마리서치-(214450.KS)_2329">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-19</span>
+</div>
+<div class="feed-title">Deal - 파마리서치 (214450.KS) 23:29</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** 파마리서치는 'PN(폴리뉴클레오타이드)' 독점 플랫폼 위에 구축된...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/솔브레인/deal/260519_Deal---솔브레인-(357780.KS)_1609">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 넥스틸 (092790.KS) 22:45</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 신재생에너지, 전략 광물, 전기차, 로보틱스, 디지털 금융 혁신, K-뷰티, 디지털 유통 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 넥스틸은 미국 향 에너지 인프라 강관 전문 수출 기업으로, 알래스카...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Nebius-Group-Inc./deal/260513_Deal---Nebius-Group-Inc.-(NBIS)_0755">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-13</span>
-</div>
-<div class="feed-title">Deal - Nebius Group Inc. (NBIS) 07:55</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 신재생에너지, 전략 광물, 전기차, 로보틱스, 디지털 금융 혁신, K-뷰티, 디지털 유통 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: Nebius는 구 Yandex에서 분사한 AI 전용 클라우드 인프라...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
