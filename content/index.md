@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">44</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">45</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260520_Morning-Brief-2026-05-20_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-05-20</span>
+</div>
+<div class="feed-title">Morning Brief 2026-05-20 07:36</div>
+<div class="feed-excerpt">🔴 Risk-Off** — 고금리 + 기술주 관망 + 지정학 3중 압박 - **매크로**: 미 10년물 국채금리 4.60% 돌파 (15개월 최고치), 중동 긴장 지속 - **리스크**: S&P 500·나스닥 하락 / 다우 상승 혼조 마감, VIX 경계 수준 -...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260520_Inflection-Scan---2026-05-20_0726">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-05-14 07:21</div>
 <div class="feed-excerpt">탐색 범위: 2026-05-14 기준 최근 2주 | High Conviction 4건 확정 (5건 입력 → 1건 DROP) 소스: IR 발표 + 셀사이드 리포트 + 뉴스와이어 + 임상 데이터 핵심 테마**: AI 인프라 수요가 네트워킹·기판·냉각 부품까지 연쇄 점화...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/휴스틸/deal/260513_Deal---휴스틸-(005010.KS)_2248">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-13</span>
-</div>
-<div class="feed-title">Deal - 휴스틸 (005010.KS) 22:48</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 신재생에너지, 전략 광물, 전기차, 로보틱스, 디지털 금융 혁신, K-뷰티, 디지털 유통 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** 적자 전환 상태의 국내 중형 강관사가 6월 미국 공장 완공과 OCTG...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
