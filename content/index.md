@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">141</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">142</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/인바이오젠/deal/260519_Deal---인바이오젠-(101140.KQ)_1607">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-19</span>
+</div>
+<div class="feed-title">Deal - 인바이오젠 (101140.KQ) 16:07</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 인바이오젠은 PBR 0.41의 극단적 저PBR 종목이나, 영업손실률...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/이오테크닉스/deal/260519_Deal---이오테크닉스-(039030.KS)_1348">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 고려아연 (010130.KS) 07:49</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 신재생에너지, 전략 광물, 전기차, 로보틱스, 디지털 금융 혁신, K-뷰티, 디지털 유통 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 고려아연은 '아연 제련사'에서 '미국 정부가 지원하는 핵심광물 공급망...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260513_Morning-Brief-2026-05-13_0736">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-05-13</span>
-</div>
-<div class="feed-title">Morning Brief 2026-05-13 07:36</div>
-<div class="feed-excerpt">🔴 Risk-Off** — 인플레이션 쇼크 + 지정학 긴장의 이중 압박 - **매크로**: 4월 CPI 예상치 상회, 국채 수익률 상승, 국제 유가 급등 - **리스크**: S&P 500·나스닥 하락, 다우 소폭 상승 혼조 / VIX 경계 구간 유지 -...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
