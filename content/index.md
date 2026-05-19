@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">146</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">145</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -119,15 +119,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 솔브레인 (357780.KS) 16:09</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 솔브레인은 삼성전자·SK하이닉스의 DRAM·NAND·파운드리 3개...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/인바이오젠/deal/260519_Deal---인바이오젠-(101140.KQ)_1607">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-19</span>
-</div>
-<div class="feed-title">Deal - 인바이오젠 (101140.KQ) 16:07</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 인바이오젠은 PBR 0.41의 극단적 저PBR 종목이나, 영업손실률...</div>
 </a>
 
 <a class="feed-card" href="11-Companies/이오테크닉스/deal/260519_Deal---이오테크닉스-(039030.KS)_1348">
@@ -335,6 +326,15 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - SK하이닉스 (000660.KS) 07:47</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 인도 시장, 동남아 시장, 일본 시장, 유럽 경제, 신흥국 성장 시장, 방산, 지속가능 인프라 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: SK하이닉스는 AI 인프라 슈퍼사이클의 핵심 병목 —...</div>
+</a>
+
+<a class="feed-card" href="13-Signals/daily/260514_Morning-Brief-2026-05-14_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-05-14</span>
+</div>
+<div class="feed-title">Morning Brief 2026-05-14 07:36</div>
+<div class="feed-excerpt">🔴 Risk-Off** — 인플레이션 재가속 + 유가 급등이 금리 인하 기대를 압살 - **매크로**: 미 30년물 국채금리 5% 재돌파, 국제 유가 배럴당 $100 돌파 - **리스크**: 필라델피아 반도체 지수 -3%, VIX 상승 (공포 구간) -...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
