@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">138</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">139</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/한미반도체/deal/260519_Deal---한미반도체-(042700.KS)_1348">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-19</span>
+</div>
+<div class="feed-title">Deal - 한미반도체 (042700.KS) 13:48</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 한미반도체는 글로벌 HBM TC본더 시장 점유율 71%를 보유한 구조적...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260519_Inflection-Scan---2026-05-19_0129">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-05-12 13:25</div>
 <div class="feed-excerpt">탐색 범위: 2026-05-12 기준 최근 2주 | High Conviction 5건 확정 (1건 DROPPED) 소스: IR 공시 + 셀사이드 리포트 + 어닝스 서프라이즈 + 공시 데이터 핵심 테마**: AI 인프라 2라운드 — 연산(GPU)에서...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Eli-Lilly-and-Company/deal/260512_Deal---Eli-Lilly-and-Company-(LLY)_0754">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-12</span>
-</div>
-<div class="feed-title">Deal - Eli Lilly and Company (LLY) 07:54</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, AI 전력, 글로벌 인구 이동, 사이버 보안, 첨단 소재, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** Eli Lilly는 GLP-1 비만·당뇨 시장의 구조적...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">

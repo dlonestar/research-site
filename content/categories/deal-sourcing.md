@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**138개 리포트** | [← 홈으로 돌아가기](/)
+**139개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/한미반도체/deal/260519_Deal---한미반도체-(042700.KS)_1348">
+<span class="recent-date">2026-05-19</span>
+<span class="recent-title">Deal - 한미반도체 (042700.KS) 13:48</span>
+</a>
 <a class="recent-item" href="/11-Companies/F5,-Inc./deal/260519_Deal---F5,-Inc.-(FFIV)_0118">
 <span class="recent-date">2026-05-19</span>
 <span class="recent-title">Deal - F5, Inc. (FFIV) 01:18</span>
