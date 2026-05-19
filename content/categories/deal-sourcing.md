@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**144개 리포트** | [← 홈으로 돌아가기](/)
+**145개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/가온전선/deal/260520_Deal---가온전선-(000500.KS)_0759">
+<span class="recent-date">2026-05-20</span>
+<span class="recent-title">Deal - 가온전선 (000500.KS) 07:59</span>
+</a>
 <a class="recent-item" href="/11-Companies/파마리서치/deal/260519_Deal---파마리서치-(214450.KS)_2329">
 <span class="recent-date">2026-05-19</span>
 <span class="recent-title">Deal - 파마리서치 (214450.KS) 23:29</span>
