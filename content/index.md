@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">146</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">147</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/두산에너빌리티/deal/260521_Deal---두산에너빌리티-(034020.KS)_0800">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-21</span>
+</div>
+<div class="feed-title">Deal - 두산에너빌리티 (034020.KS) 08:00</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 첨단 소재, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물, 전기차 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 두산에너빌리티는 글로벌 SMR(소형모듈원전) 상용화의 핵심 설비 공급사로,...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260521_Morning-Brief-2026-05-21_0737">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 키움증권 (039490.KS) 05:46</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 코스피 사상 최고치 랠리가 진행 중인 시점에 자사주 취득을 결정한 온라인...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260515_Morning-Brief-2026-05-15_0501">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-05-15</span>
-</div>
-<div class="feed-title">Morning Brief 2026-05-15 05:01</div>
-<div class="feed-excerpt">🟢 Risk-On** — AI·기술주 랠리가 매크로 역풍을 압도하는 국면 - **매크로**: 중동 긴장으로 유가 3%대 급등, 인플레 재점화 우려로 금리 인하 기대 후퇴 - **리스크**: VIX 안정 속 S&P 500·나스닥 사상 최고치 경신, 단 고금리 장기화...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
