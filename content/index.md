@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">145</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">146</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/파마리서치/deal/260520_Deal---파마리서치-(214450.KS)_1845">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-20</span>
+</div>
+<div class="feed-title">Deal - 파마리서치 (214450.KS) 18:45</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 국내 스킨부스터 시장 점유율 1위 리쥬란 브랜드를...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Astera-Labs,-Inc./deal/260520_Deal---Astera-Labs,-Inc.-(ALAB)_0805">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - SK하이닉스 (000660.KS) 07:47</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 인도 시장, 동남아 시장, 일본 시장, 유럽 경제, 신흥국 성장 시장, 방산, 지속가능 인프라 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: SK하이닉스는 AI 인프라 슈퍼사이클의 핵심 병목 —...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260514_Morning-Brief-2026-05-14_0736">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-05-14</span>
-</div>
-<div class="feed-title">Morning Brief 2026-05-14 07:36</div>
-<div class="feed-excerpt">🔴 Risk-Off** — 인플레이션 재가속 + 유가 급등이 금리 인하 기대를 압살 - **매크로**: 미 30년물 국채금리 5% 재돌파, 국제 유가 배럴당 $100 돌파 - **리스크**: 필라델피아 반도체 지수 -3%, VIX 상승 (공포 구간) -...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
