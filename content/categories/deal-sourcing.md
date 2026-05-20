@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**147개 리포트** | [← 홈으로 돌아가기](/)
+**148개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/CrowdStrike-Holdings,-Inc./deal/260521_Deal---CrowdStrike-Holdings,-Inc.-(CRWD)_0806">
+<span class="recent-date">2026-05-21</span>
+<span class="recent-title">Deal - CrowdStrike Holdings, Inc. (CRWD) 08:06</span>
+</a>
 <a class="recent-item" href="/11-Companies/두산에너빌리티/deal/260521_Deal---두산에너빌리티-(034020.KS)_0800">
 <span class="recent-date">2026-05-21</span>
 <span class="recent-title">Deal - 두산에너빌리티 (034020.KS) 08:00</span>
