@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">45</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">46</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260521_Morning-Brief-2026-05-21_0737">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-05-21</span>
+</div>
+<div class="feed-title">Morning Brief 2026-05-21 07:37</div>
+<div class="feed-excerpt">🟡 Risk-On/Off 혼조** — 미 증시 반등에도 매크로 불안 상존 - **매크로**: 30년물 美 국채 5.20% (19년 최고), 원/달러 1,500원대 지속, 日 10년물 29년 최고 - **리스크**: S&P 500 사상 최고치 근접 vs. 글로벌 금리...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260521_Inflection-Scan---2026-05-21_0721">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-05-15 05:01</div>
 <div class="feed-excerpt">🟢 Risk-On** — AI·기술주 랠리가 매크로 역풍을 압도하는 국면 - **매크로**: 중동 긴장으로 유가 3%대 급등, 인플레 재점화 우려로 금리 인하 기대 후퇴 - **리스크**: VIX 안정 속 S&P 500·나스닥 사상 최고치 경신, 단 고금리 장기화...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Cisco-Systems,-Inc./deal/260514_Deal---Cisco-Systems,-Inc.-(CSCO)_0753">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-14</span>
-</div>
-<div class="feed-title">Deal - Cisco Systems, Inc. (CSCO) 07:53</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 인도 시장, 동남아 시장, 일본 시장, 유럽 경제, 신흥국 성장 시장, 방산, 지속가능 인프라 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 시스코는 AI 인프라 사이클에서 '보이지 않는 인프라'...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
