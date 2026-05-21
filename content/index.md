@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">148</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">149</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/GE-버노바/deal/260521_Deal---GE-버노바-(GEV)_1612">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-21</span>
+</div>
+<div class="feed-title">Deal - GE 버노바 (GEV) 16:12</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 첨단 소재, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물, 전기차 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: GE Vernova는 AI 데이터센터발 전력 수요 급증의 구조적 수혜자로,...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/CrowdStrike-Holdings,-Inc./deal/260521_Deal---CrowdStrike-Holdings,-Inc.-(CRWD)_0806">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 포스코인터내셔널 (047050.KS) 06:01</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 포스코인터내셔널은 "종합상사"라는 구시대적 프레임에 갇혀 저평가된,...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Upstart-Holdings,-Inc./deal/260515_Deal---Upstart-Holdings,-Inc.-(UPST)_0552">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-15</span>
-</div>
-<div class="feed-title">Deal - Upstart Holdings, Inc. (UPST) 05:52</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: Upstart는 FICO 기반 전통 신용평가를 AI/ML로 교체하는...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">

@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**148개 리포트** | [← 홈으로 돌아가기](/)
+**149개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/GE-버노바/deal/260521_Deal---GE-버노바-(GEV)_1612">
+<span class="recent-date">2026-05-21</span>
+<span class="recent-title">Deal - GE 버노바 (GEV) 16:12</span>
+</a>
 <a class="recent-item" href="/11-Companies/CrowdStrike-Holdings,-Inc./deal/260521_Deal---CrowdStrike-Holdings,-Inc.-(CRWD)_0806">
 <span class="recent-date">2026-05-21</span>
 <span class="recent-title">Deal - CrowdStrike Holdings, Inc. (CRWD) 08:06</span>
