@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">46</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">47</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260522_Morning-Brief-2026-05-22_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-05-22</span>
+</div>
+<div class="feed-title">Morning Brief 2026-05-22 07:36</div>
+<div class="feed-excerpt">🔴 Risk-Off** — 매크로 불확실성 우위, 단 한국 시장은 이례적 디커플링 - **매크로**: 원/달러 1,500원대 고변동성 유지, 유가 급락 후 재반등으로 변동성 확대 - **리스크**: 미 증시 혼조 마감, 연준 4월 의사록 매파적 기조 재확인 -...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260522_Inflection-Scan---2026-05-22_0723">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-05-16 07:24</div>
 <div class="feed-excerpt">탐색 범위**: 2026-05-16 기준 최근 2주 | High Conviction 5건 (전건 REVISE 후 통과) 소스**: 1차 IR + 셀사이드 + 매크로 스캔 | Gate 2 압력 검정 전건 적용 핵심 테마**: AI 인프라 필수재化 + 에너지 수출 사이클...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260515_Inflection-Scan---2026-05-15_0611">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-05-15</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-05-15 06:11</div>
-<div class="feed-excerpt">탐색 범위: 2026-05-15 기준 최근 2주 | High Conviction 시그널 6건 분석 (KEEP 2 / REVISE 4 / DROPPED 0) 소스: 1차 IR 공시 + 2차 셀사이드 리포트 + 3차 추정치 핵심 테마**: AI 인프라(추론칩·네트워킹)...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
