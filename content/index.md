@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"The big money is not in the buying and selling, but in the waiting."<br/><span style="color:var(--gray);font-size:0.85em">— Charlie Munger</span></p>
+<p class="hero-quote">"Invert, always invert."<br/><span style="color:var(--gray);font-size:0.85em">— Charlie Munger</span></p>
 </div>
 
 <div class="category-grid">
