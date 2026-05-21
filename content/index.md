@@ -38,7 +38,7 @@ cssclasses:
 <a class="category-card" href="categories/deep">
 <div class="card-icon">🔬</div>
 <div class="card-body">
-<div class="card-label">Deep & Final Analysis <span class="card-count">19</span></div>
+<div class="card-label">Deep & Final Analysis <span class="card-count">20</span></div>
 <div class="card-desc">기업/섹터 심층 분석. 25-80페이지.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/gevernova/deep-dive/260521_Deep-Analysis---GE-버노바_1826">
+<div class="feed-header">
+<span class="feed-badge">🔬 DEEP</span>
+<span class="feed-date">2026-05-21</span>
+</div>
+<div class="feed-title">Deep Analysis - GE 버노바 18:26</div>
+<div class="feed-excerpt">[!important] 정합성 검증 요약 (기계적 47건 + AI 검증 · 14대 원칙/4 Gate) 신뢰도: B** | 숫자 불일치 6건 | 논리 모순 2건 | 확인 필요 5건 Gate 커버리지**: G1[2/3] · G2[3/4] · G3[4/5]+lens(US...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/GE-버노바/deal/260521_Deal---GE-버노바-(GEV)_1612">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 성일하이텍 (365340.KQ) 06:01</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** 글로벌 폐배터리 리사이클링 선두 플레이어로, 4년 적자 터널 끝...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/포스코인터내셔널/deal/260515_Deal---포스코인터내셔널-(047050.KS)_0601">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-15</span>
-</div>
-<div class="feed-title">Deal - 포스코인터내셔널 (047050.KS) 06:01</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 포스코인터내셔널은 "종합상사"라는 구시대적 프레임에 갇혀 저평가된,...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
