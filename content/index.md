@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">152</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">153</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/Zscaler,-Inc./deal/260523_Deal---Zscaler,-Inc.-(ZS)_0805">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-23</span>
+</div>
+<div class="feed-title">Deal - Zscaler, Inc. (ZS) 08:05</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 유럽 경제, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: Zscaler는 AI 에이전트가 기업 전반에 배포되는 시대에 Zero...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/HYBE-Co.,-Ltd./deal/260523_Deal---HYBE-Co.,-Ltd.-(352820.KS)_0759">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-05-18 01:06</div>
 <div class="feed-excerpt">탐색 범위: 2026-05-18 기준 최근 2주 | High Conviction 5건 발견 소스: 기업 IR 발표 + 셀사이드 리포트 + 시장 데이터 핵심 테마**: AI 인프라 수혜 재편 — 네트워크·부품·발사체 전반의 구조적 변곡점 탐색, 단 "AI"로 재포장된...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/달바글로벌/deal/260518_Deal---달바글로벌-(417200.KQ)_0100">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-18</span>
-</div>
-<div class="feed-title">Deal - 달바글로벌 (417200.KQ) 01:00</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, K-뷰티, 디지털 유통, 인도 시장, 동남아 시장, 일본 시장, 유럽 경제, 신흥국 성장 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 달바글로벌은 미국 틱톡샵에서 K-뷰티 더마 카테고리를...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
