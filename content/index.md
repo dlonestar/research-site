@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">47</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">48</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260523_Morning-Brief-2026-05-23_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-05-23</span>
+</div>
+<div class="feed-title">Morning Brief 2026-05-23 07:36</div>
+<div class="feed-excerpt">🟢 Risk-On** — 다우 50,000 돌파, 외교 기대감·실적 서프라이즈가 이끈 역사적 랠리 - **매크로**: 10년 국채 수익률 하락 전환, 중동 외교 진전으로 유가 하방 압력 - **리스크**: 신임 연준 의장 취임·FOMC 의사록 매파 잔존, VIX...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260523_Inflection-Scan---2026-05-23_0722">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-05-18 00:50</div>
 <div class="feed-excerpt">🔴 Risk-Off** — 인플레이션 재점화 + 지정학 불안으로 복합 충격 - **매크로**: 미 10년물 국채 4.595%, 원/달러 1,500원 돌파, 유가 100달러 상회 - **리스크**: 코스피 -6.12%, VIX 상승 압력, 기술주 전반 차익 실현 -...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Palo-Alto-Networks,-Inc./deal/260516_Deal---Palo-Alto-Networks,-Inc.-(PANW)_0755">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-16</span>
-</div>
-<div class="feed-title">Deal - Palo Alto Networks, Inc. (PANW) 07:55</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안, 첨단 소재, 바이오텍 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: PANW는 AI 해킹 역량이 4.7개월마다 2배로...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
