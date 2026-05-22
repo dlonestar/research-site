@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**151개 리포트** | [← 홈으로 돌아가기](/)
+**152개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/HYBE-Co.,-Ltd./deal/260523_Deal---HYBE-Co.,-Ltd.-(352820.KS)_0759">
+<span class="recent-date">2026-05-23</span>
+<span class="recent-title">Deal - HYBE Co., Ltd. (352820.KS) 07:59</span>
+</a>
 <a class="recent-item" href="/11-Companies/Workday,-Inc./deal/260522_Deal---Workday,-Inc.-(WDAY)_0806">
 <span class="recent-date">2026-05-22</span>
 <span class="recent-title">Deal - Workday, Inc. (WDAY) 08:06</span>

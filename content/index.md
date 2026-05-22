@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">151</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">152</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/HYBE-Co.,-Ltd./deal/260523_Deal---HYBE-Co.,-Ltd.-(352820.KS)_0759">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-23</span>
+</div>
+<div class="feed-title">Deal - HYBE Co., Ltd. (352820.KS) 07:59</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 유럽 경제, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 하이브는 BTS 공백 + 오너리스크라는 이중 할인이 걷히는 변곡점에 서...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260523_Morning-Brief-2026-05-23_0736">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 달바글로벌 (417200.KQ) 01:00</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, K-뷰티, 디지털 유통, 인도 시장, 동남아 시장, 일본 시장, 유럽 경제, 신흥국 성장 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 달바글로벌은 미국 틱톡샵에서 K-뷰티 더마 카테고리를...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260518_Morning-Brief-2026-05-18_0050">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-05-18</span>
-</div>
-<div class="feed-title">Morning Brief 2026-05-18 00:50</div>
-<div class="feed-excerpt">🔴 Risk-Off** — 인플레이션 재점화 + 지정학 불안으로 복합 충격 - **매크로**: 미 10년물 국채 4.595%, 원/달러 1,500원 돌파, 유가 100달러 상회 - **리스크**: 코스피 -6.12%, VIX 상승 압력, 기술주 전반 차익 실현 -...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
