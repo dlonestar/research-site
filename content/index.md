@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"Invert, always invert."<br/><span style="color:var(--gray);font-size:0.85em">— Charlie Munger</span></p>
+<p class="hero-quote">"The stock market is a device for transferring money from the impatient to the patient."<br/><span style="color:var(--gray);font-size:0.85em">— Warren Buffett</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">32</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">33</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260523_Inflection-Scan---2026-05-23_0722">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-05-23</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-05-23 07:22</div>
+<div class="feed-excerpt">탐색 범위: 2026-05-23 기준 최근 2주 | High Conviction 4건 발견 (6건 입력 → REVISE 4 / DROPPED 2) 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 인프라 CapEx 가속 —...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Workday,-Inc./deal/260522_Deal---Workday,-Inc.-(WDAY)_0806">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Palo Alto Networks, Inc. (PANW) 07:55</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안, 첨단 소재, 바이오텍 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: PANW는 AI 해킹 역량이 4.7개월마다 2배로...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/비에이치아이/deal/260516_Deal---비에이치아이-(083650.KQ)_0749">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-16</span>
-</div>
-<div class="feed-title">Deal - 비에이치아이 (083650.KQ) 07:49</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안, 첨단 소재, 바이오텍 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 비에이치아이는 AI 데이터센터 전력 수요 폭증의...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
