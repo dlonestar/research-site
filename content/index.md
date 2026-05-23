@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">48</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">49</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260524_Morning-Brief-2026-05-24_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-05-24</span>
+</div>
+<div class="feed-title">Morning Brief 2026-05-24 07:36</div>
+<div class="feed-excerpt">🟢 Risk-On** — 지정학 완화 기대 + 실적 서프라이즈가 만든 낙관론 - **매크로**: 다우존스 사상 최고치 경신, S&P 500 8주 연속 주간 상승 - **리스크**: 이란발 인플레이션 우려로 미국 가계 소비심리 사상 최저 — 실물 경기 균열 가능성 -...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260524_Inflection-Scan---2026-05-24_0722">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-05-19 00:51</div>
 <div class="feed-excerpt">🔴 Risk-Off** — 국채금리 급등과 인플레이션 재점화 우려가 시장을 압박하는 국면 - **매크로**: 미 10년물 국채금리 15개월 최고치 경신, 인플레이션 우려 재확산 - **리스크**: 미 증시 전반 하락, 기술주 차익실현 + VIX 상승 압력 지속 -...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Marvell-Technology,-Inc./deal/260518_Deal---Marvell-Technology,-Inc.-(MRVL)_0106">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-18</span>
-</div>
-<div class="feed-title">Deal - Marvell Technology, Inc. (MRVL) 01:06</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, K-뷰티, 디지털 유통, 인도 시장, 동남아 시장, 일본 시장, 유럽 경제, 신흥국 성장 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: Marvell은 AI 데이터센터 인프라의 두 핵심...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
