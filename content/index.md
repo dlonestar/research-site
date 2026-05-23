@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">153</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">154</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/삼성전기/deal/260524_Deal---삼성전기-(009150.KS)_0757">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-24</span>
+</div>
+<div class="feed-title">Deal - 삼성전기 (009150.KS) 07:57</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** 삼성전기는 'MLCC 회사'에서 'AI 데이터센터...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260524_Morning-Brief-2026-05-24_0736">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - HD현대일렉트릭 (267260.KS) 01:12</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: HD현대일렉트릭은 AI 데이터센터 전력 인프라 폭증의 가장 직접적인...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260519_Morning-Brief-2026-05-19_0051">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-05-19</span>
-</div>
-<div class="feed-title">Morning Brief 2026-05-19 00:51</div>
-<div class="feed-excerpt">🔴 Risk-Off** — 국채금리 급등과 인플레이션 재점화 우려가 시장을 압박하는 국면 - **매크로**: 미 10년물 국채금리 15개월 최고치 경신, 인플레이션 우려 재확산 - **리스크**: 미 증시 전반 하락, 기술주 차익실현 + VIX 상승 압력 지속 -...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
