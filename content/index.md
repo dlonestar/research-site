@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"The stock market is a device for transferring money from the impatient to the patient."<br/><span style="color:var(--gray);font-size:0.85em">— Warren Buffett</span></p>
+<p class="hero-quote">"Be fearful when others are greedy, and greedy when others are fearful."<br/><span style="color:var(--gray);font-size:0.85em">— Warren Buffett</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">33</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">34</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260524_Inflection-Scan---2026-05-24_0722">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-05-24</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-05-24 07:22</div>
+<div class="feed-excerpt">탐색 범위: 2026-05-24 기준 최근 2주 | High Conviction **5건** (REVISE 완료) 소스: 1차 IR(실적/계약 공시) + 셀사이드 + X/RSS 크로스체크 핵심 테마**: AI 인프라 수요 가시화 → 데이터 엔지니어링·엣지...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Zscaler,-Inc./deal/260523_Deal---Zscaler,-Inc.-(ZS)_0805">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Marvell Technology, Inc. (MRVL) 01:06</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, K-뷰티, 디지털 유통, 인도 시장, 동남아 시장, 일본 시장, 유럽 경제, 신흥국 성장 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: Marvell은 AI 데이터센터 인프라의 두 핵심...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260518_Inflection-Scan---2026-05-18_0106">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-05-18</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-05-18 01:06</div>
-<div class="feed-excerpt">탐색 범위: 2026-05-18 기준 최근 2주 | High Conviction 5건 발견 소스: 기업 IR 발표 + 셀사이드 리포트 + 시장 데이터 핵심 테마**: AI 인프라 수혜 재편 — 네트워크·부품·발사체 전반의 구조적 변곡점 탐색, 단 "AI"로 재포장된...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
