@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**154개 리포트** | [← 홈으로 돌아가기](/)
+**155개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/Vertiv-Holdings-Co/deal/260524_Deal---Vertiv-Holdings-Co-(VRT)_0804">
+<span class="recent-date">2026-05-24</span>
+<span class="recent-title">Deal - Vertiv Holdings Co (VRT) 08:04</span>
+</a>
 <a class="recent-item" href="/11-Companies/삼성전기/deal/260524_Deal---삼성전기-(009150.KS)_0757">
 <span class="recent-date">2026-05-24</span>
 <span class="recent-title">Deal - 삼성전기 (009150.KS) 07:57</span>
