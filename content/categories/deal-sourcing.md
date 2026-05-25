@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**156개 리포트** | [← 홈으로 돌아가기](/)
+**157개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/Alphabet-Inc./deal/260526_Deal---Alphabet-Inc.-(GOOGL)_0806">
+<span class="recent-date">2026-05-26</span>
+<span class="recent-title">Deal - Alphabet Inc. (GOOGL) 08:06</span>
+</a>
 <a class="recent-item" href="/11-Companies/Doosan-Robotics-Inc./deal/260526_Deal---Doosan-Robotics-Inc.-(454910.KQ)_0759">
 <span class="recent-date">2026-05-26</span>
 <span class="recent-title">Deal - Doosan Robotics Inc. (454910.KQ) 07:59</span>
