@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">49</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">50</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260526_Morning-Brief-2026-05-26_0737">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-05-26</span>
+</div>
+<div class="feed-title">Morning Brief 2026-05-26 07:37</div>
+<div class="feed-excerpt">🟢 Risk-On (단서 있음)** — 미-이란 협상 낙관론 + 기업 실적 호조로 미국 증시 상승, 단 고금리 경고와 환율 불안은 잠재 변수 - **매크로**: 원/달러 환율 1,500원대 상회, WTI 유가 협상 기대로 하락 (📊 블록 인용) - **리스크**:...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260526_Inflection-Scan---2026-05-26_0725">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 한미반도체 (042700.KS) 13:48</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 한미반도체는 글로벌 HBM TC본더 시장 점유율 71%를 보유한 구조적...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260519_Inflection-Scan---2026-05-19_0129">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-05-19</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-05-19 01:29</div>
-<div class="feed-excerpt">탐색 범위: 2026-05-19 기준 최근 2주 | High Conviction 6건 발견 소스: 1차 IR 실적발표 + 셀사이드 리포트 + 시장 뉴스플로우 핵심 테마**: AI 인프라 수요 가시화 → 네트워킹·클라우드·반도체 장비 가이던스 급상향; 레거시 공급 공백...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
