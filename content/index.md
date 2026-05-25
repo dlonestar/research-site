@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"Be fearful when others are greedy, and greedy when others are fearful."<br/><span style="color:var(--gray);font-size:0.85em">— Warren Buffett</span></p>
+<p class="hero-quote">"Risk comes from not knowing what you're doing."<br/><span style="color:var(--gray);font-size:0.85em">— Warren Buffett</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">34</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">35</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260526_Inflection-Scan---2026-05-26_0725">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-05-26</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-05-26 07:25</div>
+<div class="feed-excerpt">탐색 범위: 2026-05-26 기준 최근 2주 | High Conviction 5건 (KEEP 3 / REVISE 2) 소스: 셀사이드 리포트 + 1차 공시/IR + 크로스체크 핵심 테마**: AI 인프라 수요가 전통 산업(발전기·전자부품)을 재정의하는 동시에,...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Vertiv-Holdings-Co/deal/260524_Deal---Vertiv-Holdings-Co-(VRT)_0804">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-05-19 01:29</div>
 <div class="feed-excerpt">탐색 범위: 2026-05-19 기준 최근 2주 | High Conviction 6건 발견 소스: 1차 IR 실적발표 + 셀사이드 리포트 + 시장 뉴스플로우 핵심 테마**: AI 인프라 수요 가시화 → 네트워킹·클라우드·반도체 장비 가이던스 급상향; 레거시 공급 공백...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/F5,-Inc./deal/260519_Deal---F5,-Inc.-(FFIV)_0118">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-19</span>
-</div>
-<div class="feed-title">Deal - F5, Inc. (FFIV) 01:18</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: F5는 로드밸런서 전통 기업에서 AI 시대 API 보안·전달 플랫폼으로...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
