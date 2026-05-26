@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">157</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">158</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/한화에어로스페이스/deal/260527_Deal---한화에어로스페이스-(012450.KS)_0758">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-27</span>
+</div>
+<div class="feed-title">Deal - 한화에어로스페이스 (012450.KS) 07:58</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 동남아 시장, 일본 시장, 유럽 경제, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 한화에어로스페이스는 글로벌 방산 리아머먼트(Rearmament)...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260527_Morning-Brief-2026-05-27_0737">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-05-20 07:26</div>
 <div class="feed-excerpt">탐색 범위: 2026-05-20 기준 최근 2주 | High Conviction 4건 확정 (6건 입력 → 2건 DROPPED) 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 인프라 CapEx 사이클이...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/파마리서치/deal/260519_Deal---파마리서치-(214450.KS)_2329">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-19</span>
-</div>
-<div class="feed-title">Deal - 파마리서치 (214450.KS) 23:29</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** 파마리서치는 'PN(폴리뉴클레오타이드)' 독점 플랫폼 위에 구축된...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
