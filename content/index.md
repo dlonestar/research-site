@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"Risk comes from not knowing what you're doing."<br/><span style="color:var(--gray);font-size:0.85em">— Warren Buffett</span></p>
+<p class="hero-quote">"In the short run, the market is a voting machine but in the long run, it is a weighing machine."<br/><span style="color:var(--gray);font-size:0.85em">— Benjamin Graham</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">35</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">36</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260527_Inflection-Scan---2026-05-27_0723">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-05-27</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-05-27 07:23</div>
+<div class="feed-excerpt">탐색 범위: 2026-05-27 기준 최근 2주 | High Conviction 5건 (KEEP 1 / REVISE 4 / DROPPED 1) 소스: 어닝스 공시 · IR · 셀사이드 리포트 · 규제 당국 발표 · 시장 가격 데이터 핵심 테마**: 에너지...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Alphabet-Inc./deal/260526_Deal---Alphabet-Inc.-(GOOGL)_0806">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 솔브레인 (357780.KS) 16:09</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 솔브레인은 삼성전자·SK하이닉스의 DRAM·NAND·파운드리 3개...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/이오테크닉스/deal/260519_Deal---이오테크닉스-(039030.KS)_1348">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-19</span>
-</div>
-<div class="feed-title">Deal - 이오테크닉스 (039030.KS) 13:48</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 이오테크닉스는 반도체 후공정 고도화(HBM·첨단패키징)의 구조적...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
