@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">158</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">159</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/Micron-Technology,-Inc./deal/260527_Deal---Micron-Technology,-Inc.-(MU)_0805">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-27</span>
+</div>
+<div class="feed-title">Deal - Micron Technology, Inc. (MU) 08:05</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 동남아 시장, 일본 시장, 유럽 경제, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** Micron은 AI 메모리 수퍼사이클의 핵심 수혜자로,...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/한화에어로스페이스/deal/260527_Deal---한화에어로스페이스-(012450.KS)_0758">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-05-20 07:36</div>
 <div class="feed-excerpt">🔴 Risk-Off** — 고금리 + 기술주 관망 + 지정학 3중 압박 - **매크로**: 미 10년물 국채금리 4.60% 돌파 (15개월 최고치), 중동 긴장 지속 - **리스크**: S&P 500·나스닥 하락 / 다우 상승 혼조 마감, VIX 경계 수준 -...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260520_Inflection-Scan---2026-05-20_0726">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-05-20</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-05-20 07:26</div>
-<div class="feed-excerpt">탐색 범위: 2026-05-20 기준 최근 2주 | High Conviction 4건 확정 (6건 입력 → 2건 DROPPED) 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 인프라 CapEx 사이클이...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
