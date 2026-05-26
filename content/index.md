@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">50</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">51</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260527_Morning-Brief-2026-05-27_0737">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-05-27</span>
+</div>
+<div class="feed-title">Morning Brief 2026-05-27 07:37</div>
+<div class="feed-excerpt">🟢 Risk-On** — AI 반도체 급등 + 코스피 8000 돌파, 역사적 이중 신기록 국면 - **매크로**: 미 10년물 국채 4.49% / 이란 협상 기대감으로 유가 변동성 확대 - **리스크**: 중동 긴장 재점화 + 소비자 심리 역대 최저 수준 / VIX...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260527_Inflection-Scan---2026-05-27_0723">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 파마리서치 (214450.KS) 23:29</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** 파마리서치는 'PN(폴리뉴클레오타이드)' 독점 플랫폼 위에 구축된...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/솔브레인/deal/260519_Deal---솔브레인-(357780.KS)_1609">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-19</span>
-</div>
-<div class="feed-title">Deal - 솔브레인 (357780.KS) 16:09</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 솔브레인은 삼성전자·SK하이닉스의 DRAM·NAND·파운드리 3개...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
