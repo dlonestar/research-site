@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"In the short run, the market is a voting machine but in the long run, it is a weighing machine."<br/><span style="color:var(--gray);font-size:0.85em">— Benjamin Graham</span></p>
+<p class="hero-quote">"The investor's chief problem — and even his worst enemy — is likely to be himself."<br/><span style="color:var(--gray);font-size:0.85em">— Benjamin Graham</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">36</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">37</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260528_Inflection-Scan---2026-05-28_0722">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-05-28</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-05-28 07:22</div>
+<div class="feed-excerpt">탐색 범위: 2026-05-28 기준 최근 2주 | High Conviction 5건 발견 (KEEP 2 / REVISE 3) 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 인프라 수혜주의 실적 가속이 이미 주가에...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Micron-Technology,-Inc./deal/260527_Deal---Micron-Technology,-Inc.-(MU)_0805">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 가온전선 (000500.KS) 07:59</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 가온전선은 AI 데이터센터 전력 인프라(버스덕트)...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260520_Morning-Brief-2026-05-20_0736">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-05-20</span>
-</div>
-<div class="feed-title">Morning Brief 2026-05-20 07:36</div>
-<div class="feed-excerpt">🔴 Risk-Off** — 고금리 + 기술주 관망 + 지정학 3중 압박 - **매크로**: 미 10년물 국채금리 4.60% 돌파 (15개월 최고치), 중동 긴장 지속 - **리스크**: S&P 500·나스닥 하락 / 다우 상승 혼조 마감, VIX 경계 수준 -...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
