@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">51</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">52</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260528_Morning-Brief-2026-05-28_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-05-28</span>
+</div>
+<div class="feed-title">Morning Brief 2026-05-28 07:36</div>
+<div class="feed-excerpt">🟢 Risk-On (경계 혼재)** — 미국 증시 사상 최고치 경신, 그러나 30년 국채 금리 2007년 이후 최고치로 금리 부담 상존 - **매크로**: 30년 美국채 금리 사상 최고 경계선 돌파 (📊 블록 확인), 유가 하락이 증시 상승 촉매 -...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260528_Inflection-Scan---2026-05-28_0722">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Astera Labs, Inc. (ALAB) 08:05</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: Astera Labs는 AI 데이터센터...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/가온전선/deal/260520_Deal---가온전선-(000500.KS)_0759">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-20</span>
-</div>
-<div class="feed-title">Deal - 가온전선 (000500.KS) 07:59</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 가온전선은 AI 데이터센터 전력 인프라(버스덕트)...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
