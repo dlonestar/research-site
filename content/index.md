@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">160</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">161</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/Snowflake-Inc./deal/260528_Deal---Snowflake-Inc.-(SNOW)_0804">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-28</span>
+</div>
+<div class="feed-title">Deal - Snowflake Inc. (SNOW) 08:04</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: Snowflake는 단순 데이터 웨어하우스에서...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/삼성전자/deal/260528_Deal---삼성전자-(005930.KS)_0758">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-05-21 07:21</div>
 <div class="feed-excerpt">탐색 범위: 2026-05-21 기준 최근 2주 | High Conviction **4건** 통과 (6건 검정 → KEEP 3 + REVISE 1 + DROP 2) 소스: 실적 발표 / 가이던스 / 애널리스트 컨센서스 / 내부자 / IR 핵심 테마**: AI 인프라...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/파마리서치/deal/260520_Deal---파마리서치-(214450.KS)_1845">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-20</span>
-</div>
-<div class="feed-title">Deal - 파마리서치 (214450.KS) 18:45</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 국내 스킨부스터 시장 점유율 1위 리쥬란 브랜드를...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">

@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**160개 리포트** | [← 홈으로 돌아가기](/)
+**161개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/Snowflake-Inc./deal/260528_Deal---Snowflake-Inc.-(SNOW)_0804">
+<span class="recent-date">2026-05-28</span>
+<span class="recent-title">Deal - Snowflake Inc. (SNOW) 08:04</span>
+</a>
 <a class="recent-item" href="/11-Companies/삼성전자/deal/260528_Deal---삼성전자-(005930.KS)_0758">
 <span class="recent-date">2026-05-28</span>
 <span class="recent-title">Deal - 삼성전자 (005930.KS) 07:58</span>
