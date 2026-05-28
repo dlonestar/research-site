@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"The investor's chief problem — and even his worst enemy — is likely to be himself."<br/><span style="color:var(--gray);font-size:0.85em">— Benjamin Graham</span></p>
+<p class="hero-quote">"The most important thing is being attentive to cycles. Everything is cyclical."<br/><span style="color:var(--gray);font-size:0.85em">— Howard Marks</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">37</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">38</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260529_Inflection-Scan---2026-05-29_0724">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-05-29</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-05-29 07:24</div>
+<div class="feed-excerpt">탐색 범위**: 2026-05-29 기준 최근 2주 | High Conviction **5건** 확정 (1건 DROP) 소스**: 1차 IR(실적·가이던스) + 셀사이드 리포트 + 공시 데이터 핵심 테마**: AI 인프라 CapEx 가속이...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Snowflake-Inc./deal/260528_Deal---Snowflake-Inc.-(SNOW)_0804">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-05-21 07:37</div>
 <div class="feed-excerpt">🟡 Risk-On/Off 혼조** — 미 증시 반등에도 매크로 불안 상존 - **매크로**: 30년물 美 국채 5.20% (19년 최고), 원/달러 1,500원대 지속, 日 10년물 29년 최고 - **리스크**: S&P 500 사상 최고치 근접 vs. 글로벌 금리...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260521_Inflection-Scan---2026-05-21_0721">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-05-21</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-05-21 07:21</div>
-<div class="feed-excerpt">탐색 범위: 2026-05-21 기준 최근 2주 | High Conviction **4건** 통과 (6건 검정 → KEEP 3 + REVISE 1 + DROP 2) 소스: 실적 발표 / 가이던스 / 애널리스트 컨센서스 / 내부자 / IR 핵심 테마**: AI 인프라...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
