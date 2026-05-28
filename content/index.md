@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">52</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">53</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260529_Morning-Brief-2026-05-29_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-05-29</span>
+</div>
+<div class="feed-title">Morning Brief 2026-05-29 07:36</div>
+<div class="feed-excerpt">🟡 혼조 (Risk-On ↔ Risk-Off 충돌)** — AI 모멘텀과 지정학 리스크가 동시에 작동하는 이중 구조 - **매크로**: 미-이란 긴장 고조로 유가 변동성 확대, 오늘 미국 PCE·GDP 발표 대기 - **리스크**: 오버나이트 AI 랠리(마이크론...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260529_Inflection-Scan---2026-05-29_0724">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 두산에너빌리티 (034020.KS) 08:00</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 첨단 소재, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물, 전기차 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 두산에너빌리티는 글로벌 SMR(소형모듈원전) 상용화의 핵심 설비 공급사로,...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260521_Morning-Brief-2026-05-21_0737">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-05-21</span>
-</div>
-<div class="feed-title">Morning Brief 2026-05-21 07:37</div>
-<div class="feed-excerpt">🟡 Risk-On/Off 혼조** — 미 증시 반등에도 매크로 불안 상존 - **매크로**: 30년물 美 국채 5.20% (19년 최고), 원/달러 1,500원대 지속, 日 10년물 29년 최고 - **리스크**: S&P 500 사상 최고치 근접 vs. 글로벌 금리...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
