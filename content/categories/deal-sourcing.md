@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**162개 리포트** | [← 홈으로 돌아가기](/)
+**163개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/Okta,-Inc./deal/260529_Deal---Okta,-Inc.-(OKTA)_0805">
+<span class="recent-date">2026-05-29</span>
+<span class="recent-title">Deal - Okta, Inc. (OKTA) 08:05</span>
+</a>
 <a class="recent-item" href="/11-Companies/LS일렉트릭/deal/260529_Deal---LS일렉트릭-(010120.KS)_0759">
 <span class="recent-date">2026-05-29</span>
 <span class="recent-title">Deal - LS일렉트릭 (010120.KS) 07:59</span>
