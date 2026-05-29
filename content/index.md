@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">165</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">166</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/아모레퍼시픽/deal/260530_Deal---아모레퍼시픽-(090430.KS)_0801">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-30</span>
+</div>
+<div class="feed-title">Deal - 아모레퍼시픽 (090430.KS) 08:01</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스, 디지털 금융 혁신, K-뷰티 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 아모레퍼시픽은 '중국 의존 화장품 기업'에서 '북미·동남아·중동...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260530_Morning-Brief-2026-05-30_0737">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Workday, Inc. (WDAY) 08:06</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 로보틱스, 디지털 금융 혁신, K-뷰티, 디지털 유통, 인도 시장, 동남아 시장, 일본 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** "AI가 SaaS를 파괴한다"는 공포 내러티브로 52주...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/셀트리온/deal/260522_Deal---셀트리온-(068270.KS)_0759">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-22</span>
-</div>
-<div class="feed-title">Deal - 셀트리온 (068270.KS) 07:59</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 로보틱스, 디지털 금융 혁신, K-뷰티, 디지털 유통, 인도 시장, 동남아 시장, 일본 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 셀트리온은 바이오시밀러 직판 전환이라는 구조적 마진 확대...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
