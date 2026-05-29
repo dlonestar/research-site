@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">53</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">54</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260530_Morning-Brief-2026-05-30_0737">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-05-30</span>
+</div>
+<div class="feed-title">Morning Brief 2026-05-30 07:37</div>
+<div class="feed-excerpt">🟢 Risk-On** — AI 랠리 + 지정학 완화가 동시에 점화 - **매크로**: 4월 PCE 3.8% (예상 상회), 1Q GDP 1.6% 하향 조정 — 스태그플레이션 경계감 상존 - **리스크**: 코스피 사상 최고치(8,476), S&P500·나스닥 신고점...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260530_Inflection-Scan---2026-05-30_0724">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 셀트리온 (068270.KS) 07:59</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 로보틱스, 디지털 금융 혁신, K-뷰티, 디지털 유통, 인도 시장, 동남아 시장, 일본 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 셀트리온은 바이오시밀러 직판 전환이라는 구조적 마진 확대...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260522_Morning-Brief-2026-05-22_0736">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-05-22</span>
-</div>
-<div class="feed-title">Morning Brief 2026-05-22 07:36</div>
-<div class="feed-excerpt">🔴 Risk-Off** — 매크로 불확실성 우위, 단 한국 시장은 이례적 디커플링 - **매크로**: 원/달러 1,500원대 고변동성 유지, 유가 급락 후 재반등으로 변동성 확대 - **리스크**: 미 증시 혼조 마감, 연준 4월 의사록 매파적 기조 재확인 -...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
