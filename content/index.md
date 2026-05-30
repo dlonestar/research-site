@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">167</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">168</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/현대로템/deal/260531_Deal---현대로템-(064350.KS)_0759">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-05-31</span>
+</div>
+<div class="feed-title">Deal - 현대로템 (064350.KS) 07:59</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 디지털 유통, 인도 시장, 동남아 시장, 일본 시장, 유럽 경제, 신흥국 성장 시장, 방산 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** K2 전차 수출 + AI 전장 플랫폼 전환이라는 두 개의 복리 엔진이...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260531_Morning-Brief-2026-05-31_0736">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Zscaler, Inc. (ZS) 08:05</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 유럽 경제, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: Zscaler는 AI 에이전트가 기업 전반에 배포되는 시대에 Zero...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/HYBE-Co.,-Ltd./deal/260523_Deal---HYBE-Co.,-Ltd.-(352820.KS)_0759">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-23</span>
-</div>
-<div class="feed-title">Deal - HYBE Co., Ltd. (352820.KS) 07:59</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 유럽 경제, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 하이브는 BTS 공백 + 오너리스크라는 이중 할인이 걷히는 변곡점에 서...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
