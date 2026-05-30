@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">54</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">55</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260531_Morning-Brief-2026-05-31_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-05-31</span>
+</div>
+<div class="feed-title">Morning Brief 2026-05-31 07:36</div>
+<div class="feed-excerpt">🟢 Risk-On** — 3대 지수 동반 사상 최고치, AI 랠리 + 지정학 완화 동시 점화 - **매크로**: 10년물 국채금리 4.596%, WTI 유가 $61.13, 달러인덱스 99.50 - **리스크**: S&P 500 사상 최고치, VIX 18.35 (공포...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260531_Inflection-Scan---2026-05-31_0725">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - HYBE Co., Ltd. (352820.KS) 07:59</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 유럽 경제, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 하이브는 BTS 공백 + 오너리스크라는 이중 할인이 걷히는 변곡점에 서...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260523_Morning-Brief-2026-05-23_0736">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-05-23</span>
-</div>
-<div class="feed-title">Morning Brief 2026-05-23 07:36</div>
-<div class="feed-excerpt">🟢 Risk-On** — 다우 50,000 돌파, 외교 기대감·실적 서프라이즈가 이끈 역사적 랠리 - **매크로**: 10년 국채 수익률 하락 전환, 중동 외교 진전으로 유가 하방 압력 - **리스크**: 신임 연준 의장 취임·FOMC 의사록 매파 잔존, VIX...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
