@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**168개 리포트** | [← 홈으로 돌아가기](/)
+**169개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/MercadoLibre,-Inc./deal/260531_Deal---MercadoLibre,-Inc.-(MELI)_0804">
+<span class="recent-date">2026-05-31</span>
+<span class="recent-title">Deal - MercadoLibre, Inc. (MELI) 08:04</span>
+</a>
 <a class="recent-item" href="/11-Companies/현대로템/deal/260531_Deal---현대로템-(064350.KS)_0759">
 <span class="recent-date">2026-05-31</span>
 <span class="recent-title">Deal - 현대로템 (064350.KS) 07:59</span>
