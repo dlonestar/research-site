@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"You can't predict. You can prepare."<br/><span style="color:var(--gray);font-size:0.85em">— Howard Marks</span></p>
+<p class="hero-quote">"Know what you own, and know why you own it."<br/><span style="color:var(--gray);font-size:0.85em">— Peter Lynch</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">39</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">40</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260531_Inflection-Scan---2026-05-31_0725">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-05-31</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-05-31 07:25</div>
+<div class="feed-excerpt">탐색 범위: 2026-05-31 기준 최근 2주 | High Conviction 5건 (KEEP 3 / REVISE 2) 소스: 1차 IR 직인용 + 셀사이드 리포트 + 뉴스 보도 핵심 테마**: AI 인프라 수혜의 확산 — 서버(DELL) → 데이터...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Broadcom-Inc./deal/260530_Deal---Broadcom-Inc.-(AVGO)_0807">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-05-23 07:36</div>
 <div class="feed-excerpt">🟢 Risk-On** — 다우 50,000 돌파, 외교 기대감·실적 서프라이즈가 이끈 역사적 랠리 - **매크로**: 10년 국채 수익률 하락 전환, 중동 외교 진전으로 유가 하방 압력 - **리스크**: 신임 연준 의장 취임·FOMC 의사록 매파 잔존, VIX...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260523_Inflection-Scan---2026-05-23_0722">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-05-23</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-05-23 07:22</div>
-<div class="feed-excerpt">탐색 범위: 2026-05-23 기준 최근 2주 | High Conviction 4건 발견 (6건 입력 → REVISE 4 / DROPPED 2) 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 인프라 CapEx 가속 —...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
