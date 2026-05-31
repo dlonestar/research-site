@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"Know what you own, and know why you own it."<br/><span style="color:var(--gray);font-size:0.85em">— Peter Lynch</span></p>
+<p class="hero-quote">"The key to making money in stocks is not to get scared out of them."<br/><span style="color:var(--gray);font-size:0.85em">— Peter Lynch</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">40</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">41</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260601_Inflection-Scan---2026-06-01_0722">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-06-01</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-06-01 07:22</div>
+<div class="feed-excerpt">탐색 범위: 2026-06-01 기준 최근 2주 | High Conviction 4건 발견 (5건 입력 → 1건 DROPPED) 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 | Opus 검정 적용 핵심 테마**: AI 인프라 capex...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/MercadoLibre,-Inc./deal/260531_Deal---MercadoLibre,-Inc.-(MELI)_0804">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 삼성전기 (009150.KS) 07:57</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** 삼성전기는 'MLCC 회사'에서 'AI 데이터센터...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260524_Morning-Brief-2026-05-24_0736">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-05-24</span>
-</div>
-<div class="feed-title">Morning Brief 2026-05-24 07:36</div>
-<div class="feed-excerpt">🟢 Risk-On** — 지정학 완화 기대 + 실적 서프라이즈가 만든 낙관론 - **매크로**: 다우존스 사상 최고치 경신, S&P 500 8주 연속 주간 상승 - **리스크**: 이란발 인플레이션 우려로 미국 가계 소비심리 사상 최저 — 실물 경기 균열 가능성 -...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
