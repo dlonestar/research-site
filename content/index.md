@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">55</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">56</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260601_Morning-Brief-2026-06-01_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-06-01</span>
+</div>
+<div class="feed-title">Morning Brief 2026-06-01 07:36</div>
+<div class="feed-excerpt">🟢 Risk-On** — AI 랠리 + 중동 휴전 기대감이 글로벌 증시를 사상 최고치로 끌어올렸으나, 인플레이션 재점화와 지정학 불확실성이 꼬리 리스크로 잔존 - **매크로**: PCE 물가 상승 → 연준 금리 인하 기대 후퇴 / 한국은행 하반기 금리 인상 가능성...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260601_Inflection-Scan---2026-06-01_0722">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Vertiv Holdings Co (VRT) 08:04</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력 4일 주기 로테이션 (30개 분야 커버) 애널리스트 27명 커버리지로 발견 가치 점수는 낮게 줘야 정상이다....</div>
-</a>
-
-<a class="feed-card" href="11-Companies/삼성전기/deal/260524_Deal---삼성전기-(009150.KS)_0757">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-24</span>
-</div>
-<div class="feed-title">Deal - 삼성전기 (009150.KS) 07:57</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** 삼성전기는 'MLCC 회사'에서 'AI 데이터센터...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
