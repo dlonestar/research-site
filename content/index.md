@@ -38,7 +38,7 @@ cssclasses:
 <a class="category-card" href="categories/deep">
 <div class="card-icon">🔬</div>
 <div class="card-body">
-<div class="card-label">Deep & Final Analysis <span class="card-count">20</span></div>
+<div class="card-label">Deep & Final Analysis <span class="card-count">21</span></div>
 <div class="card-desc">기업/섹터 심층 분석. 25-80페이지.</div>
 </div>
 </a>
@@ -229,6 +229,15 @@ cssclasses:
 <div class="feed-excerpt">탐색 범위: 2026-05-28 기준 최근 2주 | High Conviction 5건 발견 (KEEP 2 / REVISE 3) 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 인프라 수혜주의 실적 가속이 이미 주가에...</div>
 </a>
 
+<a class="feed-card" href="11-Companies/Zscaler,-Inc./deep-dive/260528_Final---Zscaler-(ZS)_2330">
+<div class="feed-header">
+<span class="feed-badge">🔬 DEEP</span>
+<span class="feed-date">2026-05-28</span>
+</div>
+<div class="feed-title">"Final - Zscaler (ZS) 2330"</div>
+<div class="feed-excerpt">[!important] 정합성 검증 — 신뢰도 B+ · v2 (정량 + 정성 통합판) 전 정량 수치를 1차 자료(Zscaler Q3 FY2026 8-K · FY2025 10-K · 분기 컨퍼런스콜 transcript · SEC Form 4 · DEF 14A) 또는...</div>
+</a>
+
 <a class="feed-card" href="11-Companies/Micron-Technology,-Inc./deal/260527_Deal---Micron-Technology,-Inc.-(MU)_0805">
 <div class="feed-header">
 <span class="feed-badge">📊 DEAL</span>
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-05-24 07:36</div>
 <div class="feed-excerpt">🟢 Risk-On** — 지정학 완화 기대 + 실적 서프라이즈가 만든 낙관론 - **매크로**: 다우존스 사상 최고치 경신, S&P 500 8주 연속 주간 상승 - **리스크**: 이란발 인플레이션 우려로 미국 가계 소비심리 사상 최저 — 실물 경기 균열 가능성 -...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260524_Inflection-Scan---2026-05-24_0722">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-05-24</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-05-24 07:22</div>
-<div class="feed-excerpt">탐색 범위: 2026-05-24 기준 최근 2주 | High Conviction **5건** (REVISE 완료) 소스: 1차 IR(실적/계약 공시) + 셀사이드 + X/RSS 크로스체크 핵심 테마**: AI 인프라 수요 가시화 → 데이터 엔지니어링·엣지...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
