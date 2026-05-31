@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">169</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">170</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/이수페타시스/deal/260601_Deal---이수페타시스-(007660.KS)_0758">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-06-01</span>
+</div>
+<div class="feed-title">Deal - 이수페타시스 (007660.KS) 07:58</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 이수페타시스는 AI 서버 고다층...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260601_Morning-Brief-2026-06-01_0736">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-05-26 07:25</div>
 <div class="feed-excerpt">탐색 범위: 2026-05-26 기준 최근 2주 | High Conviction 5건 (KEEP 3 / REVISE 2) 소스: 셀사이드 리포트 + 1차 공시/IR + 크로스체크 핵심 테마**: AI 인프라 수요가 전통 산업(발전기·전자부품)을 재정의하는 동시에,...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Vertiv-Holdings-Co/deal/260524_Deal---Vertiv-Holdings-Co-(VRT)_0804">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-24</span>
-</div>
-<div class="feed-title">Deal - Vertiv Holdings Co (VRT) 08:04</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력 4일 주기 로테이션 (30개 분야 커버) 애널리스트 27명 커버리지로 발견 가치 점수는 낮게 줘야 정상이다....</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
