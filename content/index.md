@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">170</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">171</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/SanDisk-Corporation/deal/260601_Deal---SanDisk-Corporation-(SNDK)_0805">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-06-01</span>
+</div>
+<div class="feed-title">Deal - SanDisk Corporation (SNDK) 08:05</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** WD에서 막 분리된 NAND 퓨어플레이...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/이수페타시스/deal/260601_Deal---이수페타시스-(007660.KS)_0758">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-05-26 07:37</div>
 <div class="feed-excerpt">🟢 Risk-On (단서 있음)** — 미-이란 협상 낙관론 + 기업 실적 호조로 미국 증시 상승, 단 고금리 경고와 환율 불안은 잠재 변수 - **매크로**: 원/달러 환율 1,500원대 상회, WTI 유가 협상 기대로 하락 (📊 블록 인용) - **리스크**:...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260526_Inflection-Scan---2026-05-26_0725">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-05-26</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-05-26 07:25</div>
-<div class="feed-excerpt">탐색 범위: 2026-05-26 기준 최근 2주 | High Conviction 5건 (KEEP 3 / REVISE 2) 소스: 셀사이드 리포트 + 1차 공시/IR + 크로스체크 핵심 테마**: AI 인프라 수요가 전통 산업(발전기·전자부품)을 재정의하는 동시에,...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">

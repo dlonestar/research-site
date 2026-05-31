@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**170개 리포트** | [← 홈으로 돌아가기](/)
+**171개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/SanDisk-Corporation/deal/260601_Deal---SanDisk-Corporation-(SNDK)_0805">
+<span class="recent-date">2026-06-01</span>
+<span class="recent-title">Deal - SanDisk Corporation (SNDK) 08:05</span>
+</a>
 <a class="recent-item" href="/11-Companies/이수페타시스/deal/260601_Deal---이수페타시스-(007660.KS)_0758">
 <span class="recent-date">2026-06-01</span>
 <span class="recent-title">Deal - 이수페타시스 (007660.KS) 07:58</span>
