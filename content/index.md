@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">56</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">57</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260602_Morning-Brief-2026-06-02_0738">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-06-02</span>
+</div>
+<div class="feed-title">Morning Brief 2026-06-02 07:38</div>
+<div class="feed-excerpt">🟡 Risk-On with Caution** — 기술주 랠리 위에 채권 발 인플레이션 공포가 동시에 작동 중 - **매크로**: 미국 10년물 국채 4.5% 돌파, 30년물 5% 상회 — 금리 상승 압력 지속 - **리스크**: 이란-미국 협상 중단으로 지정학...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260602_Inflection-Scan---2026-06-02_0725">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Alphabet Inc. (GOOGL) 08:06</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 전략 광물, 전기차, 로보틱스, 디지털 금융 혁신, K-뷰티, 디지털 유통, 인도 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 구글은 AI 전환의 '위협 대상'이 아니라 AI 인프라의 '수익...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Doosan-Robotics-Inc./deal/260526_Deal---Doosan-Robotics-Inc.-(454910.KQ)_0759">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-26</span>
-</div>
-<div class="feed-title">Deal - Doosan Robotics Inc. (454910.KQ) 07:59</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 전략 광물, 전기차, 로보틱스, 디지털 금융 혁신, K-뷰티, 디지털 유통, 인도 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 두산로보틱스는 피지컬 AI 시대의 국내 협동로봇(Cobot)...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
