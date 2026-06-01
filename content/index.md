@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">172</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">173</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/Hewlett-Packard-Enterprise-Co./deal/260602_Deal---Hewlett-Packard-Enterprise-Co.-(HPE)_0837">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-06-02</span>
+</div>
+<div class="feed-title">Deal - Hewlett Packard Enterprise Co. (HPE) 08:37</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안, 첨단 소재 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: HPE는 2026년 6월 AI 서버 수요 폭발로 역대급 어닝...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/한화솔루션/deal/260602_Deal---한화솔루션-(009830.KS)_0823">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-05-27 07:37</div>
 <div class="feed-excerpt">🟢 Risk-On** — AI 반도체 급등 + 코스피 8000 돌파, 역사적 이중 신기록 국면 - **매크로**: 미 10년물 국채 4.49% / 이란 협상 기대감으로 유가 변동성 확대 - **리스크**: 중동 긴장 재점화 + 소비자 심리 역대 최저 수준 / VIX...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260527_Inflection-Scan---2026-05-27_0723">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-05-27</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-05-27 07:23</div>
-<div class="feed-excerpt">탐색 범위: 2026-05-27 기준 최근 2주 | High Conviction 5건 (KEEP 1 / REVISE 4 / DROPPED 1) 소스: 어닝스 공시 · IR · 셀사이드 리포트 · 규제 당국 발표 · 시장 가격 데이터 핵심 테마**: 에너지...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
