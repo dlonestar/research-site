@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"The key to making money in stocks is not to get scared out of them."<br/><span style="color:var(--gray);font-size:0.85em">— Peter Lynch</span></p>
+<p class="hero-quote">"It's not whether you're right or wrong, but how much money you make when you're right and how much you lose when you're wrong."<br/><span style="color:var(--gray);font-size:0.85em">— George Soros</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">41</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">42</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260602_Inflection-Scan---2026-06-02_0725">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-06-02</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-06-02 07:25</div>
+<div class="feed-excerpt">탐색 범위: 2026-06-02 기준 최근 2주 | 입력 6건 → **High Conviction 생존 5건** (DROPPED 1건: 대덕전자) 소스: 1차 IR + 셀사이드 리포트 + X/RSS 크로스체크 핵심 테마**: AI CapEx 수혜 구조 속에서 *매출...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/SanDisk-Corporation/deal/260601_Deal---SanDisk-Corporation-(SNDK)_0805">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Doosan Robotics Inc. (454910.KQ) 07:59</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 전략 광물, 전기차, 로보틱스, 디지털 금융 혁신, K-뷰티, 디지털 유통, 인도 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 두산로보틱스는 피지컬 AI 시대의 국내 협동로봇(Cobot)...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260526_Morning-Brief-2026-05-26_0737">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-05-26</span>
-</div>
-<div class="feed-title">Morning Brief 2026-05-26 07:37</div>
-<div class="feed-excerpt">🟢 Risk-On (단서 있음)** — 미-이란 협상 낙관론 + 기업 실적 호조로 미국 증시 상승, 단 고금리 경고와 환율 불안은 잠재 변수 - **매크로**: 원/달러 환율 1,500원대 상회, WTI 유가 협상 기대로 하락 (📊 블록 인용) - **리스크**:...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
