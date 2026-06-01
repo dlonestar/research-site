@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">171</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">172</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/한화솔루션/deal/260602_Deal---한화솔루션-(009830.KS)_0823">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-06-02</span>
+</div>
+<div class="feed-title">Deal - 한화솔루션 (009830.KS) 08:23</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안, 첨단 소재 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 미국의 중국산 태양광 퇴출 정책이 만들어낸 공급 진공 속에서,...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260602_Morning-Brief-2026-06-02_0738">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-05-27 07:23</div>
 <div class="feed-excerpt">탐색 범위: 2026-05-27 기준 최근 2주 | High Conviction 5건 (KEEP 1 / REVISE 4 / DROPPED 1) 소스: 어닝스 공시 · IR · 셀사이드 리포트 · 규제 당국 발표 · 시장 가격 데이터 핵심 테마**: 에너지...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Alphabet-Inc./deal/260526_Deal---Alphabet-Inc.-(GOOGL)_0806">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-26</span>
-</div>
-<div class="feed-title">Deal - Alphabet Inc. (GOOGL) 08:06</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 전략 광물, 전기차, 로보틱스, 디지털 금융 혁신, K-뷰티, 디지털 유통, 인도 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 구글은 AI 전환의 '위협 대상'이 아니라 AI 인프라의 '수익...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
