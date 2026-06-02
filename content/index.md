@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">174</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">175</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/International-Flavors-&-Fragrances-Inc./deal/260603_Deal---International-Flavors-&-Fragrances-Inc.-(IFF)_0829">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-06-03</span>
+</div>
+<div class="feed-title">Deal - International Flavors & Fragrances Inc. (IFF) 08:29</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** 향료·바이오사이언스 글로벌 2위 기업 IFF가 2022년 DuPont...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/오스코텍/deal/260603_Deal---오스코텍-(039200.KQ)_0818">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-05-28 07:22</div>
 <div class="feed-excerpt">탐색 범위: 2026-05-28 기준 최근 2주 | High Conviction 5건 발견 (KEEP 2 / REVISE 3) 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 인프라 수혜주의 실적 가속이 이미 주가에...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Zscaler,-Inc./deep-dive/260528_Final---Zscaler-(ZS)_2330">
-<div class="feed-header">
-<span class="feed-badge">🔬 DEEP</span>
-<span class="feed-date">2026-05-28</span>
-</div>
-<div class="feed-title">"Final - Zscaler (ZS) 2330"</div>
-<div class="feed-excerpt">[!important] 정합성 검증 — 신뢰도 B+ · v2 (정량 + 정성 통합판) 전 정량 수치를 1차 자료(Zscaler Q3 FY2026 8-K · FY2025 10-K · 분기 컨퍼런스콜 transcript · SEC Form 4 · DEF 14A) 또는...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">

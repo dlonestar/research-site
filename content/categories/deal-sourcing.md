@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**174개 리포트** | [← 홈으로 돌아가기](/)
+**175개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/International-Flavors-&-Fragrances-Inc./deal/260603_Deal---International-Flavors-&-Fragrances-Inc.-(IFF)_0829">
+<span class="recent-date">2026-06-03</span>
+<span class="recent-title">Deal - International Flavors & Fragrances Inc. (IFF) 08:29</span>
+</a>
 <a class="recent-item" href="/11-Companies/오스코텍/deal/260603_Deal---오스코텍-(039200.KQ)_0818">
 <span class="recent-date">2026-06-03</span>
 <span class="recent-title">Deal - 오스코텍 (039200.KQ) 08:18</span>
