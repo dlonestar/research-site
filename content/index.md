@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"It's not whether you're right or wrong, but how much money you make when you're right and how much you lose when you're wrong."<br/><span style="color:var(--gray);font-size:0.85em">— George Soros</span></p>
+<p class="hero-quote">"The four most dangerous words in investing are: 'This time it's different.'"<br/><span style="color:var(--gray);font-size:0.85em">— Sir John Templeton</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">42</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">43</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260603_Inflection-Scan---2026-06-03_0723">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-06-03</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-06-03 07:23</div>
+<div class="feed-excerpt">탐색 범위: 2026-06-03 기준 최근 2주 | High Conviction 5건 (검정 통과) 소스: 실적 IR + 셀사이드 리포트 + 공시 + 뉴스 핵심 테마**: AI 인프라 수혜 반도체·보안 4건 + 비(非)AI 구조적 스핀오프 1건 — AI 테마 상관...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Hewlett-Packard-Enterprise-Co./deal/260602_Deal---Hewlett-Packard-Enterprise-Co.-(HPE)_0837">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 한화에어로스페이스 (012450.KS) 07:58</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 동남아 시장, 일본 시장, 유럽 경제, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 한화에어로스페이스는 글로벌 방산 리아머먼트(Rearmament)...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260527_Morning-Brief-2026-05-27_0737">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-05-27</span>
-</div>
-<div class="feed-title">Morning Brief 2026-05-27 07:37</div>
-<div class="feed-excerpt">🟢 Risk-On** — AI 반도체 급등 + 코스피 8000 돌파, 역사적 이중 신기록 국면 - **매크로**: 미 10년물 국채 4.49% / 이란 협상 기대감으로 유가 변동성 확대 - **리스크**: 중동 긴장 재점화 + 소비자 심리 역대 최저 수준 / VIX...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
