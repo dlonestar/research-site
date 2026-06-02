@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">173</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">174</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/오스코텍/deal/260603_Deal---오스코텍-(039200.KQ)_0818">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-06-03</span>
+</div>
+<div class="feed-title">Deal - 오스코텍 (039200.KQ) 08:18</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 오스코텍은 글로벌 빅파마 Agios에 SYK 억제제 세비도플레닙을 최대...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260603_Morning-Brief-2026-06-03_0737">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">"Final - Zscaler (ZS) 2330"</div>
 <div class="feed-excerpt">[!important] 정합성 검증 — 신뢰도 B+ · v2 (정량 + 정성 통합판) 전 정량 수치를 1차 자료(Zscaler Q3 FY2026 8-K · FY2025 10-K · 분기 컨퍼런스콜 transcript · SEC Form 4 · DEF 14A) 또는...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Micron-Technology,-Inc./deal/260527_Deal---Micron-Technology,-Inc.-(MU)_0805">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-27</span>
-</div>
-<div class="feed-title">Deal - Micron Technology, Inc. (MU) 08:05</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 동남아 시장, 일본 시장, 유럽 경제, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** Micron은 AI 메모리 수퍼사이클의 핵심 수혜자로,...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
