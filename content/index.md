@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">176</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">177</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/The-Trade-Desk,-Inc./deal/260604_Deal---The-Trade-Desk,-Inc.-(TTD)_0842">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-06-04</span>
+</div>
+<div class="feed-title">Deal - The Trade Desk, Inc. (TTD) 08:42</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 디지털 금융 혁신, K-뷰티, 디지털 유통, 인도 시장, 동남아 시장, 일본 시장, 유럽 경제 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 67% 하락한 독립 DSP 1위 기업을 역사적 저밸류에이션에서...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/SK-Hynix-Inc./deal/260604_Deal---SK-Hynix-Inc.-(000660.KS)_0829">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 에스비비테크 (389500.KS) 00:32</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안, 첨단 소재, 바이오텍, 헬스케어 테크 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 에스비비테크는 일본이 독점해온 하모닉 감속기를 국산화한 유일한...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Snowflake-Inc./deal/260528_Deal---Snowflake-Inc.-(SNOW)_0804">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-28</span>
-</div>
-<div class="feed-title">Deal - Snowflake Inc. (SNOW) 08:04</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: Snowflake는 단순 데이터 웨어하우스에서...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
