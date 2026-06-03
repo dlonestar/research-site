@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">58</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">59</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260604_Morning-Brief-2026-06-04_0740">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-06-04</span>
+</div>
+<div class="feed-title">Morning Brief 2026-06-04 07:40</div>
+<div class="feed-excerpt">🔴 Risk-Off** — 중동 긴장 재고조 + Fed 금리 인상 우려 복합 압박 - **매크로**: Fed 12월 금리 인상 확률 한 달 새 9.1% → 41.1%로 급등, 달러 강세 지속 - **리스크**: 중동 무력 공방 재개 → 유가 상승 → 물가 압력 →...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260604_Inflection-Scan---2026-06-04_0726">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 삼성전자 (005930.KS) 07:58</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 삼성전자는 역사상 최고 수준의 이익 체력(OPM...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260528_Morning-Brief-2026-05-28_0736">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-05-28</span>
-</div>
-<div class="feed-title">Morning Brief 2026-05-28 07:36</div>
-<div class="feed-excerpt">🟢 Risk-On (경계 혼재)** — 미국 증시 사상 최고치 경신, 그러나 30년 국채 금리 2007년 이후 최고치로 금리 부담 상존 - **매크로**: 30년 美국채 금리 사상 최고 경계선 돌파 (📊 블록 확인), 유가 하락이 증시 상승 촉매 -...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
