@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"The four most dangerous words in investing are: 'This time it's different.'"<br/><span style="color:var(--gray);font-size:0.85em">— Sir John Templeton</span></p>
+<p class="hero-quote">"Bull markets are born on pessimism, grow on skepticism, mature on optimism, and die on euphoria."<br/><span style="color:var(--gray);font-size:0.85em">— Sir John Templeton</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">43</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">44</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260604_Inflection-Scan---2026-06-04_0726">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-06-04</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-06-04 07:26</div>
+<div class="feed-excerpt">탐색 범위: 2026-06-04 기준 최근 2주 | High Conviction 5건 발견 소스: 셀사이드 리포트 + 회사 IR + 뉴스플로우 핵심 테마**: AI 인프라 지출 확대가 사이버보안·메모리·전력·네트워크·ESS 전방위로 파급 — 그러나 각 시그널마다...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/International-Flavors-&-Fragrances-Inc./deal/260603_Deal---International-Flavors-&-Fragrances-Inc.-(IFF)_0829">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-05-28 07:36</div>
 <div class="feed-excerpt">🟢 Risk-On (경계 혼재)** — 미국 증시 사상 최고치 경신, 그러나 30년 국채 금리 2007년 이후 최고치로 금리 부담 상존 - **매크로**: 30년 美국채 금리 사상 최고 경계선 돌파 (📊 블록 확인), 유가 하락이 증시 상승 촉매 -...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260528_Inflection-Scan---2026-05-28_0722">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-05-28</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-05-28 07:22</div>
-<div class="feed-excerpt">탐색 범위: 2026-05-28 기준 최근 2주 | High Conviction 5건 발견 (KEEP 2 / REVISE 3) 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 인프라 수혜주의 실적 가속이 이미 주가에...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
