@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">59</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">60</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260605_Morning-Brief-2026-06-05_0739">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-06-05</span>
+</div>
+<div class="feed-title">Morning Brief 2026-06-05 07:39</div>
+<div class="feed-excerpt">🔴 Risk-Off** — 기술주 주도 차익실현 + 중동 지정학 리스크 복합 작용 - **매크로**: 10년물 국채금리 상승 압력 지속 / WTI 유가 상승 / 달러 강세 - **리스크**: S&P 500 9거래일 연속 상승 종료 + VIX 반등 / 브로드컴...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260605_Inflection-Scan---2026-06-05_0719">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-05-29 07:24</div>
 <div class="feed-excerpt">탐색 범위**: 2026-05-29 기준 최근 2주 | High Conviction **5건** 확정 (1건 DROP) 소스**: 1차 IR(실적·가이던스) + 셀사이드 리포트 + 공시 데이터 핵심 테마**: AI 인프라 CapEx 가속이...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/네오오토/deal/260529_Deal---네오오토-(212560.KQ)_0032">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-29</span>
-</div>
-<div class="feed-title">Deal - 네오오토 (212560.KQ) 00:32</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안, 첨단 소재, 바이오텍, 헬스케어 테크 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 네오오토는 현대트랜시스 단일 의존 구조에서 벗어나...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
