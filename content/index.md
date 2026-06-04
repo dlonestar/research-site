@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">178</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">179</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/Norwegian-Cruise-Line-Holdings-Ltd./deal/260605_Deal---Norwegian-Cruise-Line-Holdings-Ltd.-(NCLH)_0857">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-06-05</span>
+</div>
+<div class="feed-title">Deal - Norwegian Cruise Line Holdings Ltd. (NCLH) 08:57</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: NCLH는 팬데믹 후 실적 완전 회복 궤도에 있는 프리미엄...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/한미반도체/deal/260605_Deal---한미반도체-(042700.KQ)_0835">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - LS일렉트릭 (010120.KS) 07:59</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안, 첨단 소재, 바이오텍, 헬스케어 테크 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: LS일렉트릭은 AI 데이터센터 전력 병목이라는 구조적 테마의...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260529_Morning-Brief-2026-05-29_0736">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-05-29</span>
-</div>
-<div class="feed-title">Morning Brief 2026-05-29 07:36</div>
-<div class="feed-excerpt">🟡 혼조 (Risk-On ↔ Risk-Off 충돌)** — AI 모멘텀과 지정학 리스크가 동시에 작동하는 이중 구조 - **매크로**: 미-이란 긴장 고조로 유가 변동성 확대, 오늘 미국 PCE·GDP 발표 대기 - **리스크**: 오버나이트 AI 랠리(마이크론...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">

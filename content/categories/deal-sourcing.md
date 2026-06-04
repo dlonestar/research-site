@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**178개 리포트** | [← 홈으로 돌아가기](/)
+**179개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/Norwegian-Cruise-Line-Holdings-Ltd./deal/260605_Deal---Norwegian-Cruise-Line-Holdings-Ltd.-(NCLH)_0857">
+<span class="recent-date">2026-06-05</span>
+<span class="recent-title">Deal - Norwegian Cruise Line Holdings Ltd. (NCLH) 08:57</span>
+</a>
 <a class="recent-item" href="/11-Companies/한미반도체/deal/260605_Deal---한미반도체-(042700.KQ)_0835">
 <span class="recent-date">2026-06-05</span>
 <span class="recent-title">Deal - 한미반도체 (042700.KQ) 08:35</span>
