@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">179</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">180</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/코나아이/deal/260606_Deal---코나아이-(060370.KS)_0834">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-06-06</span>
+</div>
+<div class="feed-title">Deal - 코나아이 (060370.KS) 08:34</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** 코나아이는 글로벌 신흥시장 디지털 결제 인프라를...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260606_Morning-Brief-2026-06-06_0740">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-05-30 07:37</div>
 <div class="feed-excerpt">🟢 Risk-On** — AI 랠리 + 지정학 완화가 동시에 점화 - **매크로**: 4월 PCE 3.8% (예상 상회), 1Q GDP 1.6% 하향 조정 — 스태그플레이션 경계감 상존 - **리스크**: 코스피 사상 최고치(8,476), S&P500·나스닥 신고점...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260530_Inflection-Scan---2026-05-30_0724">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-05-30</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-05-30 07:24</div>
-<div class="feed-excerpt">탐색 범위: 2026-05-30 기준 최근 2주 | High Conviction 5건 (KEEP 1 / REVISE 4) 소스: IR 공시 + 셀사이드 리포트 + 분기보고서 + 애널리스트 전망 핵심 테마**: AI 인프라 수요 폭증의 1차 수혜주 확인 — 단, '매출...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
