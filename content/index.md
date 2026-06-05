@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"He who lives by the crystal ball will eat shattered glass."<br/><span style="color:var(--gray);font-size:0.85em">— Ray Dalio</span></p>
+<p class="hero-quote">"The stock market is the story of cycles and of the human behavior that is responsible for overreactions in both directions."<br/><span style="color:var(--gray);font-size:0.85em">— Seth Klarman</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">45</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">46</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260606_Inflection-Scan---2026-06-06_0726">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-06-06</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-06-06 07:26</div>
+<div class="feed-excerpt">탐색 범위: 2026-06-06 기준 최근 2주 | High Conviction 4건 (KEEP 1 / REVISE 3) 소스: 어닝스 트랜스크립트 / FT / CNBC / 서울경제 / JP모건 리서치 핵심 테마**: AI 컴퓨트 임대 시장의 TAM 폭발적 재산정 +...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Norwegian-Cruise-Line-Holdings-Ltd./deal/260605_Deal---Norwegian-Cruise-Line-Holdings-Ltd.-(NCLH)_0857">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Okta, Inc. (OKTA) 08:05</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안, 첨단 소재, 바이오텍, 헬스케어 테크 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: Okta는 AI 에이전트 시대의 필수 인프라인 아이덴티티...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/LS일렉트릭/deal/260529_Deal---LS일렉트릭-(010120.KS)_0759">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-29</span>
-</div>
-<div class="feed-title">Deal - LS일렉트릭 (010120.KS) 07:59</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안, 첨단 소재, 바이오텍, 헬스케어 테크 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: LS일렉트릭은 AI 데이터센터 전력 병목이라는 구조적 테마의...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
