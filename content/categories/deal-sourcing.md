@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**182개 리포트** | [← 홈으로 돌아가기](/)
+**183개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/Insperity,-Inc./deal/260607_Deal---Insperity,-Inc.-(NSP)_0837">
+<span class="recent-date">2026-06-07</span>
+<span class="recent-title">Deal - Insperity, Inc. (NSP) 08:37</span>
+</a>
 <a class="recent-item" href="/11-Companies/리가켐바이오/deal/260607_Deal---리가켐바이오-(141080.KS)_0823">
 <span class="recent-date">2026-06-07</span>
 <span class="recent-title">Deal - 리가켐바이오 (141080.KS) 08:23</span>
