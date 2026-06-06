@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">181</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">182</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/리가켐바이오/deal/260607_Deal---리가켐바이오-(141080.KS)_0823">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-06-07</span>
+</div>
+<div class="feed-title">Deal - 리가켐바이오 (141080.KS) 08:23</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 사이버 보안, 첨단 소재, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 리가켐바이오는 한국 유일의 검증된 ADC 링커-페이로드 플랫폼...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260607_Morning-Brief-2026-06-07_0738">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-05-31 07:36</div>
 <div class="feed-excerpt">🟢 Risk-On** — 3대 지수 동반 사상 최고치, AI 랠리 + 지정학 완화 동시 점화 - **매크로**: 10년물 국채금리 4.596%, WTI 유가 $61.13, 달러인덱스 99.50 - **리스크**: S&P 500 사상 최고치, VIX 18.35 (공포...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260531_Inflection-Scan---2026-05-31_0725">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-05-31</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-05-31 07:25</div>
-<div class="feed-excerpt">탐색 범위: 2026-05-31 기준 최근 2주 | High Conviction 5건 (KEEP 3 / REVISE 2) 소스: 1차 IR 직인용 + 셀사이드 리포트 + 뉴스 보도 핵심 테마**: AI 인프라 수혜의 확산 — 서버(DELL) → 데이터...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">

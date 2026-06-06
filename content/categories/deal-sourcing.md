@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**181개 리포트** | [← 홈으로 돌아가기](/)
+**182개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/리가켐바이오/deal/260607_Deal---리가켐바이오-(141080.KS)_0823">
+<span class="recent-date">2026-06-07</span>
+<span class="recent-title">Deal - 리가켐바이오 (141080.KS) 08:23</span>
+</a>
 <a class="recent-item" href="/11-Companies/Oracle-Corporation/deal/260606_Deal---Oracle-Corporation-(ORCL)_0849">
 <span class="recent-date">2026-06-06</span>
 <span class="recent-title">Deal - Oracle Corporation (ORCL) 08:49</span>
