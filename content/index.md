@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"The stock market is the story of cycles and of the human behavior that is responsible for overreactions in both directions."<br/><span style="color:var(--gray);font-size:0.85em">— Seth Klarman</span></p>
+<p class="hero-quote">"The three most harmful addictions are heroin, carbohydrates, and a monthly salary."<br/><span style="color:var(--gray);font-size:0.85em">— Nassim Taleb</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">46</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">47</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260607_Inflection-Scan---2026-06-07_0724">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-06-07</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-06-07 07:24</div>
+<div class="feed-excerpt">탐색 범위: 2026-06-07 기준 최근 2주 | High Conviction **4건** 생존 (6건 입력 → 2건 DROPPED) 소스: 분기 실적 발표(1차 IR) + 셀사이드 리포트 + 공급망 분석 핵심 테마**: AI 인프라 CapEx 사이클이 실적...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Oracle-Corporation/deal/260606_Deal---Oracle-Corporation-(ORCL)_0849">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Broadcom Inc. (AVGO) 08:07</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스, 디지털 금융 혁신, K-뷰티 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: Broadcom은 NVIDIA가 지배하는 AI 반도체 생태계에서...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/아모레퍼시픽/deal/260530_Deal---아모레퍼시픽-(090430.KS)_0801">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-30</span>
-</div>
-<div class="feed-title">Deal - 아모레퍼시픽 (090430.KS) 08:01</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스, 디지털 금융 혁신, K-뷰티 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 아모레퍼시픽은 '중국 의존 화장품 기업'에서 '북미·동남아·중동...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
