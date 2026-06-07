@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">184</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">185</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/Palo-Alto-Networks,-Inc./deal/260608_Deal---Palo-Alto-Networks,-Inc.-(PANW)_0832">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-06-08</span>
+</div>
+<div class="feed-title">Deal - Palo Alto Networks, Inc. (PANW) 08:32</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 전기차, 로보틱스, 디지털 금융 혁신, K-뷰티, 디지털 유통, 인도 시장, 동남아 시장 4일 주기 로테이션 (30개 분야 커버) 발견 가치 채점 의도**: PANW는 커버리지 55명, 블랙록·뱅가드 등 대형 기관 보유로...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/삼성물산/deal/260608_Deal---삼성물산-(028260.KS)_0819">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 이수페타시스 (007660.KS) 07:58</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 이수페타시스는 AI 서버 고다층...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260601_Morning-Brief-2026-06-01_0736">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-06-01</span>
-</div>
-<div class="feed-title">Morning Brief 2026-06-01 07:36</div>
-<div class="feed-excerpt">🟢 Risk-On** — AI 랠리 + 중동 휴전 기대감이 글로벌 증시를 사상 최고치로 끌어올렸으나, 인플레이션 재점화와 지정학 불확실성이 꼬리 리스크로 잔존 - **매크로**: PCE 물가 상승 → 연준 금리 인하 기대 후퇴 / 한국은행 하반기 금리 인상 가능성...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
