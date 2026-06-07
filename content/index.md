@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"The three most harmful addictions are heroin, carbohydrates, and a monthly salary."<br/><span style="color:var(--gray);font-size:0.85em">— Nassim Taleb</span></p>
+<p class="hero-quote">"There is nothing new in Wall Street. There can't be because speculation is as old as the hills."<br/><span style="color:var(--gray);font-size:0.85em">— Jesse Livermore</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">47</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">48</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260608_Inflection-Scan---2026-06-08_0722">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-06-08</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-06-08 07:22</div>
+<div class="feed-excerpt">탐색 범위: 2026-06-08 기준 최근 2주 | High Conviction 4건 생존 (6건 검정 → KEEP 1 / REVISE 3 / DROP 2) 소스: 1차 IR(실적 발표·수주 공시) + 2차 셀사이드 리포트 + X/RSS 크로스체크 핵심 테마**:...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Insperity,-Inc./deal/260607_Deal---Insperity,-Inc.-(NSP)_0837">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - MercadoLibre, Inc. (MELI) 08:04</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 디지털 유통, 인도 시장, 동남아 시장, 일본 시장, 유럽 경제, 신흥국 성장 시장, 방산 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: LatAm 최대 이커머스+핀테크 수직통합 플랫폼이 이란 전쟁발 지역...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/현대로템/deal/260531_Deal---현대로템-(064350.KS)_0759">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-05-31</span>
-</div>
-<div class="feed-title">Deal - 현대로템 (064350.KS) 07:59</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 디지털 유통, 인도 시장, 동남아 시장, 일본 시장, 유럽 경제, 신흥국 성장 시장, 방산 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** K2 전차 수출 + AI 전장 플랫폼 전환이라는 두 개의 복리 엔진이...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
