@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">183</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">184</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/삼성물산/deal/260608_Deal---삼성물산-(028260.KS)_0819">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-06-08</span>
+</div>
+<div class="feed-title">Deal - 삼성물산 (028260.KS) 08:19</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 전기차, 로보틱스, 디지털 금융 혁신, K-뷰티, 디지털 유통, 인도 시장, 동남아 시장 4일 주기 로테이션 (30개 분야 커버) [!note] **PBR 데이터 불일치 주의 Yahoo Finance 제공 데이터상...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260608_Morning-Brief-2026-06-08_0738">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-06-01 07:36</div>
 <div class="feed-excerpt">🟢 Risk-On** — AI 랠리 + 중동 휴전 기대감이 글로벌 증시를 사상 최고치로 끌어올렸으나, 인플레이션 재점화와 지정학 불확실성이 꼬리 리스크로 잔존 - **매크로**: PCE 물가 상승 → 연준 금리 인하 기대 후퇴 / 한국은행 하반기 금리 인상 가능성...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260601_Inflection-Scan---2026-06-01_0722">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-06-01</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-06-01 07:22</div>
-<div class="feed-excerpt">탐색 범위: 2026-06-01 기준 최근 2주 | High Conviction 4건 발견 (5건 입력 → 1건 DROPPED) 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 | Opus 검정 적용 핵심 테마**: AI 인프라 capex...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
