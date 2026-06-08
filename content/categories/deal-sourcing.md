@@ -7,15 +7,11 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**185개 리포트** | [← 홈으로 돌아가기](/)
+**184개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
-<a class="recent-item" href="/11-Companies/Palo-Alto-Networks,-Inc./deal/260608_Deal---Palo-Alto-Networks,-Inc.-(PANW)_0832">
-<span class="recent-date">2026-06-08</span>
-<span class="recent-title">Deal - Palo Alto Networks, Inc. (PANW) 08:32</span>
-</a>
 <a class="recent-item" href="/11-Companies/삼성물산/deal/260608_Deal---삼성물산-(028260.KS)_0819">
 <span class="recent-date">2026-06-08</span>
 <span class="recent-title">Deal - 삼성물산 (028260.KS) 08:19</span>
