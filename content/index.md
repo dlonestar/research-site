@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">185</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">186</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/NAVER-Corporation/deal/260609_Deal---NAVER-Corporation-(035420.KS)_0757">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-06-09</span>
+</div>
+<div class="feed-title">Deal - NAVER Corporation (035420.KS) 07:57</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 일본 시장, 유럽 경제, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: NAVER는 한국어 인터넷 생태계를 지배하는 플랫폼 기업으로,...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260609_Morning-Brief-2026-06-09_0736">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-06-02 07:38</div>
 <div class="feed-excerpt">🟡 Risk-On with Caution** — 기술주 랠리 위에 채권 발 인플레이션 공포가 동시에 작동 중 - **매크로**: 미국 10년물 국채 4.5% 돌파, 30년물 5% 상회 — 금리 상승 압력 지속 - **리스크**: 이란-미국 협상 중단으로 지정학...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260602_Inflection-Scan---2026-06-02_0725">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-06-02</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-06-02 07:25</div>
-<div class="feed-excerpt">탐색 범위: 2026-06-02 기준 최근 2주 | 입력 6건 → **High Conviction 생존 5건** (DROPPED 1건: 대덕전자) 소스: 1차 IR + 셀사이드 리포트 + X/RSS 크로스체크 핵심 테마**: AI CapEx 수혜 구조 속에서 *매출...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
