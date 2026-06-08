@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"There is nothing new in Wall Street. There can't be because speculation is as old as the hills."<br/><span style="color:var(--gray);font-size:0.85em">— Jesse Livermore</span></p>
+<p class="hero-quote">"Spend each day trying to be a little wiser than you were when you woke up."<br/><span style="color:var(--gray);font-size:0.85em">— Charlie Munger</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">48</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">49</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260609_Inflection-Scan---2026-06-09_0719">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-06-09</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-06-09 07:19</div>
+<div class="feed-excerpt">탐색 범위: 2026-06-09 기준 최근 2주 | High Conviction 통과 3건 (6건 검토 → 3건 탈락) 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 인프라 수요의 물리적 구현 —...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Palo-Alto-Networks,-Inc./deal/260608_Deal---Palo-Alto-Networks,-Inc.-(PANW)_0832">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - SanDisk Corporation (SNDK) 08:05</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** WD에서 막 분리된 NAND 퓨어플레이...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/이수페타시스/deal/260601_Deal---이수페타시스-(007660.KS)_0758">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-06-01</span>
-</div>
-<div class="feed-title">Deal - 이수페타시스 (007660.KS) 07:58</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 지속가능 인프라, 농업기술, 교육, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 이수페타시스는 AI 서버 고다층...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
