@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">188</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">189</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/Quantinuum-Inc./deal/260610_Deal---Quantinuum-Inc.-(QNT)_0805">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-06-10</span>
+</div>
+<div class="feed-title">Deal - Quantinuum Inc. (QNT) 08:05</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: Quantinuum은 세계 최고 수준의 트랩드...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/후성/deal/260610_Deal---후성-(093370.KS)_0758">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 오스코텍 (039200.KQ) 08:18</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 오스코텍은 글로벌 빅파마 Agios에 SYK 억제제 세비도플레닙을 최대...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260603_Morning-Brief-2026-06-03_0737">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-06-03</span>
-</div>
-<div class="feed-title">Morning Brief 2026-06-03 07:37</div>
-<div class="feed-excerpt">🟢 Risk-On (경계 동반)** — AI 테마 랠리가 사상 최고치를 경신 중이나, 중동 지정학 리스크와 금리 불확실성이 상단을 제한 - **매크로**: 중동 긴장 고조로 유가 상승, 달러 및 미국 국채금리 동반 강세 - **리스크**: 코스피 8,900선 터치...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">

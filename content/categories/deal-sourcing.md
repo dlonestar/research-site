@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**188개 리포트** | [← 홈으로 돌아가기](/)
+**189개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/Quantinuum-Inc./deal/260610_Deal---Quantinuum-Inc.-(QNT)_0805">
+<span class="recent-date">2026-06-10</span>
+<span class="recent-title">Deal - Quantinuum Inc. (QNT) 08:05</span>
+</a>
 <a class="recent-item" href="/11-Companies/후성/deal/260610_Deal---후성-(093370.KS)_0758">
 <span class="recent-date">2026-06-10</span>
 <span class="recent-title">Deal - 후성 (093370.KS) 07:58</span>
