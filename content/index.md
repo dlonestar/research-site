@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">64</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">65</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260610_Morning-Brief-2026-06-10_0736">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-06-10</span>
+</div>
+<div class="feed-title">Morning Brief 2026-06-10 07:36</div>
+<div class="feed-excerpt">🟢 Risk-On (신중한 낙관)** — 변동성 안정 속 매크로 우호, 그러나 달러 강세와 관세 불확실성이 상단을 제한 - **매크로**: 미국 10Y 국채 4.56%, 달러인덱스 120.08, 10Y-2Y 스프레드 +41bp (정상 곡선) - **리스크**:...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260610_Inflection-Scan---2026-06-10_0716">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-06-03 07:23</div>
 <div class="feed-excerpt">탐색 범위: 2026-06-03 기준 최근 2주 | High Conviction 5건 (검정 통과) 소스: 실적 IR + 셀사이드 리포트 + 공시 + 뉴스 핵심 테마**: AI 인프라 수혜 반도체·보안 4건 + 비(非)AI 구조적 스핀오프 1건 — AI 테마 상관...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Hewlett-Packard-Enterprise-Co./deal/260602_Deal---Hewlett-Packard-Enterprise-Co.-(HPE)_0837">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-06-02</span>
-</div>
-<div class="feed-title">Deal - Hewlett Packard Enterprise Co. (HPE) 08:37</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안, 첨단 소재 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: HPE는 2026년 6월 AI 서버 수요 폭발로 역대급 어닝...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
