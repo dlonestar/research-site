@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"Spend each day trying to be a little wiser than you were when you woke up."<br/><span style="color:var(--gray);font-size:0.85em">— Charlie Munger</span></p>
+<p class="hero-quote">"The big money is not in the buying and selling, but in the waiting."<br/><span style="color:var(--gray);font-size:0.85em">— Charlie Munger</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">49</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">50</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260610_Inflection-Scan---2026-06-10_0716">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-06-10</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-06-10 07:16</div>
+<div class="feed-excerpt">탐색 범위: 2026-06-10 기준 최근 2주 | High Conviction 3건 확정 (1건 DROPPED) 소스: UBS 셀사이드 + The Block 1차 + VC 트랙레코드 + 섹터 크로스체크 핵심 테마**: HBM 주도 장비 사이클 중반 재평가 · 온체인...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Corning-Incorporated/deal/260609_Deal---Corning-Incorporated-(GLW)_0804">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Hewlett Packard Enterprise Co. (HPE) 08:37</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안, 첨단 소재 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: HPE는 2026년 6월 AI 서버 수요 폭발로 역대급 어닝...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/한화솔루션/deal/260602_Deal---한화솔루션-(009830.KS)_0823">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-06-02</span>
-</div>
-<div class="feed-title">Deal - 한화솔루션 (009830.KS) 08:23</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안, 첨단 소재 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 미국의 중국산 태양광 퇴출 정책이 만들어낸 공급 진공 속에서,...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
