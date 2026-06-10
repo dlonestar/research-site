@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">190</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">191</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/Marvell-Technology,-Inc./deal/260611_Deal---Marvell-Technology,-Inc.-(MRVL)_0806">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-06-11</span>
+</div>
+<div class="feed-title">Deal - Marvell Technology, Inc. (MRVL) 08:06</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, AI 전력, 글로벌 인구 이동, 사이버 보안, 첨단 소재, 바이오텍, 헬스케어 테크, 원자력 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 마벨은 AI 데이터센터 병목이 'GPU → 네트워킹·맞춤형...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/대한전선/deal/260611_Deal---대한전선-(001440.KS)_0759">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - SK Hynix Inc. (000660.KS) 08:29</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 디지털 금융 혁신, K-뷰티, 디지털 유통, 인도 시장, 동남아 시장, 일본 시장, 유럽 경제 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: SK하이닉스는 AI 데이터센터의 핵심 병목 자원인 HBM을...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260604_Morning-Brief-2026-06-04_0740">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-06-04</span>
-</div>
-<div class="feed-title">Morning Brief 2026-06-04 07:40</div>
-<div class="feed-excerpt">🔴 Risk-Off** — 중동 긴장 재고조 + Fed 금리 인상 우려 복합 압박 - **매크로**: Fed 12월 금리 인상 확률 한 달 새 9.1% → 41.1%로 급등, 달러 강세 지속 - **리스크**: 중동 무력 공방 재개 → 유가 상승 → 물가 압력 →...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
