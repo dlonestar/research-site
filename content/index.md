@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">65</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">66</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260611_Morning-Brief-2026-06-11_0737">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-06-11</span>
+</div>
+<div class="feed-title">Morning Brief 2026-06-11 07:37</div>
+<div class="feed-excerpt">🔴 Risk-Off** — 중동 긴장 재확대 + 고인플레이션 + 기술주 변동성 삼중 압박 - **매크로**: 美 10년물 금리 4.5%+ 돌파, 유가 상승 압력 지속 - **리스크**: 코스피 -4.52% 급락 / 8,000선 재이탈, VIX 상승 기조 -...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260611_Inflection-Scan---2026-06-11_0723">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-06-04 07:26</div>
 <div class="feed-excerpt">탐색 범위: 2026-06-04 기준 최근 2주 | High Conviction 5건 발견 소스: 셀사이드 리포트 + 회사 IR + 뉴스플로우 핵심 테마**: AI 인프라 지출 확대가 사이버보안·메모리·전력·네트워크·ESS 전방위로 파급 — 그러나 각 시그널마다...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/International-Flavors-&-Fragrances-Inc./deal/260603_Deal---International-Flavors-&-Fragrances-Inc.-(IFF)_0829">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-06-03</span>
-</div>
-<div class="feed-title">Deal - International Flavors & Fragrances Inc. (IFF) 08:29</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** 향료·바이오사이언스 글로벌 2위 기업 IFF가 2022년 DuPont...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
