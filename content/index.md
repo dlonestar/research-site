@@ -10,7 +10,7 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"Invert, always invert."<br/><span style="color:var(--gray);font-size:0.85em">— Charlie Munger</span></p>
+<p class="hero-quote">"The stock market is a device for transferring money from the impatient to the patient."<br/><span style="color:var(--gray);font-size:0.85em">— Warren Buffett</span></p>
 </div>
 
 <div class="category-grid">
@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">51</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">52</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260612_Inflection-Scan---2026-06-12_0726">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-06-12</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-06-12 07:26</div>
+<div class="feed-excerpt">탐색 범위: 2026-06-12 기준 최근 2주 | High Conviction 6건 처리 (KEEP 3 / REVISE 3) 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 인프라 CapEx 수혜...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Marvell-Technology,-Inc./deal/260611_Deal---Marvell-Technology,-Inc.-(MRVL)_0806">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - The Trade Desk, Inc. (TTD) 08:42</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 디지털 금융 혁신, K-뷰티, 디지털 유통, 인도 시장, 동남아 시장, 일본 시장, 유럽 경제 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 67% 하락한 독립 DSP 1위 기업을 역사적 저밸류에이션에서...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/SK-Hynix-Inc./deal/260604_Deal---SK-Hynix-Inc.-(000660.KS)_0829">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-06-04</span>
-</div>
-<div class="feed-title">Deal - SK Hynix Inc. (000660.KS) 08:29</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 디지털 금융 혁신, K-뷰티, 디지털 유통, 인도 시장, 동남아 시장, 일본 시장, 유럽 경제 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: SK하이닉스는 AI 데이터센터의 핵심 병목 자원인 HBM을...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
