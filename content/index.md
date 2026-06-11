@@ -17,7 +17,7 @@ cssclasses:
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">66</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">67</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260612_Morning-Brief-2026-06-12_0737">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-06-12</span>
+</div>
+<div class="feed-title">Morning Brief 2026-06-12 07:37</div>
+<div class="feed-excerpt">🟢 Risk-On (조건부)** — 중동 긴장 완화로 반등했으나, 인플레이션·ECB 긴축·기술주 변동성이 상단을 제한 - **매크로**: 5월 미국 CPI YoY +4.2% (2023년 4월 이후 최고), ECB 3년 만에 금리 인상 단행 - **리스크**: 3대...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260612_Inflection-Scan---2026-06-12_0726">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-06-05 07:19</div>
 <div class="feed-excerpt">탐색 범위: 2026-06-05 기준 최근 2주 | High Conviction 4건 발견 소스: 셀사이드 리서치 + 어닝스 트랜스크립트 + IR 공시 + 뉴스 핵심 테마**: AI 인프라 투자 사이클이 GPU·HBM을 넘어 광 네트워킹·낸드·AI 기판 부품으로 확산...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/The-Trade-Desk,-Inc./deal/260604_Deal---The-Trade-Desk,-Inc.-(TTD)_0842">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-06-04</span>
-</div>
-<div class="feed-title">Deal - The Trade Desk, Inc. (TTD) 08:42</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 디지털 금융 혁신, K-뷰티, 디지털 유통, 인도 시장, 동남아 시장, 일본 시장, 유럽 경제 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 67% 하락한 독립 DSP 1위 기업을 역사적 저밸류에이션에서...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
