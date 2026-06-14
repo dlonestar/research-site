@@ -10,14 +10,14 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"The stock market is a device for transferring money from the impatient to the patient."<br/><span style="color:var(--gray);font-size:0.85em">— Warren Buffett</span></p>
+<p class="hero-quote">"Risk comes from not knowing what you're doing."<br/><span style="color:var(--gray);font-size:0.85em">— Warren Buffett</span></p>
 </div>
 
 <div class="category-grid">
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">67</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">68</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260615_Morning-Brief-2026-06-15_0706">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-06-15</span>
+</div>
+<div class="feed-title">Morning Brief 2026-06-15 07:06</div>
+<div class="feed-excerpt">🟢 Risk-On** — 지정학 완화 기대 + 대형 IPO 호재가 만든 상승 개장 - **매크로**: 미-이란 협상 기대에 유가 하락 압력, 연준 6월 FOMC 금리 동결 전망 유지 - **리스크**: S&P 500 일부 종목 52주 신저가 기록, VIX 수준 점검...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260612_Morning-Brief-2026-06-12_0737">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-06-05 07:39</div>
 <div class="feed-excerpt">🔴 Risk-Off** — 기술주 주도 차익실현 + 중동 지정학 리스크 복합 작용 - **매크로**: 10년물 국채금리 상승 압력 지속 / WTI 유가 상승 / 달러 강세 - **리스크**: S&P 500 9거래일 연속 상승 종료 + VIX 반등 / 브로드컴...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260605_Inflection-Scan---2026-06-05_0719">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-06-05</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-06-05 07:19</div>
-<div class="feed-excerpt">탐색 범위: 2026-06-05 기준 최근 2주 | High Conviction 4건 발견 소스: 셀사이드 리서치 + 어닝스 트랜스크립트 + IR 공시 + 뉴스 핵심 테마**: AI 인프라 투자 사이클이 GPU·HBM을 넘어 광 네트워킹·낸드·AI 기판 부품으로 확산...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
