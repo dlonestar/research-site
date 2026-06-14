@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**191개 리포트** | [← 홈으로 돌아가기](/)
+**192개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/HD현대일렉트릭/deal/260615_Deal---HD현대일렉트릭-(267260.KS)_0834">
+<span class="recent-date">2026-06-15</span>
+<span class="recent-title">Deal - HD현대일렉트릭 (267260.KS) 08:34</span>
+</a>
 <a class="recent-item" href="/11-Companies/Marvell-Technology,-Inc./deal/260611_Deal---Marvell-Technology,-Inc.-(MRVL)_0806">
 <span class="recent-date">2026-06-11</span>
 <span class="recent-title">Deal - Marvell Technology, Inc. (MRVL) 08:06</span>
