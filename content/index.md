@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">53</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">54</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260616_Inflection-Scan---2026-06-16_0801">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-06-16</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-06-16 08:01</div>
+<div class="feed-excerpt">탐색 범위: 2026-06-16 기준 최근 2주 | High Conviction **3건** 발견 (입력 5건 → KEEP 1 / REVISE 2 / DROPPED 2) 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260616_Morning-Brief-2026-06-16_0707">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 코나아이 (060370.KS) 08:34</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** 코나아이는 글로벌 신흥시장 디지털 결제 인프라를...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260606_Morning-Brief-2026-06-06_0740">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-06-06</span>
-</div>
-<div class="feed-title">Morning Brief 2026-06-06 07:40</div>
-<div class="feed-excerpt">🔴 Risk-Off** — 강고용이 부른 금리 공포, 반도체 실망이 더한 기술주 매도 - **매크로**: 10년물 국채 수익률 급등, 달러 강세, 유가 급락 - **리스크**: 나스닥 하락 주도, VIX 상승 — 고용 서프라이즈가 금리 인상 확률을 높이며 기술주...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
