@@ -10,14 +10,14 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"Risk comes from not knowing what you're doing."<br/><span style="color:var(--gray);font-size:0.85em">— Warren Buffett</span></p>
+<p class="hero-quote">"In the short run, the market is a voting machine but in the long run, it is a weighing machine."<br/><span style="color:var(--gray);font-size:0.85em">— Benjamin Graham</span></p>
 </div>
 
 <div class="category-grid">
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">68</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">69</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260616_Morning-Brief-2026-06-16_0707">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-06-16</span>
+</div>
+<div class="feed-title">Morning Brief 2026-06-16 07:07</div>
+<div class="feed-excerpt">🟢 Risk-On** — 중동 평화 기대 + 대형 IPO 훈풍, 글로벌 위험선호 재점화 - **매크로**: 미-이란 종전 협상 기대로 유가 하락, ECB 0.25%p 금리 인상 단행 - **리스크**: 미국 5월 CPI +4.2% YoY — 인플레이션 재가속 우려...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Zscaler,-Inc./deal/260615_Deal---Zscaler,-Inc.-(ZS)_0840">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-06-06 07:40</div>
 <div class="feed-excerpt">🔴 Risk-Off** — 강고용이 부른 금리 공포, 반도체 실망이 더한 기술주 매도 - **매크로**: 10년물 국채 수익률 급등, 달러 강세, 유가 급락 - **리스크**: 나스닥 하락 주도, VIX 상승 — 고용 서프라이즈가 금리 인상 확률을 높이며 기술주...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260606_Inflection-Scan---2026-06-06_0726">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-06-06</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-06-06 07:26</div>
-<div class="feed-excerpt">탐색 범위: 2026-06-06 기준 최근 2주 | High Conviction 4건 (KEEP 1 / REVISE 3) 소스: 어닝스 트랜스크립트 / FT / CNBC / 서울경제 / JP모건 리서치 핵심 테마**: AI 컴퓨트 임대 시장의 TAM 폭발적 재산정 +...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
