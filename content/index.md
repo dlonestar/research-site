@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">193</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">194</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/HD한국조선해양/deal/260616_Deal---HD한국조선해양-(009540.KS)_0834">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-06-16</span>
+</div>
+<div class="feed-title">Deal - HD한국조선해양 (009540.KS) 08:34</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스, 디지털 금융 혁신 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** HD한국조선해양은 미·이란 종전 MOU 잠정 타결이라는 명확한...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260616_Inflection-Scan---2026-06-16_0801">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Oracle Corporation (ORCL) 08:49</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** Oracle은 AI 시대의 기업 데이터 인프라 핵심...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/코나아이/deal/260606_Deal---코나아이-(060370.KS)_0834">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-06-06</span>
-</div>
-<div class="feed-title">Deal - 코나아이 (060370.KS) 08:34</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스:** 코나아이는 글로벌 신흥시장 디지털 결제 인프라를...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
