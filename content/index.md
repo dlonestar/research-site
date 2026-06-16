@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">54</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">55</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260617_Inflection-Scan---2026-06-17_0800">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-06-17</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-06-17 08:00</div>
+<div class="feed-excerpt">탐색 범위: 2026-06-17 기준 최근 2주 | High Conviction 4건 처리 → 최종 리포트 3건 + 워치리스트 1건 소스: 1차IR(공식공시·실적발표) + 디일렉 + CNBC + 셀사이드 리서치 핵심 테마**: AI 인프라 수요가 ASIC...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260617_Morning-Brief-2026-06-17_0707">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 리가켐바이오 (141080.KS) 08:23</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 사이버 보안, 첨단 소재, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 리가켐바이오는 한국 유일의 검증된 ADC 링커-페이로드 플랫폼...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260607_Morning-Brief-2026-06-07_0738">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-06-07</span>
-</div>
-<div class="feed-title">Morning Brief 2026-06-07 07:38</div>
-<div class="feed-excerpt">🔴 Risk-Off** — 고용 서프라이즈 + AI 반도체 급락, 더블 악재 - **매크로**: 원/달러 1,548.9원 (금융위기 이후 최고치), 중동 지정학 완화로 유가 일부 하락 - **리스크**: 나스닥 4.18% 급락, 필라델피아 반도체 지수 10%+...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
