@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**195개 리포트** | [← 홈으로 돌아가기](/)
+**196개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/한화에어로스페이스/deal/260617_Deal---한화에어로스페이스-(012450.KS)_0833">
+<span class="recent-date">2026-06-17</span>
+<span class="recent-title">Deal - 한화에어로스페이스 (012450.KS) 08:33</span>
+</a>
 <a class="recent-item" href="/11-Companies/Rocket-Lab-USA,-Inc./deal/260616_Deal---Rocket-Lab-USA,-Inc.-(RKLB)_0842">
 <span class="recent-date">2026-06-16</span>
 <span class="recent-title">Deal - Rocket Lab USA, Inc. (RKLB) 08:42</span>
