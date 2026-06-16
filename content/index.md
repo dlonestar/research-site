@@ -10,14 +10,14 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"In the short run, the market is a voting machine but in the long run, it is a weighing machine."<br/><span style="color:var(--gray);font-size:0.85em">— Benjamin Graham</span></p>
+<p class="hero-quote">"The investor's chief problem — and even his worst enemy — is likely to be himself."<br/><span style="color:var(--gray);font-size:0.85em">— Benjamin Graham</span></p>
 </div>
 
 <div class="category-grid">
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">69</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">70</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260617_Morning-Brief-2026-06-17_0707">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-06-17</span>
+</div>
+<div class="feed-title">Morning Brief 2026-06-17 07:07</div>
+<div class="feed-excerpt">🟢 Risk-On** — 미-이란 종전 기대감이 지정학 프리미엄을 녹이고, 유가 하락이 인플레이션 우려를 덜어내며 전방위 위험 선호 국면 - **매크로**: FOMC 금리 결정 대기, 유가 하락 기조, 원/달러 환율 흐름 확인 필요 - **리스크**: 나스닥 3%대...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Rocket-Lab-USA,-Inc./deal/260616_Deal---Rocket-Lab-USA,-Inc.-(RKLB)_0842">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-06-07 07:38</div>
 <div class="feed-excerpt">🔴 Risk-Off** — 고용 서프라이즈 + AI 반도체 급락, 더블 악재 - **매크로**: 원/달러 1,548.9원 (금융위기 이후 최고치), 중동 지정학 완화로 유가 일부 하락 - **리스크**: 나스닥 4.18% 급락, 필라델피아 반도체 지수 10%+...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260607_Inflection-Scan---2026-06-07_0724">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-06-07</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-06-07 07:24</div>
-<div class="feed-excerpt">탐색 범위: 2026-06-07 기준 최근 2주 | High Conviction **4건** 생존 (6건 입력 → 2건 DROPPED) 소스: 분기 실적 발표(1차 IR) + 셀사이드 리포트 + 공급망 분석 핵심 테마**: AI 인프라 CapEx 사이클이 실적...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
