@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**196개 리포트** | [← 홈으로 돌아가기](/)
+**197개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/Jabil-Inc./deal/260617_Deal---Jabil-Inc.-(JBL)_0840">
+<span class="recent-date">2026-06-17</span>
+<span class="recent-title">Deal - Jabil Inc. (JBL) 08:40</span>
+</a>
 <a class="recent-item" href="/11-Companies/한화에어로스페이스/deal/260617_Deal---한화에어로스페이스-(012450.KS)_0833">
 <span class="recent-date">2026-06-17</span>
 <span class="recent-title">Deal - 한화에어로스페이스 (012450.KS) 08:33</span>

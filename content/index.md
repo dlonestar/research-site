@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">196</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">197</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/Jabil-Inc./deal/260617_Deal---Jabil-Inc.-(JBL)_0840">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-06-17</span>
+</div>
+<div class="feed-title">Deal - Jabil Inc. (JBL) 08:40</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, K-뷰티, 디지털 유통, 인도 시장, 동남아 시장, 일본 시장, 유럽 경제, 신흥국 성장 시장 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: Jabil은 AI 데이터센터 물리적 하드웨어를 제조하는...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/한화에어로스페이스/deal/260617_Deal---한화에어로스페이스-(012450.KS)_0833">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-06-08 07:22</div>
 <div class="feed-excerpt">탐색 범위: 2026-06-08 기준 최근 2주 | High Conviction 4건 생존 (6건 검정 → KEEP 1 / REVISE 3 / DROP 2) 소스: 1차 IR(실적 발표·수주 공시) + 2차 셀사이드 리포트 + X/RSS 크로스체크 핵심 테마**:...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Insperity,-Inc./deal/260607_Deal---Insperity,-Inc.-(NSP)_0837">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-06-07</span>
-</div>
-<div class="feed-title">Deal - Insperity, Inc. (NSP) 08:37</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 사이버 보안, 첨단 소재, 바이오텍, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: Insperity는 미국 중소기업 HR 아웃소싱(PEO) 시장의...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
