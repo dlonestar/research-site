@@ -24,7 +24,7 @@ cssclasses:
 <a class="category-card" href="categories/scan">
 <div class="card-icon">⚡</div>
 <div class="card-body">
-<div class="card-label">Inflection Scan <span class="card-count">55</span></div>
+<div class="card-label">Inflection Scan <span class="card-count">56</span></div>
 <div class="card-desc">시장 변곡점 탐지. 구조적 변화 시그널 포착.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/scan/260618_Inflection-Scan---2026-06-18_0811">
+<div class="feed-header">
+<span class="feed-badge">⚡ SCAN</span>
+<span class="feed-date">2026-06-18</span>
+</div>
+<div class="feed-title">Inflection Scan - 2026-06-18 08:11</div>
+<div class="feed-excerpt">탐색 범위: 2026-06-18 기준 최근 2주 | High Conviction 5건 발견 (입력 7건 → 5건 생존, 2건 드롭) 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 인프라 수요 폭증이...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/daily/260618_Morning-Brief-2026-06-18_0706">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 삼성물산 (028260.KS) 08:19</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 전기차, 로보틱스, 디지털 금융 혁신, K-뷰티, 디지털 유통, 인도 시장, 동남아 시장 4일 주기 로테이션 (30개 분야 커버) [!note] **PBR 데이터 불일치 주의 Yahoo Finance 제공 데이터상...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260608_Morning-Brief-2026-06-08_0738">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-06-08</span>
-</div>
-<div class="feed-title">Morning Brief 2026-06-08 07:38</div>
-<div class="feed-excerpt">🔴 Risk-Off** — 고용 서프라이즈가 연준 금리인상 기대를 소환했다 - **매크로**: 원/달러 환율 1,561.5원 (2009년 이후 최고치), 연준 금리인상 전망 재부상 - **리스크**: 나스닥 1년여 만에 최악의 하락폭, 필라델피아 반도체지수...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
