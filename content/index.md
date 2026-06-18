@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">200</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">201</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/Intel-Corporation/deal/260619_Deal---Intel-Corporation-(INTC)_0837">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-06-19</span>
+</div>
+<div class="feed-title">Deal - Intel Corporation (INTC) 08:37</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 인텔은 x86 레거시 + 파운드리 전환이라는 이중...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/LG이노텍/deal/260619_Deal---LG이노텍-(011070.KS)_0831">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Inflection Scan - 2026-06-10 07:16</div>
 <div class="feed-excerpt">탐색 범위: 2026-06-10 기준 최근 2주 | High Conviction 3건 확정 (1건 DROPPED) 소스: UBS 셀사이드 + The Block 1차 + VC 트랙레코드 + 섹터 크로스체크 핵심 테마**: HBM 주도 장비 사이클 중반 재평가 · 온체인...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/Corning-Incorporated/deal/260609_Deal---Corning-Incorporated-(GLW)_0804">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-06-09</span>
-</div>
-<div class="feed-title">Deal - Corning Incorporated (GLW) 08:04</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 일본 시장, 유럽 경제, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 코닝은 AI 데이터센터 광섬유 인프라의 **사실상 유일한 대규모...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
