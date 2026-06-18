@@ -31,7 +31,7 @@ cssclasses:
 <a class="category-card" href="categories/deal-sourcing">
 <div class="card-icon">📊</div>
 <div class="card-body">
-<div class="card-label">Deal Analysis <span class="card-count">199</span></div>
+<div class="card-label">Deal Analysis <span class="card-count">200</span></div>
 <div class="card-desc">투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="11-Companies/LG이노텍/deal/260619_Deal---LG이노텍-(011070.KS)_0831">
+<div class="feed-header">
+<span class="feed-badge">📊 DEAL</span>
+<span class="feed-date">2026-06-19</span>
+</div>
+<div class="feed-title">Deal - LG이노텍 (011070.KS) 08:31</div>
+<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: LG이노텍은 애플 아이폰17 사이클의 광학 솔루션...</div>
+</a>
 
 <a class="feed-card" href="13-Signals/scan/260619_Inflection-Scan---2026-06-19_0803">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - Corning Incorporated (GLW) 08:04</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 일본 시장, 유럽 경제, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 코닝은 AI 데이터센터 광섬유 인프라의 **사실상 유일한 대규모...</div>
-</a>
-
-<a class="feed-card" href="11-Companies/NAVER-Corporation/deal/260609_Deal---NAVER-Corporation-(035420.KS)_0757">
-<div class="feed-header">
-<span class="feed-badge">📊 DEAL</span>
-<span class="feed-date">2026-06-09</span>
-</div>
-<div class="feed-title">Deal - NAVER Corporation (035420.KS) 07:57</div>
-<div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 일본 시장, 유럽 경제, 신흥국 성장 시장, 방산, 지속가능 인프라, 농업기술, 교육 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: NAVER는 한국어 인터넷 생태계를 지배하는 플랫폼 기업으로,...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">

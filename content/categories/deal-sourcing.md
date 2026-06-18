@@ -7,11 +7,15 @@ publish: true
 
 > 투자 기회 발굴. 비대칭 업사이드 중심 스크리닝.
 
-**199개 리포트** | [← 홈으로 돌아가기](/)
+**200개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/LG이노텍/deal/260619_Deal---LG이노텍-(011070.KS)_0831">
+<span class="recent-date">2026-06-19</span>
+<span class="recent-title">Deal - LG이노텍 (011070.KS) 08:31</span>
+</a>
 <a class="recent-item" href="/11-Companies/Micron-Technology,-Inc./deal/260618_Deal---Micron-Technology,-Inc.-(MU)_0845">
 <span class="recent-date">2026-06-18</span>
 <span class="recent-title">Deal - Micron Technology, Inc. (MU) 08:45</span>
