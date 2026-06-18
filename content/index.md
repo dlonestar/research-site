@@ -10,14 +10,14 @@ cssclasses:
 <div class="hero-title">STAR RESEARCH <span class="hero-beta">beta</span></div>
 <p class="hero-tagline">Investment Intelligence</p>
 <div class="hero-ornament">── ✦ ──</div>
-<p class="hero-quote">"The most important thing is being attentive to cycles. Everything is cyclical."<br/><span style="color:var(--gray);font-size:0.85em">— Howard Marks</span></p>
+<p class="hero-quote">"You can't predict. You can prepare."<br/><span style="color:var(--gray);font-size:0.85em">— Howard Marks</span></p>
 </div>
 
 <div class="category-grid">
 <a class="category-card" href="categories/briefing">
 <div class="card-icon">📰</div>
 <div class="card-body">
-<div class="card-label">Morning Briefing <span class="card-count">71</span></div>
+<div class="card-label">Morning Briefing <span class="card-count">72</span></div>
 <div class="card-desc">매일 발행. 글로벌 시장 동향, 시장 센티먼트, 테마 딥다이브.</div>
 </div>
 </a>
@@ -66,6 +66,15 @@ cssclasses:
 </div>
 
 ---
+
+<a class="feed-card" href="13-Signals/daily/260619_Morning-Brief-2026-06-19_0707">
+<div class="feed-header">
+<span class="feed-badge">📰 BRIEFING</span>
+<span class="feed-date">2026-06-19</span>
+</div>
+<div class="feed-title">Morning Brief 2026-06-19 07:07</div>
+<div class="feed-excerpt">🟡 혼조세 (Risk-On 회복 시도)** — 연준 매파+이란 협정 충격이 교차하는 방향성 탐색 장 - **매크로**: 연준 금리 동결 + 2026년 추가 인상 시사, ECB·BOJ 동시 인상, 이란 평화 협정으로 유가 급락 - **리스크**: VIX 및 주요 지수...</div>
+</a>
 
 <a class="feed-card" href="11-Companies/Micron-Technology,-Inc./deal/260618_Deal---Micron-Technology,-Inc.-(MU)_0845">
 <div class="feed-header">
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-06-09 07:36</div>
 <div class="feed-excerpt">🟡 Risk-Neutral (경계)** — VIX 21.5로 상승, 금리 반등에 주의 필요 - **매크로**: 미 10Y 국채 4.55%, 달러인덱스 120.08, 10Y 브레이크이븐 인플레이션 2.35% - **리스크**: VIX 21.51 (+6.11p 급등),...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260609_Inflection-Scan---2026-06-09_0719">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-06-09</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-06-09 07:19</div>
-<div class="feed-excerpt">탐색 범위: 2026-06-09 기준 최근 2주 | High Conviction 통과 3건 (6건 검토 → 3건 탈락) 소스: Gemini 8쿼리 + RSS + X + 어닝스/내부자/애널리스트 핵심 테마**: AI 인프라 수요의 물리적 구현 —...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
