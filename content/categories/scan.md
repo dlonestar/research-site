@@ -7,11 +7,15 @@ publish: true
 
 > 시장 변곡점 탐지. 구조적 변화 시그널 포착.
 
-**56개 리포트** | [← 홈으로 돌아가기](/)
+**57개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/13-Signals/scan/260619_Inflection-Scan---2026-06-19_0803">
+<span class="recent-date">2026-06-19</span>
+<span class="recent-title">Inflection Scan - 2026-06-19 08:03</span>
+</a>
 <a class="recent-item" href="/13-Signals/scan/260618_Inflection-Scan---2026-06-18_0811">
 <span class="recent-date">2026-06-18</span>
 <span class="recent-title">Inflection Scan - 2026-06-18 08:11</span>
