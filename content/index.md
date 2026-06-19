@@ -38,7 +38,7 @@ cssclasses:
 <a class="category-card" href="categories/deep">
 <div class="card-icon">🔬</div>
 <div class="card-body">
-<div class="card-label">Deep & Final Analysis <span class="card-count">22</span></div>
+<div class="card-label">Deep & Final Analysis <span class="card-count">23</span></div>
 <div class="card-desc">기업/섹터 심층 분석. 25-80페이지.</div>
 </div>
 </a>
@@ -310,6 +310,15 @@ cssclasses:
 <div class="feed-excerpt">[!important] 정합성 검증 — 신뢰도 A · v4 (완성판) 기업 유형: A (성숙·현금창출형, Capital Cycle ★)** — KR 대형주 가중 원칙 (Capital Cycle·Cross-Asset·Quality of Earnings·Korea...</div>
 </a>
 
+<a class="feed-card" href="11-Companies/삼성전자/deep-dive/260611_Final---삼성전자-(005930)_1105">
+<div class="feed-header">
+<span class="feed-badge">🔬 DEEP</span>
+<span class="feed-date">2026-06-11</span>
+</div>
+<div class="feed-title">"Final - 삼성전자 (005930) 1105"</div>
+<div class="feed-excerpt">[!important] 정합성 검증 — 신뢰도 A · v4 (표준 목차 v3 · 멀티컨텍스트 재검증판) 기업 유형: A (성숙·현금창출형) + B형 옵션 2개 (HBM catch-up · 파운드리 흑전)** — 정량 주도 판정. 리서치 아키텍처**: 서브에이전트 5개...</div>
+</a>
+
 <a class="feed-card" href="11-Companies/Quantinuum-Inc./deal/260610_Deal---Quantinuum-Inc.-(QNT)_0805">
 <div class="feed-header">
 <span class="feed-badge">📊 DEAL</span>
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Deal - 후성 (093370.KS) 07:58</div>
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 디지털 콘텐츠, 한국 시장, 중국 투자 생태계, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 후성은 반도체 특수가스(NF3·WF6·HF)의 국내 대표...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/daily/260610_Morning-Brief-2026-06-10_0736">
-<div class="feed-header">
-<span class="feed-badge">📰 BRIEFING</span>
-<span class="feed-date">2026-06-10</span>
-</div>
-<div class="feed-title">Morning Brief 2026-06-10 07:36</div>
-<div class="feed-excerpt">🟢 Risk-On (신중한 낙관)** — 변동성 안정 속 매크로 우호, 그러나 달러 강세와 관세 불확실성이 상단을 제한 - **매크로**: 미국 10Y 국채 4.56%, 달러인덱스 120.08, 10Y-2Y 스프레드 +41bp (정상 곡선) - **리스크**:...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
