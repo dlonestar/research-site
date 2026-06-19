@@ -16,7 +16,7 @@ publish: true
 <span class="recent-date">2026-06-19</span>
 <span class="recent-title">Deal - Intel Corporation (INTC) 08:37</span>
 </a>
-<a class="recent-item" href="/11-Companies/LG이노텍/deal/260619_Deal---LG이노텍-(011070.KS)_0831">
+<a class="recent-item" href="/11-Companies/LG이노텍/deal/260619_Deal---LG이노텍-(011070.KS)_0831">
 <span class="recent-date">2026-06-19</span>
 <span class="recent-title">Deal - LG이노텍 (011070.KS) 08:31</span>
 </a>
@@ -40,7 +40,7 @@ publish: true
 <span class="recent-date">2026-06-16</span>
 <span class="recent-title">Deal - Rocket Lab USA, Inc. (RKLB) 08:42</span>
 </a>
-<a class="recent-item" href="/11-Companies/HD한국조선해양/deal/260616_Deal---HD한국조선해양-(009540.KS)_0834">
+<a class="recent-item" href="/11-Companies/HD한국조선해양/deal/260616_Deal---HD한국조선해양-(009540.KS)_0834">
 <span class="recent-date">2026-06-16</span>
 <span class="recent-title">Deal - HD한국조선해양 (009540.KS) 08:34</span>
 </a>
@@ -48,7 +48,7 @@ publish: true
 <span class="recent-date">2026-06-15</span>
 <span class="recent-title">Deal - Zscaler, Inc. (ZS) 08:40</span>
 </a>
-<a class="recent-item" href="/11-Companies/HD현대일렉트릭/deal/260615_Deal---HD현대일렉트릭-(267260.KS)_0834">
+<a class="recent-item" href="/11-Companies/HD현대일렉트릭/deal/260615_Deal---HD현대일렉트릭-(267260.KS)_0834">
 <span class="recent-date">2026-06-15</span>
 <span class="recent-title">Deal - HD현대일렉트릭 (267260.KS) 08:34</span>
 </a>
@@ -176,7 +176,7 @@ publish: true
 <span class="recent-date">2026-05-28</span>
 <span class="recent-title">Deal - Snowflake Inc. (SNOW) 08:04</span>
 </a>
-<a class="recent-item" href="/11-Companies/삼성전자/deal/260528_Deal---삼성전자-(005930.KS)_0758">
+<a class="recent-item" href="/11-Companies/삼성전자/deal/260528_Deal---삼성전자-(005930.KS)_0758">
 <span class="recent-date">2026-05-28</span>
 <span class="recent-title">Deal - 삼성전자 (005930.KS) 07:58</span>
 </a>
@@ -184,7 +184,7 @@ publish: true
 <span class="recent-date">2026-05-27</span>
 <span class="recent-title">Deal - Micron Technology, Inc. (MU) 08:05</span>
 </a>
-<a class="recent-item" href="/11-Companies/한화에어로스페이스/deal/260527_Deal---한화에어로스페이스-(012450.KS)_0758">
+<a class="recent-item" href="/11-Companies/한화에어로스페이스/deal/260527_Deal---한화에어로스페이스-(012450.KS)_0758">
 <span class="recent-date">2026-05-27</span>
 <span class="recent-title">Deal - 한화에어로스페이스 (012450.KS) 07:58</span>
 </a>
@@ -216,7 +216,7 @@ publish: true
 <span class="recent-date">2026-05-22</span>
 <span class="recent-title">Deal - Workday, Inc. (WDAY) 08:06</span>
 </a>
-<a class="recent-item" href="/11-Companies/셀트리온/deal/260522_Deal---셀트리온-(068270.KS)_0759">
+<a class="recent-item" href="/11-Companies/셀트리온/deal/260522_Deal---셀트리온-(068270.KS)_0759">
 <span class="recent-date">2026-05-22</span>
 <span class="recent-title">Deal - 셀트리온 (068270.KS) 07:59</span>
 </a>
@@ -300,7 +300,7 @@ publish: true
 <span class="recent-date">2026-05-15</span>
 <span class="recent-title">Deal - Upstart Holdings, Inc. (UPST) 05:52</span>
 </a>
-<a class="recent-item" href="/11-Companies/키움증권/deal/260515_Deal---키움증권-(039490.KS)_0546">
+<a class="recent-item" href="/11-Companies/키움증권/deal/260515_Deal---키움증권-(039490.KS)_0546">
 <span class="recent-date">2026-05-15</span>
 <span class="recent-title">Deal - 키움증권 (039490.KS) 05:46</span>
 </a>
@@ -340,7 +340,7 @@ publish: true
 <span class="recent-date">2026-05-11</span>
 <span class="recent-title">Deal - Option Care Health, Inc. (OPCH) 07:52</span>
 </a>
-<a class="recent-item" href="/11-Companies/에이피알/deal/260511_Deal---에이피알-(278470.KS)_0746">
+<a class="recent-item" href="/11-Companies/에이피알/deal/260511_Deal---에이피알-(278470.KS)_0746">
 <span class="recent-date">2026-05-11</span>
 <span class="recent-title">Deal - 에이피알 (278470.KS) 07:46</span>
 </a>
@@ -416,7 +416,7 @@ publish: true
 <span class="recent-date">2026-05-04</span>
 <span class="recent-title">Deal - Intel Corporation (INTC) 07:54</span>
 </a>
-<a class="recent-item" href="/11-Companies/한화솔루션/deal/260504_Deal---한화솔루션-(009830.KS)_0747">
+<a class="recent-item" href="/11-Companies/한화솔루션/deal/260504_Deal---한화솔루션-(009830.KS)_0747">
 <span class="recent-date">2026-05-04</span>
 <span class="recent-title">Deal - 한화솔루션 (009830.KS) 07:47</span>
 </a>

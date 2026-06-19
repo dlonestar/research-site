@@ -463,7 +463,7 @@ HPE의 2분기 실적 폭발은 단순한 분기 서프라이즈가 아니다. *
 
 ### 촉매 & 타이밍
 
-
+<div style="display:flex;border-radius:8px;overflow:hidden;margin:8px 0;font-size:0.85em"><div style="background:#4CAF50;width:50%;padding:6px 8px;color:white">🟢 Bull 50%</div></div>
 
 **2. 🥈 GE HealthCare Technologies Inc.** (GEHC)
 ## GEHC: 의료 AI 인프라의 조용한 수혜자, 8명 인사이더 클러스터 매수 신호

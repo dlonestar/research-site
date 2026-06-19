@@ -473,8 +473,9 @@ Forward PER 9.5x는 이익이 정상화될 경우 매력적이다. 하지만 **�
 
 **매크로 리스크 관리:** 중동 지정학 리스크와 유가 상승이 크루즈 연료비 부담을 높일 수 있다. 그러나 NCLH는 연료 헤징 전략을 운용 중이며, 승객 요금 인상으로 대부분 전가 가능하다. 고환율($1,530+)은 미국 출발 크루즈에는 큰 변수가 아니다.
 
-
+<div style="background:#e0e0e0;border-radius:8px;overflow:hidden;margin:4px 0">
 
 ### 필터링
 
 **🔁 제외 (10일 내 기추천)**: Hewlett Packard Enterprise Co. (HPE), International Flavors & Fragrances Inc. (IFF)
+</div>

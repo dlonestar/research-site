@@ -581,7 +581,7 @@ publish: true
 
 **지정학적 역설**: 중국에 대한 EUV 수출 규제가 강화될수록 ASML의 희소성은 더 높아진다. 미국, 한국, 대만, 유럽 모두 반도체 자국화를 추진하며 ASML 장비 확보 경쟁이 심화되고 있다.
 
-
+<div style="display:flex;border-radius:8px;overflow:hidden;margin:8px 0;font-size:0.85em"><div style="background:#4CAF50;width:50%;padding:6px 8px;color:white">🟢 Bull 50%: AI 투자 가속+미 수출 규제 완화 €1,800+</div>
 
 **3. 🥉 Applied Materials, Inc.** (AMAT)
 ## 왜 지금 AMAT이 3순위 기회인가
@@ -597,3 +597,6 @@ publish: true
 
 **선도 경쟁사 대비 밸류에이션**: ASML 대비 밸류에이션이 낮으면서도 AI 반도체 투자 사이클의 핵심 수혜 위치를 점하고 있다. 애널리스트 온 세미컨덕터 목표가 상향처럼, 반도체 장비 섹터 전반의 목표가 상향 추세 속에서 AMAT도 재평가 여지가 있다.
 
+<div style="display:flex;border-radius:8px;overflow:hidden;margin:8px 0;font-size:0.85em">
+</div>
+</div>

@@ -7,11 +7,15 @@ publish: true
 
 > 기업/섹터 심층 분석. 25-80페이지.
 
-**21개 리포트** | [← 홈으로 돌아가기](/)
+**22개 리포트** | [← 홈으로 돌아가기](/)
 
 ---
 
 <div class="recent-list">
+<a class="recent-item" href="/11-Companies/SK하이닉스/deep-dive/260611_Final---SK하이닉스-(000660)_1143">
+<span class="recent-date">2026-06-11</span>
+<span class="recent-title">"Final - SK하이닉스 (000660) 1143"</span>
+</a>
 <a class="recent-item" href="/11-Companies/Zscaler,-Inc./deep-dive/260528_Final---Zscaler-(ZS)_2330">
 <span class="recent-date">2026-05-28</span>
 <span class="recent-title">"Final - Zscaler (ZS) 2330"</span>

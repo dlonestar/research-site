@@ -38,7 +38,7 @@ cssclasses:
 <a class="category-card" href="categories/deep">
 <div class="card-icon">🔬</div>
 <div class="card-body">
-<div class="card-label">Deep & Final Analysis <span class="card-count">21</span></div>
+<div class="card-label">Deep & Final Analysis <span class="card-count">22</span></div>
 <div class="card-desc">기업/섹터 심층 분석. 25-80페이지.</div>
 </div>
 </a>
@@ -76,7 +76,7 @@ cssclasses:
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 글로벌 부동산, 보험, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: 인텔은 x86 레거시 + 파운드리 전환이라는 이중...</div>
 </a>
 
-<a class="feed-card" href="11-Companies/LG이노텍/deal/260619_Deal---LG이노텍-(011070.KS)_0831">
+<a class="feed-card" href="11-Companies/LG이노텍/deal/260619_Deal---LG이노텍-(011070.KS)_0831">
 <div class="feed-header">
 <span class="feed-badge">📊 DEAL</span>
 <span class="feed-date">2026-06-19</span>
@@ -184,7 +184,7 @@ cssclasses:
 <div class="feed-excerpt">오늘의 탐색 분야**: 클라우드, 사이버보안, 헬스케어 테크, 원자력, 신재생에너지, 전략 광물, 전기차, 로보틱스, 디지털 금융 혁신 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: Rocket Lab은 SpaceX IPO가 촉발한 우주 인프라 재평가...</div>
 </a>
 
-<a class="feed-card" href="11-Companies/HD한국조선해양/deal/260616_Deal---HD한국조선해양-(009540.KS)_0834">
+<a class="feed-card" href="11-Companies/HD한국조선해양/deal/260616_Deal---HD한국조선해양-(009540.KS)_0834">
 <div class="feed-header">
 <span class="feed-badge">📊 DEAL</span>
 <span class="feed-date">2026-06-16</span>
@@ -220,7 +220,7 @@ cssclasses:
 <div class="feed-excerpt">오늘의 탐색 분야**: AI 인프라, AI 소프트웨어, 퀀텀 컴퓨팅 혁신, 공간 컴퓨팅, AI 전력, 글로벌 인구 이동, 사이버 보안, 첨단 소재, 바이오텍 4일 주기 로테이션 (30개 분야 커버) 한 줄 테시스**: Zscaler는 AI 에이전트 확산이 만드는...</div>
 </a>
 
-<a class="feed-card" href="11-Companies/HD현대일렉트릭/deal/260615_Deal---HD현대일렉트릭-(267260.KS)_0834">
+<a class="feed-card" href="11-Companies/HD현대일렉트릭/deal/260615_Deal---HD현대일렉트릭-(267260.KS)_0834">
 <div class="feed-header">
 <span class="feed-badge">📊 DEAL</span>
 <span class="feed-date">2026-06-15</span>
@@ -301,6 +301,15 @@ cssclasses:
 <div class="feed-excerpt">탐색 범위: 2026-06-11 기준 최근 2주 | High Conviction 4건 발견 소스: 1차 IR 공시 + 2차 셀사이드 리포트 + 어닝스 데이터 + 수주 공시 핵심 테마**: AI 인프라 수익화 임계점 도달 vs K-방산·ODM 역발상 — 각 섹터에서...</div>
 </a>
 
+<a class="feed-card" href="11-Companies/SK하이닉스/deep-dive/260611_Final---SK하이닉스-(000660)_1143">
+<div class="feed-header">
+<span class="feed-badge">🔬 DEEP</span>
+<span class="feed-date">2026-06-11</span>
+</div>
+<div class="feed-title">"Final - SK하이닉스 (000660) 1143"</div>
+<div class="feed-excerpt">[!important] 정합성 검증 — 신뢰도 A · v4 (완성판) 기업 유형: A (성숙·현금창출형, Capital Cycle ★)** — KR 대형주 가중 원칙 (Capital Cycle·Cross-Asset·Quality of Earnings·Korea...</div>
+</a>
+
 <a class="feed-card" href="11-Companies/Quantinuum-Inc./deal/260610_Deal---Quantinuum-Inc.-(QNT)_0805">
 <div class="feed-header">
 <span class="feed-badge">📊 DEAL</span>
@@ -326,15 +335,6 @@ cssclasses:
 </div>
 <div class="feed-title">Morning Brief 2026-06-10 07:36</div>
 <div class="feed-excerpt">🟢 Risk-On (신중한 낙관)** — 변동성 안정 속 매크로 우호, 그러나 달러 강세와 관세 불확실성이 상단을 제한 - **매크로**: 미국 10Y 국채 4.56%, 달러인덱스 120.08, 10Y-2Y 스프레드 +41bp (정상 곡선) - **리스크**:...</div>
-</a>
-
-<a class="feed-card" href="13-Signals/scan/260610_Inflection-Scan---2026-06-10_0716">
-<div class="feed-header">
-<span class="feed-badge">⚡ SCAN</span>
-<span class="feed-date">2026-06-10</span>
-</div>
-<div class="feed-title">Inflection Scan - 2026-06-10 07:16</div>
-<div class="feed-excerpt">탐색 범위: 2026-06-10 기준 최근 2주 | High Conviction 3건 확정 (1건 DROPPED) 소스: UBS 셀사이드 + The Block 1차 + VC 트랙레코드 + 섹터 크로스체크 핵심 테마**: HBM 주도 장비 사이클 중반 재평가 · 온체인...</div>
 </a>
 
 <div style="text-align:center;font-size:0.8em;padding:24px 0;opacity:0.4">
