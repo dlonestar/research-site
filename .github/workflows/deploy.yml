@@ -30,8 +30,43 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Build Quartz
-        run: npx quartz build
+      - name: Build Quartz (fail-soft — quarantine broken notes, never abort the whole site)
+        shell: bash
+        run: |
+          set +e -o pipefail
+          mkdir -p _quarantine
+          : > _quarantine/quarantined.txt
+          ok=0
+          for attempt in $(seq 1 30); do
+            if npx quartz build 2> >(tee /tmp/qz_err.log >&2); then
+              ok=1; echo "build ok (attempt $attempt)"; break
+            fi
+            line="$(grep -oE 'Failed to process (html|markdown|file) `[^`]+`' /tmp/qz_err.log | head -1)"
+            bad="$(printf '%s' "$line" | grep -oE '`[^`]+`' | tr -d '`')"
+            if [ -z "$bad" ] || [ ! -f "$bad" ]; then
+              echo "real failure (no named offending file):"
+              tail -40 /tmp/qz_err.log
+              exit 1
+            fi
+            echo "quarantining broken note: $bad"
+            mkdir -p "_quarantine/$(dirname "$bad")"
+            mv "$bad" "_quarantine/$bad"
+            echo "$bad" >> _quarantine/quarantined.txt
+          done
+          [ "$ok" = 1 ] || { echo "still failing after 30 quarantines"; exit 1; }
+          if [ -s _quarantine/quarantined.txt ]; then
+            { echo "QUARANTINED<<QEOF"; cat _quarantine/quarantined.txt; echo QEOF; } >> "$GITHUB_ENV"
+          fi
+
+      - name: Telegram alert if any note was quarantined
+        if: env.QUARANTINED != ''
+        env:
+          BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ -z "$BOT_TOKEN" ] || [ -z "$CHAT_ID" ]; then exit 0; fi
+          MSG="⚠️ dlonestar.com 배포 성공 — 깨진 노트 격리됨(고쳐주세요):"$'\n'"${QUARANTINED}"
+          curl -sS "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" --data-urlencode "chat_id=${CHAT_ID}" --data-urlencode "text=${MSG}" >/dev/null || true
 
       - name: Add CNAME for custom domain
         run: echo "dlonestar.com" > public/CNAME
